@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105587110639985048",
+  "slug": "cliffside-wuxia-duel",
+  "title": {
+    "en": "Cliffside Wuxia Duel",
+    "zh": "悬崖庭院武侠对决"
+  },
+  "description": {
+    "en": "Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.",
+    "zh": "准备梅、振师傅和庭院三张参考图。先选固定跟拍或原文中的360度环绕，再编辑战斗。"
+  },
+  "author": {
+    "handle": "yourPlugAI",
+    "url": "https://x.com/yourPlugAI"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0 Flash",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/yourPlugAI/status/2105585139703025950",
+    "sourceTextOriginal": "The Cliffside Accord🔥\n@Kling_ai\n\nEarly morning sunbeams, an ancient cliffside courtyard, and two masters of movement.\n\nNo wild camera spins, no glowing energy—just grounded wuxia leverage, soft hand trapping, and fluid momentum redirection across wet stone flagstones and floating maple leaves.\n\nGenerated in a single continuous 20-second clip via Kling 4.0 Flash—delivering rock-solid motion stability and high-velocity camera control through every martial arts exchange.\n\n✨Exact Character Sheets and Prompts attached below👇🏾\n\n#Kling4 #KlingAI #ECPKling"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/yourPlugAI/status/2105587110639985048",
+  "videoSourceUrl": "https://x.com/yourPlugAI/status/2105585139703025950",
+  "conversationId": "2105585139703025950",
+  "originalLanguage": "en",
+  "originalPrompt": "[ENGINE DIRECTIVE]\nGenerate a single continuous 20-second fast-paced, high-velocity photorealistic live-action kung fu fight sequence using Kling 4.0 Flash at 35mm sports-cinema quality in 16:9 horizontal format. Maintain 100% strict visual consistency with the provided asset sheets: \"Mei\" (Female student, slate-blue linen tunic, leather bracers, high braided bun) and \"Master Zhen\" (Grandmaster, silvering hair topknot, layered ochre and mahogany silk robes, dark ebony staff). Setting strictly follows \"Cliffside Stone Courtyard at Dawn\". Style: High-speed aggressive martial arts choreography, fast shutter speed, sharp directional motion blur, realistic weight and momentum transfer, zero slow-motion, zero anime look, continuous high kinetic energy.\n\n[AUDIO DIRECTIVE]\n• MUSIC: High-tempo, intense traditional Asian combat score with rapid taiko drum rolls, aggressive wooden percussion, fast-paced guzheng plucks, and energetic rhythm.\n• SOUND DESIGN: Sharp high-velocity staff air-swoshes, aggressive cloth snaps, heavy leather bracer impact clangs, cracking stone footwork, swirling leaves.\n\n[TIMELINE BREAKDOWN]\n\n00:00 - 00:03 | HIGH-SPEED PALM THRUST & RAPID LEAF SWEEP\n• VISUAL: Dynamic low-angle tracking shot moving rapidly across the wet flagstones.\n• ACTION: Begin mid-action at maximum speed. Mei explodes forward with a rapid palm thrust; Master Zhen swiftly redirects her arm with a high-velocity flick of his ebony staff. His staff sweeps low across wet flagstones at high speed, violently blasting fallen red maple leaves into a swirling vortex.\n• SOUND: Rapid taiko drum roll, sharp staff swish, explosive leaf scatter sound.\n\n00:03 - 00:06 | RAPID THREE-PUNCH FLURRY & AGGRESSIVE DODGE\n• VISUAL: Close-quarters handheld tracking camera with fast whip-pans.\n• ACTION: Mei instantly steps inside his guard, launching a rapid three-punch flurry. Master Zhen executes lightning-fast head slips and torso evasions, dodging her blows by millimeters while maintaining aggressive forward leverage.\n• SOUND: Rapid fabric snapping, heavy breath exhales, fast leather bracer friction.\n\n00:06 - 00:09 | EXPLOSIVE PILLAR REBOUND & STAFF IMPACT\n• VISUAL: Wide-angle pursuit tracking shot following her leap.\n• ACTION: Mei sprints and wall-drives off a wooden pavilion pillar, launching into a high-speed downward kick. Master Zhen snaps his ebony staff up horizontally with both hands, blocking her kick with a violent impact that vibrates the staff and showers red maple leaves outward.\n• SOUND: Heavy wooden impact clang, cracking timber recoil, fast wind whiplash.\n\n00:09 - 00:12 | FAST PALM TRAPPING & SASH WHIP-SPIN\n• VISUAL: Fast 360-degree orbital camera tracking the close-quarters exchange.\n• ACTION: Mei lands and accelerates into a rapid palm-trapping sequence. Master Zhen parries every strike with aggressive wrist deflections before hooking her waist sash with his staff, aggressively spinning her across the wet courtyard floor.\n• SOUND: Rapid leather-on-wood parry clangs, whipping silk fabric snaps, surging drum pulse.\n\n00:12 - 00:15 | HIGH-VELOCITY BALUSTRADE REBOUND & MOMENTUM LOCK\n• VISUAL: Low-angle crash zoom tracking her spring-back motion.\n• ACTION: Mei plant-kicks off a stone balustrade, springing straight back toward him like an arrow. Master Zhen steps inside her trajectory, catching her wrist mid-thrust and driving his staff into the stone floor, forcefully halting her momentum with a sharp jolt.\n• SOUND: Sharp boot impact on stone, sudden high-pitched impact ring, abrupt pause.\n\n00:15 - 00:18 | HIGH-TENSION INCH-CHECK & FAST RELEASE\n• VISUAL: Tight medium close-up tracking their intense facial expressions and rapid breathing.\n• ACTION: High tension. Mei's palm rests suspended one inch from his ochre silk chest robe, completely checked by his firm wrist lock. Mei yields rapidly, stepping back into an aggressive stance; Master Zhen releases her wrist with a swift, decisive step back onto two feet.\n• SOUND: Heavy combat exhales, fast cloth rustle, quiet wind.\n\n00:18 - 00:20 | RAPID COMBAT BOW & FINAL FROZEN FRAME\n• VISUAL: Center-framed shot settling into a crisp final freeze-frame.\n• ACTION: Both fighters snap into a fast classical martial stance. Red maple leaves settle quickly onto the damp stone floor as Mei and Master Zhen perform a rapid, crisp palm-and-fist bow under the morning light. Final frozen frame.\n• SOUND: Final sharp taiko strike fading into ambient ocean wind.",
+  "originalPromptSha256": "cc4cb579aa6f339a463da511cdf1bc3d54993fd206a4a6117b3195c7a348c91d",
+  "editorialCopies": {
+    "zh": {
+      "kind": "edited-adaptation",
+      "text": "悬崖庭院武侠对决（中文编辑稿）\n生成连续20秒、16:9横屏的快速真人武术打斗，35mm运动电影质感、快速快门与方向性运动模糊、真实重量与动量，不使用慢动作或动漫外观。\n严格依照三张资产表：梅——蓝灰亚麻武术服、皮革护腕、高辫发髻；振师傅——银白顶髻、赭色与红褐丝袍、黑檀长棍；黎明悬崖石庭院——湿石板、木亭柱、海雾与红枫叶。\n0–3秒：低角度快速跟拍，梅疾进掌击；师傅以棍快速引开，低扫湿石板扬起枫叶。\n3–6秒：近身手持跟拍与快速摇镜，梅连续三拳；师傅毫厘闪避并保持前进压力。\n6–9秒：宽角追拍，梅踏亭柱跃起下劈腿；师傅横举棍格挡，撞击震动并扬起落叶。\n9–12秒：近身拆掌与腰带旋转。摄影选择先确定：原文写360度环绕，而宣传正文强调避免旋转镜头；编辑稿采用近身跟拍。师傅挡开攻击，以棍引动腰带使梅在湿庭院旋转。\n12–15秒：低角度跟拍回弹，梅借石栏反蹬；师傅入内接腕，棍击地面，骤然止住她的动量。\n15–18秒：紧中景，两人呼吸急促，梅的掌停在师傅胸前一寸；她退回架势，师傅干脆松腕并后退。\n18–20秒：镜头稳定居中，两人快速抱拳行礼，枫叶落到湿地，最后定格。\n声音：高节奏鼓、木打击与古筝；棍破风、布料甩动、护腕碰撞、脚步与呼吸；收尾一记鼓后淡入海风。保持动作连贯、人物外观与道具一致。"
+    }
+  },
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "martial-arts"
+    ]
+  },
+  "tags": [
+    "Cliffside Wuxia Duel",
+    "Kling 4.0 Flash",
+    "action",
+    "cinematic-realism",
+    "martial-arts"
+  ],
+  "guidance": {
+    "en": "Prepare Mei, Master Zhen and the courtyard references. Choose a fixed tracking camera or the written 360-degree orbit before adapting the fight.",
+    "zh": "准备梅、振师傅和庭院三张参考图。先选固定跟拍或原文中的360度环绕，再编辑战斗。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2105584577834094592",
+    "url": "https://video.twimg.com/amplify_video/2105584577834094592/vid/avc1/1280x720/M8XTVuWIAsQNt4wh.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105584577834094592/vid/avc1/1920x1080/Q5E9P-jwWXQ1ri7O.mp4?tag=29",
+    "sourceUrl": "https://x.com/yourPlugAI/status/2105585139703025950",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105584577834094592/img/IffKHiHLs1L0FCHb.jpg",
+    "durationSecondsReported": 20.085,
+    "durationSecondsObserved": 20.131701,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "playbackVerified": true
+  },
+  "referenceAssets": [
+    {
+      "role": "character-sheet",
+      "url": "https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg",
+      "sourceUrl": "https://x.com/yourPlugAI/status/2105585851312857553",
+      "assetPromptOriginal": "Asset 1: Character Sheet 1 Prompt — Mei (The Student)\n\n[Character Sheet] Subject: Mei (Martial Arts Student)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, 45-degree side profile, rear view, and tight face close-up in 16:9 format).\nAppearance: Determined 22-year-old East Asian female martial artist with focused eyes, sharp cheekbones, and dark hair tied into an elegant braided high bun.\nWardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitched crane embroidery along the collar, dark charcoal wrapped trousers, dark leather forearm bracers, and dark cloth kung-fu boots.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.",
+      "assetPromptSha256": "e0796be0e25fde649f298b9afe687c7ea9fc329ac6d644f59b4688b59042c75f"
+    },
+    {
+      "role": "character-sheet",
+      "url": "https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg",
+      "sourceUrl": "https://x.com/yourPlugAI/status/2105586111116464293",
+      "assetPromptOriginal": "Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)\n\n[Character Sheet] Subject: Master Zhen (Martial Arts Grandmaster)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, profile view, rear anatomy, and detail close-up on staff and robes).\nAppearance: Wise 58-year-old martial arts grandmaster with silvering hair pulled into a neat topknot, weathered, calm facial features, and a tranquil gaze.\nWardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a braided hemp sash, carrying a polished dark ebony wooden staff tipped with brass caps.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.",
+      "assetPromptSha256": "6ae7e533986d6db1899acbbaefb092cce7f394d2197a177ec8619d6a0630ea27"
+    },
+    {
+      "role": "environment-sheet",
+      "url": "https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg",
+      "sourceUrl": "https://x.com/yourPlugAI/status/2105586309913882863",
+      "assetPromptOriginal": "Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn\n\n[Environment Reference Sheet] Subject: Ancient Cliffside Courtyard at Sunrise\nVisual Reference Grid: Environmental concept sheet showing stone flagstones, carved wooden pavilion pillars, background ocean cliffs, and scattered red maple leaves.\nArchitecture & Atmosphere: Ancient stone courtyard perched high on a ocean cliff edge at sunrise. Features wet mossy flagstones, weathered wooden pavilion pillars, background misty mountain peaks rising out of ocean fog, and crimson maple trees dropping leaves in the morning breeze.\nLighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle morning wind blowing autumn leaves across stone surfaces, volumetric light rays, photorealistic 8K render.",
+      "assetPromptSha256": "7461bc127b18bdcd493262d0c74d90a73011f001bf9465b73930db954830bb8e"
+    }
+  ],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Public source links do not grant a redistribution license. Prompts and media remain the property of their original authors."
+  }
+}

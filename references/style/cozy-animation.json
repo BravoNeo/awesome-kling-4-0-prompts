@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "axis": "style",
+  "category": "cozy-animation",
+  "labels": {
+    "en": "Cozy animation",
+    "zh": "温暖动画"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105659020359184617"
+  ]
+}

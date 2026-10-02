@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105981906869199107",
+  "slug": "fox-owl-library",
+  "title": {
+    "en": "Fox and Owl in the Library",
+    "zh": "图书馆狐狸与猫头鹰"
+  },
+  "description": {
+    "en": "A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.",
+    "zh": "自信狐狸向猫头鹰询问自己的学识，却得到关于衣着的冷幽默回答。"
+  },
+  "author": {
+    "handle": "Alin_Reaper05",
+    "url": "https://x.com/Alin_Reaper05"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0 Flash",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2105981903727694047",
+    "sourceTextOriginal": "Hello there, everyone! I hope you’re having a great Friday. Hang in there a little longer—the weekend is almost here 😉 Wow, I think Kling 4.0 Flash works much better with text-to-video! Here’s an example, and I hope it makes you smile 😁 You can find the prompt below, as usual 😉"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Alin_Reaper05/status/2105981906869199107",
+  "videoSourceUrl": "https://x.com/Alin_Reaper05/status/2105981903727694047",
+  "conversationId": "2105981903727694047",
+  "originalLanguage": "en",
+  "originalPrompt": "A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.",
+  "originalPromptSha256": "bec2899777c0e1248f610f4956b5f75cef874b6b878e068aa5b3c8c3378d4a9f",
+  "editorialCopies": {
+    "zh": {
+      "kind": "edited-adaptation",
+      "text": "狐狸与猫头鹰的图书馆（中文编辑稿）\n午后，一间宏伟的胡桃木镶板图书馆，写实电影场景。拟人红狐狸贵族穿森林绿长礼服、奶油色马甲、精心系好的丝质领巾。年长仓鸮学者站在书桌旁，穿深李紫天鹅绒外套，细小眼镜架在喙上方。暖窗光照出独根毛发和细密面羽。\n从双人中景开始，狐狸自信整理袖口，问：“你会说我是一个颇有学识的人吗？”切猫头鹰近景，思考片刻后答：“我会说你穿得相当体面。”虚化背景中，狐狸自豪的微笑缓缓消失。克制英式口吻、细微表情、可信动物解剖、精致年代剧摄影、轻柔时钟滴答声，无字幕。\n原始英文对白及完整原文另存，改写时保持问答与反应的节奏。"
+    }
+  },
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Fox and Owl in the Library",
+    "Kling 4.0 Flash",
+    "character-animation",
+    "cozy-animation",
+    "animals"
+  ],
+  "guidance": {
+    "en": "Text-to-video example. Keep the two characters, warm library lighting and conversational beats consistent.",
+    "zh": "文生视频示例。保持两位角色、图书馆暖光和对话节奏一致。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2105980516369403904",
+    "url": "https://video.twimg.com/amplify_video/2105980516369403904/vid/avc1/1280x720/SS7ku4X6rrCLct7y.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105980516369403904/vid/avc1/1280x720/SS7ku4X6rrCLct7y.mp4?tag=29",
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2105981903727694047",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105980516369403904/img/h4ecmsJrZLQtjWwc.jpg",
+    "durationSecondsReported": 20.041,
+    "durationSecondsObserved": 20.108481,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "playbackVerified": true
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Public source links do not grant a redistribution license. Prompts and media remain the property of their original authors."
+  }
+}

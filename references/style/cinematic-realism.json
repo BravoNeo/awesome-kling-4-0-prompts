@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "axis": "style",
+  "category": "cinematic-realism",
+  "labels": {
+    "en": "Cinematic realism",
+    "zh": "电影写实"
+  },
+  "count": 5,
+  "entryIds": [
+    "x-2105587110639985048",
+    "x-2105808684680945905",
+    "x-2105889942958440671",
+    "x-2105902453770342795",
+    "x-2105981906869199107"
+  ]
+}

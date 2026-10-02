@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "axis": "use",
+  "category": "travel-commercial",
+  "labels": {
+    "en": "Travel & commercial",
+    "zh": "旅行与广告"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105902453770342795"
+  ]
+}

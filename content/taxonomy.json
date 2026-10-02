@@ -1,0 +1,60 @@
+{
+  "use": {
+    "travel-commercial": {
+      "en": "Travel & commercial",
+      "zh": "旅行与广告"
+    },
+    "comedy": {
+      "en": "Comedy",
+      "zh": "喜剧"
+    },
+    "character-animation": {
+      "en": "Character animation",
+      "zh": "角色动画"
+    },
+    "action": {
+      "en": "Action",
+      "zh": "动作"
+    }
+  },
+  "style": {
+    "cinematic-realism": {
+      "en": "Cinematic realism",
+      "zh": "电影写实"
+    },
+    "cozy-animation": {
+      "en": "Cozy animation",
+      "zh": "温暖动画"
+    },
+    "painterly-animation": {
+      "en": "Painterly animation",
+      "zh": "绘画动画"
+    }
+  },
+  "subject": {
+    "travelers": {
+      "en": "Travelers",
+      "zh": "旅人"
+    },
+    "animals": {
+      "en": "Animals",
+      "zh": "动物"
+    },
+    "athletes": {
+      "en": "Athletes",
+      "zh": "运动员"
+    },
+    "witches": {
+      "en": "Witches",
+      "zh": "女巫"
+    },
+    "heroes": {
+      "en": "Heroes",
+      "zh": "英雄"
+    },
+    "martial-arts": {
+      "en": "Martial arts",
+      "zh": "武术"
+    }
+  }
+}

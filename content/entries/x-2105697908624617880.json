@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105697908624617880",
+  "slug": "astra-sky-battle",
+  "title": {
+    "en": "Astra Sky Battle",
+    "zh": "Astra天空战斗"
+  },
+  "description": {
+    "en": "A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.",
+    "zh": "使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。"
+  },
+  "author": {
+    "handle": "itsPixieVerse",
+    "url": "https://x.com/itsPixieVerse"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0 Flash",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2105697902043800063",
+    "sourceTextOriginal": "Astra -- \"The Sky-Breaker\", channeling atmospheric solar beams directly into hyper-dense kinetic fist strikes that can shear armored dreadnoughts in half.\n\nMade with @Kling_ai 4.0 Flash x Midjourney\n\nPrompt in replies 👇 https://t.co/R8rMIC5sN7"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
+  "videoSourceUrl": "https://x.com/itsPixieVerse/status/2105697902043800063",
+  "conversationId": "2105697902043800063",
+  "originalLanguage": "en",
+  "originalPrompt": "STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
+  "originalPromptSha256": "658b70677922be6ab17060d246399a451233493e71218371310547fb4cd8ce6e",
+  "editorialCopies": {
+    "zh": {
+      "kind": "edited-adaptation",
+      "text": "Astra天空战斗（中文编辑稿）\n风格：电影感2.5D绘画动画，如动态水粉概念稿。皮肤、布料和建筑保留笔触，硬边光形与色块、哑光表面、体积光和浅景深。避免黑色粗轮廓、赛璐璐、光滑CGI、写实或塑料皮肤。\n世界：Sol-Vara的Stratos盆地，15000英尺高空，黄铜悬臂跑道与吊索塔悬在雷云海上，强风、雨幕与穿云阳光。\n角色：成年女英雄Astra，银白长发、翡翠绿眼、白色短运动上衣、蓝灰斗篷和短裤、棕色工具腰包、绿色黄铜护腕、黑色长靴。身材高挑、哑光厚笔触，拳头发出垂直白金光束。使用作者参考图固定造型。\n0–3秒：护腕极近景，白金能量从拳头垂直爆发，光反映在眼睛里，尖锐音爆。\n3–6秒：低机位跟拍，Astra沿雨湿黄铜平台高速膝滑；炮弹摧毁身后走道，斗篷和头发随烟尘飞散。\n6–9秒：快速推进面部，她带着自信笑容跃出平台，头朝下冲入浮空战舰之间。\n9–13秒：FPV视角在风暴云中追随坠落，右臂后收，将闪电与阳光吸入拳头，变成小型太阳。\n13–17秒：低角度宽景，拳头击中巨舰装甲舰桥，白金环形冲击波劈开船体与云层。\n17–20秒：低机位三分之四英雄镜头，她三点着陆在吊索上，起身，斗篷映衬金色天空，护腕余火冒烟，直视镜头并定格。\n保持每镜三层深度分离，冷灰阴影、高空轮廓光及拳头白金闪光。角色动作有重量，发丝布料响应风切，冲击后有惯性与反冲。"
+    }
+  },
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Astra Sky Battle",
+    "Kling 4.0 Flash",
+    "action",
+    "painterly-animation",
+    "heroes"
+  ],
+  "guidance": {
+    "en": "Use the supplied Astra portrait and character sheet to lock the character. Preserve the painterly look across all six cuts.",
+    "zh": "使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2105695925507403776",
+    "url": "https://video.twimg.com/amplify_video/2105695925507403776/vid/avc1/1280x720/usb3PDbfNu-TKg8B.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105695925507403776/vid/avc1/2560x1440/4NZEiPSjRya7omyd.mp4?tag=29",
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2105697902043800063",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105695925507403776/img/BMmk5_TUvCFqwFGm.jpg",
+    "durationSecondsReported": 19.272,
+    "durationSecondsObserved": 19.319002,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "playbackVerified": true
+  },
+  "referenceAssets": [
+    {
+      "role": "character-portrait",
+      "url": "https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg",
+      "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
+      "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
+      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+    },
+    {
+      "role": "character-sheet",
+      "url": "https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg",
+      "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
+      "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
+      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+    }
+  ],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Public source links do not grant a redistribution license. Prompts and media remain the property of their original authors."
+  }
+}

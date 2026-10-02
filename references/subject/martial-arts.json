@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "axis": "subject",
+  "category": "martial-arts",
+  "labels": {
+    "en": "Martial arts",
+    "zh": "武术"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105587110639985048"
+  ]
+}

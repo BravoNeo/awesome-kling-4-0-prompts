@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "axis": "subject",
+  "category": "travelers",
+  "labels": {
+    "en": "Travelers",
+    "zh": "旅人"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105902453770342795"
+  ]
+}

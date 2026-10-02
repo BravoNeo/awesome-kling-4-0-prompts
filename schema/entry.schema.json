@@ -1,0 +1,421 @@
+{
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "enum": [
+        1
+      ]
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^x-[0-9]+$"
+    },
+    "slug": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en",
+        "zh"
+      ],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en",
+        "zh"
+      ],
+      "additionalProperties": false
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "handle": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        }
+      },
+      "required": [
+        "handle",
+        "url"
+      ],
+      "additionalProperties": false
+    },
+    "modelClaim": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "variant": {
+          "type": "string",
+          "enum": [
+            "flash",
+            "full",
+            "unspecified"
+          ]
+        },
+        "basis": {
+          "type": "string",
+          "enum": [
+            "author-statement"
+          ]
+        },
+        "independentlyVerified": {
+          "type": "boolean"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        },
+        "sourceTextOriginal": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "name",
+        "variant",
+        "basis",
+        "independentlyVerified",
+        "sourceUrl",
+        "sourceTextOriginal"
+      ],
+      "additionalProperties": false
+    },
+    "pairing": {
+      "type": "string",
+      "enum": [
+        "same_post",
+        "same_author_same_thread"
+      ]
+    },
+    "promptSourceUrl": {
+      "type": "string",
+      "minLength": 1,
+      "format": "uri"
+    },
+    "videoSourceUrl": {
+      "type": "string",
+      "minLength": 1,
+      "format": "uri"
+    },
+    "conversationId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "originalLanguage": {
+      "type": "string",
+      "enum": [
+        "en"
+      ]
+    },
+    "originalPrompt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 50000
+    },
+    "originalPromptSha256": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "editorialCopies": {
+      "type": "object",
+      "properties": {
+        "zh": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": [
+                "edited-adaptation"
+              ]
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "kind",
+            "text"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "zh"
+      ],
+      "additionalProperties": false
+    },
+    "categories": {
+      "type": "object",
+      "properties": {
+        "use": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "style": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "subject": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "use",
+        "style",
+        "subject"
+      ],
+      "additionalProperties": false
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "guidance": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en",
+        "zh"
+      ],
+      "additionalProperties": false
+    },
+    "inputRequirement": {
+      "type": "string",
+      "enum": [
+        "text-only",
+        "reference-images"
+      ]
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "role": {
+          "type": "string",
+          "enum": [
+            "output"
+          ]
+        },
+        "mediaId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        },
+        "originalUrl": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        },
+        "sourceUrl": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        },
+        "posterUrl": {
+          "type": "string",
+          "minLength": 1,
+          "format": "uri"
+        },
+        "durationSecondsReported": {
+          "type": "number"
+        },
+        "durationSecondsObserved": {
+          "type": "number"
+        },
+        "aspectRatioReported": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "widthObserved": {
+          "type": "integer"
+        },
+        "heightObserved": {
+          "type": "integer"
+        },
+        "playbackVerified": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "role",
+        "mediaId",
+        "url",
+        "originalUrl",
+        "sourceUrl",
+        "posterUrl",
+        "durationSecondsReported",
+        "durationSecondsObserved",
+        "aspectRatioReported",
+        "widthObserved",
+        "heightObserved",
+        "playbackVerified"
+      ],
+      "additionalProperties": false
+    },
+    "referenceAssets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "character-reference",
+              "character-portrait",
+              "character-sheet",
+              "environment-sheet"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "minLength": 1,
+            "format": "uri"
+          },
+          "sourceUrl": {
+            "type": "string",
+            "minLength": 1,
+            "format": "uri"
+          },
+          "assetPromptOriginal": {
+            "type": "string",
+            "minLength": 1
+          },
+          "assetPromptSha256": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        },
+        "required": [
+          "role",
+          "url",
+          "sourceUrl",
+          "assetPromptOriginal",
+          "assetPromptSha256"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "rights": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "third-party-rights-reserved"
+          ]
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "status",
+        "note"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "slug",
+    "title",
+    "description",
+    "author",
+    "modelClaim",
+    "pairing",
+    "promptSourceUrl",
+    "videoSourceUrl",
+    "conversationId",
+    "originalLanguage",
+    "originalPrompt",
+    "originalPromptSha256",
+    "editorialCopies",
+    "categories",
+    "tags",
+    "guidance",
+    "inputRequirement",
+    "video",
+    "referenceAssets",
+    "rights"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kling source-linked prompt/video pair"
+}

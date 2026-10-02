@@ -1,0 +1,14 @@
+__pycache__/
+pending/
+.env*
+*.mp4
+*.log
+.private/
+source/
+node_modules/
+.DS_Store
+data/
+.output/
+.nitro/
+src/paraglide/
+src/routeTree.gen.ts

@@ -1,0 +1,45 @@
+name: Submit a Kling prompt
+description: Share a complete original prompt and its source-linked video.
+title: "[Prompt] "
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Exact model and variant
+      placeholder: Kling 4.0 Flash
+    validations:
+      required: true
+  - type: input
+    id: prompt-source
+    attributes:
+      label: Original prompt source URL
+    validations:
+      required: true
+  - type: input
+    id: video-source
+    attributes:
+      label: Original video source URL
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author handle
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete original prompt
+    validations:
+      required: true
+  - type: textarea
+    id: refs
+    attributes:
+      label: Required reference assets and their source URLs
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights and attribution information
+    validations:
+      required: true

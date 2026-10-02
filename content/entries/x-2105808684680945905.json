@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105808684680945905",
+  "slug": "sumo-pair-figure-skating",
+  "title": {
+    "en": "Sumo Pair Figure Skating",
+    "zh": "相扑双人花滑"
+  },
+  "description": {
+    "en": "Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.",
+    "zh": "明确选择画幅。原文要求竖屏，示例视频为16:9横屏。"
+  },
+  "author": {
+    "handle": "techhalla",
+    "url": "https://x.com/techhalla"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0 Flash",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/techhalla/status/2105808684680945905",
+    "sourceTextOriginal": "they deserved a higher score\n\nKling 4.0 Flash prompt 👇\n\nRealistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/techhalla/status/2105808684680945905",
+  "videoSourceUrl": "https://x.com/techhalla/status/2105808684680945905",
+  "conversationId": "2105808684680945905",
+  "originalLanguage": "en",
+  "originalPrompt": "Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.",
+  "originalPromptSha256": "4d882b2e7219b9e5b6425c9d7c6e195fa212310478f2d8e8895b10201a76bccc",
+  "editorialCopies": {
+    "zh": {
+      "kind": "edited-adaptation",
+      "text": "相扑双人花滑（中文编辑稿）\n明亮室内溜冰场的一场花滑比赛，写实竖屏手持手机摄影，屏幕无文字或字幕。两位极其壮硕的相扑运动员穿兜裆布、梳顶髻，优雅表演双人花滑：手牵手滑行，一人单臂将另一人高举头顶并旋转，然后将他抛出完成三周跳；落地重击让冰面开裂。最后两人优雅展开双臂，背景裁判举起评分牌。单一连续镜头、无剪切；浪漫管弦乐、冰刀摩擦声和一声沉重落地声。\n画幅操作：原文要求竖屏，作者附带视频为横屏。选择画幅后再编辑，不自动把原文“竖屏”改成横屏。"
+    }
+  },
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Sumo Pair Figure Skating",
+    "Kling 4.0 Flash",
+    "comedy",
+    "cinematic-realism",
+    "athletes"
+  ],
+  "guidance": {
+    "en": "Set the intended framing explicitly. The original asks for vertical video; the attached example is 16:9 landscape.",
+    "zh": "明确选择画幅。原文要求竖屏，示例视频为16:9横屏。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2105808245298286592",
+    "url": "https://video.twimg.com/amplify_video/2105808245298286592/vid/avc1/1280x720/HAcevN27PZLoS4zg.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105808245298286592/vid/avc1/1920x1080/pdVjrGX2DzzVGX7_.mp4?tag=29",
+    "sourceUrl": "https://x.com/techhalla/status/2105808684680945905",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105808245298286592/img/3k8O94N3KTMW1e5B.jpg",
+    "durationSecondsReported": 20.053,
+    "durationSecondsObserved": 20.096,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "playbackVerified": true
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Public source links do not grant a redistribution license. Prompts and media remain the property of their original authors."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105659020359184617",
+  "slug": "pink-haired-fire-witch",
+  "title": {
+    "en": "Pink-Haired Fire Witch",
+    "zh": "粉发小女巫与魔法火苗"
+  },
+  "description": {
+    "en": "A tiny fire witch practices a spell with a colorful character reference and expressive animation.",
+    "zh": "先准备作者角色参考图，再改动作。保持粉发、服装和火苗设计一致。"
+  },
+  "author": {
+    "handle": "imhealmachine",
+    "url": "https://x.com/imhealmachine"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0 Flash",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/imhealmachine/status/2105659013572800732",
+    "sourceTextOriginal": "Kling 4.0 Flash 첫 테스트\n\n가능성이 조금 느껴지긴 하네요...?!\n정식 4.0 나오면 다양한 그림체 테스트해봐야겠습니다!🫢\n\n사용한 프롬프트는 답글에👇\n\n@Kling_ai https://t.co/Jxgsvu1sbm"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/imhealmachine/status/2105659020359184617",
+  "videoSourceUrl": "https://x.com/imhealmachine/status/2105659013572800732",
+  "conversationId": "2105659013572800732",
+  "originalLanguage": "en",
+  "originalPrompt": "20-second cinematic animated short, 16:9 widescreen.\n\nUse the provided reference image as the strict character and visual style reference.\nMaintain the exact same young female wizard character throughout the entire video: long pastel pink hair, huge blue eyes, freckles, oversized pointed blue-and-yellow wizard hat, bright blue and yellow wizard outfit, oversized blue boots, golden crescent-shaped magic staff, and the distinctive floating cyan-and-coral magical flame.\n\nPreserve the original stylized cute 3D character proportions, smooth toy-like materials, soft rounded shapes, colorful pastel palette, clean high-quality 3D animation aesthetic.\n\nSETTING:\nA whimsical open meadow at golden hour, covered with tiny colorful flowers, soft rolling hills in the distance, dreamy clouds, gentle warm sunlight. Magical fantasy atmosphere.\n\nSHOT 01 [0-3s]\nMedium low-angle shot.\nThe little wizard stands alone in the meadow, looking extremely serious and determined.\nShe grips her tall staff with both hands and carefully raises it.\nA tiny cyan magical flame flickers into existence above the golden crescent tip.\nHer eyes widen.\nShe looks surprised, then gives a tiny proud smile as if thinking, “I did it!”\n\nSlow cinematic push-in toward her face and the flame.\nHair and cape gently move in the breeze.\n\nSHOT 02 [3-6s]\nClose-up on the magical flame.\nThe flame suddenly develops two tiny glowing eyes.\n\nIt looks at the wizard.\n\nThe wizard freezes.\n\nThe little flame mischievously hops out of the staff and flies away.\n\nQuick whip pan following the escaping flame.\n\nThe wizard's expression changes from pride to complete confusion.\nShe immediately runs after it, awkwardly carrying the oversized staff.\n\nSHOT 03 [6-11s]\nFast comedic tracking shot across the meadow.\n\nThe tiny flame spirit zigzags rapidly between flowers while the wizard chases it.\n\nHer oversized hat bounces wildly.\nHer cape flaps behind her.\nShe almost trips over her own large boots, regains balance, then continues running.\n\nThe flame repeatedly grows slightly larger each time it jumps.\n\nDynamic side tracking camera, energetic but readable movement, playful physical comedy.\n\nSHOT 04 [11-16s]\nThe wizard suddenly stops.\n\nCamera swings around her to reveal that the tiny flame has transformed into an enormous floating magical fire spirit towering above her.\n\nHuge swirling cyan core surrounded by coral-orange flames.\n\nThe wizard slowly looks upward.\n\nHer eyes become huge.\n\nOne beat of silence.\n\nShe nervously raises her staff.\n\nThe giant flame rushes toward her.\n\nShe closes her eyes and desperately swings the staff forward.\n\nA brilliant magical collision erupts.\n\nStrong cinematic camera push, magical particles, wind pushing her hair and cape backward.\n\nSHOT 05 [16-20s]\nInstead of an explosion, the enormous flame bursts into hundreds of glowing pastel stars, sparkling petals, and tiny magical flowers.\n\nWide cinematic shot.\n\nThe entire meadow instantly blooms with colorful flowers.\n\nThe wizard is sitting on the ground in the middle of the flowers, slightly dazed, her oversized hat tilted sideways.\n\nA tiny version of the flame spirit floats back toward her.\n\nIt gently lands on the tip of her staff.\n\nShe stares at it suspiciously for a moment.\n\nThe flame makes one tiny playful bounce.\n\nThe wizard sighs, then gives a small amused smile.\n\nSlow camera pull-back revealing the magical flower-covered meadow.\n\nEnd on a warm whimsical fantasy tableau.\n\nANIMATION:\nHigh-quality expressive stylized 3D character animation.\nClear facial acting and readable poses.\nCute exaggerated physical comedy.\nSmooth character motion with subtle squash and stretch.\nStrong anticipation and reaction poses.\nNatural secondary motion in long hair, cape, sleeves and oversized hat.\nKeep the character's face, costume, colors, proportions and staff design consistent in every shot.\n\nCAMERA:\ncinematic animated-film camera language,\nclear shot transitions,\nsmooth dolly and tracking movement,\nbrief whip pan during the chase,\ndynamic perspective during the magical climax,\nno excessive camera shake.\n\nLIGHTING:\nsoft golden-hour sunlight,\npastel fantasy lighting,\nsoft volumetric glow from magic,\ncyan magical light illuminating the character's face,\nwarm rim light,\nclean colorful highlights.\n\nIMPORTANT:\nNo dialogue.\nNo text.\nNo subtitles.\nNo additional human characters.\nDo not redesign the wizard.\nDo not change her outfit or hairstyle.\nDo not change the staff design.\nKeep the same stylized 3D rendering style as the reference image.\nAvoid realistic human proportions.\nAvoid photorealism.\nAvoid horror imagery.\nAvoid distorted hands or facial features.",
+  "originalPromptSha256": "d26a8cd50ea4e9fafd1152fc79f3e25170936486f961cef244c2168eb1bd4a00",
+  "editorialCopies": {
+    "zh": {
+      "kind": "edited-adaptation",
+      "text": "粉发火焰小女巫（中文编辑稿）\n20秒、16:9电影动画短片。严格使用作者参考图固定同一个女孩：长粉发、巨大蓝眼睛、雀斑、蓝黄大尖帽、蓝黄服装、超大蓝靴、金色月牙法杖以及青色与珊瑚色浮空火苗。保持可爱3D比例、光滑玩具材质、圆润形体、粉彩色与高质量动画质感。\n环境：金色夕阳下的奇幻草地，小花、起伏山丘、梦幻云与柔暖阳光。\n0–3秒：中低机位，小女巫严肃握住并举起法杖。小青火苗出现，她惊讶后骄傲地微笑。缓慢推进，头发斗篷随风。\n3–6秒：火苗近景，突然长出发光小眼睛，望向女孩，再调皮地跳离法杖飞走。快速摇镜追火；女孩从骄傲变为困惑，笨拙抱大法杖追赶。\n6–11秒：草地上喜剧侧跟拍，火苗在花间之字跳跃，每跳略长大。大帽颠动、斗篷飞扬，女孩险被大靴绊倒后继续跑。动作充满活力但可读。\n11–16秒：女孩停下，摄影机转到身侧揭示巨大的浮空火灵：青色旋涡核心与珊瑚橙火焰。她抬头睁大眼睛，静默一拍，紧张举杖。巨火扑来，她闭眼向前挥杖，耀眼魔法碰撞、粒子与风压推开头发斗篷。\n16–20秒：巨火并未爆炸，而化作发光粉彩星、花瓣和小花，整个草地绽放。女孩坐在花中发愣，帽子歪斜。小火苗返回杖尖，她怀疑地看它；火苗轻跳，女孩叹气后微笑。摄影机后退，温暖奇幻画面收尾。\n动画：明确表情、可读姿态、可爱肢体喜剧、轻微挤压伸展、动作预备与反应、发丝斗篷袖子帽子的次级运动。相同脸、服装、颜色、比例及法杖。\n摄影：清晰切镜、平滑推轨与跟拍，追赶时短摇镜，高潮动态透视，避免过度震动。柔夕阳、粉彩、魔法体积辉光、脸部青光与暖轮廓光。\n无对白、文字、字幕或其他人类。不得重设计女孩、服装、头发、法杖；保持参考图风格，避免真人比例、写实、恐怖或手脸变形。"
+    }
+  },
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "witches"
+    ]
+  },
+  "tags": [
+    "Pink-Haired Fire Witch",
+    "Kling 4.0 Flash",
+    "character-animation",
+    "cozy-animation",
+    "witches"
+  ],
+  "guidance": {
+    "en": "Prepare the supplied character reference before adapting the sequence. Keep the pink hair, outfit and flame design recognizable.",
+    "zh": "先准备作者角色参考图，再改动作。保持粉发、服装和火苗设计一致。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2105658611905216512",
+    "url": "https://video.twimg.com/amplify_video/2105658611905216512/vid/avc1/1280x720/_7Ny8UCvhPc-oGE6.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105658611905216512/vid/avc1/1280x720/_7Ny8UCvhPc-oGE6.mp4?tag=29",
+    "sourceUrl": "https://x.com/imhealmachine/status/2105659013572800732",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg",
+    "durationSecondsReported": 20.041,
+    "durationSecondsObserved": 20.108481,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "playbackVerified": true
+  },
+  "referenceAssets": [
+    {
+      "role": "character-reference",
+      "url": "https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg",
+      "sourceUrl": "https://x.com/imhealmachine/status/2105659016470995438",
+      "assetPromptOriginal": "fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa",
+      "assetPromptSha256": "1492d40eec0ba473c6a05a834b857205b83c051777f3360ff68ebf635de06e8b"
+    }
+  ],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Public source links do not grant a redistribution license. Prompts and media remain the property of their original authors."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "axis": "use",
+  "category": "character-animation",
+  "labels": {
+    "en": "Character animation",
+    "zh": "角色动画"
+  },
+  "count": 2,
+  "entryIds": [
+    "x-2105659020359184617",
+    "x-2105981906869199107"
+  ]
+}

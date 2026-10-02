@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "axis": "subject",
+  "category": "heroes",
+  "labels": {
+    "en": "Heroes",
+    "zh": "英雄"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105697908624617880"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "axis": "use",
+  "category": "action",
+  "labels": {
+    "en": "Action",
+    "zh": "动作"
+  },
+  "count": 2,
+  "entryIds": [
+    "x-2105587110639985048",
+    "x-2105697908624617880"
+  ]
+}
