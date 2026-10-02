@@ -73,7 +73,50 @@
     ],
     "widthObserved": 1280,
     "heightObserved": 720,
-    "playbackVerified": true
+    "playbackVerified": true,
+    "cdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4",
+      "sha256": "d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6",
+      "bytes": 3695466,
+      "mimeType": "video/mp4",
+      "originalSha256": "df5bf5bceb900a50e6c62098f71fd2ebcbf33187307a9b1fdb666dadf14c27b0"
+    },
+    "posterCdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp",
+      "sha256": "97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7",
+      "bytes": 62834,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 675,
+      "originalSha256": "e236b0292a0b00a125759639bae27e12f3659967755c6907a039a37f6580c954",
+      "variants": [
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/fb117952cb9a0ea4a4aad9f091d7860d438cb1147869b0e4939e8cd234e28ca0.webp",
+          "sha256": "fb117952cb9a0ea4a4aad9f091d7860d438cb1147869b0e4939e8cd234e28ca0",
+          "bytes": 11778,
+          "mimeType": "image/webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/cc9a1aa591fb3f45bf5c318e59de443df8361fb1c53e99c2a0eeb411fa7510f4.webp",
+          "sha256": "cc9a1aa591fb3f45bf5c318e59de443df8361fb1c53e99c2a0eeb411fa7510f4",
+          "bytes": 29490,
+          "mimeType": "image/webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp",
+          "sha256": "97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7",
+          "bytes": 62834,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675
+        }
+      ]
+    },
+    "publishedAt": "2026-10-02T05:17:42Z"
   },
   "referenceAssets": [],
   "rights": {

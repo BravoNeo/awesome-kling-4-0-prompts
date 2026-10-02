@@ -308,6 +308,180 @@
         },
         "playbackVerified": {
           "type": "boolean"
+        },
+        "cdn": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "bytes": {
+              "type": "integer"
+            },
+            "mimeType": {
+              "type": "string",
+              "enum": [
+                "image/webp",
+                "video/mp4"
+              ]
+            },
+            "width": {
+              "type": "integer"
+            },
+            "height": {
+              "type": "integer"
+            },
+            "originalSha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "variants": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+                  },
+                  "sha256": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "bytes": {
+                    "type": "integer"
+                  },
+                  "mimeType": {
+                    "type": "string",
+                    "enum": [
+                      "image/webp",
+                      "video/mp4"
+                    ]
+                  },
+                  "width": {
+                    "type": "integer"
+                  },
+                  "height": {
+                    "type": "integer"
+                  }
+                },
+                "required": [
+                  "url",
+                  "sha256",
+                  "bytes",
+                  "mimeType",
+                  "width",
+                  "height"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 1
+            }
+          },
+          "required": [
+            "url",
+            "sha256",
+            "bytes",
+            "mimeType",
+            "originalSha256"
+          ],
+          "additionalProperties": false
+        },
+        "posterCdn": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "bytes": {
+              "type": "integer"
+            },
+            "mimeType": {
+              "type": "string",
+              "enum": [
+                "image/webp",
+                "video/mp4"
+              ]
+            },
+            "width": {
+              "type": "integer"
+            },
+            "height": {
+              "type": "integer"
+            },
+            "originalSha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "variants": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+                  },
+                  "sha256": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "bytes": {
+                    "type": "integer"
+                  },
+                  "mimeType": {
+                    "type": "string",
+                    "enum": [
+                      "image/webp",
+                      "video/mp4"
+                    ]
+                  },
+                  "width": {
+                    "type": "integer"
+                  },
+                  "height": {
+                    "type": "integer"
+                  }
+                },
+                "required": [
+                  "url",
+                  "sha256",
+                  "bytes",
+                  "mimeType",
+                  "width",
+                  "height"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 1
+            }
+          },
+          "required": [
+            "url",
+            "sha256",
+            "bytes",
+            "mimeType",
+            "originalSha256"
+          ],
+          "additionalProperties": false
+        },
+        "publishedAt": {
+          "type": "string",
+          "pattern": "^2026-\\d\\d-\\d\\dT\\d\\d:\\d\\d:\\d\\dZ$"
         }
       },
       "required": [
@@ -358,6 +532,91 @@
             "type": "string",
             "minLength": 1,
             "pattern": "^[a-f0-9]{64}$"
+          },
+          "cdn": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "bytes": {
+                "type": "integer"
+              },
+              "mimeType": {
+                "type": "string",
+                "enum": [
+                  "image/webp",
+                  "video/mp4"
+                ]
+              },
+              "width": {
+                "type": "integer"
+              },
+              "height": {
+                "type": "integer"
+              },
+              "originalSha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "variants": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "url": {
+                      "type": "string",
+                      "format": "uri",
+                      "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+                    },
+                    "sha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "bytes": {
+                      "type": "integer"
+                    },
+                    "mimeType": {
+                      "type": "string",
+                      "enum": [
+                        "image/webp",
+                        "video/mp4"
+                      ]
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "url",
+                    "sha256",
+                    "bytes",
+                    "mimeType",
+                    "width",
+                    "height"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "url",
+              "sha256",
+              "bytes",
+              "mimeType",
+              "originalSha256"
+            ],
+            "additionalProperties": false
           }
         },
         "required": [

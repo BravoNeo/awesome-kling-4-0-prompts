@@ -73,7 +73,50 @@
     ],
     "widthObserved": 1280,
     "heightObserved": 720,
-    "playbackVerified": true
+    "playbackVerified": true,
+    "cdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4",
+      "sha256": "6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5",
+      "bytes": 5827206,
+      "mimeType": "video/mp4",
+      "originalSha256": "a1d4f384f5553cf66d3092ea582735f228af5741baccacf896b8054f32af1e56"
+    },
+    "posterCdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp",
+      "sha256": "d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d",
+      "bytes": 99206,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 675,
+      "originalSha256": "5d50c868e7d2143606d8c8fd7f0bc7b1a97e345a6ed1dcc61a54ebef535ebb75",
+      "variants": [
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/e6d27ad09dd5ec0393589a9bf409909924b52a61ae0b6742847b0b4973d04f60.webp",
+          "sha256": "e6d27ad09dd5ec0393589a9bf409909924b52a61ae0b6742847b0b4973d04f60",
+          "bytes": 17534,
+          "mimeType": "image/webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/b9650efd057f97279b9e9f002b4c2fee8ab65fd460f3dbad273b0b6f1fc15197.webp",
+          "sha256": "b9650efd057f97279b9e9f002b4c2fee8ab65fd460f3dbad273b0b6f1fc15197",
+          "bytes": 45392,
+          "mimeType": "image/webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp",
+          "sha256": "d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d",
+          "bytes": 99206,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675
+        }
+      ]
+    },
+    "publishedAt": "2026-10-01T09:06:31Z"
   },
   "referenceAssets": [
     {
@@ -81,21 +124,126 @@
       "url": "https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg",
       "sourceUrl": "https://x.com/yourPlugAI/status/2105585851312857553",
       "assetPromptOriginal": "Asset 1: Character Sheet 1 Prompt — Mei (The Student)\n\n[Character Sheet] Subject: Mei (Martial Arts Student)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, 45-degree side profile, rear view, and tight face close-up in 16:9 format).\nAppearance: Determined 22-year-old East Asian female martial artist with focused eyes, sharp cheekbones, and dark hair tied into an elegant braided high bun.\nWardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitched crane embroidery along the collar, dark charcoal wrapped trousers, dark leather forearm bracers, and dark cloth kung-fu boots.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.",
-      "assetPromptSha256": "e0796be0e25fde649f298b9afe687c7ea9fc329ac6d644f59b4688b59042c75f"
+      "assetPromptSha256": "e0796be0e25fde649f298b9afe687c7ea9fc329ac6d644f59b4688b59042c75f",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp",
+        "sha256": "75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630",
+        "bytes": 115946,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 800,
+        "originalSha256": "0df6029d714e5e416dcda7938b84258104bc1e777979f0b693560aef586b3f12",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/8c6e983ff2980cafa909be0c52feef25ce7a80a98001ced5af37cf2c03b91ec3.webp",
+            "sha256": "8c6e983ff2980cafa909be0c52feef25ce7a80a98001ced5af37cf2c03b91ec3",
+            "bytes": 9906,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/edb996b81b414118811414ac60f8b06b601480280e1ee2f7c814888b051becca.webp",
+            "sha256": "edb996b81b414118811414ac60f8b06b601480280e1ee2f7c814888b051becca",
+            "bytes": 32730,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp",
+            "sha256": "75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630",
+            "bytes": 115946,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800
+          }
+        ]
+      }
     },
     {
       "role": "character-sheet",
       "url": "https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg",
       "sourceUrl": "https://x.com/yourPlugAI/status/2105586111116464293",
       "assetPromptOriginal": "Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)\n\n[Character Sheet] Subject: Master Zhen (Martial Arts Grandmaster)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, profile view, rear anatomy, and detail close-up on staff and robes).\nAppearance: Wise 58-year-old martial arts grandmaster with silvering hair pulled into a neat topknot, weathered, calm facial features, and a tranquil gaze.\nWardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a braided hemp sash, carrying a polished dark ebony wooden staff tipped with brass caps.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.",
-      "assetPromptSha256": "6ae7e533986d6db1899acbbaefb092cce7f394d2197a177ec8619d6a0630ea27"
+      "assetPromptSha256": "6ae7e533986d6db1899acbbaefb092cce7f394d2197a177ec8619d6a0630ea27",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp",
+        "sha256": "46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519",
+        "bytes": 140636,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 800,
+        "originalSha256": "986cda6e0a7bc76e214fd8b5119bde3ad49633bef29705e20b38030159d4dcfd",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/7b57fce951afa55eefbd762bfbf5805591ce920d85d4710f2cbf343c8299d4e7.webp",
+            "sha256": "7b57fce951afa55eefbd762bfbf5805591ce920d85d4710f2cbf343c8299d4e7",
+            "bytes": 12962,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/9429f960dc14b420462809d602c060aa34aa4bd21f2b20d666e3e13d17d7d138.webp",
+            "sha256": "9429f960dc14b420462809d602c060aa34aa4bd21f2b20d666e3e13d17d7d138",
+            "bytes": 43752,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp",
+            "sha256": "46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519",
+            "bytes": 140636,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800
+          }
+        ]
+      }
     },
     {
       "role": "environment-sheet",
       "url": "https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg",
       "sourceUrl": "https://x.com/yourPlugAI/status/2105586309913882863",
       "assetPromptOriginal": "Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn\n\n[Environment Reference Sheet] Subject: Ancient Cliffside Courtyard at Sunrise\nVisual Reference Grid: Environmental concept sheet showing stone flagstones, carved wooden pavilion pillars, background ocean cliffs, and scattered red maple leaves.\nArchitecture & Atmosphere: Ancient stone courtyard perched high on a ocean cliff edge at sunrise. Features wet mossy flagstones, weathered wooden pavilion pillars, background misty mountain peaks rising out of ocean fog, and crimson maple trees dropping leaves in the morning breeze.\nLighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle morning wind blowing autumn leaves across stone surfaces, volumetric light rays, photorealistic 8K render.",
-      "assetPromptSha256": "7461bc127b18bdcd493262d0c74d90a73011f001bf9465b73930db954830bb8e"
+      "assetPromptSha256": "7461bc127b18bdcd493262d0c74d90a73011f001bf9465b73930db954830bb8e",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp",
+        "sha256": "3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1",
+        "bytes": 266000,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 800,
+        "originalSha256": "7f2f0526b0194681995ec43058b1deccf73daa5517b94505e39815f7c011d894",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/08898c7760d4bb81df62408d80b7f5c142aa2195b6d69331ccfb8b7206eb1987.webp",
+            "sha256": "08898c7760d4bb81df62408d80b7f5c142aa2195b6d69331ccfb8b7206eb1987",
+            "bytes": 24996,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b684d28c47ed81c41e1bf8e251902dc81df1b2019d9a85fc3dad27747388384e.webp",
+            "sha256": "b684d28c47ed81c41e1bf8e251902dc81df1b2019d9a85fc3dad27747388384e",
+            "bytes": 86080,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp",
+            "sha256": "3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1",
+            "bytes": 266000,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800
+          }
+        ]
+      }
     }
   ],
   "rights": {

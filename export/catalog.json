@@ -138,7 +138,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4",
+          "sha256": "6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5",
+          "bytes": 5827206,
+          "mimeType": "video/mp4",
+          "originalSha256": "a1d4f384f5553cf66d3092ea582735f228af5741baccacf896b8054f32af1e56"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp",
+          "sha256": "d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d",
+          "bytes": 99206,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "5d50c868e7d2143606d8c8fd7f0bc7b1a97e345a6ed1dcc61a54ebef535ebb75",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/e6d27ad09dd5ec0393589a9bf409909924b52a61ae0b6742847b0b4973d04f60.webp",
+              "sha256": "e6d27ad09dd5ec0393589a9bf409909924b52a61ae0b6742847b0b4973d04f60",
+              "bytes": 17534,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/b9650efd057f97279b9e9f002b4c2fee8ab65fd460f3dbad273b0b6f1fc15197.webp",
+              "sha256": "b9650efd057f97279b9e9f002b4c2fee8ab65fd460f3dbad273b0b6f1fc15197",
+              "bytes": 45392,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp",
+              "sha256": "d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d",
+              "bytes": 99206,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-01T09:06:31Z"
       },
       "referenceAssets": [
         {
@@ -146,21 +189,126 @@
           "url": "https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg",
           "sourceUrl": "https://x.com/yourPlugAI/status/2105585851312857553",
           "assetPromptOriginal": "Asset 1: Character Sheet 1 Prompt — Mei (The Student)\n\n[Character Sheet] Subject: Mei (Martial Arts Student)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, 45-degree side profile, rear view, and tight face close-up in 16:9 format).\nAppearance: Determined 22-year-old East Asian female martial artist with focused eyes, sharp cheekbones, and dark hair tied into an elegant braided high bun.\nWardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitched crane embroidery along the collar, dark charcoal wrapped trousers, dark leather forearm bracers, and dark cloth kung-fu boots.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.",
-          "assetPromptSha256": "e0796be0e25fde649f298b9afe687c7ea9fc329ac6d644f59b4688b59042c75f"
+          "assetPromptSha256": "e0796be0e25fde649f298b9afe687c7ea9fc329ac6d644f59b4688b59042c75f",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp",
+            "sha256": "75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630",
+            "bytes": 115946,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800,
+            "originalSha256": "0df6029d714e5e416dcda7938b84258104bc1e777979f0b693560aef586b3f12",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/8c6e983ff2980cafa909be0c52feef25ce7a80a98001ced5af37cf2c03b91ec3.webp",
+                "sha256": "8c6e983ff2980cafa909be0c52feef25ce7a80a98001ced5af37cf2c03b91ec3",
+                "bytes": 9906,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 213
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/edb996b81b414118811414ac60f8b06b601480280e1ee2f7c814888b051becca.webp",
+                "sha256": "edb996b81b414118811414ac60f8b06b601480280e1ee2f7c814888b051becca",
+                "bytes": 32730,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 427
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp",
+                "sha256": "75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630",
+                "bytes": 115946,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 800
+              }
+            ]
+          }
         },
         {
           "role": "character-sheet",
           "url": "https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg",
           "sourceUrl": "https://x.com/yourPlugAI/status/2105586111116464293",
           "assetPromptOriginal": "Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)\n\n[Character Sheet] Subject: Master Zhen (Martial Arts Grandmaster)\nVisual Reference Grid: Multi-angle reference sheet featuring full-body turnaround (front elevation, profile view, rear anatomy, and detail close-up on staff and robes).\nAppearance: Wise 58-year-old martial arts grandmaster with silvering hair pulled into a neat topknot, weathered, calm facial features, and a tranquil gaze.\nWardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a braided hemp sash, carrying a polished dark ebony wooden staff tipped with brass caps.\nStyle: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.",
-          "assetPromptSha256": "6ae7e533986d6db1899acbbaefb092cce7f394d2197a177ec8619d6a0630ea27"
+          "assetPromptSha256": "6ae7e533986d6db1899acbbaefb092cce7f394d2197a177ec8619d6a0630ea27",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp",
+            "sha256": "46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519",
+            "bytes": 140636,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800,
+            "originalSha256": "986cda6e0a7bc76e214fd8b5119bde3ad49633bef29705e20b38030159d4dcfd",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/7b57fce951afa55eefbd762bfbf5805591ce920d85d4710f2cbf343c8299d4e7.webp",
+                "sha256": "7b57fce951afa55eefbd762bfbf5805591ce920d85d4710f2cbf343c8299d4e7",
+                "bytes": 12962,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 213
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/9429f960dc14b420462809d602c060aa34aa4bd21f2b20d666e3e13d17d7d138.webp",
+                "sha256": "9429f960dc14b420462809d602c060aa34aa4bd21f2b20d666e3e13d17d7d138",
+                "bytes": 43752,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 427
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp",
+                "sha256": "46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519",
+                "bytes": 140636,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 800
+              }
+            ]
+          }
         },
         {
           "role": "environment-sheet",
           "url": "https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg",
           "sourceUrl": "https://x.com/yourPlugAI/status/2105586309913882863",
           "assetPromptOriginal": "Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn\n\n[Environment Reference Sheet] Subject: Ancient Cliffside Courtyard at Sunrise\nVisual Reference Grid: Environmental concept sheet showing stone flagstones, carved wooden pavilion pillars, background ocean cliffs, and scattered red maple leaves.\nArchitecture & Atmosphere: Ancient stone courtyard perched high on a ocean cliff edge at sunrise. Features wet mossy flagstones, weathered wooden pavilion pillars, background misty mountain peaks rising out of ocean fog, and crimson maple trees dropping leaves in the morning breeze.\nLighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle morning wind blowing autumn leaves across stone surfaces, volumetric light rays, photorealistic 8K render.",
-          "assetPromptSha256": "7461bc127b18bdcd493262d0c74d90a73011f001bf9465b73930db954830bb8e"
+          "assetPromptSha256": "7461bc127b18bdcd493262d0c74d90a73011f001bf9465b73930db954830bb8e",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp",
+            "sha256": "3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1",
+            "bytes": 266000,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800,
+            "originalSha256": "7f2f0526b0194681995ec43058b1deccf73daa5517b94505e39815f7c011d894",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/08898c7760d4bb81df62408d80b7f5c142aa2195b6d69331ccfb8b7206eb1987.webp",
+                "sha256": "08898c7760d4bb81df62408d80b7f5c142aa2195b6d69331ccfb8b7206eb1987",
+                "bytes": 24996,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 213
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/b684d28c47ed81c41e1bf8e251902dc81df1b2019d9a85fc3dad27747388384e.webp",
+                "sha256": "b684d28c47ed81c41e1bf8e251902dc81df1b2019d9a85fc3dad27747388384e",
+                "bytes": 86080,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 427
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp",
+                "sha256": "3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1",
+                "bytes": 266000,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 800
+              }
+            ]
+          }
         }
       ],
       "rights": {
@@ -243,7 +391,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4",
+          "sha256": "3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8",
+          "bytes": 4989923,
+          "mimeType": "video/mp4",
+          "originalSha256": "8e94dcd72c0ebec8b105acbeb16b262d96cfbced011f72c86c284614706067e8"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp",
+          "sha256": "3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5",
+          "bytes": 58124,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "9448dacff204ca8145a6d9167696ad8eb05f12b0d5ee8b4b17bf4b3a8438726d",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/672449f559c568c683ad7c78830eb2a67b6642d2954cb38fd040484e15f2d095.webp",
+              "sha256": "672449f559c568c683ad7c78830eb2a67b6642d2954cb38fd040484e15f2d095",
+              "bytes": 8770,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/b2d912d7ffae116d8e6e1ab2f4a32e6a623629d15f206eb9c60615fcbe9c2ca0.webp",
+              "sha256": "b2d912d7ffae116d8e6e1ab2f4a32e6a623629d15f206eb9c60615fcbe9c2ca0",
+              "bytes": 24810,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp",
+              "sha256": "3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5",
+              "bytes": 58124,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-01T14:00:04Z"
       },
       "referenceAssets": [
         {
@@ -251,7 +442,42 @@
           "url": "https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg",
           "sourceUrl": "https://x.com/imhealmachine/status/2105659016470995438",
           "assetPromptOriginal": "fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa",
-          "assetPromptSha256": "1492d40eec0ba473c6a05a834b857205b83c051777f3360ff68ebf635de06e8b"
+          "assetPromptSha256": "1492d40eec0ba473c6a05a834b857205b83c051777f3360ff68ebf635de06e8b",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp",
+            "sha256": "bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6",
+            "bytes": 50876,
+            "mimeType": "image/webp",
+            "width": 898,
+            "height": 1200,
+            "originalSha256": "32f790b9893cf530b296d4862abb6ebc0a2827e7912828d7aac40fa9f9029dff",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/20667a9672d20aa2c38e96b22c88d43c3cae85eff635645e517ff9ee96e1ff94.webp",
+                "sha256": "20667a9672d20aa2c38e96b22c88d43c3cae85eff635645e517ff9ee96e1ff94",
+                "bytes": 13754,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 428
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/91be4da374d4b0cf71a729ff0726abc30f1f05a817612b788f7bd335ead9c834.webp",
+                "sha256": "91be4da374d4b0cf71a729ff0726abc30f1f05a817612b788f7bd335ead9c834",
+                "bytes": 33092,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 855
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp",
+                "sha256": "bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6",
+                "bytes": 50876,
+                "mimeType": "image/webp",
+                "width": 898,
+                "height": 1200
+              }
+            ]
+          }
         }
       ],
       "rights": {
@@ -334,7 +560,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4",
+          "sha256": "fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846",
+          "bytes": 5032605,
+          "mimeType": "video/mp4",
+          "originalSha256": "f1c08fff8e63843159caf596fe89a1c17d89a8c258bc84ba3146c70666ae4a4c"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp",
+          "sha256": "e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539",
+          "bytes": 44876,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "40f120505715cb1dc4604909720e5df84f1fa566d02cd5593e6d6029e97ff97a",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/6920724fd9f7246b60cf28c0e45bf1ca5eba5e36ea31cefc72aeec3debea584a.webp",
+              "sha256": "6920724fd9f7246b60cf28c0e45bf1ca5eba5e36ea31cefc72aeec3debea584a",
+              "bytes": 7880,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/912b21e65970e5842763b99be3cf6a9363e0408cc8e1fd6407e64eaf9075f7b8.webp",
+              "sha256": "912b21e65970e5842763b99be3cf6a9363e0408cc8e1fd6407e64eaf9075f7b8",
+              "bytes": 18402,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp",
+              "sha256": "e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539",
+              "bytes": 44876,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-01T16:34:36Z"
       },
       "referenceAssets": [
         {
@@ -342,14 +611,84 @@
           "url": "https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg",
           "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
           "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
-          "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+          "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp",
+            "sha256": "0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190",
+            "bytes": 92560,
+            "mimeType": "image/webp",
+            "width": 904,
+            "height": 1200,
+            "originalSha256": "185636afe6f714233ea8b1cc78e5a13e652d4fbdf3e59e77323b487e0b708204",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/2acf4c8b1c729fd1909e44e07d5c04cacc018d0555e0db3ffe4aa8c71127aad4.webp",
+                "sha256": "2acf4c8b1c729fd1909e44e07d5c04cacc018d0555e0db3ffe4aa8c71127aad4",
+                "bytes": 19474,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 425
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/36cb59ab828d7ab965721df9214406139d9713dd43877a4ec97d8371c53ea430.webp",
+                "sha256": "36cb59ab828d7ab965721df9214406139d9713dd43877a4ec97d8371c53ea430",
+                "bytes": 54070,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 850
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp",
+                "sha256": "0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190",
+                "bytes": 92560,
+                "mimeType": "image/webp",
+                "width": 904,
+                "height": 1200
+              }
+            ]
+          }
         },
         {
           "role": "character-sheet",
           "url": "https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg",
           "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
           "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
-          "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+          "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6",
+          "cdn": {
+            "url": "https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp",
+            "sha256": "b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556",
+            "bytes": 158722,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 675,
+            "originalSha256": "2874d24e756fc35d625e21a730666b360b44d8c836c26afd762b172670279bb6",
+            "variants": [
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/e919afa161935ac94226871730e39cc2139ba5cb1c5844bb54f4301f65a9c3b8.webp",
+                "sha256": "e919afa161935ac94226871730e39cc2139ba5cb1c5844bb54f4301f65a9c3b8",
+                "bytes": 18614,
+                "mimeType": "image/webp",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/917d906f1aa6c4a6e7b6888958f21809030c58205b24e5fad3d035d8901a8efd.webp",
+                "sha256": "917d906f1aa6c4a6e7b6888958f21809030c58205b24e5fad3d035d8901a8efd",
+                "bytes": 57518,
+                "mimeType": "image/webp",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "url": "https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp",
+                "sha256": "b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556",
+                "bytes": 158722,
+                "mimeType": "image/webp",
+                "width": 1200,
+                "height": 675
+              }
+            ]
+          }
         }
       ],
       "rights": {
@@ -432,7 +771,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4",
+          "sha256": "183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389",
+          "bytes": 2586942,
+          "mimeType": "video/mp4",
+          "originalSha256": "26417044a5cef5e96ea11c914daa9d5898e07fd5b6e69a056158f67855babeb0"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp",
+          "sha256": "125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b",
+          "bytes": 46124,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "7f2cb9a80775906205aa84af6b785de5c6e1230e3242cb126d9851ac3025d06a",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/934a90cd3b6d20c24a0b2c9907829084282eebb5435b83d8bca5cbad21f7f423.webp",
+              "sha256": "934a90cd3b6d20c24a0b2c9907829084282eebb5435b83d8bca5cbad21f7f423",
+              "bytes": 8782,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/899686e9449fa1cdde32ca170e377cb68373280c592c5ee930df037870562e6d.webp",
+              "sha256": "899686e9449fa1cdde32ca170e377cb68373280c592c5ee930df037870562e6d",
+              "bytes": 21132,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp",
+              "sha256": "125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b",
+              "bytes": 46124,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-01T23:54:49Z"
       },
       "referenceAssets": [],
       "rights": {
@@ -515,7 +897,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4",
+          "sha256": "d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6",
+          "bytes": 3695466,
+          "mimeType": "video/mp4",
+          "originalSha256": "df5bf5bceb900a50e6c62098f71fd2ebcbf33187307a9b1fdb666dadf14c27b0"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp",
+          "sha256": "97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7",
+          "bytes": 62834,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "e236b0292a0b00a125759639bae27e12f3659967755c6907a039a37f6580c954",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/fb117952cb9a0ea4a4aad9f091d7860d438cb1147869b0e4939e8cd234e28ca0.webp",
+              "sha256": "fb117952cb9a0ea4a4aad9f091d7860d438cb1147869b0e4939e8cd234e28ca0",
+              "bytes": 11778,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/cc9a1aa591fb3f45bf5c318e59de443df8361fb1c53e99c2a0eeb411fa7510f4.webp",
+              "sha256": "cc9a1aa591fb3f45bf5c318e59de443df8361fb1c53e99c2a0eeb411fa7510f4",
+              "bytes": 29490,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp",
+              "sha256": "97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7",
+              "bytes": 62834,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-02T05:17:42Z"
       },
       "referenceAssets": [],
       "rights": {
@@ -598,7 +1023,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4",
+          "sha256": "bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7",
+          "bytes": 3863177,
+          "mimeType": "video/mp4",
+          "originalSha256": "8b9da176c80898446d31473ecb5e04790dd62912e90b5d9ad9b7dc74bb67a859"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp",
+          "sha256": "5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25",
+          "bytes": 50262,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "d8376bd62c563f3e01cb9adf3dd6eaafa508707653697deca1e5b0ee7f9435ff",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/e65a09cb1f4c7d141163ea669ee2c71e20f6e0bb0518ae96bfc26b6b7096381c.webp",
+              "sha256": "e65a09cb1f4c7d141163ea669ee2c71e20f6e0bb0518ae96bfc26b6b7096381c",
+              "bytes": 8888,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/75739e005e05e7de48854927e394abe9f2555dc4854e79255d9be9f42eb8f19b.webp",
+              "sha256": "75739e005e05e7de48854927e394abe9f2555dc4854e79255d9be9f42eb8f19b",
+              "bytes": 22026,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp",
+              "sha256": "5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25",
+              "bytes": 50262,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-02T06:07:25Z"
       },
       "referenceAssets": [],
       "rights": {
@@ -681,7 +1149,50 @@
         ],
         "widthObserved": 1280,
         "heightObserved": 720,
-        "playbackVerified": true
+        "playbackVerified": true,
+        "cdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4",
+          "sha256": "2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa",
+          "bytes": 2049892,
+          "mimeType": "video/mp4",
+          "originalSha256": "623ba779d32f04425c44e67d1aebe4236ce97b9c5e1c677daddcbf8a8b301019"
+        },
+        "posterCdn": {
+          "url": "https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp",
+          "sha256": "a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0",
+          "bytes": 83958,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675,
+          "originalSha256": "8f5c2084fca69501512be25d8eee5c8fb048dbda75f78a3468b40e31bc0eb38a",
+          "variants": [
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/68840f834a91f868703e99d39ea83d1f4613dd0e162a7eca9f7277a67e6a4abf.webp",
+              "sha256": "68840f834a91f868703e99d39ea83d1f4613dd0e162a7eca9f7277a67e6a4abf",
+              "bytes": 12340,
+              "mimeType": "image/webp",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/3216e2270cab049404c86b225fb3b0e07100bc4f429c9f601fdf58b1de0bfd1c.webp",
+              "sha256": "3216e2270cab049404c86b225fb3b0e07100bc4f429c9f601fdf58b1de0bfd1c",
+              "bytes": 35800,
+              "mimeType": "image/webp",
+              "width": 640,
+              "height": 360
+            },
+            {
+              "url": "https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp",
+              "sha256": "a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0",
+              "bytes": 83958,
+              "mimeType": "image/webp",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "publishedAt": "2026-10-02T11:23:07Z"
       },
       "referenceAssets": [],
       "rights": {

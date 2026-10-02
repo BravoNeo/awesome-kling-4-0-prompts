@@ -73,7 +73,50 @@
     ],
     "widthObserved": 1280,
     "heightObserved": 720,
-    "playbackVerified": true
+    "playbackVerified": true,
+    "cdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4",
+      "sha256": "183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389",
+      "bytes": 2586942,
+      "mimeType": "video/mp4",
+      "originalSha256": "26417044a5cef5e96ea11c914daa9d5898e07fd5b6e69a056158f67855babeb0"
+    },
+    "posterCdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp",
+      "sha256": "125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b",
+      "bytes": 46124,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 675,
+      "originalSha256": "7f2cb9a80775906205aa84af6b785de5c6e1230e3242cb126d9851ac3025d06a",
+      "variants": [
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/934a90cd3b6d20c24a0b2c9907829084282eebb5435b83d8bca5cbad21f7f423.webp",
+          "sha256": "934a90cd3b6d20c24a0b2c9907829084282eebb5435b83d8bca5cbad21f7f423",
+          "bytes": 8782,
+          "mimeType": "image/webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/899686e9449fa1cdde32ca170e377cb68373280c592c5ee930df037870562e6d.webp",
+          "sha256": "899686e9449fa1cdde32ca170e377cb68373280c592c5ee930df037870562e6d",
+          "bytes": 21132,
+          "mimeType": "image/webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp",
+          "sha256": "125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b",
+          "bytes": 46124,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675
+        }
+      ]
+    },
+    "publishedAt": "2026-10-01T23:54:49Z"
   },
   "referenceAssets": [],
   "rights": {

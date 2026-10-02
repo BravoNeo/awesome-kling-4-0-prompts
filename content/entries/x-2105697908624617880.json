@@ -73,7 +73,50 @@
     ],
     "widthObserved": 1280,
     "heightObserved": 720,
-    "playbackVerified": true
+    "playbackVerified": true,
+    "cdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4",
+      "sha256": "fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846",
+      "bytes": 5032605,
+      "mimeType": "video/mp4",
+      "originalSha256": "f1c08fff8e63843159caf596fe89a1c17d89a8c258bc84ba3146c70666ae4a4c"
+    },
+    "posterCdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp",
+      "sha256": "e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539",
+      "bytes": 44876,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 675,
+      "originalSha256": "40f120505715cb1dc4604909720e5df84f1fa566d02cd5593e6d6029e97ff97a",
+      "variants": [
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/6920724fd9f7246b60cf28c0e45bf1ca5eba5e36ea31cefc72aeec3debea584a.webp",
+          "sha256": "6920724fd9f7246b60cf28c0e45bf1ca5eba5e36ea31cefc72aeec3debea584a",
+          "bytes": 7880,
+          "mimeType": "image/webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/912b21e65970e5842763b99be3cf6a9363e0408cc8e1fd6407e64eaf9075f7b8.webp",
+          "sha256": "912b21e65970e5842763b99be3cf6a9363e0408cc8e1fd6407e64eaf9075f7b8",
+          "bytes": 18402,
+          "mimeType": "image/webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp",
+          "sha256": "e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539",
+          "bytes": 44876,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675
+        }
+      ]
+    },
+    "publishedAt": "2026-10-01T16:34:36Z"
   },
   "referenceAssets": [
     {
@@ -81,14 +124,84 @@
       "url": "https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg",
       "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
       "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
-      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp",
+        "sha256": "0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190",
+        "bytes": 92560,
+        "mimeType": "image/webp",
+        "width": 904,
+        "height": 1200,
+        "originalSha256": "185636afe6f714233ea8b1cc78e5a13e652d4fbdf3e59e77323b487e0b708204",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/2acf4c8b1c729fd1909e44e07d5c04cacc018d0555e0db3ffe4aa8c71127aad4.webp",
+            "sha256": "2acf4c8b1c729fd1909e44e07d5c04cacc018d0555e0db3ffe4aa8c71127aad4",
+            "bytes": 19474,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 425
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/36cb59ab828d7ab965721df9214406139d9713dd43877a4ec97d8371c53ea430.webp",
+            "sha256": "36cb59ab828d7ab965721df9214406139d9713dd43877a4ec97d8371c53ea430",
+            "bytes": 54070,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 850
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp",
+            "sha256": "0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190",
+            "bytes": 92560,
+            "mimeType": "image/webp",
+            "width": 904,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "role": "character-sheet",
       "url": "https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg",
       "sourceUrl": "https://x.com/itsPixieVerse/status/2105697908624617880",
       "assetPromptOriginal": "Kling 4.0 Flash Prompt:\n\nSTYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. \n\nWORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. \n\nCHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. \n\nCINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):\n- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.\n- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.\n- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.\n- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.\n- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.\n- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.\n\nLIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; \n\nweighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.",
-      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6"
+      "assetPromptSha256": "d2ddfc8b99dd4f9275702e6b50dabdce1e3ea95bde55d4e557719e88e3290ad6",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp",
+        "sha256": "b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556",
+        "bytes": 158722,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 675,
+        "originalSha256": "2874d24e756fc35d625e21a730666b360b44d8c836c26afd762b172670279bb6",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e919afa161935ac94226871730e39cc2139ba5cb1c5844bb54f4301f65a9c3b8.webp",
+            "sha256": "e919afa161935ac94226871730e39cc2139ba5cb1c5844bb54f4301f65a9c3b8",
+            "bytes": 18614,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/917d906f1aa6c4a6e7b6888958f21809030c58205b24e5fad3d035d8901a8efd.webp",
+            "sha256": "917d906f1aa6c4a6e7b6888958f21809030c58205b24e5fad3d035d8901a8efd",
+            "bytes": 57518,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp",
+            "sha256": "b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556",
+            "bytes": 158722,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 675
+          }
+        ]
+      }
     }
   ],
   "rights": {

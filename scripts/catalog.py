@@ -81,12 +81,31 @@ def validate_schema(value, schema, path='$'):
             https_url(value)
 
 
+
+def validate_cdn(cdn, image=False):
+    mime = 'image/webp' if image else 'video/mp4'
+    suffix = '.webp' if image else '.mp4'
+    if cdn['mimeType'] != mime or cdn['url'] != 'https://media.reeldance.ai/galleries/assets/' + cdn['sha256'] + suffix or type(cdn['bytes']) is not int or cdn['bytes'] <= 0:
+        raise ValueError('Invalid CDN content-address/type/size')
+    if image:
+        if type(cdn.get('width')) is not int or type(cdn.get('height')) is not int or cdn['width'] <= 0 or cdn['height'] <= 0 or not cdn.get('variants'):
+            raise ValueError('Invalid CDN image dimensions/variants')
+        for variant in cdn['variants']:
+            if variant['mimeType'] != mime or variant['url'] != 'https://media.reeldance.ai/galleries/assets/' + variant['sha256'] + suffix or any(type(variant[k]) is not int or variant[k] <= 0 for k in ['width', 'height', 'bytes']):
+                raise ValueError('Invalid CDN responsive variant')
+
+
 def validate_entries(entries, taxonomy=None):
     taxonomy = taxonomy or read_json(ROOT / 'content/taxonomy.json')
     schema = read_json(ROOT / 'schema/entry.schema.json')
     seen = {'id': set(), 'slug': set(), 'source': set()}
     for e in entries:
         validate_schema(e, schema)
+        if 'cdn' in e['video']:
+            validate_cdn(e['video']['cdn'])
+            validate_cdn(e['video']['posterCdn'], image=True)
+        for asset in e['referenceAssets']:
+            if 'cdn' in asset: validate_cdn(asset['cdn'], image=True)
         if e['id'] != stable_id(e['promptSourceUrl']):
             raise ValueError('ID must be derived from the canonical original source URL')
         for field, value in [('id', e['id']), ('slug', e['slug']), ('source', canonical_source(e['promptSourceUrl']))]:

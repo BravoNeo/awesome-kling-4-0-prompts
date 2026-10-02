@@ -73,7 +73,50 @@
     ],
     "widthObserved": 1280,
     "heightObserved": 720,
-    "playbackVerified": true
+    "playbackVerified": true,
+    "cdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4",
+      "sha256": "3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8",
+      "bytes": 4989923,
+      "mimeType": "video/mp4",
+      "originalSha256": "8e94dcd72c0ebec8b105acbeb16b262d96cfbced011f72c86c284614706067e8"
+    },
+    "posterCdn": {
+      "url": "https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp",
+      "sha256": "3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5",
+      "bytes": 58124,
+      "mimeType": "image/webp",
+      "width": 1200,
+      "height": 675,
+      "originalSha256": "9448dacff204ca8145a6d9167696ad8eb05f12b0d5ee8b4b17bf4b3a8438726d",
+      "variants": [
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/672449f559c568c683ad7c78830eb2a67b6642d2954cb38fd040484e15f2d095.webp",
+          "sha256": "672449f559c568c683ad7c78830eb2a67b6642d2954cb38fd040484e15f2d095",
+          "bytes": 8770,
+          "mimeType": "image/webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/b2d912d7ffae116d8e6e1ab2f4a32e6a623629d15f206eb9c60615fcbe9c2ca0.webp",
+          "sha256": "b2d912d7ffae116d8e6e1ab2f4a32e6a623629d15f206eb9c60615fcbe9c2ca0",
+          "bytes": 24810,
+          "mimeType": "image/webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "url": "https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp",
+          "sha256": "3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5",
+          "bytes": 58124,
+          "mimeType": "image/webp",
+          "width": 1200,
+          "height": 675
+        }
+      ]
+    },
+    "publishedAt": "2026-10-01T14:00:04Z"
   },
   "referenceAssets": [
     {
@@ -81,7 +124,42 @@
       "url": "https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg",
       "sourceUrl": "https://x.com/imhealmachine/status/2105659016470995438",
       "assetPromptOriginal": "fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa",
-      "assetPromptSha256": "1492d40eec0ba473c6a05a834b857205b83c051777f3360ff68ebf635de06e8b"
+      "assetPromptSha256": "1492d40eec0ba473c6a05a834b857205b83c051777f3360ff68ebf635de06e8b",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp",
+        "sha256": "bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6",
+        "bytes": 50876,
+        "mimeType": "image/webp",
+        "width": 898,
+        "height": 1200,
+        "originalSha256": "32f790b9893cf530b296d4862abb6ebc0a2827e7912828d7aac40fa9f9029dff",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/20667a9672d20aa2c38e96b22c88d43c3cae85eff635645e517ff9ee96e1ff94.webp",
+            "sha256": "20667a9672d20aa2c38e96b22c88d43c3cae85eff635645e517ff9ee96e1ff94",
+            "bytes": 13754,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 428
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/91be4da374d4b0cf71a729ff0726abc30f1f05a817612b788f7bd335ead9c834.webp",
+            "sha256": "91be4da374d4b0cf71a729ff0726abc30f1f05a817612b788f7bd335ead9c834",
+            "bytes": 33092,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 855
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp",
+            "sha256": "bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6",
+            "bytes": 50876,
+            "mimeType": "image/webp",
+            "width": 898,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {
