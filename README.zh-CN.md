@@ -1,15 +1,37 @@
-<!-- Generated from content/ by scripts/generate.py -->
 # Awesome Kling 4.0 Flash Prompts
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-7组作者公开分享的Kling 4.0 Flash提示词与视频：完整原文、作者原帖、视频来源、封面、时长、比例及参考素材。
+**Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
 
-模型名称依据作者声明；并未核验作者生成后台。本合集不将Flash混作完整非Flash 4.0。
+ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
 
-中文编辑稿是独立改写起点，不替代完整英文原文。复制前选择画幅、总时长，并为参考素材类准备对应图像。
+收集 7 位创作者的 7 组视频提示词与作品，涵盖动作、角色动画、喜剧和旅行短片。每个案例都保留完整原文、视频预览、作者署名，以及分别对应的提示词原帖和视频原帖。
 
-## 分类
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
+
+## 关于 Kling 4.0 Flash
+
+Kling 4.0 Flash 是本合集创作者使用并注明的视频模型。这些案例展示了如何在连续镜头中描述动作、运镜、对白和声音。最新模型信息与创作工具见 <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a>。
+
+## 如何使用
+
+1. 先看视频，展开完整原文，了解镜头、动作和声音怎样配合。
+2. 根据案例准备角色或场景参考图，并选择合适的画幅与时长。
+3. 将提示词复制到支持该模型的工具，按自己的故事改写，再逐步调整。中文编辑稿另列在原文下方。
+
+## 从这些作品开始
+
+| 作品 | 看点 |
+| --- | --- |
+| [悬崖庭院武侠对决](#cliffside-wuxia-duel) | 黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。 |
+| [粉发小女巫与魔法火苗](#pink-haired-fire-witch) | 粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。 |
+| [送披萨的猫](#pizza-delivery-cat) | 配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。 |
+| [韩国旅行时尚广告](#korea-fashion-travel-film) | 红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。 |
+| [图书馆狐狸与猫头鹰](#fox-owl-library) | 自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。 |
+
+
+## 分类浏览
 
 - [旅行与广告](references/use/travel-commercial.json) — 1
 - [喜剧](references/use/comedy.json) — 2
@@ -27,15 +49,16 @@
 
 ## 提示词与视频
 
+<a id="cliffside-wuxia-duel"></a>
 ### 悬崖庭院武侠对决
 
-准备梅、振师傅和庭院三张参考图。先选固定跟拍或原文中的360度环绕，再编辑战斗。
+黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。
 
-@yourPlugAI · [Prompt source](https://x.com/yourPlugAI/status/2105587110639985048) · [Video source](https://x.com/yourPlugAI/status/2105585139703025950)
+@yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![悬崖庭院武侠对决 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105584577834094592/img/IffKHiHLs1L0FCHb.jpg)
+![悬崖庭院武侠对决 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp)
 
-[Watch original video](https://x.com/yourPlugAI/status/2105585139703025950) · [MP4 source](https://video.twimg.com/amplify_video/2105584577834094592/vid/avc1/1280x720/M8XTVuWIAsQNt4wh.mp4?tag=29) · 20.085s (source metadata) · 16:9
+<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.085s · 16:9
 
 准备梅、振师傅和庭院三张参考图。先选固定跟拍或原文中的360度环绕，再编辑战斗。
 
@@ -109,9 +132,9 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 </details>
 
-- [character-sheet](https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg) · [Asset source](https://x.com/yourPlugAI/status/2105585851312857553)
+- <a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
 <details>
-<summary>Original asset prompt</summary>
+<summary>Original asset prompt / 参考图原始提示词</summary>
 
 ```text
 Asset 1: Character Sheet 1 Prompt — Mei (The Student)
@@ -125,9 +148,9 @@ Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realis
 
 </details>
 
-- [character-sheet](https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg) · [Asset source](https://x.com/yourPlugAI/status/2105586111116464293)
+- <a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
 <details>
-<summary>Original asset prompt</summary>
+<summary>Original asset prompt / 参考图原始提示词</summary>
 
 ```text
 Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)
@@ -141,9 +164,9 @@ Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realis
 
 </details>
 
-- [environment-sheet](https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg) · [Asset source](https://x.com/yourPlugAI/status/2105586309913882863)
+- <a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">environment-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
 <details>
-<summary>Original asset prompt</summary>
+<summary>Original asset prompt / 参考图原始提示词</summary>
 
 ```text
 Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn
@@ -156,15 +179,16 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 
 </details>
 
+<a id="pink-haired-fire-witch"></a>
 ### 粉发小女巫与魔法火苗
 
-先准备作者角色参考图，再改动作。保持粉发、服装和火苗设计一致。
+粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。
 
-@imhealmachine · [Prompt source](https://x.com/imhealmachine/status/2105659020359184617) · [Video source](https://x.com/imhealmachine/status/2105659013572800732)
+@imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![粉发小女巫与魔法火苗 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg)
+![粉发小女巫与魔法火苗 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp)
 
-[Watch original video](https://x.com/imhealmachine/status/2105659013572800732) · [MP4 source](https://video.twimg.com/amplify_video/2105658611905216512/vid/avc1/1280x720/_7Ny8UCvhPc-oGE6.mp4?tag=29) · 20.041s (source metadata) · 16:9
+<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
 先准备作者角色参考图，再改动作。保持粉发、服装和火苗设计一致。
 
@@ -328,9 +352,9 @@ Avoid distorted hands or facial features.
 
 </details>
 
-- [character-reference](https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg) · [Asset source](https://x.com/imhealmachine/status/2105659016470995438)
+- <a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-reference</a> · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
 <details>
-<summary>Original asset prompt</summary>
+<summary>Original asset prompt / 参考图原始提示词</summary>
 
 ```text
 fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa
@@ -338,159 +362,16 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 
 </details>
 
-### Astra天空战斗
-
-使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。
-
-@itsPixieVerse · [Prompt source](https://x.com/itsPixieVerse/status/2105697908624617880) · [Video source](https://x.com/itsPixieVerse/status/2105697902043800063)
-
-![Astra天空战斗 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105695925507403776/img/BMmk5_TUvCFqwFGm.jpg)
-
-[Watch original video](https://x.com/itsPixieVerse/status/2105697902043800063) · [MP4 source](https://video.twimg.com/amplify_video/2105695925507403776/vid/avc1/1280x720/usb3PDbfNu-TKg8B.mp4?tag=29) · 19.272s (source metadata) · 16:9
-
-使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。
-
-<details>
-<summary>Complete original prompt / 完整原文</summary>
-
-```text
-STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
-
-WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
-
-CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
-
-CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
-- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
-- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
-- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
-- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
-- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
-- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
-
-LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
-
-weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
-```
-
-</details>
-
-<details>
-<summary>中文编辑稿（独立改写）</summary>
-
-```text
-Astra天空战斗（中文编辑稿）
-风格：电影感2.5D绘画动画，如动态水粉概念稿。皮肤、布料和建筑保留笔触，硬边光形与色块、哑光表面、体积光和浅景深。避免黑色粗轮廓、赛璐璐、光滑CGI、写实或塑料皮肤。
-世界：Sol-Vara的Stratos盆地，15000英尺高空，黄铜悬臂跑道与吊索塔悬在雷云海上，强风、雨幕与穿云阳光。
-角色：成年女英雄Astra，银白长发、翡翠绿眼、白色短运动上衣、蓝灰斗篷和短裤、棕色工具腰包、绿色黄铜护腕、黑色长靴。身材高挑、哑光厚笔触，拳头发出垂直白金光束。使用作者参考图固定造型。
-0–3秒：护腕极近景，白金能量从拳头垂直爆发，光反映在眼睛里，尖锐音爆。
-3–6秒：低机位跟拍，Astra沿雨湿黄铜平台高速膝滑；炮弹摧毁身后走道，斗篷和头发随烟尘飞散。
-6–9秒：快速推进面部，她带着自信笑容跃出平台，头朝下冲入浮空战舰之间。
-9–13秒：FPV视角在风暴云中追随坠落，右臂后收，将闪电与阳光吸入拳头，变成小型太阳。
-13–17秒：低角度宽景，拳头击中巨舰装甲舰桥，白金环形冲击波劈开船体与云层。
-17–20秒：低机位三分之四英雄镜头，她三点着陆在吊索上，起身，斗篷映衬金色天空，护腕余火冒烟，直视镜头并定格。
-保持每镜三层深度分离，冷灰阴影、高空轮廓光及拳头白金闪光。角色动作有重量，发丝布料响应风切，冲击后有惯性与反冲。
-```
-
-</details>
-
-- [character-portrait](https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg) · [Asset source](https://x.com/itsPixieVerse/status/2105697908624617880)
-<details>
-<summary>Original asset prompt</summary>
-
-```text
-Kling 4.0 Flash Prompt:
-
-STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
-
-WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
-
-CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
-
-CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
-- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
-- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
-- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
-- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
-- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
-- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
-
-LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
-
-weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
-```
-
-</details>
-
-- [character-sheet](https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg) · [Asset source](https://x.com/itsPixieVerse/status/2105697908624617880)
-<details>
-<summary>Original asset prompt</summary>
-
-```text
-Kling 4.0 Flash Prompt:
-
-STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
-
-WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
-
-CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
-
-CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
-- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
-- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
-- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
-- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
-- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
-- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
-
-LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
-
-weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
-```
-
-</details>
-
-### 相扑双人花滑
-
-明确选择画幅。原文要求竖屏，示例视频为16:9横屏。
-
-@techhalla · [Prompt source](https://x.com/techhalla/status/2105808684680945905) · [Video source](https://x.com/techhalla/status/2105808684680945905)
-
-![相扑双人花滑 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105808245298286592/img/3k8O94N3KTMW1e5B.jpg)
-
-[Watch original video](https://x.com/techhalla/status/2105808684680945905) · [MP4 source](https://video.twimg.com/amplify_video/2105808245298286592/vid/avc1/1280x720/HAcevN27PZLoS4zg.mp4?tag=29) · 20.053s (source metadata) · 16:9
-
-明确选择画幅。原文要求竖屏，示例视频为16:9横屏。
-
-<details>
-<summary>Complete original prompt / 完整原文</summary>
-
-```text
-Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.
-```
-
-</details>
-
-<details>
-<summary>中文编辑稿（独立改写）</summary>
-
-```text
-相扑双人花滑（中文编辑稿）
-明亮室内溜冰场的一场花滑比赛，写实竖屏手持手机摄影，屏幕无文字或字幕。两位极其壮硕的相扑运动员穿兜裆布、梳顶髻，优雅表演双人花滑：手牵手滑行，一人单臂将另一人高举头顶并旋转，然后将他抛出完成三周跳；落地重击让冰面开裂。最后两人优雅展开双臂，背景裁判举起评分牌。单一连续镜头、无剪切；浪漫管弦乐、冰刀摩擦声和一声沉重落地声。
-画幅操作：原文要求竖屏，作者附带视频为横屏。选择画幅后再编辑，不自动把原文“竖屏”改成横屏。
-```
-
-</details>
-
+<a id="pizza-delivery-cat"></a>
 ### 送披萨的猫
 
-配送猫偷吃披萨，交出餐盒后骑车逃跑并送出飞吻。
+配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。
 
-@Strength04_X · [Prompt source](https://x.com/Strength04_X/status/2105889942958440671) · [Video source](https://x.com/Strength04_X/status/2105889942958440671)
+@Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![送披萨的猫 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105889193734107136/img/dW9KNd68OJCA1MIB.jpg)
+![送披萨的猫 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp)
 
-[Watch original video](https://x.com/Strength04_X/status/2105889942958440671) · [MP4 source](https://video.twimg.com/amplify_video/2105889193734107136/vid/avc1/1280x720/5_BavjXpTeFL-0J_.mp4?tag=29) · 20.041s (source metadata) · 16:9
+<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
 先选16:9横屏或9:16竖屏，再统一提示词。原文混用两种比例，附带视频是横屏。
 
@@ -701,15 +582,16 @@ REALISM REQUIREMENTS
 
 </details>
 
+<a id="korea-fashion-travel-film"></a>
 ### 韩国旅行时尚广告
 
-先确定总时长，再调整分镜：标题写20秒，分镜延伸到30秒。保持旅人和服装一致。
+红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。
 
-@Diplomeme · [Prompt source](https://x.com/Diplomeme/status/2105902453770342795) · [Video source](https://x.com/Diplomeme/status/2105902453770342795)
+@Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![韩国旅行时尚广告 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105901540355776512/img/R9SlK7d0Ox7aw0yv.jpg)
+![韩国旅行时尚广告 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp)
 
-[Watch original video](https://x.com/Diplomeme/status/2105902453770342795) · [MP4 source](https://video.twimg.com/amplify_video/2105901540355776512/vid/avc1/1280x720/I1ucY0jSmZbL1MYF.mp4?tag=29) · 20.041s (source metadata) · 16:9
+<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
 先确定总时长，再调整分镜：标题写20秒，分镜延伸到30秒。保持旅人和服装一致。
 
@@ -1348,15 +1230,16 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 </details>
 
+<a id="fox-owl-library"></a>
 ### 图书馆狐狸与猫头鹰
 
-自信狐狸向猫头鹰询问自己的学识，却得到关于衣着的冷幽默回答。
+自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
 
-@Alin_Reaper05 · [Prompt source](https://x.com/Alin_Reaper05/status/2105981906869199107) · [Video source](https://x.com/Alin_Reaper05/status/2105981903727694047)
+@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![图书馆狐狸与猫头鹰 — author video poster](https://pbs.twimg.com/amplify_video_thumb/2105980516369403904/img/h4ecmsJrZLQtjWwc.jpg)
+![图书馆狐狸与猫头鹰 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp)
 
-[Watch original video](https://x.com/Alin_Reaper05/status/2105981903727694047) · [MP4 source](https://video.twimg.com/amplify_video/2105980516369403904/vid/avc1/1280x720/SS7ku4X6rrCLct7y.mp4?tag=29) · 20.041s (source metadata) · 16:9
+<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
 文生视频示例。保持两位角色、图书馆暖光和对话节奏一致。
 
@@ -1381,14 +1264,167 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 </details>
 
-## 投稿与维护
+<a id="astra-sky-battle"></a>
+### Astra天空战斗
 
-[Submit a prompt](https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts/issues/new?template=submit-prompt.yml) · [CONTRIBUTING](CONTRIBUTING.md) · [Data contract](docs/data-contract.md)
+绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。
 
-维护者标记 `approved` 后仅生成待审JSON草稿，不自动合并、发布或改网站。`content/` 是唯一编辑源；README、分类和导出必须通过同步检查。
+@itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-## 归属与许可
+![Astra天空战斗 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp)
 
-Repository code is MIT licensed. Third-party prompts, reference images and videos remain the property of their authors. Public source links do not grant a redistribution license. See [CONTENT_RIGHTS](CONTENT_RIGHTS.md).
+<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 19.272s · 16:9
 
-Validation utilities adapted from [BravoNeo’s GPT Image 2.5 repository](https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts).
+使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。
+
+<details>
+<summary>Complete original prompt / 完整原文</summary>
+
+```text
+STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
+
+WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
+
+CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
+
+CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
+- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
+- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
+- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
+- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
+- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
+- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
+
+LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
+
+weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
+```
+
+</details>
+
+<details>
+<summary>中文编辑稿（独立改写）</summary>
+
+```text
+Astra天空战斗（中文编辑稿）
+风格：电影感2.5D绘画动画，如动态水粉概念稿。皮肤、布料和建筑保留笔触，硬边光形与色块、哑光表面、体积光和浅景深。避免黑色粗轮廓、赛璐璐、光滑CGI、写实或塑料皮肤。
+世界：Sol-Vara的Stratos盆地，15000英尺高空，黄铜悬臂跑道与吊索塔悬在雷云海上，强风、雨幕与穿云阳光。
+角色：成年女英雄Astra，银白长发、翡翠绿眼、白色短运动上衣、蓝灰斗篷和短裤、棕色工具腰包、绿色黄铜护腕、黑色长靴。身材高挑、哑光厚笔触，拳头发出垂直白金光束。使用作者参考图固定造型。
+0–3秒：护腕极近景，白金能量从拳头垂直爆发，光反映在眼睛里，尖锐音爆。
+3–6秒：低机位跟拍，Astra沿雨湿黄铜平台高速膝滑；炮弹摧毁身后走道，斗篷和头发随烟尘飞散。
+6–9秒：快速推进面部，她带着自信笑容跃出平台，头朝下冲入浮空战舰之间。
+9–13秒：FPV视角在风暴云中追随坠落，右臂后收，将闪电与阳光吸入拳头，变成小型太阳。
+13–17秒：低角度宽景，拳头击中巨舰装甲舰桥，白金环形冲击波劈开船体与云层。
+17–20秒：低机位三分之四英雄镜头，她三点着陆在吊索上，起身，斗篷映衬金色天空，护腕余火冒烟，直视镜头并定格。
+保持每镜三层深度分离，冷灰阴影、高空轮廓光及拳头白金闪光。角色动作有重量，发丝布料响应风切，冲击后有惯性与反冲。
+```
+
+</details>
+
+- <a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-portrait</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+<details>
+<summary>Original asset prompt / 参考图原始提示词</summary>
+
+```text
+Kling 4.0 Flash Prompt:
+
+STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
+
+WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
+
+CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
+
+CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
+- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
+- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
+- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
+- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
+- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
+- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
+
+LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
+
+weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
+```
+
+</details>
+
+- <a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+<details>
+<summary>Original asset prompt / 参考图原始提示词</summary>
+
+```text
+Kling 4.0 Flash Prompt:
+
+STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
+
+WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
+
+CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
+
+CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
+- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
+- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
+- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
+- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
+- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
+- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
+
+LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
+
+weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
+```
+
+</details>
+
+<a id="sumo-pair-figure-skating"></a>
+### 相扑双人花滑
+
+两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。
+
+@techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+
+![相扑双人花滑 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp)
+
+<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.053s · 16:9
+
+明确选择画幅。原文要求竖屏，示例视频为16:9横屏。
+
+<details>
+<summary>Complete original prompt / 完整原文</summary>
+
+```text
+Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.
+```
+
+</details>
+
+<details>
+<summary>中文编辑稿（独立改写）</summary>
+
+```text
+相扑双人花滑（中文编辑稿）
+明亮室内溜冰场的一场花滑比赛，写实竖屏手持手机摄影，屏幕无文字或字幕。两位极其壮硕的相扑运动员穿兜裆布、梳顶髻，优雅表演双人花滑：手牵手滑行，一人单臂将另一人高举头顶并旋转，然后将他抛出完成三周跳；落地重击让冰面开裂。最后两人优雅展开双臂，背景裁判举起评分牌。单一连续镜头、无剪切；浪漫管弦乐、冰刀摩擦声和一声沉重落地声。
+画幅操作：原文要求竖屏，作者附带视频为横屏。选择画幅后再编辑，不自动把原文“竖屏”改成横屏。
+```
+
+</details>
+
+## 查看更多作品
+
+在 <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling 4.0 Flash 在线作品库</a> 浏览与复制更多案例，或到 <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> 寻找新的创作方向。
+
+| 其他模型合集 | 在线浏览 | GitHub |
+| --- | --- | --- |
+| GPT Image 2.5 | <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
+| Nano Banana 2.1 | <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
+
+## 分享你的作品
+
+欢迎通过 <a href="https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿 Issue</a>，附完整原始提示词、作者、准确原帖、模型名称和对应输出。若用到参考图片，请与输出分开标明。
+
+## 归属与使用
+
+提示词和作品归各自创作者所有。作者原帖保留在每个案例中；进一步使用请尊重原作者的授权与要求。模型署名沿用创作者声明。 详见 [内容归属说明](CONTENT_RIGHTS.md)。仓库代码采用 [MIT](LICENSE) 许可。
+
+[维护与数据说明](docs/maintaining.md)

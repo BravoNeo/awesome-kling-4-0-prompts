@@ -1,0 +1,61 @@
+{
+  "featured": [
+    "cliffside-wuxia-duel",
+    "pink-haired-fire-witch",
+    "pizza-delivery-cat",
+    "korea-fashion-travel-film",
+    "fox-owl-library"
+  ],
+  "descriptions": {
+    "cliffside-wuxia-duel": {
+      "en": "Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.",
+      "zh": "黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。"
+    },
+    "pink-haired-fire-witch": {
+      "en": "A tiny fire witch practices a spell with a colorful character reference and expressive animation.",
+      "zh": "粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。"
+    },
+    "astra-sky-battle": {
+      "en": "A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.",
+      "zh": "绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。"
+    },
+    "sumo-pair-figure-skating": {
+      "en": "Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.",
+      "zh": "两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。"
+    },
+    "pizza-delivery-cat": {
+      "en": "A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.",
+      "zh": "配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。"
+    },
+    "korea-fashion-travel-film": {
+      "en": "A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.",
+      "zh": "红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。"
+    },
+    "fox-owl-library": {
+      "en": "A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.",
+      "zh": "自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。"
+    }
+  },
+  "media": {
+    "https://pbs.twimg.com/amplify_video_thumb/2105584577834094592/img/IffKHiHLs1L0FCHb.jpg": "https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp",
+    "https://video.twimg.com/amplify_video/2105584577834094592/vid/avc1/1280x720/M8XTVuWIAsQNt4wh.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4",
+    "https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg": "https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp",
+    "https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg": "https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp",
+    "https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg": "https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp",
+    "https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg": "https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp",
+    "https://video.twimg.com/amplify_video/2105658611905216512/vid/avc1/1280x720/_7Ny8UCvhPc-oGE6.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4",
+    "https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg": "https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp",
+    "https://pbs.twimg.com/amplify_video_thumb/2105695925507403776/img/BMmk5_TUvCFqwFGm.jpg": "https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp",
+    "https://video.twimg.com/amplify_video/2105695925507403776/vid/avc1/1280x720/usb3PDbfNu-TKg8B.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4",
+    "https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg": "https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp",
+    "https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg": "https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp",
+    "https://pbs.twimg.com/amplify_video_thumb/2105808245298286592/img/3k8O94N3KTMW1e5B.jpg": "https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp",
+    "https://video.twimg.com/amplify_video/2105808245298286592/vid/avc1/1280x720/HAcevN27PZLoS4zg.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4",
+    "https://pbs.twimg.com/amplify_video_thumb/2105889193734107136/img/dW9KNd68OJCA1MIB.jpg": "https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp",
+    "https://video.twimg.com/amplify_video/2105889193734107136/vid/avc1/1280x720/5_BavjXpTeFL-0J_.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4",
+    "https://pbs.twimg.com/amplify_video_thumb/2105901540355776512/img/R9SlK7d0Ox7aw0yv.jpg": "https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp",
+    "https://video.twimg.com/amplify_video/2105901540355776512/vid/avc1/1280x720/I1ucY0jSmZbL1MYF.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4",
+    "https://pbs.twimg.com/amplify_video_thumb/2105980516369403904/img/h4ecmsJrZLQtjWwc.jpg": "https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp",
+    "https://video.twimg.com/amplify_video/2105980516369403904/vid/avc1/1280x720/SS7ku4X6rrCLct7y.mp4?tag=29": "https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4"
+  }
+}
