@@ -1,62 +1,74 @@
-# Awesome Kling 4.0 Flash Prompts
+# Awesome Kling 4.0 Prompts
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
+**Watch the result. Read the full prompt. Build your next scene.**
 
-ReelDance is a multi-model AI image and video creation platform. Turn text into images or videos, animate an image, and choose a model for your project.
+A Kling 4.0 series collection curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>. Explore action choreography, expressive characters, visual comedy and travel films through complete prompts paired with their videos and input references.
 
-7 video prompts from 7 creators, spanning action, character animation, comedy and travel films. Each example pairs the complete original prompt with a video preview, creator credit and the separate prompt and video posts.
+**7 video examples · 7 creators · English & 中文**
 
-<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Browse the online gallery</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">Explore more inspiration</a>
+All 7 current examples are attributed to **Kling 4.0 Flash** by their creators. Each entry keeps its exact model label; a Flash example is not a full Kling 4.0 result.
 
-## About Kling 4.0 Flash
+[Featured videos](#featured-videos) · [Browse by use](#browse-by-use) · [All prompts](#prompts-and-videos) · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a>
 
-Kling 4.0 Flash is the video model named by the creators in this collection. These examples show how to describe action, camera movement, dialogue and sound across a sequence of shots. Find the current model information and creation tools at <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a>.
+Presentation refreshed: **2026-10-21** · Original prompts and source credits preserved.
 
-## How to use these prompts
+<a id="featured-videos"></a>
+## Featured videos
 
-1. Watch a video and expand its complete original prompt to study the shots, movement and sound.
-2. Prepare any character or scene references, then choose your framing and duration.
-3. Copy the prompt into a tool that supports the model, adapt it to your story and refine the result. Chinese editorial adaptations are kept separate from the original.
+Click a cover to watch its video, then open the complete case. All featured works are creator-attributed Kling 4.0 Flash examples.
 
-## Start with these examples
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="480" /></a><br/><strong>Cliffside Wuxia Duel</strong><br/>Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.<br/><sub>Kling 4.0 Flash · @yourPlugAI</sub><br/><a href="#cliffside-wuxia-duel">Full prompt & references →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="480" /></a><br/><strong>Pink-Haired Fire Witch</strong><br/>A tiny fire witch practices a spell with a colorful character reference and expressive animation.<br/><sub>Kling 4.0 Flash · @imhealmachine</sub><br/><a href="#pink-haired-fire-witch">Full prompt & references →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="480" /></a><br/><strong>Pizza Delivery Cat</strong><br/>A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.<br/><sub>Kling 4.0 Flash · @Strength04_X</sub><br/><a href="#pizza-delivery-cat">Full prompt & references →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="480" /></a><br/><strong>Korea Fashion Travel Film</strong><br/>A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.<br/><sub>Kling 4.0 Flash · @Diplomeme</sub><br/><a href="#korea-fashion-travel-film">Full prompt & references →</a></td>
+</tr>
+</table>
 
-| Example | What to explore |
+
+<a id="browse-by-use"></a>
+## Browse by use
+
+| Use | Examples |
 | --- | --- |
-| [Cliffside Wuxia Duel](#cliffside-wuxia-duel) | Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion. |
-| [Pink-Haired Fire Witch](#pink-haired-fire-witch) | A tiny fire witch practices a spell with a colorful character reference and expressive animation. |
-| [Pizza Delivery Cat](#pizza-delivery-cat) | A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss. |
-| [Korea Fashion Travel Film](#korea-fashion-travel-film) | A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes. |
-| [Fox and Owl in the Library](#fox-owl-library) | A proud fox asks an owl about his intellect and receives a dry compliment about his clothes. |
+| Travel & commercial | [Korea Fashion Travel Film](#korea-fashion-travel-film) |
+| Comedy | [Pizza Delivery Cat](#pizza-delivery-cat) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) |
+| Character animation | [Pink-Haired Fire Witch](#pink-haired-fire-witch) · [Fox and Owl in the Library](#fox-owl-library) |
+| Action | [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Astra Sky Battle](#astra-sky-battle) |
 
+<details>
+<summary>Browse styles & subjects</summary>
 
-## Browse categories
+- **Cinematic realism:** [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Pizza Delivery Cat](#pizza-delivery-cat) · [Korea Fashion Travel Film](#korea-fashion-travel-film) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [Fox and Owl in the Library](#fox-owl-library)
+- **Cozy animation:** [Pink-Haired Fire Witch](#pink-haired-fire-witch)
+- **Painterly animation:** [Astra Sky Battle](#astra-sky-battle)
+- **Travelers:** [Korea Fashion Travel Film](#korea-fashion-travel-film)
+- **Animals:** [Pizza Delivery Cat](#pizza-delivery-cat) · [Fox and Owl in the Library](#fox-owl-library)
+- **Athletes:** [Sumo Pair Figure Skating](#sumo-pair-figure-skating)
+- **Witches:** [Pink-Haired Fire Witch](#pink-haired-fire-witch)
+- **Heroes:** [Astra Sky Battle](#astra-sky-battle)
+- **Martial arts:** [Cliffside Wuxia Duel](#cliffside-wuxia-duel)
 
-- [Travel & commercial](references/use/travel-commercial.json) — 1
-- [Comedy](references/use/comedy.json) — 2
-- [Character animation](references/use/character-animation.json) — 2
-- [Action](references/use/action.json) — 2
-- [Cinematic realism](references/style/cinematic-realism.json) — 5
-- [Cozy animation](references/style/cozy-animation.json) — 1
-- [Painterly animation](references/style/painterly-animation.json) — 1
-- [Travelers](references/subject/travelers.json) — 1
-- [Animals](references/subject/animals.json) — 2
-- [Athletes](references/subject/athletes.json) — 1
-- [Witches](references/subject/witches.json) — 1
-- [Heroes](references/subject/heroes.json) — 1
-- [Martial arts](references/subject/martial-arts.json) — 1
+</details>
 
+<a id="prompts-and-videos"></a>
 ## Prompts & videos
 
 <a id="cliffside-wuxia-duel"></a>
 ### Cliffside Wuxia Duel
 
+**Kling 4.0 Flash** · Creator-attributed · 3 linked input references
+
 Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.
 
 @yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Cliffside Wuxia Duel — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp)
+<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel — video preview" width="800" /></a>
 
 <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.085s · 16:9
 
@@ -163,11 +175,13 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 <a id="pink-haired-fire-witch"></a>
 ### Pink-Haired Fire Witch
 
+**Kling 4.0 Flash** · Creator-attributed · 1 linked input references
+
 A tiny fire witch practices a spell with a colorful character reference and expressive animation.
 
 @imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Pink-Haired Fire Witch — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp)
+<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch — video preview" width="800" /></a>
 
 <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -327,11 +341,13 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 <a id="pizza-delivery-cat"></a>
 ### Pizza Delivery Cat
 
+**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
+
 A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.
 
 @Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Pizza Delivery Cat — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp)
+<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat — video preview" width="800" /></a>
 
 <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -529,11 +545,13 @@ REALISM REQUIREMENTS
 <a id="korea-fashion-travel-film"></a>
 ### Korea Fashion Travel Film
 
+**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
+
 A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.
 
 @Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Korea Fashion Travel Film — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp)
+<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film — video preview" width="800" /></a>
 
 <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -1157,36 +1175,16 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 </details>
 
-<a id="fox-owl-library"></a>
-### Fox and Owl in the Library
-
-A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
-
-@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
-
-![Fox and Owl in the Library — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp)
-
-<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
-
-Text-to-video example. Keep the two characters, warm library lighting and conversational beats consistent.
-
-<details>
-<summary>Complete original prompt / 完整原文</summary>
-
-```text
-A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
-```
-
-</details>
-
 <a id="astra-sky-battle"></a>
 ### Astra Sky Battle
+
+**Kling 4.0 Flash** · Creator-attributed · 2 linked input references
 
 A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.
 
 @itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Astra Sky Battle — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp)
+<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle — video preview" width="800" /></a>
 
 <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 19.272s · 16:9
 
@@ -1276,11 +1274,13 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 <a id="sumo-pair-figure-skating"></a>
 ### Sumo Pair Figure Skating
 
+**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
+
 Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.
 
 @techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Sumo Pair Figure Skating — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp)
+<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating — video preview" width="800" /></a>
 
 <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.053s · 16:9
 
@@ -1295,6 +1295,38 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 </details>
 
+<a id="fox-owl-library"></a>
+### Fox and Owl in the Library
+
+**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
+
+A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
+
+@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+
+<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library — video preview" width="800" /></a>
+
+<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+
+Text-to-video example. Keep the two characters, warm library lighting and conversational beats consistent.
+
+<details>
+<summary>Complete original prompt / 完整原文</summary>
+
+```text
+A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
+```
+
+</details>
+
+## How to use these examples
+
+1. Open a video preview and study the motion, pacing and camera.
+2. Read the input note and prepare the linked reference assets, where supplied.
+3. Expand **Complete original prompt**, copy it and adapt the scene in a tool supporting the stated model. Original wording and Chinese editorial adaptations are separate.
+
+Choose the exact model and available controls in your tool. Creator prompts describe intentions, not guaranteed outputs or an official specification. See <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a> for model information.
+
 ## Discover more
 
 Visit the <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling 4.0 Flash gallery</a> for more examples and prompt copying, or explore <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> for a new direction.
@@ -1306,7 +1338,11 @@ Visit the <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow n
 
 ## Share your work
 
-Have an example to share? Open a <a href="https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">submission issue</a> with the complete original prompt, creator credit, original post, model name and corresponding output. Identify any input references separately.
+Have an example to share? Open a <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">submission issue</a> with the complete original prompt, creator credit, original post, model name and corresponding output. Identify any input references separately.
+
+Submissions are reviewed for prompt completeness, source/video pairing, exact model attribution and reference assets before inclusion. See [contribution requirements](CONTRIBUTING.md). No automatic publication or review-time guarantee.
+
+If this collection helps your next project, star it to find it again.
 
 ## Attribution & use
 

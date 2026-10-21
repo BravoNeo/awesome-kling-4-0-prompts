@@ -1,21 +1,15 @@
-# Awesome Kling 4.0 Flash Prompts
+# Awesome Kling 4.0 Prompts
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Curated by [ReelDance](https://reeldance.ai/)**
+**Watch the result. Read the full prompt. Build your next scene.**
 
-ReelDance is a multi-model AI image and video creation platform. Turn text into images or videos, animate an image, and choose a model for your project.
+A Kling 4.0 series collection curated by [ReelDance](https://reeldance.ai/). Explore action choreography, expressive characters, visual comedy and travel films through complete prompts paired with their videos and input references.
 
-{{count}} video prompts from {{creators}} creators, spanning action, character animation, comedy and travel films. Each example pairs the complete original prompt with a video preview, creator credit and the separate prompt and video posts.
+**{{count}} video examples · {{creators}} creators · English & 中文**
 
-[Browse the online gallery](https://reeldance.ai/kling-4-0-flash-prompts) · [Explore more inspiration](https://reeldance.ai/explore)
+All {{count}} current examples are attributed to **Kling 4.0 Flash** by their creators. Each entry keeps its exact model label; a Flash example is not a full Kling 4.0 result.
 
-## About Kling 4.0 Flash
+[Featured videos](#featured-videos) · [Browse by use](#browse-by-use) · [All prompts](#prompts-and-videos) · [Submit a prompt](https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml)
 
-Kling 4.0 Flash is the video model named by the creators in this collection. These examples show how to describe action, camera movement, dialogue and sound across a sequence of shots. Find the current model information and creation tools at [Kling AI](https://kling.ai/).
-
-## How to use these prompts
-
-1. Watch a video and expand its complete original prompt to study the shots, movement and sound.
-2. Prepare any character or scene references, then choose your framing and duration.
-3. Copy the prompt into a tool that supports the model, adapt it to your story and refine the result. Chinese editorial adaptations are kept separate from the original.
+Presentation refreshed: **{{updated}}** · Original prompts and source credits preserved.

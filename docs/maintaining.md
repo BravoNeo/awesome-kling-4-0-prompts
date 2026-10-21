@@ -40,3 +40,9 @@ imports its catalog at a pinned commit for each build; Kling and Nano use review
 source locks. Any future data change requires the website's separate import,
 validation and publication workflow. Do not update website source locks just to
 point them at a README-only commit.
+
+## Kling 4.0 series presentation (2026-10-21)
+
+The repository is now named `BravoNeo/awesome-kling-4-0-prompts`. Its seven current entries and machine-readable export remain an unchanged Flash dataset. Full Kling 4.0 submissions require a separate reviewed schema/import update before inclusion; never relabel Flash entries. Existing website paths and source locks remain unchanged. The website may follow GitHub redirects for the old repository URL; this presentation release does not deploy the site.
+
+Featured covers reuse matching CDN posters and link to their actual videos. Categories link to case anchors, not raw JSON. `presentationUpdated` records a presentation refresh, not a new content acquisition date.

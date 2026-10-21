@@ -14,7 +14,7 @@ def presentation():
 def template(part, locale, entries):
     value = (ROOT / f'docs/readme-{part}.{locale}.md').read_text(encoding='utf-8')
     creators = len({e['author']['handle'] for e in entries})
-    return value.replace('{{count}}', str(len(entries))).replace('{{creators}}', str(creators)).rstrip()
+    return value.replace('{{count}}', str(len(entries))).replace('{{creators}}', str(creators)).replace('{{updated}}', presentation()['presentationUpdated']).rstrip()
 
 
 def featured_entries(entries):
@@ -27,13 +27,18 @@ def featured_navigation(entries, locale):
     zh = locale == 'zh'
     config = presentation()
     selected = [e for e in featured_entries(entries) if e['slug'] in config['featured']]
-    rows = ['## ' + ('从这些作品开始' if zh else 'Start with these examples'), '',
-            '| ' + ('作品 | 看点 |' if zh else 'Example | What to explore |'), '| --- | --- |']
-    for e in selected:
-        title = e['title'].get(locale) or e['title']['en']
-        title = html.escape(title).replace('|', '&#124;')
-        description = config.get('descriptions', {}).get(e['slug'], {}).get(locale) or e['description'].get(locale) or e['description']['en']
-        rows.append(f"| [{title}](#{e['slug']}) | {html.escape(description).replace('|', '&#124;')} |")
+    rows = ['<a id="featured-videos"></a>', '## ' + ('精选视频' if zh else 'Featured videos'), '',
+            ('点击封面观看对应视频，再打开完整案例。全部为作者标注的 Kling 4.0 Flash 作品。' if zh else 'Click a cover to watch its video, then open the complete case. All featured works are creator-attributed Kling 4.0 Flash examples.'), '', '<table>']
+    for i, e in enumerate(selected):
+        if i % 2 == 0: rows.append('<tr>')
+        title = html.escape(e['title'][locale])
+        desc = html.escape(config['descriptions'][e['slug']][locale])
+        poster = media_url(e['video']['posterUrl'])
+        video = media_url(e['video']['url'])
+        label = '完整提示词与参考图' if zh else 'Full prompt & references'
+        rows.append(f'<td width="50%" valign="top"><a href="{video}" rel="nofollow noreferrer"><img src="{poster}" alt="{title}" width="480" /></a><br/><strong>{title}</strong><br/>{desc}<br/><sub>Kling 4.0 Flash · @{html.escape(e["author"]["handle"])}</sub><br/><a href="#{e["slug"]}">{label} →</a></td>')
+        if i % 2 == 1 or i == len(selected)-1: rows.append('</tr>')
+    rows.append('</table>')
     return '\n'.join(rows) + '\n'
 
 

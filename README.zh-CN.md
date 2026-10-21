@@ -1,62 +1,74 @@
-# Awesome Kling 4.0 Flash Prompts
+# Awesome Kling 4.0 Prompts
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>**
+**先看效果，再读完整提示词，开始构思下一段视频。**
 
-ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
+由 <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理的 Kling 4.0 系列提示词合集。通过完整原文、对应视频和输入参考素材，学习动作编排、角色表演、视觉喜剧与旅行短片。
 
-收集 7 位创作者的 7 组视频提示词与作品，涵盖动作、角色动画、喜剧和旅行短片。每个案例都保留完整原文、视频预览、作者署名，以及分别对应的提示词原帖和视频原帖。
+**7 个视频案例 · 7 位创作者 · 中英双语**
 
-<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
+目前 7 个案例均由作者标注为 **Kling 4.0 Flash**。每条保留准确的模型名称，Flash 作品不作为完整 Kling 4.0 的生成结果展示。
 
-## 关于 Kling 4.0 Flash
+[精选视频](#featured-videos) · [按用途浏览](#browse-by-use) · [全部提示词](#prompts-and-videos) · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿</a>
 
-Kling 4.0 Flash 是本合集创作者使用并注明的视频模型。这些案例展示了如何在连续镜头中描述动作、运镜、对白和声音。最新模型信息与创作工具见 <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a>。
+展示更新：**2026-10-21** · 保留原始提示词与来源署名。
 
-## 如何使用
+<a id="featured-videos"></a>
+## 精选视频
 
-1. 先看视频，展开完整原文，了解镜头、动作和声音怎样配合。
-2. 根据案例准备角色或场景参考图，并选择合适的画幅与时长。
-3. 将提示词复制到支持该模型的工具，按自己的故事改写，再逐步调整。中文编辑稿另列在原文下方。
+点击封面观看对应视频，再打开完整案例。全部为作者标注的 Kling 4.0 Flash 作品。
 
-## 从这些作品开始
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决" width="480" /></a><br/><strong>悬崖庭院武侠对决</strong><br/>黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。<br/><sub>Kling 4.0 Flash · @yourPlugAI</sub><br/><a href="#cliffside-wuxia-duel">完整提示词与参考图 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗" width="480" /></a><br/><strong>粉发小女巫与魔法火苗</strong><br/>粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。<br/><sub>Kling 4.0 Flash · @imhealmachine</sub><br/><a href="#pink-haired-fire-witch">完整提示词与参考图 →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫" width="480" /></a><br/><strong>送披萨的猫</strong><br/>配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。<br/><sub>Kling 4.0 Flash · @Strength04_X</sub><br/><a href="#pizza-delivery-cat">完整提示词与参考图 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告" width="480" /></a><br/><strong>韩国旅行时尚广告</strong><br/>红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。<br/><sub>Kling 4.0 Flash · @Diplomeme</sub><br/><a href="#korea-fashion-travel-film">完整提示词与参考图 →</a></td>
+</tr>
+</table>
 
-| 作品 | 看点 |
+
+<a id="browse-by-use"></a>
+## 按用途浏览
+
+| 用途 | 案例 |
 | --- | --- |
-| [悬崖庭院武侠对决](#cliffside-wuxia-duel) | 黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。 |
-| [粉发小女巫与魔法火苗](#pink-haired-fire-witch) | 粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。 |
-| [送披萨的猫](#pizza-delivery-cat) | 配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。 |
-| [韩国旅行时尚广告](#korea-fashion-travel-film) | 红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。 |
-| [图书馆狐狸与猫头鹰](#fox-owl-library) | 自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。 |
+| 旅行与广告 | [韩国旅行时尚广告](#korea-fashion-travel-film) |
+| 喜剧 | [送披萨的猫](#pizza-delivery-cat) · [相扑双人花滑](#sumo-pair-figure-skating) |
+| 角色动画 | [粉发小女巫与魔法火苗](#pink-haired-fire-witch) · [图书馆狐狸与猫头鹰](#fox-owl-library) |
+| 动作 | [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [Astra天空战斗](#astra-sky-battle) |
 
+<details>
+<summary>按风格与主题浏览</summary>
 
-## 分类浏览
+- **电影写实:** [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [送披萨的猫](#pizza-delivery-cat) · [韩国旅行时尚广告](#korea-fashion-travel-film) · [相扑双人花滑](#sumo-pair-figure-skating) · [图书馆狐狸与猫头鹰](#fox-owl-library)
+- **温暖动画:** [粉发小女巫与魔法火苗](#pink-haired-fire-witch)
+- **绘画动画:** [Astra天空战斗](#astra-sky-battle)
+- **旅人:** [韩国旅行时尚广告](#korea-fashion-travel-film)
+- **动物:** [送披萨的猫](#pizza-delivery-cat) · [图书馆狐狸与猫头鹰](#fox-owl-library)
+- **运动员:** [相扑双人花滑](#sumo-pair-figure-skating)
+- **女巫:** [粉发小女巫与魔法火苗](#pink-haired-fire-witch)
+- **英雄:** [Astra天空战斗](#astra-sky-battle)
+- **武术:** [悬崖庭院武侠对决](#cliffside-wuxia-duel)
 
-- [旅行与广告](references/use/travel-commercial.json) — 1
-- [喜剧](references/use/comedy.json) — 2
-- [角色动画](references/use/character-animation.json) — 2
-- [动作](references/use/action.json) — 2
-- [电影写实](references/style/cinematic-realism.json) — 5
-- [温暖动画](references/style/cozy-animation.json) — 1
-- [绘画动画](references/style/painterly-animation.json) — 1
-- [旅人](references/subject/travelers.json) — 1
-- [动物](references/subject/animals.json) — 2
-- [运动员](references/subject/athletes.json) — 1
-- [女巫](references/subject/witches.json) — 1
-- [英雄](references/subject/heroes.json) — 1
-- [武术](references/subject/martial-arts.json) — 1
+</details>
 
+<a id="prompts-and-videos"></a>
 ## 提示词与视频
 
 <a id="cliffside-wuxia-duel"></a>
 ### 悬崖庭院武侠对决
 
+**Kling 4.0 Flash** · 作者标注 · 3 个附带参考素材
+
 黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。
 
 @yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![悬崖庭院武侠对决 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp)
+<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决 — video preview" width="800" /></a>
 
 <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.085s · 16:9
 
@@ -182,11 +194,13 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 <a id="pink-haired-fire-witch"></a>
 ### 粉发小女巫与魔法火苗
 
+**Kling 4.0 Flash** · 作者标注 · 1 个附带参考素材
+
 粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。
 
 @imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![粉发小女巫与魔法火苗 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp)
+<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗 — video preview" width="800" /></a>
 
 <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -365,11 +379,13 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 <a id="pizza-delivery-cat"></a>
 ### 送披萨的猫
 
+**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
+
 配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。
 
 @Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![送披萨的猫 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp)
+<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫 — video preview" width="800" /></a>
 
 <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -585,11 +601,13 @@ REALISM REQUIREMENTS
 <a id="korea-fashion-travel-film"></a>
 ### 韩国旅行时尚广告
 
+**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
+
 红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。
 
 @Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![韩国旅行时尚广告 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp)
+<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告 — video preview" width="800" /></a>
 
 <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
 
@@ -1230,48 +1248,16 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 </details>
 
-<a id="fox-owl-library"></a>
-### 图书馆狐狸与猫头鹰
-
-自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
-
-@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
-
-![图书馆狐狸与猫头鹰 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp)
-
-<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
-
-文生视频示例。保持两位角色、图书馆暖光和对话节奏一致。
-
-<details>
-<summary>Complete original prompt / 完整原文</summary>
-
-```text
-A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
-```
-
-</details>
-
-<details>
-<summary>中文编辑稿（独立改写）</summary>
-
-```text
-狐狸与猫头鹰的图书馆（中文编辑稿）
-午后，一间宏伟的胡桃木镶板图书馆，写实电影场景。拟人红狐狸贵族穿森林绿长礼服、奶油色马甲、精心系好的丝质领巾。年长仓鸮学者站在书桌旁，穿深李紫天鹅绒外套，细小眼镜架在喙上方。暖窗光照出独根毛发和细密面羽。
-从双人中景开始，狐狸自信整理袖口，问：“你会说我是一个颇有学识的人吗？”切猫头鹰近景，思考片刻后答：“我会说你穿得相当体面。”虚化背景中，狐狸自豪的微笑缓缓消失。克制英式口吻、细微表情、可信动物解剖、精致年代剧摄影、轻柔时钟滴答声，无字幕。
-原始英文对白及完整原文另存，改写时保持问答与反应的节奏。
-```
-
-</details>
-
 <a id="astra-sky-battle"></a>
 ### Astra天空战斗
+
+**Kling 4.0 Flash** · 作者标注 · 2 个附带参考素材
 
 绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。
 
 @itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![Astra天空战斗 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp)
+<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra天空战斗 — video preview" width="800" /></a>
 
 <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 19.272s · 16:9
 
@@ -1380,11 +1366,13 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 <a id="sumo-pair-figure-skating"></a>
 ### 相扑双人花滑
 
+**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
+
 两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。
 
 @techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
 
-![相扑双人花滑 — video preview / 视频封面](https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp)
+<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="相扑双人花滑 — video preview" width="800" /></a>
 
 <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.053s · 16:9
 
@@ -1410,6 +1398,50 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 </details>
 
+<a id="fox-owl-library"></a>
+### 图书馆狐狸与猫头鹰
+
+**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
+
+自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
+
+@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+
+<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="图书馆狐狸与猫头鹰 — video preview" width="800" /></a>
+
+<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+
+文生视频示例。保持两位角色、图书馆暖光和对话节奏一致。
+
+<details>
+<summary>Complete original prompt / 完整原文</summary>
+
+```text
+A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
+```
+
+</details>
+
+<details>
+<summary>中文编辑稿（独立改写）</summary>
+
+```text
+狐狸与猫头鹰的图书馆（中文编辑稿）
+午后，一间宏伟的胡桃木镶板图书馆，写实电影场景。拟人红狐狸贵族穿森林绿长礼服、奶油色马甲、精心系好的丝质领巾。年长仓鸮学者站在书桌旁，穿深李紫天鹅绒外套，细小眼镜架在喙上方。暖窗光照出独根毛发和细密面羽。
+从双人中景开始，狐狸自信整理袖口，问：“你会说我是一个颇有学识的人吗？”切猫头鹰近景，思考片刻后答：“我会说你穿得相当体面。”虚化背景中，狐狸自豪的微笑缓缓消失。克制英式口吻、细微表情、可信动物解剖、精致年代剧摄影、轻柔时钟滴答声，无字幕。
+原始英文对白及完整原文另存，改写时保持问答与反应的节奏。
+```
+
+</details>
+
+## 如何使用这些案例
+
+1. 点击预览观看视频，观察动作、节奏和镜头。
+2. 阅读输入说明；如果提供参考素材，先准备对应角色或场景图。
+3. 展开「完整原文」，复制到支持所标注模型的工具中，再按自己的故事调整。中文编辑稿与原文分开保留。
+
+在使用的工具中选择准确模型和可用参数。作者提示词描述创作意图，不代表效果保证或官方规格。模型信息见 <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a>。
+
 ## 查看更多作品
 
 在 <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling 4.0 Flash 在线作品库</a> 浏览与复制更多案例，或到 <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> 寻找新的创作方向。
@@ -1421,10 +1453,14 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 ## 分享你的作品
 
-欢迎通过 <a href="https://github.com/BravoNeo/awesome-kling-4-0-flash-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿 Issue</a>，附完整原始提示词、作者、准确原帖、模型名称和对应输出。若用到参考图片，请与输出分开标明。
+欢迎通过 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿 Issue</a>，附完整原始提示词、作者、准确原帖、模型名称和对应输出。若用到参考图片，请与输出分开标明。
 
 ## 归属与使用
 
 提示词和作品归各自创作者所有。作者原帖保留在每个案例中；进一步使用请尊重原作者的授权与要求。模型署名沿用创作者声明。 详见 [内容归属说明](CONTENT_RIGHTS.md)。仓库代码采用 [MIT](LICENSE) 许可。
 
 [维护与数据说明](docs/maintaining.md)
+
+投稿需先审核完整原文、视频对应关系、准确模型归属与参考素材；不承诺自动发布或审核时限。详见 [投稿要求](CONTRIBUTING.md)。
+
+如果这些案例对你有帮助，可以 Star 收藏。

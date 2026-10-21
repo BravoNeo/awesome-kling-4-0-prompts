@@ -1,5 +1,5 @@
 """Generate deterministic docs and indexes from content only; no network or credentials."""
-import argparse, hashlib, json, re
+import argparse, hashlib, html, json, re
 from catalog import ROOT, load_entries, read_json
 from readme import template, featured_entries, featured_navigation, media_url, external_links, presentation
 
@@ -20,13 +20,21 @@ def build_outputs():
             categories.append({'axis':axis,'category':key,'labels':labels,'count':len(ids),'path':path})
     for locale,path in [('en','README.md'),('zh','README.zh-CN.md')]:
         zh=locale=='zh'
-        lines=[template('intro', locale, entries), '', featured_navigation(entries, locale), '', '## '+('分类浏览' if zh else 'Browse categories'), '']
+        lines=[template('intro', locale, entries), '', featured_navigation(entries, locale), '', '<a id="browse-by-use"></a>', '## '+('按用途浏览' if zh else 'Browse by use'), '']
+        lines += ['| '+('用途 | 案例 |' if zh else 'Use | Examples |'), '| --- | --- |']
         for c in categories:
-            lines.append(f'- [{c["labels"][locale]}]({c["path"]}) — {c["count"]}')
-        lines+=['','## '+('提示词与视频' if zh else 'Prompts & videos'),'']
+            if c['axis'] != 'use' or not c['count']: continue
+            links = ' · '.join(f"[{e['title'][locale]}](#{e['slug']})" for e in featured_entries(entries) if c['category'] in e['categories']['use'])
+            lines.append(f"| {c['labels'][locale]} | {links} |")
+        lines += ['', '<details>', '<summary>'+('按风格与主题浏览' if zh else 'Browse styles & subjects')+'</summary>', '']
+        for c in categories:
+            if c['axis'] == 'use' or not c['count']: continue
+            links = ' · '.join(f"[{e['title'][locale]}](#{e['slug']})" for e in featured_entries(entries) if c['category'] in e['categories'][c['axis']])
+            lines.append(f"- **{c['labels'][locale]}:** {links}")
+        lines += ['', '</details>', '', '<a id="prompts-and-videos"></a>', '## '+('提示词与视频' if zh else 'Prompts & videos'),'']
         for e in featured_entries(entries):
             v=e['video']
-            lines += [f'<a id="{e["slug"]}"></a>', '### '+e['title'][locale],'',presentation()['descriptions'][e['slug']][locale],'',f'@{e["author"]["handle"]} · [Prompt source / 提示词原帖]({e["promptSourceUrl"]}) · [Video source / 视频原帖]({e["videoSourceUrl"]})','',f'![{e["title"][locale]} — video preview / 视频封面]({media_url(v["posterUrl"])})','',f'[Watch original video]({e["videoSourceUrl"]}) · [Watch video / 观看视频]({media_url(v["url"])}) · {v["durationSecondsReported"]}s · {v["aspectRatioReported"][0]}:{v["aspectRatioReported"][1]}','',e['guidance'][locale],'','<details>','<summary>Complete original prompt / 完整原文</summary>','',fenced(e['originalPrompt']),'','</details>','']
+            lines += [f'<a id="{e["slug"]}"></a>', '### '+e['title'][locale],'', '**'+e['modelClaim']['name']+'** · '+('作者标注' if zh else 'Creator-attributed')+' · '+str(len(e['referenceAssets']))+(' 个附带参考素材' if zh else ' linked input references'), '',presentation()['descriptions'][e['slug']][locale],'',f'@{e["author"]["handle"]} · [Prompt source / 提示词原帖]({e["promptSourceUrl"]}) · [Video source / 视频原帖]({e["videoSourceUrl"]})','',f'<a href="{media_url(v["url"])}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)} — video preview" width="800" /></a>','',f'[Watch original video]({e["videoSourceUrl"]}) · [Watch video / 观看视频]({media_url(v["url"])}) · {v["durationSecondsReported"]}s · {v["aspectRatioReported"][0]}:{v["aspectRatioReported"][1]}','',e['guidance'][locale],'','<details>','<summary>Complete original prompt / 完整原文</summary>','',fenced(e['originalPrompt']),'','</details>','']
             if zh:lines += ['<details>','<summary>中文编辑稿（独立改写）</summary>','',fenced(e['editorialCopies']['zh']['text']),'','</details>','']
             for a in e['referenceAssets']:
                 lines += [f'- [{a["role"]}]({media_url(a["url"])}) · [Asset source / 参考图原帖]({a["sourceUrl"]})','<details>','<summary>Original asset prompt / 参考图原始提示词</summary>','',fenced(a['assetPromptOriginal']),'','</details>','']
