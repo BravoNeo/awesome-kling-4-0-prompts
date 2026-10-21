@@ -6,7 +6,7 @@
 
 A Kling 4.0 series collection curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>. Explore action choreography, expressive characters, visual comedy and travel films through complete prompts paired with their videos and input references.
 
-**7 video examples · 7 creators · English & 中文**
+**7 video examples · 7 creators · English edition**
 
 All 7 current examples are attributed to **Kling 4.0 Flash** by their creators. Each entry keeps its exact model label; a Flash example is not a full Kling 4.0 result.
 
@@ -66,16 +66,16 @@ Click a cover to watch its video, then open the complete case. All featured work
 
 Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.
 
-@yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel — Video preview" width="800" /></a>
 
-<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.085s · 16:9
+<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.085s · 16:9
 
 Prepare Mei, Master Zhen and the courtyard references. Choose a fixed tracking camera or the written 360-degree orbit before adapting the fight.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 [ENGINE DIRECTIVE]
@@ -125,9 +125,9 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 Asset 1: Character Sheet 1 Prompt — Mei (The Student)
@@ -141,9 +141,9 @@ Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realis
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)
@@ -157,9 +157,9 @@ Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realis
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">environment-sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">environment sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn
@@ -179,16 +179,16 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 
 A tiny fire witch practices a spell with a colorful character reference and expressive animation.
 
-@imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch — Video preview" width="800" /></a>
 
-<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
 
 Prepare the supplied character reference before adapting the sequence. Keep the pink hair, outfit and flame design recognizable.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 20-second cinematic animated short, 16:9 widescreen.
@@ -328,9 +328,9 @@ Avoid distorted hands or facial features.
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-reference</a> · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character reference</a> · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa
@@ -345,16 +345,16 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 
 A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.
 
-@Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat — Video preview" width="800" /></a>
 
-<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
 
 Choose 16:9 landscape or 9:16 portrait and make the prompt agree. The source mixes both; the attached video is landscape.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 Create an exactly 20 second ultra-realistic live-action comedy video, filmed as if recorded on an iPhone 18 Pro Max. Vertical 16:9, 1080×1920, 24fps.
@@ -549,16 +549,16 @@ REALISM REQUIREMENTS
 
 A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.
 
-@Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film — Video preview" width="800" /></a>
 
-<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
 
 Choose one duration before editing the shot list: the header says 20 seconds, while the timeline runs to 30 seconds. Keep the same traveler and wardrobe across shots.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 KOREA PREMIUM TRAVEL / FASHION FILM
@@ -1182,16 +1182,16 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.
 
-@itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle — Video preview" width="800" /></a>
 
-<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 19.272s · 16:9
+<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 19.272s · 16:9
 
 Use the supplied Astra portrait and character sheet to lock the character. Preserve the painterly look across all six cuts.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
@@ -1215,9 +1215,9 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-portrait</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character portrait</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1243,9 +1243,9 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character-sheet</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Asset source / 参考图原帖</a>
+- <a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
 <details>
-<summary>Original asset prompt / 参考图原始提示词</summary>
+<summary>Original reference prompt</summary>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1278,16 +1278,16 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.
 
-@techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating — Video preview" width="800" /></a>
 
-<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.053s · 16:9
+<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.053s · 16:9
 
 Set the intended framing explicitly. The original asks for vertical video; the attached example is 16:9 landscape.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.
@@ -1302,16 +1302,16 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
 
-@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source / 提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source / 视频原帖</a>
+@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
 
-<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library — video preview" width="800" /></a>
+<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library — Video preview" width="800" /></a>
 
-<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video / 观看视频</a> · 20.041s · 16:9
+<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
 
 Text-to-video example. Keep the two characters, warm library lighting and conversational beats consistent.
 
 <details>
-<summary>Complete original prompt / 完整原文</summary>
+<summary>Complete original prompt</summary>
 
 ```text
 A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
