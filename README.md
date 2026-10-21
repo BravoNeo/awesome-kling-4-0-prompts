@@ -13,16 +13,16 @@ The current collection features creator-attributed Kling 4.0 Flash videos.
 <a id="featured-videos"></a>
 ## Featured videos
 
-Click a cover to play.
+Click a cover to watch on X.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="480" /></a><br/><strong>Cliffside Wuxia Duel</strong><br/><a href="#cliffside-wuxia-duel">View prompt →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="480" /></a><br/><strong>Pink-Haired Fire Witch</strong><br/><a href="#pink-haired-fire-witch">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105584577834094592/img/IffKHiHLs1L0FCHb.jpg" alt="Cliffside Wuxia Duel" width="480" /></a><br/><strong>Cliffside Wuxia Duel</strong><br/><a href="#cliffside-wuxia-duel">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg" alt="Pink-Haired Fire Witch" width="480" /></a><br/><strong>Pink-Haired Fire Witch</strong><br/><a href="#pink-haired-fire-witch">View prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="480" /></a><br/><strong>Pizza Delivery Cat</strong><br/><a href="#pizza-delivery-cat">View prompt →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="480" /></a><br/><strong>Korea Fashion Travel Film</strong><br/><a href="#korea-fashion-travel-film">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105889193734107136/img/dW9KNd68OJCA1MIB.jpg" alt="Pizza Delivery Cat" width="480" /></a><br/><strong>Pizza Delivery Cat</strong><br/><a href="#pizza-delivery-cat">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105901540355776512/img/R9SlK7d0Ox7aw0yv.jpg" alt="Korea Fashion Travel Film" width="480" /></a><br/><strong>Korea Fashion Travel Film</strong><br/><a href="#korea-fashion-travel-film">View prompt →</a></td>
 </tr>
 </table>
 
@@ -98,9 +98,9 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="700" /></a>
+<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105584577834094592/img/IffKHiHLs1L0FCHb.jpg" alt="Cliffside Wuxia Duel" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
 - Sources: <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
@@ -108,7 +108,7 @@ Click the cover to play.
 <details>
 <summary>Input references & prompts</summary>
 
-**<a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTiLGGTWMAAym3r.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 1: Character Sheet 1 Prompt — Mei (The Student)
@@ -120,7 +120,7 @@ Wardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitc
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.
 ```
 
-**<a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTiLYMKXMAAwaDM.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)
@@ -132,7 +132,7 @@ Wardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.
 ```
 
-**<a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Environment Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTiLj97WsAAqsYD.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Environment Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn
@@ -296,9 +296,9 @@ Avoid distorted hands or facial features.
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="700" /></a>
+<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105658611905216512/img/E9IqsKSQn4Ia1Gdl.jpg" alt="Pink-Haired Fire Witch" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/imhealmachine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@imhealmachine</a>
 - Sources: <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
@@ -306,7 +306,7 @@ Click the cover to play.
 <details>
 <summary>Input references & prompts</summary>
 
-**<a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Reference</a>** · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTjNfe7bcAAuKaW.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Reference</a>** · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa
@@ -513,9 +513,9 @@ REALISM REQUIREMENTS
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="700" /></a>
+<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105889193734107136/img/dW9KNd68OJCA1MIB.jpg" alt="Pizza Delivery Cat" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
 - Source: <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
@@ -1147,9 +1147,9 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="700" /></a>
+<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105901540355776512/img/R9SlK7d0Ox7aw0yv.jpg" alt="Korea Fashion Travel Film" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
 - Source: <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
@@ -1188,9 +1188,9 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle" width="700" /></a>
+<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105695925507403776/img/BMmk5_TUvCFqwFGm.jpg" alt="Astra Sky Battle" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
 - Sources: <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
@@ -1198,7 +1198,7 @@ Click the cover to play.
 <details>
 <summary>Input references & prompts</summary>
 
-**<a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Portrait</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTjwRT4aQAAGYz6.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Portrait</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1222,7 +1222,7 @@ LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical whi
 weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
 ```
 
-**<a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+**<a href="https://pbs.twimg.com/media/HTjw1SMacAUZ4Ze.jpg" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1267,9 +1267,9 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating" width="700" /></a>
+<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105808245298286592/img/3k8O94N3KTMW1e5B.jpg" alt="Sumo Pair Figure Skating" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/techhalla" rel="nofollow noreferrer" referrerpolicy="no-referrer">@techhalla</a>
 - Source: <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
@@ -1292,9 +1292,9 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 #### Video
 
-<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library" width="700" /></a>
+<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105980516369403904/img/h4ecmsJrZLQtjWwc.jpg" alt="Fox and Owl in the Library" width="700" /></a>
 
-Click the cover to play.
+Click the cover to watch on X.
 
 - Author: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
 - Sources: <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>

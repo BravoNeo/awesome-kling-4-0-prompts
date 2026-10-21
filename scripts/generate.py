@@ -39,8 +39,8 @@ def build_outputs():
                 lines += ['<details>', '<summary>中文参考改写</summary>', '',
                           fenced(e['editorialCopies']['zh']['text']), '', '</details>', '']
             lines += ['#### '+('视频' if zh else 'Video'), '',
-                      f'<a href="{media_url(v["url"])}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)}" width="700" /></a>', '',
-                      ('点击封面播放视频。' if zh else 'Click the cover to play.'), '',
+                      f'<a href="{e["videoSourceUrl"]}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)}" width="700" /></a>', '',
+                      ('点击封面查看原帖视频。' if zh else 'Click the cover to watch on X.'), '',
                       '- '+('作者' if zh else 'Author')+f': [@{e["author"]["handle"]}]({e["author"]["url"]})']
             if e['promptSourceUrl'] == e['videoSourceUrl']:
                 lines += ['- '+('来源' if zh else 'Source')+f': [X]({e["promptSourceUrl"]})']

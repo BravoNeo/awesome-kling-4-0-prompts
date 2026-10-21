@@ -28,13 +28,13 @@ def featured_navigation(entries, locale):
     config = presentation()
     selected = [e for e in featured_entries(entries) if e['slug'] in config['featured']]
     rows = ['<a id="featured-videos"></a>', '## ' + ('精选视频' if zh else 'Featured videos'), '',
-            ('点击封面播放视频。' if zh else 'Click a cover to play.'), '', '<table>']
+            ('点击封面查看原帖视频。' if zh else 'Click a cover to watch on X.'), '', '<table>']
     for i, e in enumerate(selected):
         if i % 2 == 0: rows.append('<tr>')
         title = html.escape(e['title'][locale])
         desc = html.escape(config['descriptions'][e['slug']][locale])
         poster = media_url(e['video']['posterUrl'])
-        video = media_url(e['video']['url'])
+        video = e['videoSourceUrl']
         label = '查看提示词' if zh else 'View prompt'
         rows.append(f'<td width="50%" valign="top"><a href="{video}" rel="nofollow noreferrer"><img src="{poster}" alt="{title}" width="480" /></a><br/><strong>{title}</strong><br/><a href="#{e["slug"]}">{label} →</a></td>')
         if i % 2 == 1 or i == len(selected)-1: rows.append('</tr>')
@@ -43,11 +43,9 @@ def featured_navigation(entries, locale):
 
 
 def media_url(url):
-    mapping = presentation().get('media', {})
-    mapped = mapping.get(url, url)
-    if not mapped.startswith('https://media.reeldance.ai/'):
-        raise ValueError('README media requires a corresponding project CDN asset: ' + url)
-    return mapped
+    if not url.startswith('https://pbs.twimg.com/'):
+        raise ValueError('README images must use the original source URL: ' + url)
+    return url
 
 
 def external_links(markdown):

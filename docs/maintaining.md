@@ -11,11 +11,10 @@ README only. Full original prompts remain separate from translations or editoria
 adaptations. Never edit prompt bytes, creator/source bindings, model statements,
 media provenance or work counts as part of a documentation refresh.
 
-README images, posters, linked videos and input-reference previews use corresponding
-ReelDance CDN assets. The original media URLs remain in the source catalog.
-The presentation media map must be updated from a reviewed matching CDN asset
-when a new work is added; do not substitute another work's media. Preview sizes
-are not claimed to be full-resolution source exports.
+README posters and reference images use the original source image URLs. Video
+covers link to the creator's original X post. Do not add project CDN playback
+links or a presentation CDN mapping. Historical catalog media metadata is retained
+for existing consumers; it is not used by the README renderer.
 
 Authored external anchors carry `rel="nofollow noreferrer"` and
 `referrerpolicy="no-referrer"`. No links request a new tab. GitHub sanitizes rendered
@@ -45,4 +44,4 @@ point them at a README-only commit.
 
 The repository is now named `BravoNeo/awesome-kling-4-0-prompts`. Its seven current entries and machine-readable export remain an unchanged Flash dataset. Full Kling 4.0 submissions require a separate reviewed schema/import update before inclusion; never relabel Flash entries. Existing website paths and source locks remain unchanged. The website may follow GitHub redirects for the old repository URL; this presentation release does not deploy the site.
 
-Featured covers reuse matching CDN posters and link to their actual videos. Categories link to case anchors, not raw JSON. `presentationUpdated` records a presentation refresh, not a new content acquisition date.
+Featured covers use original posters and link to the creator’s video post. Categories link to case anchors, not raw JSON. `presentationUpdated` records a presentation refresh, not a new content acquisition date.
