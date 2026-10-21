@@ -10,18 +10,13 @@
 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="Catalog validation" /></a>
 <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="Contributions welcome" /></a>
 
-**{{count}} original prompts, creator videos, and references — curated by [ReelDance](https://reeldance.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0).**
+A curated collection of {{count}} Kling 4.0 video prompts, with original text, creator videos, and input references where available. Explore cinematic scenes, action, animation, UGC, and product ads.
 
-### Create images and videos with ReelDance
-
-ReelDance is an AI creative studio for product visuals, social content, and cinematic scenes. Start with a prompt or a reference image, explore image and video models in one workspace, and turn still images into motion.
-
-[![Create with ReelDance](https://img.shields.io/badge/Create_with_ReelDance-c5f76f?style=for-the-badge&labelColor=141414)](https://reeldance.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=hero-cta)
-
-[Browse the online gallery](https://reeldance.ai/kling-4-0-flash-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=gallery) · [Explore image & video models](https://reeldance.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=models) · [Submit a prompt](https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml)
+Curated by [ReelDance](https://reeldance.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0).
 
 ## Table of contents
 
+- [View in web gallery](#web-gallery)
 - [About the collection](#about)
 - [Statistics](#statistics)
 - [Featured videos](#featured-videos)
@@ -30,6 +25,14 @@ ReelDance is an AI creative studio for product visuals, social content, and cine
 - [More collections](#more-collections)
 - [Contribute](#contribute)
 - [Credits & license](#credits)
+
+<a id="web-gallery"></a>
+
+## View in web gallery
+
+Prefer browsing on the web? [Explore the Kling prompt gallery on ReelDance →](https://reeldance.ai/kling-4-0-flash-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=gallery)
+
+The complete collection below keeps each original prompt alongside its creator sources.
 
 <a id="about"></a>
 
