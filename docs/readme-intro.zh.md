@@ -10,9 +10,15 @@
 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="数据校验" /></a>
 <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="欢迎投稿" /></a>
 
-由 [ReelDance](https://reeldance.ai/) 整理的视频提示词与创作者作品合集。
+**{{count}} 条完整提示词、创作者视频与参考素材，由 [ReelDance](https://reeldance.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0) 整理。**
 
-[浏览在线作品库](https://reeldance.ai/kling-4-0-flash-prompts) · [提交作品](https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml)
+### 用 ReelDance 创作图片与视频
+
+ReelDance 是一个 AI 图片与视频创作平台，适合制作产品视觉、社交内容和电影感场景。从文字描述或参考图出发，在同一个工作区探索不同模型，把静态图片变成动态视频。
+
+[![用 ReelDance 开始创作](https://img.shields.io/badge/Create_with_ReelDance-c5f76f?style=for-the-badge&labelColor=141414)](https://reeldance.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=hero-cta)
+
+[浏览在线作品库](https://reeldance.ai/kling-4-0-flash-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=gallery) · [探索图片与视频模型](https://reeldance.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0&utm_content=models) · [提交作品](https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml)
 
 ## 目录
 
