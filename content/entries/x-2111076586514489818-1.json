@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111076586514489818-1",
+  "slug": "rainy-horror-storyboard",
+  "title": {
+    "en": "Rainy horror storyboard",
+    "zh": "雨夜恐怖分镜"
+  },
+  "description": {
+    "en": "Rainy horror storyboard — an original prompt shared by @EndFolding79421.",
+    "zh": "雨夜恐怖分镜，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111076586514489818",
+    "sourceTextOriginal": "#6 Kling 4.0 Tests.\n\nPrompt:\n\n1. First Panel:  A low-angle view of muddy boots stepping through a rain-soaked alleyway. The water is darker than normal, almost oily, rippling unnaturally as rain strikes it. Reflections in the puddles are slightly distorted, hinting at shapes that do not match the surroundings. A torn black umbrella edge intrudes at the top of the frame, barely holding together as rain pours down.Second panel:A disturbing macro close-up of a human hand trembling beneath falling rain. A single droplet hangs in midair just before touching the skin—but within the droplet’s reflection is a vague, humanoid silhouette that is not visible anywhere else in the scene. The background is an indistinct blur of flickering, dying streetlights.Third panel:A tight close-up of a woman’s face, partially obscured by wet strands of hair clinging to her skin. One eye is visible, wide and alert, reflecting a dim light source behind her. Rain streaks down her face like tears. Her lips are parted as if she has just heard something behind her. The background is pitch black, offering no sense of safety or space.Bottom panel:A long, rain-drenched street at night. The woman walks away from the viewer, her silhouette small and vulnerable beneath a single flickering streetlight. The wet pavement reflects the light—but in the reflection, a second elongated shadow trails behind her, far closer than it should be. The rain intensifies, blurring the distance as darkness slowly consumes the street.The overall palette remains cold and oppressive—muted greens, deep blues, and heavy blacks—while subtle visual inconsistencies across panels suggest a presence that cannot be fully seen, reinforcing the sense of being watched and followed.\n\n2.  A cyber-assassin leaps off a skyscraper [tracking shot from above]. She disintegrates into glowing code mid-fall and reappears on a rooftop across the city.\n\n3. Hyperrealistic 8K underwater sci-fi horror scene inside a deep-sea submarine. A sexy female submarine captain sits at the glowing control console, her face lit by soft blue monitors. She stares forward through a massive curved viewing window. Outside is only darkness and drifting silt. [slow push-in toward the captain and window] The murky black water begins to shift. A huge, terrifying creature slowly emerges from the darkness—rows of long jagged teeth, bioluminescent eyes, gills flaring. It glides toward the glass with unnatural speed. [subtle camera shake as it approaches] Horror-movie tension builds as the creature charges straight at the window, filling the frame in the final second.\n\n4. The camera follows the glowing water-woman as she swims deeper into the ocean. Her hair flows like silk around her, and bioluminescent light pulses from her form. As she descends into the deep blue, schools of glowing fish and jellyfish drift by. In the distance, a massive underwater city begins to appear — ancient and majestic, built of coral-like structures and glowing towers. The city slowly lights up as she approaches, illuminating the dark ocean with a soft, magical glow. The shot is dreamlike, awe-inspiring, and silent, except for the faint hum of deep-sea ambience[Negative Prompt] No dark horror themes, no deep sea monsters, no destruction, no high-tech sci-fi buildings, no scuba divers, no submarines, no bubbles obscuring the view, no sudden jump cuts"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2111076586514489818",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2111076586514489818",
+  "conversationId": "2111076586514489818",
+  "originalLanguage": "en",
+  "originalPrompt": "First Panel:  A low-angle view of muddy boots stepping through a rain-soaked alleyway. The water is darker than normal, almost oily, rippling unnaturally as rain strikes it. Reflections in the puddles are slightly distorted, hinting at shapes that do not match the surroundings. A torn black umbrella edge intrudes at the top of the frame, barely holding together as rain pours down.Second panel:A disturbing macro close-up of a human hand trembling beneath falling rain. A single droplet hangs in midair just before touching the skin—but within the droplet’s reflection is a vague, humanoid silhouette that is not visible anywhere else in the scene. The background is an indistinct blur of flickering, dying streetlights.Third panel:A tight close-up of a woman’s face, partially obscured by wet strands of hair clinging to her skin. One eye is visible, wide and alert, reflecting a dim light source behind her. Rain streaks down her face like tears. Her lips are parted as if she has just heard something behind her. The background is pitch black, offering no sense of safety or space.Bottom panel:A long, rain-drenched street at night. The woman walks away from the viewer, her silhouette small and vulnerable beneath a single flickering streetlight. The wet pavement reflects the light—but in the reflection, a second elongated shadow trails behind her, far closer than it should be. The rain intensifies, blurring the distance as darkness slowly consumes the street.The overall palette remains cold and oppressive—muted greens, deep blues, and heavy blacks—while subtle visual inconsistencies across panels suggest a presence that cannot be fully seen, reinforcing the sense of being watched and followed.",
+  "originalPromptSha256": "b96026cf6c29691ac016266b4b49c25c81dfca4a3429a0359f4e6a0c50e41790",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Rainy horror storyboard",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Example 1 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels.",
+    "zh": "原帖第 1 个示例。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111074992767086592",
+    "url": "https://video-s.twimg.com/amplify_video/2111074992767086592/vid/avc1/1920x1080/fY549k3QjqAVPdSg.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111074992767086592/vid/avc1/1920x1080/fY549k3QjqAVPdSg.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111076586514489818",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111074992767086592/img/TiPw7mkeH9PxdmSE.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T12:47:34Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 1
+}

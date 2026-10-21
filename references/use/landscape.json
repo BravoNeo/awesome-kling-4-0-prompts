@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "axis": "use",
+  "category": "landscape",
+  "labels": {
+    "en": "Landscape & FPV",
+    "zh": "风景与 FPV"
+  },
+  "count": 3,
+  "entryIds": [
+    "x-2104742876584218720",
+    "x-2112636119179575471",
+    "x-2112636228931879403"
+  ]
+}

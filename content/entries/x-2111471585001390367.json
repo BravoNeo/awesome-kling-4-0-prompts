@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111471585001390367",
+  "slug": "airport-vlog",
+  "title": {
+    "en": "Airport vlog",
+    "zh": "机场日常视频"
+  },
+  "description": {
+    "en": "Airport vlog — an original prompt shared by @minchoi.",
+    "zh": "机场日常视频，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2111471573395755295",
+    "sourceTextOriginal": "Just 48 hours ago Kling 4.0 opened to everyone.\n\nThese are not real🤯\n\n7 wild examples + PROMPTS:\n\n1. UGC character at brunch\n\nPROMPT: Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading. The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: \"Okay, I promised I'd show you what we get. ... We get the same thing every single time. ... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay. Yeah. Still the best. ... Hey! Get your own!\" [Her sister, off camera: a young woman's voice, dry and amused]: \"That's the tax.\" [Sadie, laughing]: \"She does this every time.\" Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no on-screen text."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2111471585001390367",
+  "videoSourceUrl": "https://x.com/minchoi/status/2111471585001390367",
+  "conversationId": "2111471573395755295",
+  "originalLanguage": "en",
+  "originalPrompt": "Raw vertical 9:16 selfie video shot on a phone's front camera held low at chest height while she sits, one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus so the gate area behind her is as sharp as her face, flat white overhead light mixed with pale daylight from the big windows, no colour grading. The phone rests in her hand near her knee, so the angle is a little low and drifts as she shifts in her seat. Sadie, a young woman in her early 20s with long honey-blonde waves in a loose low ponytail, no makeup, small gold hoop earrings, an oversized grey crew-neck sweatshirt with no print and black leggings, sits in a row of connected grey seats at an airport gate early in the morning, a small carry-on suitcase beside her knee and a paper coffee cup with no logo in her free hand. Behind her: a wall of tall windows with a parked plane on the tarmac in pale morning light, other travellers sitting with bags, a man on a phone call pacing slowly, someone asleep with their hood up, a gate desk far off with screens too small and distant to read. Around 9 s she sips her coffee. Around 15 s she glances over her shoulder toward the gate desk as an announcement plays, listens, then turns back. Around 23 s she yawns behind her hand mid-sentence and laughs at herself. [Sadie: casual young woman's voice, quiet and a little croaky from the early start, keeping it down because she's in a public place, recorded on the phone's built-in mic]: \"Okay, it is way too early. ... I've been up since four. ... But I'm surprising my best friend for the weekend, and she has no idea, so... worth it. ... Wait, is that us? ... No. Not us. ... Okay. Forty minutes. I'm getting another coffee. Don't judge me.\" Audio as captured by the phone mic in a huge, hard-surfaced airport terminal, not studio clean: her voice soft and close on top, with the wide, echoey hum of the terminal all around it; at around 15 s a two-tone chime and then a boarding announcement over the PA, distant, echoing and unintelligible; suitcase wheels rolling past on the hard floor; a coffee machine hissing at a kiosk; low murmured conversations from nearby seats; a child chattering a few rows away; a jet engine whining faintly through the glass; her sweatshirt rustling when she moves. No subtitles, no captions, no on-screen text.",
+  "originalPromptSha256": "627586b1e58bd8cfe6600c9fc60348fbf265306c3d38c93586cb66c87dcab069",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Airport vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Use the original prompt below and adapt the scene to your project.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111470062619983872",
+    "url": "https://video-s.twimg.com/amplify_video/2111470062619983872/vid/avc1/1080x1920/Ar1_HsBLRYsJscer.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111470062619983872/vid/avc1/1080x1920/Ar1_HsBLRYsJscer.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2111471585001390367",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111470062619983872/img/Q5XGvITPxPAiG2nz.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T14:57:09Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

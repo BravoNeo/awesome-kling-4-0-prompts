@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112260520502005807",
+  "slug": "the-tomb-of-pale-flame",
+  "title": {
+    "en": "The Tomb of Pale Flame",
+    "zh": "苍白火焰之墓"
+  },
+  "description": {
+    "en": "The Tomb of Pale Flame — an original prompt shared by @itsPixieVerse.",
+    "zh": "苍白火焰之墓，来自 @itsPixieVerse 的原始提示词。"
+  },
+  "author": {
+    "handle": "itsPixieVerse",
+    "url": "https://x.com/itsPixieVerse"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2112260516177694935",
+    "sourceTextOriginal": "The Tomb of Pale Flame // Centuries buried beneath cold ash. One broken seal to rekindle the flame. When the spear is drawn, the ancient queen answers.\n\nMade with @Kling_ai 4.0 only using a single image and I love how beautifully it handled the multi-cuts. \n\nPrompts in replies👇 https://t.co/gqDLDuyn38"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/itsPixieVerse/status/2112260520502005807",
+  "videoSourceUrl": "https://x.com/itsPixieVerse/status/2112260516177694935",
+  "conversationId": "2112260516177694935",
+  "originalLanguage": "en",
+  "originalPrompt": "[Shot 1 - 4.0s] Low tracking shot pushing forward behind the knight. Foreground: petrified kneeling statues half-buried in ash. Subject: The knight walks forward through deep gray ash, battered cape swaying in cold drafts. Background: the colossal slumped silhouette of the four-winged dragon. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera tracks forward at hip level with subtle handheld micro-shake. Cut on the knight halting.\n\n[Shot 2 - 3.0s] Low-angle close-up. Foreground: cracked flagstones buried in fine ash. Subject: The dragon’s stony jaw pinned to the floor by a thick black-iron spear; the knight enters the frame and grips the rusted shaft with both gauntlets. Background: towering petrified scales looming in darkness. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera pushes in tight on the spearhead. Cut on gauntlets locking onto the iron.\n\n[Shot 3 - 2.5s] Medium close-up, Dutch angle. Foreground: the knight's pitted visor. Subject: The knight wrenches the heavy spear upward; bright sparks shower outward as the iron blade grinds free of stone and bone, spraying ancient ash. Background: the dragon's flared nostril twitching. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera jolts backward in sudden recoil. Cut on the spear wrenching free.\n\n[Shot 4 - 4.5s] Medium profile tracking upward. Foreground: the heavy spear clattering into the ash. Subject: The archdragon’s golden slit eye snaps open; its jaw unhinges with a grinding crack, venting plumes of pale soul-smoke as its neck arches up. Background: crumbling vaulted arches trembling in shadow. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera pans upward following the rising horned skull. Cut on the jaw snapping fully open.\n\n[Shot 5 - 7.0s] Wide tracking arc moving right. Foreground: stone statues toppling and shattering on the floor. Subject: The dragon heaves onto its front talons; its four ragged stone wings snap open, smashing flanking gothic pillars into flying rubble. Background: the collapsing dome shaking violently. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera sweeps laterally through falling ash clouds. Cut on a massive wingbeat shockwave.\n\n[Shot 6 - 9.0s] Ultra-wide hero shot (The Withheld Reveal). Foreground: the knight stands minute at screen center, drawing a greatsword in a two-handed guard. Subject: The ancient dragon rears to full height; revealed chained to its neck collar is the veiled, petrified corpse of a queen, whose skeletal hand sparks with pale blue soul-fire, igniting the dragon's throat into a blinding white-blue firestorm that illuminates the entire mausoleum. Background: the ruined dome raining ash and moonlight. Pale, cold moonlight cuts downward through a fractured dome fissure on the right, casting sharp chiaroscuro edges across ash-dusted stone and dark rusted iron. The camera cranes slowly backward and upward, holding the iconic boss title-card confrontation.",
+  "originalPromptSha256": "859331d2286498bebdee68b82c9743577ffae306f40cb881476fabe05d52ed7d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "The Tomb of Pale Flame",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Prepare the references described in the original prompt.",
+    "zh": "按提示词要求准备参考素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112256623091867648",
+    "url": "https://video-s.twimg.com/amplify_video/2112256623091867648/vid/avc1/3372x1440/xUETaolEDbU7b5Ji.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112256623091867648/vid/avc1/3372x1440/xUETaolEDbU7b5Ji.mp4?tag=29",
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2112260516177694935",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112256623091867648/img/v4oZ2bBnKOHUgwVm.jpg",
+    "durationSecondsReported": 30.069,
+    "aspectRatioReported": [
+      281,
+      120
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-19T19:12:05Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

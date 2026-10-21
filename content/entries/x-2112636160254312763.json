@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112636160254312763",
+  "slug": "pottery-multi-shot",
+  "title": {
+    "en": "Pottery multi-shot",
+    "zh": "陶艺多镜头"
+  },
+  "description": {
+    "en": "Pottery multi-shot — an original prompt shared by @HBCoop_.",
+    "zh": "陶艺多镜头，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635806045421843",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0: same image, same prompt, one generation each.\n\nI ran eight image-to-video tests on both models at 10 seconds, 1080p: photoreal dialogue, 2D animation, 3D animation, a product shot, fast action, a landscape, a multi-shot scene and an FPV one-take. First result used, nothing re-rolled. Side by side below, sound compared in the thread.\n\n@Kling_ai\n\n🧵"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2112636160254312763",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2112636160254312763",
+  "conversationId": "2112635806045421843",
+  "originalLanguage": "en",
+  "originalPrompt": "Cut between shots of the same scene: a wide as the camera circles slowly around her at the wheel; a close-up of her wet hands pulling the wall of the bowl up; a close-up of her face as she concentrates; back to the wide as she slows the wheel and sits back to look at it. Same woman, same studio, same light in every shot. Natural studio sound, the hum of the wheel. Photoreal.",
+  "originalPromptSha256": "5aba549c6ebeafb79e8825e8a5b1bdff9ede203e432aa1c39b8dd469b016d5bf",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Pottery multi-shot",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback order.",
+    "zh": "原帖包含旧版与 Kling 4.0 对比，播放顺序见作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112636132286758912",
+    "url": "https://video-s.twimg.com/amplify_video/2112636132286758912/vid/avc1/1920x1080/kFTA12Wpj6cJbItp.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112636132286758912/vid/avc1/1920x1080/kFTA12Wpj6cJbItp.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2112636160254312763",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112636132286758912/img/OcjBtNRa_ae6sy2f.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T20:04:46Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

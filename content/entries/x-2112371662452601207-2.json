@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112371662452601207-2",
+  "slug": "octopus-bartender",
+  "title": {
+    "en": "Octopus bartender",
+    "zh": "章鱼调酒师"
+  },
+  "description": {
+    "en": "Octopus bartender — an original prompt shared by @EndFolding79421.",
+    "zh": "章鱼调酒师，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112371662452601207",
+    "sourceTextOriginal": "#2 4 More Kling 4.0 Tests.\n\nPrompts:\n\n1. What do you think? (first/last frame) \n(Carter steps out of the interrogation room. Mike (white police officer) stands near the glass watching Ingunn. Carter (black police officer) exhales, still trying to process the night.)MIKE\nWhat do you think?(Carter glances through the glass at Ingunn sitting alone with the cup.)CARTER\nHonestly… I don’t know what to make of it.(shakes his head)CARTER\nI’ve seen some weird calls in this town… but nothing like that house.(beat)CARTER\nDead guy upstairs. Stabbed to hell.(Mike listens quietly.)CARTER\nThen we hear her screaming from the basement.(Carter gestures slightly toward the floor.)CARTER\nDoor locked… chains on the floor… three of those robe-wearing lunatics standing over her.(small pause)\n\n2. “Octopus Bartender” (text to vid)\n\nAn octopus expertly shakes four cocktail shakers at once behind a neon bar [wide shot]. He tosses them all in the air and catches three—then realizes one’s missing just as a customer gets splashed in the face [camera tilt-up, splash freeze-frame].\n\n3. The Human Fly (Comic book Character ref)\n\nMassive outdoor stadium at night packed with a roaring crowd under bright stadium floodlights. The atmosphere is electric. In the center field is a long steel stunt ramp aimed at a gigantic suspended ring of roaring fire.Use \n as the stuntman, keep his costume and muscle build consistent throughout the entire sequence.The sequence begins with a wide aerial establishing shot of the stadium at night, crowd cheering loudly, camera slowly pushing toward the ramp.Cut to a dramatic close-up of the massive flaming ring, fire roaring violently, sparks drifting upward, heat distortion in the air.Cut to a tight cinematic close-up of The Human Fly\n sitting on his motorcycle at the base of the ramp. Stadium lights overhead .Cut to his gloved left hand \ngripping and revving the throttle aggressively, engine vibrating with power.Cut to his boot \nslamming into gear and releasing the clutch. The motorcycle surges forward.Low tracking shot beside the rear wheel as dirt and smoke kick up while he \n accelerates.Dynamic side tracking shot as he \n races up the ramp at full speed toward the blazing ring of fire. Final shot: intense close-up of his masked face \nfrom while riding, eyes locked forward, focused, fearless.Cut to black before the jump. Realistic practical stunt cinematography, 1970s daredevil film energy, tense -epic.\n\n4. Waiting (first frame)\n\n\"subject\": \"A woman in a black sundress sits on a wooden bench outside a sunlit roadside building, holding a single red rose loosely in her hand. She looks up with a thoughtful, slightly melancholic expression. Her hair moves gently in a soft breeze as she sits calmly [slow reveal camera, starting behind her left shoulder and circling smoothly around to the front to frame her face and the parked van in the background].\",\"scene\": \"A quiet small-town street in late afternoon. A green VW van is parked across the road in the background and stays completely still with no driver inside. Farther down the road, two blurred cars drive away slowly like normal traffic, their movement subtle but noticeable. Heat shimmer rises from the pavement. Warm golden sunlight streams in, casting long shadows and creating a nostalgic atmosphere. The camera lingers on the woman and the rose as it completes the slow reveal, keeping the van static but showing the distant cars in motion. A soft breeze moves her hair and the rose petals slightly.\",\"style\": \"Ultra-realistic cinematic moment with warm color tones, shallow depth of field, and a soft nostalgic mood. Smooth camera movement to build a gentle reveal while maintaining stillness around the van and life-like movement in the far background.\""
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2112371662452601207",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2112371662452601207",
+  "conversationId": "2112371662452601207",
+  "originalLanguage": "en",
+  "originalPrompt": "An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide shot]. He tosses them all in the air and catches three—then realizes one’s missing just as a customer gets splashed in the face [camera tilt-up, splash freeze-frame].",
+  "originalPromptSha256": "c51e1b1b944ad4cee11d28aef09bc3738a7264abc44dc9d24dad4f887a34c677",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Octopus bartender",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Example 2 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels.",
+    "zh": "原帖第 2 个示例。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112370712551755776",
+    "url": "https://video-s.twimg.com/amplify_video/2112370712551755776/vid/avc1/1920x1080/LHomlUQW5tpFTWF0.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112370712551755776/vid/avc1/1920x1080/LHomlUQW5tpFTWF0.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112371662452601207",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112370712551755776/img/Gx6G-GtOM2f57Bis.jpg",
+    "durationSecondsReported": 5.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T02:33:44Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 2
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110800090897973405",
+  "slug": "lucy-leaves-the-diner",
+  "title": {
+    "en": "Lucy leaves the diner",
+    "zh": "露西离开餐馆"
+  },
+  "description": {
+    "en": "Lucy leaves the diner — an original prompt shared by @EndFolding79421.",
+    "zh": "露西离开餐馆，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110800090897973405",
+    "sourceTextOriginal": "Kling 30 SECONDS TEST!\n\nI used my story idea from a previous post and ran it for the full 30 seconds one shot to test out Kling 4.0 \n\nLink: https://t.co/AeEQ1IpSIK\n\nPrompt: \n\nLucy stepped out of the small diner where she worked, the doorbell jingling softly behind her. The night air was cool and crisp, a welcome change from the stuffy warmth inside. She took a deep breath, feeling the slight chill of the evening settle on her skin. The street was quiet, only the distant hum of traffic breaking the silence. Her shift had been long and exhausting, filled with the clatter of dishes and the constant chatter of customers. Now, the quiet seemed almost surreal, a stark contrast to the noise and chaos she had just left behind. Lucy adjusted her bag on her shoulder, glancing around as she began her walk home. The dim streetlights cast long shadows across the pavement, their flickering bulbs adding an eerie quality to the otherwise peaceful night. Lucy's footsteps echoed softly, a rhythmic accompaniment to her thoughts. She felt a strange mix of relief and unease; relief that her shift was over, and unease that she had to walk home alone at this hour. She tried to shake off the feeling, telling herself it was just her imagination. But as she walked, the sensation of being watched grew stronger. Lucy's eyes darted to the darkened alleyways and the shadowy corners of the street, half-expecting to see someone lurking there. Each time, there was nothing but the oppressive darkness. Her thoughts wandered to the events of the day, the usual frustrations of work blending with snippets of conversations she'd had with her coworkers. She thought of Megan, her closest friend at the diner, and their plans to go out together on the weekend. The thought brought a small smile to her lips, momentarily easing her tension. But the feeling of being watched persisted. Lucy quickened her pace, her heartbeat matching the rapid rhythm of her footsteps. She turned down a quieter street, the buildings looming tall and silent on either side. The oppressive silence pressed in on her, amplifying every sound, every rustle of leaves, every distant car horn. A sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wide, searching the shadows for the source. The street was empty, the only movement the gentle sway of a tree branch in the breeze. She stood there for a moment, heart pounding, before forcing herself to turn back and keep walking. \"It's just your imagination,\" she muttered under her breath, trying to steady her nerves. But the cold knot of fear in her stomach told her otherwise."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2110800090897973405",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2110800090897973405",
+  "conversationId": "2110800090897973405",
+  "originalLanguage": "en",
+  "originalPrompt": "Lucy stepped out of the small diner where she worked, the doorbell jingling softly behind her. The night air was cool and crisp, a welcome change from the stuffy warmth inside. She took a deep breath, feeling the slight chill of the evening settle on her skin. The street was quiet, only the distant hum of traffic breaking the silence. Her shift had been long and exhausting, filled with the clatter of dishes and the constant chatter of customers. Now, the quiet seemed almost surreal, a stark contrast to the noise and chaos she had just left behind. Lucy adjusted her bag on her shoulder, glancing around as she began her walk home. The dim streetlights cast long shadows across the pavement, their flickering bulbs adding an eerie quality to the otherwise peaceful night. Lucy's footsteps echoed softly, a rhythmic accompaniment to her thoughts. She felt a strange mix of relief and unease; relief that her shift was over, and unease that she had to walk home alone at this hour. She tried to shake off the feeling, telling herself it was just her imagination. But as she walked, the sensation of being watched grew stronger. Lucy's eyes darted to the darkened alleyways and the shadowy corners of the street, half-expecting to see someone lurking there. Each time, there was nothing but the oppressive darkness. Her thoughts wandered to the events of the day, the usual frustrations of work blending with snippets of conversations she'd had with her coworkers. She thought of Megan, her closest friend at the diner, and their plans to go out together on the weekend. The thought brought a small smile to her lips, momentarily easing her tension. But the feeling of being watched persisted. Lucy quickened her pace, her heartbeat matching the rapid rhythm of her footsteps. She turned down a quieter street, the buildings looming tall and silent on either side. The oppressive silence pressed in on her, amplifying every sound, every rustle of leaves, every distant car horn. A sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wide, searching the shadows for the source. The street was empty, the only movement the gentle sway of a tree branch in the breeze. She stood there for a moment, heart pounding, before forcing herself to turn back and keep walking. \"It's just your imagination,\" she muttered under her breath, trying to steady her nerves. But the cold knot of fear in her stomach told her otherwise.",
+  "originalPromptSha256": "b7f032da9971d37008713f045e21f22282ac22bb4251b6f986874db79eb16392",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Lucy leaves the diner",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Use the original prompt below and adapt the scene to your project.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110799519675830272",
+    "url": "https://video-s.twimg.com/amplify_video/2110799519675830272/vid/avc1/1920x1080/FkzAe-IjFF8TJXsE.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110799519675830272/vid/avc1/1920x1080/FkzAe-IjFF8TJXsE.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110800090897973405",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110799519675830272/img/yjIryRc68mPZWO6F.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T18:28:53Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

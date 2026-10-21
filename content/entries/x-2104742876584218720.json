@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2104742876584218720",
+  "slug": "fpv-eagle-chase",
+  "title": {
+    "en": "FPV eagle chase",
+    "zh": "FPV 追随金雕"
+  },
+  "description": {
+    "en": "FPV eagle chase — an original prompt shared by @minchoi.",
+    "zh": "FPV 追随金雕，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2104689017526927698",
+    "sourceTextOriginal": "Kling 4.0 officially launches this October.\n\n30s video. Up to 15 refs. 4K HDR. Better audio + lip sync.\n\n6 wild examples + prompts.\n\nBookmark this ↓"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2104742876584218720",
+  "videoSourceUrl": "https://x.com/minchoi/status/2104742876584218720",
+  "conversationId": "2104689017526927698",
+  "originalLanguage": "en",
+  "originalPrompt": "\"Third-person chase shot from directly behind and slightly above a golden eagle as it flies over vast mountainous steppe. The camera follows at a fixed distance of a few metres, locked steady on the eagle, with smooth forward motion and no jitter. The whole bird stays in the lower centre of the frame with its full wingspan inside the frame and clear space on both sides. First it beats its wings powerfully, feathers flexing at the tips, then it spreads them wide and glides. Below and ahead, the landscape rushes toward the camera: winding rivers, open valleys, rocky peaks, with strong parallax. Bright late-afternoon sun from ahead, crisp air, a gentle rim light on its feathers, subtle lens flare. Realistic flight physics, motion blur from speed only, one continuous shot with no cuts.\"",
+  "originalPromptSha256": "bf985d1e1dbf9d5867879d1d6bf49b9426a86cf22f6ae4a6c98ac138ec33aa25",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "FPV eagle chase",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Early October demonstration attributed to Kling 4.0 by the author; platform generation metadata is unavailable.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2104742780660588544",
+    "url": "https://video-s.twimg.com/amplify_video/2104742780660588544/vid/avc1/1920x1080/6cZN4k0r5uTU3R1R.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2104742780660588544/vid/avc1/1920x1080/6cZN4k0r5uTU3R1R.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2104742876584218720",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104742780660588544/img/UODU689FsYaY3Etc.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-09-29T01:19:40Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

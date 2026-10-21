@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112635951428362261",
+  "slug": "3d-fox-sneeze",
+  "title": {
+    "en": "3D fox sneeze",
+    "zh": "三维狐狸打喷嚏"
+  },
+  "description": {
+    "en": "3D fox sneeze — an original prompt shared by @HBCoop_.",
+    "zh": "三维狐狸打喷嚏，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635806045421843",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0: same image, same prompt, one generation each.\n\nI ran eight image-to-video tests on both models at 10 seconds, 1080p: photoreal dialogue, 2D animation, 3D animation, a product shot, fast action, a landscape, a multi-shot scene and an FPV one-take. First result used, nothing re-rolled. Side by side below, sound compared in the thread.\n\n@Kling_ai\n\n🧵"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2112635951428362261",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2112635951428362261",
+  "conversationId": "2112635806045421843",
+  "originalLanguage": "en",
+  "originalPrompt": "Snow falls steadily; the fox blinks, catches a snowflake on its nose, sneezes a tiny puff and shakes the snow off its ears, scarf swinging. Slow push-in toward the fox. Stylised 3D animation render held throughout, soft lighting. One continuous take.",
+  "originalPromptSha256": "6ca3460da69d6496ddd4c440bf386d039343596170bba79e846730d896f5398a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "3D fox sneeze",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback order.",
+    "zh": "原帖包含旧版与 Kling 4.0 对比，播放顺序见作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112635913427877890",
+    "url": "https://video-s.twimg.com/amplify_video/2112635913427877890/vid/avc1/1920x1080/7l8dRYW7NwyUaUzD.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112635913427877890/vid/avc1/1920x1080/7l8dRYW7NwyUaUzD.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635951428362261",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112635913427877890/img/OUOBhXcTT-5VkBcg.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T20:03:56Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112376857773428953-4",
+  "slug": "surreal-rooftop",
+  "title": {
+    "en": "Surreal rooftop",
+    "zh": "超现实屋顶"
+  },
+  "description": {
+    "en": "Surreal rooftop — an original prompt shared by @EndFolding79421.",
+    "zh": "超现实屋顶，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112376857773428953",
+    "sourceTextOriginal": "#3 4 More Kling 4.0 Tests.\n\n1. Ware House fight (text to vid)\n\n{ \"subject\": \"a woman in tactical gear fighting a masked attacker in a warehouse\", \"scene\": \"abandoned warehouse with flickering lights and crates stacked around\", \"camera\": { \"movement\": \"handheld, following the action tightly\", \"angle\": \"eye-level\", \"framing\": \"close-up with fast motion blur\" }, \"action\": \"the woman parries a strike and delivers a spinning kick to the attacker’s chest\", \"motion\": \"fast, fluid, brutal hand-to-hand combat\", \"style\": \"gritty, realistic, low-light action\", \"mood\": \"urgent, raw, high-stakes\" }\n\n 2. You call me a cheat? (text to vid)\n\ncinematic widescreen. Gritty 1970s Western film aesthetic with weathered textures, natural film grain, dusty smoky saloon atmosphere, worn wood, dirty period clothing, sweat and grime on faces. Warm practical saloon lighting mixed with dusty window light, automatically balanced so faces remain clearly visible. Two rugged Old West cowboys are involved in a rough, untrained, knock-down-drag-out saloon fistfight following an accusation of cheating during a poker game.IMPORTANT CAMERA AND ACTION RULES: Keep facial shots close or extremely close throughout the sequence. Avoid distant views of faces. Use aggressive Spaghetti-Western close-ups, tight medium shots, over-the-shoulder angles and low angles. Rapidly change camera positions to increase intensity while keeping every physical action readable. No martial arts. No kicking. No elaborate blocking. No modern boxing combinations. The men fight like angry, rough frontier cowboys: big swinging haymakers, body punches, grabbing shirts, ducking punches, shoving, staggering and crashing into furniture. Every strike must have a clear attacker, impact and physical reaction.[Shot 1] 00:00.000-00:03.000Extreme low-angle close-up looking upward at Cowboy 1, a mean, ugly, weather-beaten frontier cowboy in his late 40s, with a battered hat, heavy stubble, crooked nose, deeply lined face and an angry scowl. He looms over the camera, staring furiously toward Cowboy 2 just off-screen. His jaw tightens and his eyes narrow.(S1, Cowboy 1): <d>[English] did you call me a cheat?</d>Hold briefly on his hostile expression after the question. Background saloon patrons remain indistinct and out of focus.[Shot 2] At 00:03.000CUT sharply to a tight over-the-shoulder angle as Cowboy 2 suddenly steps in from off-screen and throws a huge looping right-hand haymaker directly into Cowboy 1's jaw. The punch visibly connects. Cowboy 1's head snaps sideways and his upper body staggers hard into the wooden bar. Glasses jump and rattle from the impact. No defensive block; the punch lands cleanly.[Shot 3] At 00:05.500CUT to a tight waist-up side angle. Cowboy 1 immediately surges back angrily and drives one heavy fist into Cowboy 2's stomach. The body punch visibly lands. Cowboy 2 folds forward around the fist with a harsh grunt, momentarily losing his breath.[Shot 4] At 00:08.000CUT to a close over-the-shoulder angle behind Cowboy 1. Cowboy 1 grabs Cowboy 2 by the front of his shirt with one hand, jerks him upright and swings another huge fist toward his face. Cowboy 2 suddenly ducks underneath it. Cowboy 1's fist clearly sweeps through the empty space directly above Cowboy 2's head.[Shot 5] At 00:10.500CUT immediately to a tight low-angle shot from beside Cowboy 2. As Cowboy 1 is still recovering from the missed swing, Cowboy 2 rises explosively and lands a massive upward right-hand punch squarely on Cowboy 1's jaw. Clear fist-to-jaw impact. Cowboy 1's face and shoulders whip backward from the force.[Shot 6] At 00:12.500CUT to the widest shot of the sequence, but remain close enough that both men's bodies and reactions stay visually clear. Cowboy 1 stumbles violently backward from the punch, crashes hip-first into a wooden poker table and falls backward across it. The table collapses beneath him with a tremendous wooden crack; cards, poker chips and glasses scatter across the floor. Cowboy 2 remains in the foreground, breathing hard with fists still raised.End on Cowboy 1 sprawled amid the broken table while Cowboy 2 stands over him ready for the fight to continue. This should feel like only the first brutal exchange of a much longer old-fashioned Western saloon brawl.overall_soundscape:Full synchronized saloon sound. Low background murmur before the fight, subtle poker chips and glasses, wooden floorboards creaking under boots. Cowboy 1's spoken accusation is clear and foregrounded. Each punch has a heavy, realistic old-fashioned movie fist impact accompanied by appropriate grunts and breath reactions. Boots scrape hard across wooden floorboards during staggering movement. Glasses rattle when Cowboy 1 hits the bar. Clothing strains during the shirt grab. Final collision produces a loud wooden table crack, scattering poker chips, cards and glassware, followed by the clatter of debris across the wooden floor. Background patrons react with startled shouts but do not enter or interfere with the fight.non_diegetic_music:No music. The tension and intensity come entirely from dialogue, saloon ambience, breathing, fist impacts, movement and the final furniture crash.\n\n3. Basment (text to vid)\n\nA nervous woman in jeans and a hoodie descends into a damp basement lit only by a swinging bulb [crane down, slow]. Sweat glistens on her forehead as the shadows stretch unnaturally—revealing a hooded figure watching silently from the far corner.\n\n4. Dreams\n\nA realistic woman stands alone on a rooftop at night. The city lights below glow softly in purple and pink hues. Thin fog drifts across the rooftop. A massive digital moon flickers slightly in the sky. Memory fragments — soft glowing symbols and faces — float around her. Her dress shimmers, and her hair moves slowly in the wind. The camera glides left to right with no zoom. Subtle glitch pulses appear in the sky. The atmosphere is quiet, mysterious, dreamlike, surreal.\n[Negative Prompt] no anime, no crowd, no facial distortion, no logos, no daytime light, no cartoon visuals, no fire or smoke, no fantasy creatures, no close-up zooms."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2112376857773428953",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2112376857773428953",
+  "conversationId": "2112376857773428953",
+  "originalLanguage": "en",
+  "originalPrompt": "A realistic woman stands alone on a rooftop at night. The city lights below glow softly in purple and pink hues. Thin fog drifts across the rooftop. A massive digital moon flickers slightly in the sky. Memory fragments — soft glowing symbols and faces — float around her. Her dress shimmers, and her hair moves slowly in the wind. The camera glides left to right with no zoom. Subtle glitch pulses appear in the sky. The atmosphere is quiet, mysterious, dreamlike, surreal.\n[Negative Prompt] no anime, no crowd, no facial distortion, no logos, no daytime light, no cartoon visuals, no fire or smoke, no fantasy creatures, no close-up zooms.",
+  "originalPromptSha256": "f5f960ff634008ed0f5f24dc31fe86ca44389743620c51a2dd762d0732a7fe6a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Surreal rooftop",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Example 4 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels.",
+    "zh": "原帖第 4 个示例。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112375678175764480",
+    "url": "https://video-s.twimg.com/amplify_video/2112375678175764480/vid/avc1/1920x1080/mECvtseR7chnq-Pe.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112375678175764480/vid/avc1/1920x1080/mECvtseR7chnq-Pe.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112376857773428953",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112375678175764480/img/ZrFeyAFgU5aOG1id.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T02:54:23Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 4
+}

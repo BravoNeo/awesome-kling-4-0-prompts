@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112367087242891434-4",
+  "slug": "snake-coffee-break",
+  "title": {
+    "en": "Snake coffee break",
+    "zh": "小蛇咖啡时间"
+  },
+  "description": {
+    "en": "Snake coffee break — an original prompt shared by @EndFolding79421.",
+    "zh": "小蛇咖啡时间，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112367087242891434",
+    "sourceTextOriginal": "4 more Kling 4.0 Tests (prompts included some of  these were first frame/last frame or ref)\n\n1. Pagent: (ref)\n\n【Film Style】Elegant cinematic beauty pageant, luxury evening gown showcase, glamorous pageant lighting, emotional inspirational atmosphere, high-end broadcast television style.【Duration】15 seconds【Reference Image Instruction】Use the provided AI model character as the exact contestant throughout the video. Maintain consistent facial features, hairstyle, body proportions, and appearance during all shots.【Character Description】A beautiful Miss Universe-style pageant contestant with graceful posture, elegant movement, and radiant confidence.【Scene】A massive international beauty pageant stage with sparkling lights, gold accents, giant LED screens, and a cheering audience.【Storyboard Script】[00:00–00:03]The contestant steps gracefully onto the stage wearing a breathtaking elegant evening gown. Stage lights shimmer across the dress as the audience https://t.co/vV0XQgJKF0:Wide cinematic crane shot revealing the massive pageant stage.[00:03–00:06]She walks slowly and elegantly across the stage with perfect posture. The gown flows beautifully behind https://t.co/jKEi1MXTh1:Smooth side tracking shot capturing the movement of the dress fabric and sparkling details.[00:06–00:10]She reaches center stage and turns gracefully toward the audience. She pauses and gives a poised, confident https://t.co/DX2c2N1W5E:Slow cinematic orbit shot circling around her while stage lights glimmer.[00:10–00:13]The audience applauds while camera flashes burst from photographers near the https://t.co/qE3tLiQ9iu:Alternating close-up beauty shots and dramatic wide shots of the stage.[00:13–00:15]Final hero shot. She stands center stage beneath bright golden lights while the camera slowly pushes in toward her face.【Technical Parameters】Luxury pageant lighting, sparkling fabric reflections, cinematic depth of field, elegant camera movement, dramatic stage lighting, soft glamour cinematography.\n\n2. Star W. (first frame)\n\nStarting from the given image: a bustling sci-fi desert marketplace with crowds and neon-lit stalls. The woman with long braids and black tactical clothing stands in the center, she turns around looking up in confusion. [slow upward tilt] A deep rumble shakes the ground as a massive starship descends overhead, casting a sweeping shadow across the market. Flags and dust flutter from the engine wash. People stop and stare upward, the woman whispering nervously, “Oh no...” The ship’s underside fills the sky as it lowers, creating a dramatic cinematic reveal.\n\n3. Ghost of the past (first frame):\n\nA beautiful woman in a deep burgundy Victorian dress stands at the harbor, facing the camera, holding a lace parasol. Her expression is calm and focused [static shot]. After 2 seconds, she slowly turns and begins walking away down the stone walkway [pan right, truck back]. As she continues walking, her entire body begins to gradually fade, slowly becoming transparent — until she disappears completely just before reaching the end of the dock.[static shot] (first 2 seconds), then [pan right, truck back] as she walks and fades smoothlyMood: Elegant, haunting, timeless.Victorian dress, parasol, harbor walkway, soft breeze, smooth dissolve, cinematic tone, subtle elegance, ethereal presence, fading ghost\n\n4. Coffee Break (text to vid)\n\n“Snake Coffee Break”A snake wearing a tiny office badge tries to sip coffee through a straw [close-up]. It slurps loudly, tongue flicking, then realizes it has no hands to hold the mug. The mug tips, spills everywhere, and the snake sighs like an exhausted intern."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2112367087242891434",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2112367087242891434",
+  "conversationId": "2112367087242891434",
+  "originalLanguage": "en",
+  "originalPrompt": "“Snake Coffee Break”A snake wearing a tiny office badge tries to sip coffee through a straw [close-up]. It slurps loudly, tongue flicking, then realizes it has no hands to hold the mug. The mug tips, spills everywhere, and the snake sighs like an exhausted intern.",
+  "originalPromptSha256": "dedfcc9af5168ffed27baf9a171629d02d9fee682b2896a89aacbf40bebf7c38",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Snake coffee break",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Example 4 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels.",
+    "zh": "原帖第 4 个示例。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112366750209564672",
+    "url": "https://video-s.twimg.com/amplify_video/2112366750209564672/vid/avc1/1920x1080/JPT7Ogm9R4H7AQU4.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112366750209564672/vid/avc1/1920x1080/JPT7Ogm9R4H7AQU4.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2112367087242891434",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112366750209564672/img/BnSuhaHnJ0-ZO_eb.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T02:15:34Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 4
+}

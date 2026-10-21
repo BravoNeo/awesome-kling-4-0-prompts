@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111471595755647205",
+  "slug": "beach-vlog",
+  "title": {
+    "en": "Beach vlog",
+    "zh": "海边日常视频"
+  },
+  "description": {
+    "en": "Beach vlog — an original prompt shared by @minchoi.",
+    "zh": "海边日常视频，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2111471573395755295",
+    "sourceTextOriginal": "Just 48 hours ago Kling 4.0 opened to everyone.\n\nThese are not real🤯\n\n7 wild examples + PROMPTS:\n\n1. UGC character at brunch\n\nPROMPT: Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading. The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: \"Okay, I promised I'd show you what we get. ... We get the same thing every single time. ... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay. Yeah. Still the best. ... Hey! Get your own!\" [Her sister, off camera: a young woman's voice, dry and amused]: \"That's the tax.\" [Sadie, laughing]: \"She does this every time.\" Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no on-screen text."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2111471595755647205",
+  "videoSourceUrl": "https://x.com/minchoi/status/2111471595755647205",
+  "conversationId": "2111471573395755295",
+  "originalLanguage": "en",
+  "originalPrompt": "Raw vertical 9:16 selfie video shot on a phone's front camera held at arm's length while she sits on the sand, one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft, a little digital noise and compression, deep focus so the sea behind her is as sharp as her face, a low golden sun to one side with lens flare drifting across the frame, auto-exposure dimming and brightening as her head blocks and reveals the sun, no colour grading. Handheld and relaxed: the phone sways gently and tilts as she leans back on her other hand. Sadie, a young woman in her early 20s with long honey-blonde waves blowing across her face in the wind, light natural makeup, small gold hoop earrings and an oversized white knit sweater with no print, sits on cool sand on a wide, quiet beach at sunset, knees pulled up. Behind her: low waves rolling in and spreading foam up the sand, the sun sinking toward the horizon, a couple walking a dog along the waterline in the distance, a few gulls. Around 8 s she tucks her hair behind her ear and the wind blows it straight back. Around 16 s a bigger wave runs further up the sand behind her and she glances back at it. Around 24 s she turns her face into the sun for a moment, eyes closed, then smiles back at the camera. [Sadie: casual young woman's voice, soft and unhurried, a little buffeted by the wind, recorded on the phone's built-in mic]: \"Okay. Long week. ... I just needed to sit somewhere and not look at my phone. ... Which, yeah, I'm on my phone. I know. ... But look at this. ... I'm staying till it's gone. ... Okay. Bye.\" Audio as captured by the phone mic outdoors on an open beach, not studio clean: waves rolling in and breaking softly, the long hiss of foam sliding up the sand and pulling back, wind buffeting the mic in gusts, gulls calling overhead, a dog barking far down the beach, faint voices from people far away, the sand crunching as she shifts. Her voice close on top with no echo at all, sometimes partly swallowed by a gust. No subtitles, no captions, no on-screen text.",
+  "originalPromptSha256": "b7ace9bf6fea5d21814de177be8392f9d5320d0369c39cb91d4e64d56c422e4d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Beach vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Use the original prompt below and adapt the scene to your project.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111470779518861312",
+    "url": "https://video-s.twimg.com/amplify_video/2111470779518861312/vid/avc1/1080x1920/saaeOZRByExdV0ey.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111470779518861312/vid/avc1/1080x1920/saaeOZRByExdV0ey.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2111471595755647205",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111470779518861312/img/_3NYdYZy1HUI1uRU.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T14:57:12Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

@@ -29,7 +29,7 @@ Video prompts and creator examples curated by [ReelDance](https://reeldance.ai/)
 
 ## About the Kling 4.0 series
 
-This collection brings together video prompts for the Kling 4.0 series. All current examples are attributed by their creators to **Kling 4.0 Flash**.
+This collection brings together video prompts for the Kling 4.0 series. Model names follow creator attribution; original variant labels are retained in source notes.
 
 Explore action choreography, character animation, comedy and travel films. Each case preserves the original prompt and creator sources, with input references where supplied. Find model information at the [official Kling AI website](https://kling.ai/).
 

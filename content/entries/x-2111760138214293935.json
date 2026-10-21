@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111760138214293935",
+  "slug": "park-bench-base-clip",
+  "title": {
+    "en": "Park bench base clip",
+    "zh": "公园长椅基础片段"
+  },
+  "description": {
+    "en": "Park bench base clip — an original prompt shared by @shikoba_86.",
+    "zh": "公园长椅基础片段，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760132535099777",
+    "sourceTextOriginal": "Kling 4.0 — Video Editing Guide\n\nKling 4.0 can edit a video you already have: swap a subject, change the season or an outfit, add a person, or do several changes at once, while the actions, cuts and dialogue stay where they were.\n\nTo show it clearly, we generated one base clip and edited it in different ways. Every edit starts from that same original clip, one change at a time. All prompts below are the exact ones we used, and every result is a single generation.\n\nHow to use this guide\n\n- Generate the base clip (or use your own video).\n\n- When an edit uses a reference, prepare your reference image. A plain grey background helps Kling isolate the subject.\n\n- Load the video and the reference into @Kling_ai  4.0 editing and paste the edit prompt."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2111760138214293935",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2111760138214293935",
+  "conversationId": "2111760132535099777",
+  "originalLanguage": "en",
+  "originalPrompt": "A city park on a sunny late-summer afternoon: a wooden bench beside a gravel path, tall green trees, a few people walking in the background.\nCHARACTER LOCK: Friend A: man in his late 20s, short curly black hair, light stubble, white t-shirt, faded blue denim jacket, beige chinos, white sneakers. Friend B: man in his late 20s, short straight blond hair, clean-shaven, dark green hoodie, black jeans, grey sneakers. Dog: medium-sized golden retriever with a red collar. Same faces, clothes and dog in every frame.\nPHOTOGRAPHY LOCK: 35mm and 50mm lenses, shallow depth of field, warm afternoon sunlight through the leaves, soft dappled shadows on the gravel, natural skin texture. Consistent color and exposure throughout.\nLIGHT AND COLOR: lit only by the sun filtering through the trees. Warm highlights, soft green shadows. Muted, natural colors, no commercial color grade.\nCAMERA LOCK: handheld, calm, slightly off-center compositions. No drone shots, no orbits, no crash zooms.\nSHOT 1 — Wide shot. The two friends sit on the bench. Friend A throws a yellow tennis ball down the gravel path and the dog runs after it. Audio: the dog's paws on gravel, birds, distant voices.\nSHOT 2 — Medium shot on the path. The dog catches the ball and runs back toward the bench with the ball in its mouth. Audio: paws on gravel, panting.\nSHOT 3 — Medium shot on the bench. The dog drops the ball at Friend B's feet instead of Friend A's. Friend B picks it up and laughs. Audio: laughter.\nSHOT 4 — Close-up on Friend A, half smiling, shaking his head.\nFRIEND A (amused, mock-offended): \"He always brings it back to you. Never to me.\"\nFriend B pats the dog on the head. Audio: dog panting, birds.\nAVOID: no music, no subtitles or on-screen text, the ball stays yellow, the dog keeps its red collar, no warped hands, no CGI or AI-generated look.",
+  "originalPromptSha256": "e796b3bcd25e3fe996bfe81e37bbae50a52d9d8362f48e45ff6669af35071431",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Park bench base clip",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Use the original prompt below and adapt the scene to your project.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111759618489597952",
+    "url": "https://video-s.twimg.com/amplify_video/2111759618489597952/vid/avc1/1920x1080/7xn17mCK6wMQ66Yl.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111759618489597952/vid/avc1/1920x1080/7xn17mCK6wMQ66Yl.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760138214293935",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111759618489597952/img/pDzEjoc_UfYm4_-5.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T10:03:46Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

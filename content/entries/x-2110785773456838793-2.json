@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110785773456838793-2",
+  "slug": "sunset-rooftop-tap-dance",
+  "title": {
+    "en": "Sunset rooftop tap dance",
+    "zh": "日落屋顶踢踏舞"
+  },
+  "description": {
+    "en": "Sunset rooftop tap dance — an original prompt shared by @EndFolding79421.",
+    "zh": "日落屋顶踢踏舞，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110785773456838793",
+    "sourceTextOriginal": "#2 Kling 4.0 Tests\n\n1st video is 4.0 and 2nd video is Kling 3.0\n\nPrompt: \n\n1. Inside a speeding subway car, a woman in a blood-smeared trench coat fights off three attackers with brutal efficiency. The lights strobe as the train barrels into a dark tunnel.\n\n2.  A beautiful woman in a flowing dress is joyfully tap dancing on a rooftop at sunset. Her skirt twirls as she moves with light, expressive energy. The golden light of the sun reflects off her skin and hair while a gentle breeze lifts the hem of her dress. [tracking shot, low angle] as the camera follows her lively steps, capturing her rhythm and grace in the open rooftop space. Her smile glows with pure happiness as she dances against the silhouette of the city skyline.[tracking shot, low angle] begins as she starts dancing and follows her tapping steps across the rooftop.Mood: Joyful, lighthearted, energetic with warmth and motion.sunset rooftop, flowing dress, soft breeze, happy expression, energetic movement, golden hour light, cinematic joy, expressive motion, warm colors"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2110785773456838793",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2110785773456838793",
+  "conversationId": "2110785773456838793",
+  "originalLanguage": "en",
+  "originalPrompt": "A beautiful woman in a flowing dress is joyfully tap dancing on a rooftop at sunset. Her skirt twirls as she moves with light, expressive energy. The golden light of the sun reflects off her skin and hair while a gentle breeze lifts the hem of her dress. [tracking shot, low angle] as the camera follows her lively steps, capturing her rhythm and grace in the open rooftop space. Her smile glows with pure happiness as she dances against the silhouette of the city skyline.[tracking shot, low angle] begins as she starts dancing and follows her tapping steps across the rooftop.Mood: Joyful, lighthearted, energetic with warmth and motion.sunset rooftop, flowing dress, soft breeze, happy expression, energetic movement, golden hour light, cinematic joy, expressive motion, warm colors",
+  "originalPromptSha256": "729abd27ec05d1019cf69cbd90aaac4d07643e9900d2255a7dd37f44267485d9",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Sunset rooftop tap dance",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Example 2 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels. Kling 4.0 is the first video of each comparison pair.",
+    "zh": "原帖第 2 个示例。每组对比的第一个视频为 Kling 4.0。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110785694691991552",
+    "url": "https://video-s.twimg.com/amplify_video/2110785694691991552/vid/avc1/1920x1080/JvQuM1eJfGvXYZt2.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110785694691991552/vid/avc1/1920x1080/JvQuM1eJfGvXYZt2.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110785773456838793",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110785694691991552/img/c4MfDg6J0JNC5LOQ.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T17:31:59Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 2
+}

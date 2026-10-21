@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112635851029221492",
+  "slug": "cafe-conversation",
+  "title": {
+    "en": "Cafe conversation",
+    "zh": "咖啡馆对话"
+  },
+  "description": {
+    "en": "Cafe conversation — an original prompt shared by @HBCoop_.",
+    "zh": "咖啡馆对话，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635806045421843",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0: same image, same prompt, one generation each.\n\nI ran eight image-to-video tests on both models at 10 seconds, 1080p: photoreal dialogue, 2D animation, 3D animation, a product shot, fast action, a landscape, a multi-shot scene and an FPV one-take. First result used, nothing re-rolled. Side by side below, sound compared in the thread.\n\n@Kling_ai\n\n🧵"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2112635851029221492",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2112635851029221492",
+  "conversationId": "2112635806045421843",
+  "originalLanguage": "en",
+  "originalPrompt": "The man on the left leans in and says, in a calm British accent, \"You already know what I'm going to say.\" The other man lowers his cup and gives a small nod. Slow push-in on the two of them, rain running down the window, warm lamps steady. One continuous take, natural dialogue, cafe room tone.",
+  "originalPromptSha256": "1c7f68923d806b61da6b018e37fe48574788dc9042366399743e2705cf6923d8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Cafe conversation",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback order.",
+    "zh": "原帖包含旧版与 Kling 4.0 对比，播放顺序见作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112635819257454592",
+    "url": "https://video-s.twimg.com/amplify_video/2112635819257454592/vid/avc1/1920x1080/bUSOIQsIBb_XtQbc.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112635819257454592/vid/avc1/1920x1080/bUSOIQsIBb_XtQbc.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635851029221492",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112635819257454592/img/Q_kwUOlC5D2e2mkW.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T20:03:32Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

@@ -33,6 +33,218 @@
     "fox-owl-library": {
       "en": "A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.",
       "zh": "自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。"
+    },
+    "cafe-conversation": {
+      "en": "Cafe conversation — an original prompt shared by @HBCoop_.",
+      "zh": "咖啡馆对话，来自 @HBCoop_ 的原始提示词。"
+    },
+    "2d-train-animation": {
+      "en": "2D train animation — an original prompt shared by @HBCoop_.",
+      "zh": "二维火车动画，来自 @HBCoop_ 的原始提示词。"
+    },
+    "3d-fox-sneeze": {
+      "en": "3D fox sneeze — an original prompt shared by @HBCoop_.",
+      "zh": "三维狐狸打喷嚏，来自 @HBCoop_ 的原始提示词。"
+    },
+    "condensation-product-shot": {
+      "en": "Condensation product shot — an original prompt shared by @HBCoop_.",
+      "zh": "凝露产品特写，来自 @HBCoop_ 的原始提示词。"
+    },
+    "boxer-action": {
+      "en": "Boxer action — an original prompt shared by @HBCoop_.",
+      "zh": "拳击动作，来自 @HBCoop_ 的原始提示词。"
+    },
+    "cliff-and-waves": {
+      "en": "Cliff and waves — an original prompt shared by @HBCoop_.",
+      "zh": "悬崖与海浪，来自 @HBCoop_ 的原始提示词。"
+    },
+    "pottery-multi-shot": {
+      "en": "Pottery multi-shot — an original prompt shared by @HBCoop_.",
+      "zh": "陶艺多镜头，来自 @HBCoop_ 的原始提示词。"
+    },
+    "warehouse-fpv": {
+      "en": "Warehouse FPV — an original prompt shared by @HBCoop_.",
+      "zh": "仓库 FPV 穿越，来自 @HBCoop_ 的原始提示词。"
+    },
+    "brunch-selfie": {
+      "en": "Brunch selfie — an original prompt shared by @minchoi.",
+      "zh": "早午餐自拍视频，来自 @minchoi 的原始提示词。"
+    },
+    "seven-shot-ski-film": {
+      "en": "Seven-shot ski film — an original prompt shared by @minchoi.",
+      "zh": "七镜头滑雪短片，来自 @minchoi 的原始提示词。"
+    },
+    "airport-vlog": {
+      "en": "Airport vlog — an original prompt shared by @minchoi.",
+      "zh": "机场日常视频，来自 @minchoi 的原始提示词。"
+    },
+    "continuous-skateboard-tracking": {
+      "en": "Continuous skateboard tracking — an original prompt shared by @minchoi.",
+      "zh": "连续跟拍滑板，来自 @minchoi 的原始提示词。"
+    },
+    "parked-car-confession": {
+      "en": "Parked-car confession — an original prompt shared by @minchoi.",
+      "zh": "停车场车内独白，来自 @minchoi 的原始提示词。"
+    },
+    "beach-vlog": {
+      "en": "Beach vlog — an original prompt shared by @minchoi.",
+      "zh": "海边日常视频，来自 @minchoi 的原始提示词。"
+    },
+    "last-ferry-love-scene": {
+      "en": "Last ferry love scene — an original prompt shared by @minchoi.",
+      "zh": "末班渡轮爱情片段，来自 @minchoi 的原始提示词。"
+    },
+    "sparkling-birch-water-ad": {
+      "en": "Sparkling birch water ad — an original prompt shared by @minchoi.",
+      "zh": "桦树气泡水广告，来自 @minchoi 的原始提示词。"
+    },
+    "walking-street-vlog": {
+      "en": "Walking street vlog — an original prompt shared by @minchoi.",
+      "zh": "街头步行视频，来自 @minchoi 的原始提示词。"
+    },
+    "fpv-eagle-chase": {
+      "en": "FPV eagle chase — an original prompt shared by @minchoi.",
+      "zh": "FPV 追随金雕，来自 @minchoi 的原始提示词。"
+    },
+    "night-market-spy-chase": {
+      "en": "Night-market spy chase — an original prompt shared by @minchoi.",
+      "zh": "夜市间谍追逐，来自 @minchoi 的原始提示词。"
+    },
+    "park-bench-base-clip": {
+      "en": "Park bench base clip — an original prompt shared by @shikoba_86.",
+      "zh": "公园长椅基础片段，来自 @shikoba_86 的原始提示词。"
+    },
+    "dog-to-dinosaur-edit": {
+      "en": "Dog to dinosaur edit — an original prompt shared by @shikoba_86.",
+      "zh": "小狗变恐龙编辑，来自 @shikoba_86 的原始提示词。"
+    },
+    "autumn-season-edit": {
+      "en": "Autumn season edit — an original prompt shared by @shikoba_86.",
+      "zh": "秋季场景编辑，来自 @shikoba_86 的原始提示词。"
+    },
+    "fox-autumn-and-flannel-edit": {
+      "en": "Fox, autumn and flannel edit — an original prompt shared by @shikoba_86.",
+      "zh": "狐狸、秋景与衬衫编辑，来自 @shikoba_86 的原始提示词。"
+    },
+    "add-a-third-friend": {
+      "en": "Add a third friend — an original prompt shared by @shikoba_86.",
+      "zh": "增加第三位朋友，来自 @shikoba_86 的原始提示词。"
+    },
+    "warehouse-fight": {
+      "en": "Warehouse fight — an original prompt shared by @EndFolding79421.",
+      "zh": "仓库搏斗，来自 @EndFolding79421 的原始提示词。"
+    },
+    "western-saloon-fistfight": {
+      "en": "Western saloon fistfight — an original prompt shared by @EndFolding79421.",
+      "zh": "西部酒馆拳斗，来自 @EndFolding79421 的原始提示词。"
+    },
+    "basement-suspense": {
+      "en": "Basement suspense — an original prompt shared by @EndFolding79421.",
+      "zh": "地下室悬疑，来自 @EndFolding79421 的原始提示词。"
+    },
+    "surreal-rooftop": {
+      "en": "Surreal rooftop — an original prompt shared by @EndFolding79421.",
+      "zh": "超现实屋顶，来自 @EndFolding79421 的原始提示词。"
+    },
+    "octopus-bartender": {
+      "en": "Octopus bartender — an original prompt shared by @EndFolding79421.",
+      "zh": "章鱼调酒师，来自 @EndFolding79421 的原始提示词。"
+    },
+    "waiting-with-a-rose": {
+      "en": "Waiting with a rose — an original prompt shared by @EndFolding79421.",
+      "zh": "手持玫瑰等待，来自 @EndFolding79421 的原始提示词。"
+    },
+    "desert-market-starship": {
+      "en": "Desert market starship — an original prompt shared by @EndFolding79421.",
+      "zh": "沙漠集市飞船，来自 @EndFolding79421 的原始提示词。"
+    },
+    "victorian-harbor-ghost": {
+      "en": "Victorian harbor ghost — an original prompt shared by @EndFolding79421.",
+      "zh": "维多利亚港口幽灵，来自 @EndFolding79421 的原始提示词。"
+    },
+    "snake-coffee-break": {
+      "en": "Snake coffee break — an original prompt shared by @EndFolding79421.",
+      "zh": "小蛇咖啡时间，来自 @EndFolding79421 的原始提示词。"
+    },
+    "rainy-horror-storyboard": {
+      "en": "Rainy horror storyboard — an original prompt shared by @EndFolding79421.",
+      "zh": "雨夜恐怖分镜，来自 @EndFolding79421 的原始提示词。"
+    },
+    "cyber-assassin-code-jump": {
+      "en": "Cyber-assassin code jump — an original prompt shared by @EndFolding79421.",
+      "zh": "代码刺客跳跃，来自 @EndFolding79421 的原始提示词。"
+    },
+    "submarine-creature-encounter": {
+      "en": "Submarine creature encounter — an original prompt shared by @EndFolding79421.",
+      "zh": "潜艇怪物遭遇，来自 @EndFolding79421 的原始提示词。"
+    },
+    "glowing-underwater-city": {
+      "en": "Glowing underwater city — an original prompt shared by @EndFolding79421.",
+      "zh": "发光海底城市，来自 @EndFolding79421 的原始提示词。"
+    },
+    "sorceress-and-ghostly-pharaohs": {
+      "en": "Sorceress and ghostly pharaohs — an original prompt shared by @EndFolding79421.",
+      "zh": "女巫与幽灵法老，来自 @EndFolding79421 的原始提示词。"
+    },
+    "enchanted-forest-fairies": {
+      "en": "Enchanted forest fairies — an original prompt shared by @EndFolding79421.",
+      "zh": "魔法森林精灵，来自 @EndFolding79421 的原始提示词。"
+    },
+    "spiral-staircase-duel": {
+      "en": "Spiral staircase duel — an original prompt shared by @EndFolding79421.",
+      "zh": "螺旋楼梯决斗，来自 @EndFolding79421 的原始提示词。"
+    },
+    "neon-market-parkour": {
+      "en": "Neon-market parkour — an original prompt shared by @EndFolding79421.",
+      "zh": "霓虹夜市跑酷，来自 @EndFolding79421 的原始提示词。"
+    },
+    "subway-fight": {
+      "en": "Subway fight — an original prompt shared by @EndFolding79421.",
+      "zh": "地铁搏斗，来自 @EndFolding79421 的原始提示词。"
+    },
+    "sunset-rooftop-tap-dance": {
+      "en": "Sunset rooftop tap dance — an original prompt shared by @EndFolding79421.",
+      "zh": "日落屋顶踢踏舞，来自 @EndFolding79421 的原始提示词。"
+    },
+    "blackwood-forest-run": {
+      "en": "Blackwood forest run — an original prompt shared by @EndFolding79421.",
+      "zh": "黑木森林奔跑，来自 @EndFolding79421 的原始提示词。"
+    },
+    "cabin-horror-sequence": {
+      "en": "Cabin horror sequence — an original prompt shared by @EndFolding79421.",
+      "zh": "林间小屋惊悚，来自 @EndFolding79421 的原始提示词。"
+    },
+    "fraternity-house-emotional-scene": {
+      "en": "Fraternity-house emotional scene — an original prompt shared by @EndFolding79421.",
+      "zh": "兄弟会住宅情感片段，来自 @EndFolding79421 的原始提示词。"
+    },
+    "lucy-leaves-the-diner": {
+      "en": "Lucy leaves the diner — an original prompt shared by @EndFolding79421.",
+      "zh": "露西离开餐馆，来自 @EndFolding79421 的原始提示词。"
+    },
+    "3-2-1-supernatural-thriller-trailer": {
+      "en": "3 2 1 supernatural thriller trailer — an original prompt shared by @EndFolding79421.",
+      "zh": "超自然惊悚预告片，来自 @EndFolding79421 的原始提示词。"
+    },
+    "torstein-the-gatebreaker": {
+      "en": "Torstein the Gatebreaker — an original prompt shared by @itsPixieVerse.",
+      "zh": "托尔斯坦：破门者，来自 @itsPixieVerse 的原始提示词。"
+    },
+    "the-tomb-of-pale-flame": {
+      "en": "The Tomb of Pale Flame — an original prompt shared by @itsPixieVerse.",
+      "zh": "苍白火焰之墓，来自 @itsPixieVerse 的原始提示词。"
+    },
+    "forest-automotive-commercial": {
+      "en": "Forest automotive commercial — an original prompt shared by @Diplomeme.",
+      "zh": "森林汽车广告，来自 @Diplomeme 的原始提示词。"
+    },
+    "hypnotic-underground-temple": {
+      "en": "Hypnotic underground temple — an original prompt shared by @itxsarmadd.",
+      "zh": "催眠地下神殿，来自 @itxsarmadd 的原始提示词。"
+    },
+    "crimson-afterburn-two-scene-action": {
+      "en": "Crimson Afterburn two-scene action — an original prompt shared by @itxabdullaa.",
+      "zh": "绯红余焰连续动作，来自 @itxabdullaa 的原始提示词。"
     }
   },
   "presentationUpdated": "2026-10-21"

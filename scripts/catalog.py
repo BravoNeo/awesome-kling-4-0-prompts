@@ -106,9 +106,9 @@ def validate_entries(entries, taxonomy=None):
             validate_cdn(e['video']['posterCdn'], image=True)
         for asset in e['referenceAssets']:
             if 'cdn' in asset: validate_cdn(asset['cdn'], image=True)
-        if e['id'] != stable_id(e['promptSourceUrl']):
+        if e['id'] != stable_id(e['promptSourceUrl']) + (f"-{e['sourcePart']}" if 'sourcePart' in e else ''):
             raise ValueError('ID must be derived from the canonical original source URL')
-        for field, value in [('id', e['id']), ('slug', e['slug']), ('source', canonical_source(e['promptSourceUrl']))]:
+        for field, value in [('id', e['id']), ('slug', e['slug']), ('source', canonical_source(e['promptSourceUrl']) + ':' + str(e.get('sourcePart', 0)))]:
             if value in seen[field]:
                 raise ValueError(f'Duplicate {field}: {value}')
             seen[field].add(value)
@@ -124,14 +124,25 @@ def validate_entries(entries, taxonomy=None):
             raise ValueError('Source pairing mismatch')
         if urlsplit(e['promptSourceUrl']).path.split('/')[1].lower() != e['author']['handle'].lower() or urlsplit(e['videoSourceUrl']).path.split('/')[1].lower() != e['author']['handle'].lower():
             raise ValueError('Both bound sources must match the credited author')
-        if e['conversationId'] != e['videoSourceUrl'].rstrip('/').split('/')[-1]:
-            raise ValueError('Thread root must match the original video post')
-        if e['modelClaim']['sourceUrl'] != e['videoSourceUrl']:
-            raise ValueError('Model claim must credit the original supporting video post')
-        if any(type(e['video'][k]) is not int or e['video'][k] <= 0 for k in ['widthObserved', 'heightObserved']) or any(e['video'][k] <= 0 for k in ['durationSecondsReported', 'durationSecondsObserved']):
-            raise ValueError('Invalid observed video dimensions or duration')
-        if e['modelClaim']['variant'] == 'flash' and e['modelClaim']['name'] != 'Kling 4.0 Flash':
-            raise ValueError('Flash claim must name Flash')
+        if 'sourcePart' in e and (type(e['sourcePart']) is not int or e['sourcePart'] < 1):
+            raise ValueError('Invalid source example number')
+        if urlsplit(e['modelClaim']['sourceUrl']).path.split('/')[1].lower() != e['author']['handle'].lower():
+            raise ValueError('Model evidence must credit the same author')
+        evidence_id = canonical_source(e['modelClaim']['sourceUrl']).rsplit('/', 1)[-1]
+        video_id = canonical_source(e['videoSourceUrl']).rsplit('/', 1)[-1]
+        if evidence_id not in {video_id, e['conversationId']}:
+            raise ValueError('Model evidence must be the video post or its thread root')
+        if e['video']['durationSecondsReported'] <= 0:
+            raise ValueError('Invalid reported video duration')
+        observed = ['widthObserved', 'heightObserved', 'durationSecondsObserved']
+        if e['video']['playbackVerified'] and not all(k in e['video'] for k in observed):
+            raise ValueError('Verified playback requires observed metadata')
+        if any(e['video'][k] <= 0 for k in observed if k in e['video']):
+            raise ValueError('Invalid observed metadata')
+        if e['modelClaim']['name'] not in ['Kling 4.0', 'Kling 4.0 Flash']:
+            raise ValueError('Unexpected model name')
+        if e['modelClaim']['variant'] == 'full' and re.search(r'kling.{0,20}flash', e['modelClaim']['sourceTextOriginal'], re.I):
+            raise ValueError('Flash source cannot be claimed as full')
         if e['modelClaim']['independentlyVerified']:
             raise ValueError('This source-linked catalog has no generation-history verification')
         urls = [m['url'] for m in e['referenceAssets']]
@@ -140,7 +151,7 @@ def validate_entries(entries, taxonomy=None):
         for asset in e['referenceAssets']:
             if asset['assetPromptSha256'] != hashlib.sha256(asset['assetPromptOriginal'].encode()).hexdigest():
                 raise ValueError('Asset prompt hash mismatch')
-        if bool(e['referenceAssets']) != (e['inputRequirement'] == 'reference-images'):
+        if e['referenceAssets'] and e['inputRequirement'] == 'text-only':
             raise ValueError('Reference requirement mismatch')
     return entries
 

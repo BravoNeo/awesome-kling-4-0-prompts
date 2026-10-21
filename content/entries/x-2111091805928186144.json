@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111091805928186144",
+  "slug": "fraternity-house-emotional-scene",
+  "title": {
+    "en": "Fraternity-house emotional scene",
+    "zh": "兄弟会住宅情感片段"
+  },
+  "description": {
+    "en": "Fraternity-house emotional scene — an original prompt shared by @EndFolding79421.",
+    "zh": "兄弟会住宅情感片段，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111091805928186144",
+    "sourceTextOriginal": "Kling 4.0 vs Seedance 2.5 vs Minimax H3 in Comfyui\n\n***Kling and Seedance were done in 720p and H3 was Done in 832p, 15 seconds, and only one generation for each, no 2nd chances***\n\n1. Kling 4.0\n2.Seedance 2.5\n3. H3 Comfyui\n\nI didn't redue any of them because this was to be a brutally honest test and you will see each has their own flaws in the videos.\n\nLink to orginal: https://t.co/gWKP9LqQVR\n\nSame prompt and images for each.\n\nPrompt:   \nintegrated_multimodal_description: <image 0> = STORYBOARD / VISUAL SEQUENCE REFERENCE. Follow its shot progression, camera positions, fraternity-house exterior, nighttime lighting, crowd placement and staging. <image 1> = GRACE CHARACTER REFERENCE. Preserve her exact identity, face, hair, wardrobe and proportions. <image 2> = ZACK CHARACTER REFERENCE. Preserve his exact identity, face, hair, clothing, build and proportions. CRITICAL: There is EXACTLY ONE Grace. Never duplicate her or create another woman resembling her. Multiple storyboard panels represent sequential shots, NOT multiple Graces. Realistic cinematic live-action feature film, 16:9. Natural skin texture, pores and imperfections. NO glossy/plastic AI skin. Restrained realistic acting. LOCATION: Night outside the Southern fraternity house from the storyboard: red brick, white columns, ivy, porch, central doorway, steps, lawn and trees. Warm exterior lighting with subtle blue/purple party light through windows. AUDIO THROUGHOUT: Active college party ambience: indistinct drunken conversation, occasional laughter and muffled music from inside. NO understandable background dialogue. NO cinematic/dramatic/horror score. GRACE NEVER SPEAKS. [00:00–00:04] Start immediately CLOSE SIDE PROFILE beside Grace as EXACTLY ONE Grace exits through the CENTRAL FRONT DOOR. Camera moves closely alongside her face. She is deeply upset but angry rather than helpless: wet red eyes, fresh tears, tense jaw and brow, uneven breathing, occasional small sniffle. She is fighting to maintain control. Grace pushes through several drunk partygoers near the doorway/porch. They casually move aside. She ignores everyone, never apologizes and NEVER looks back. She moves quickly with angry determination. [00:04–00:07] CUT to cinematic detail shot of Grace's legs and WHITE SNEAKERS rapidly descending the front steps. Floral dress moves naturally. She is walking FAST, almost storming, but NOT running. Brief moving side shot as she reaches the bottom and continues immediately across the lawn. One quiet sniffle. NO dialogue. [00:07–00:11] Camera dramatically PULLS BACK into the storyboard's WIDE ESTABLISHING SHOT, revealing the full house, porch, columns, lawn, partygoers and night environment. Grace moves diagonally across the foreground toward BOTTOM-LEFT, quickly leaving the house behind. Body language conveys hurt, humiliation, anger and determination. She NEVER stops and NEVER turns around. After completing the pullback, CAMERA BECOMES COMPLETELY STATIC. [00:11–00:15] Grace approaches the bottom-left edge, nearly leaving frame. KEEP CAMERA STATIC. ONLY NOW the central front door opens and Zack appears for the FIRST TIME. Zack RUNS outside, pushes urgently through partygoers and descends the SAME steps Grace used. ZACK yells across the lawn: “GRACE!” Natural contemporary North Georgia/Southern American accent, subtle and authentic, never exaggerated. Grace hears him but DOES NOT react visibly. She NEVER stops, NEVER turns around, NEVER answers and continues storming toward bottom-left. Zack runs after her as the clip ends. ABSOLUTE RULES: Exactly ONE Grace throughout. Grace exits FIRST; Zack follows several seconds later. Zack must NOT appear before 00:11. Grace has ZERO dialogue. Grace only makes subtle breathing/sniffling sounds. Zack says ONLY “GRACE!” No invented dialogue. No car. No one grabs, blocks or follows Grace except Zack. Keep crowd secondary. Preserve storyboard geography and house. Emotional focus remains on Grace."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2111091805928186144",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2111091805928186144",
+  "conversationId": "2111091805928186144",
+  "originalLanguage": "en",
+  "originalPrompt": "integrated_multimodal_description: <image 0> = STORYBOARD / VISUAL SEQUENCE REFERENCE. Follow its shot progression, camera positions, fraternity-house exterior, nighttime lighting, crowd placement and staging. <image 1> = GRACE CHARACTER REFERENCE. Preserve her exact identity, face, hair, wardrobe and proportions. <image 2> = ZACK CHARACTER REFERENCE. Preserve his exact identity, face, hair, clothing, build and proportions. CRITICAL: There is EXACTLY ONE Grace. Never duplicate her or create another woman resembling her. Multiple storyboard panels represent sequential shots, NOT multiple Graces. Realistic cinematic live-action feature film, 16:9. Natural skin texture, pores and imperfections. NO glossy/plastic AI skin. Restrained realistic acting. LOCATION: Night outside the Southern fraternity house from the storyboard: red brick, white columns, ivy, porch, central doorway, steps, lawn and trees. Warm exterior lighting with subtle blue/purple party light through windows. AUDIO THROUGHOUT: Active college party ambience: indistinct drunken conversation, occasional laughter and muffled music from inside. NO understandable background dialogue. NO cinematic/dramatic/horror score. GRACE NEVER SPEAKS. [00:00–00:04] Start immediately CLOSE SIDE PROFILE beside Grace as EXACTLY ONE Grace exits through the CENTRAL FRONT DOOR. Camera moves closely alongside her face. She is deeply upset but angry rather than helpless: wet red eyes, fresh tears, tense jaw and brow, uneven breathing, occasional small sniffle. She is fighting to maintain control. Grace pushes through several drunk partygoers near the doorway/porch. They casually move aside. She ignores everyone, never apologizes and NEVER looks back. She moves quickly with angry determination. [00:04–00:07] CUT to cinematic detail shot of Grace's legs and WHITE SNEAKERS rapidly descending the front steps. Floral dress moves naturally. She is walking FAST, almost storming, but NOT running. Brief moving side shot as she reaches the bottom and continues immediately across the lawn. One quiet sniffle. NO dialogue. [00:07–00:11] Camera dramatically PULLS BACK into the storyboard's WIDE ESTABLISHING SHOT, revealing the full house, porch, columns, lawn, partygoers and night environment. Grace moves diagonally across the foreground toward BOTTOM-LEFT, quickly leaving the house behind. Body language conveys hurt, humiliation, anger and determination. She NEVER stops and NEVER turns around. After completing the pullback, CAMERA BECOMES COMPLETELY STATIC. [00:11–00:15] Grace approaches the bottom-left edge, nearly leaving frame. KEEP CAMERA STATIC. ONLY NOW the central front door opens and Zack appears for the FIRST TIME. Zack RUNS outside, pushes urgently through partygoers and descends the SAME steps Grace used. ZACK yells across the lawn: “GRACE!” Natural contemporary North Georgia/Southern American accent, subtle and authentic, never exaggerated. Grace hears him but DOES NOT react visibly. She NEVER stops, NEVER turns around, NEVER answers and continues storming toward bottom-left. Zack runs after her as the clip ends. ABSOLUTE RULES: Exactly ONE Grace throughout. Grace exits FIRST; Zack follows several seconds later. Zack must NOT appear before 00:11. Grace has ZERO dialogue. Grace only makes subtle breathing/sniffling sounds. Zack says ONLY “GRACE!” No invented dialogue. No car. No one grabs, blocks or follows Grace except Zack. Keep crowd secondary. Preserve storyboard geography and house. Emotional focus remains on Grace.",
+  "originalPromptSha256": "cd305bfd3f0a619d7d13d48633cdbad7508e1a47734358814f4d50bf83af19a8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Fraternity-house emotional scene",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Three-model comparison; original post labels video 1 as Kling 4.0. Requires storyboard and character references.",
+    "zh": "原帖含其他模型对比，模型与播放顺序请查看作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2111091140690595840",
+    "url": "https://video-s.twimg.com/amplify_video/2111091140690595840/vid/avc1/1280x720/R1630KsPT4o_sMkJ.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111091140690595840/vid/avc1/1280x720/R1630KsPT4o_sMkJ.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111091805928186144",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111091140690595840/img/5wAJuZPZI6o-z3Je.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T13:48:03Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

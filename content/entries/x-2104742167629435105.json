@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2104742167629435105",
+  "slug": "last-ferry-love-scene",
+  "title": {
+    "en": "Last ferry love scene",
+    "zh": "末班渡轮爱情片段"
+  },
+  "description": {
+    "en": "Last ferry love scene — an original prompt shared by @minchoi.",
+    "zh": "末班渡轮爱情片段，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2104689017526927698",
+    "sourceTextOriginal": "Kling 4.0 officially launches this October.\n\n30s video. Up to 15 refs. 4K HDR. Better audio + lip sync.\n\n6 wild examples + prompts.\n\nBookmark this ↓"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2104742167629435105",
+  "videoSourceUrl": "https://x.com/minchoi/status/2104742167629435105",
+  "conversationId": "2104689017526927698",
+  "originalLanguage": "en",
+  "originalPrompt": "\"A cinematic, aching love scene on the last ferry of the night, crossing a dark sea in the rain. [Jules], the red-haired woman in the rust-orange wool coat with a single gold hexagon earring in her left ear, and [Harry]\n, the clean-cut man in his late 20s with neat side-parted light-brown hair and an olive work jacket, sit side by side on a bench seat by a rain-streaked window in the quiet ferry café. Harbour lights shrink into the dark behind the glass. Intimate romantic drama, six shots. 0s–5s: Wide two-shot from across the empty café. Jules watches the harbour lights recede; Harry watches only her. [Jules: warm quick Glaswegian voice, quiet and wistful]: \"This is the last ferry, you know.\" A beat. [Harry: slow Central Texas drawl, soft and low]: \"I know.\" 5s–10s: Close-up on Jules in profile against the window, rain shadows sliding down her face. She keeps her eyes on the lights and forces a small smile that doesn't reach her eyes. [Jules, trying to sound light]: \"Tomorrow you're on a plane, and I'm back to talking to the gulls.\" 10s–14s: Close-up on Harry. He turns fully toward her, earnest, his voice barely above the engine hum, and his hand finds hers on the bench. [Harry, tender, hopeful]: \"Then come with me.\" 14s–19s: Close-up on Jules. Her composure cracks; her eyes fill, a small broken laugh escapes, and she shakes her head without looking at him. [Jules, voice trembling]: \"Don't. Don't make it sound easy.\" 19s–25s: Tight two-shot. He lifts her hand and holds it against his chest; she finally turns to meet his eyes. [Harry, hoarse, full of feeling]: \"Nothing about you's been easy, darlin'. That's why I keep coming back.\" 25s–30s: Extreme close-up of the two of them, foreheads touching, eyes closed, the harbour lights a soft blur behind them. [Jules, a whisper]: \"Then keep coming back.\" [Harry, a whisper, smiling through it]: \"Every time. Every single time.\" The ferry horn sounds low in the distance.Warm tungsten café lamps against cold blue storm light from the window, shallow depth of field, natural skin texture, glistening eyes, subtle film grain. Sound: rain on glass, the engine hum, the creak of the hull, a soft piano note under the final line.\"",
+  "originalPromptSha256": "66adac63d78b9ca007aaa3f7d282bdddee2d6652f2a6916269be3c9cd0cf704e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Last ferry love scene",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Early October demonstration attributed to Kling 4.0 by the author; platform generation metadata is unavailable.",
+    "zh": "按提示词要求准备参考素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2104741972267184128",
+    "url": "https://video-s.twimg.com/amplify_video/2104741972267184128/vid/avc1/1920x1080/tHT9BmvrRsR7ufmZ.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2104741972267184128/vid/avc1/1920x1080/tHT9BmvrRsR7ufmZ.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2104742167629435105",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104741972267184128/img/BrS4bzpeDFGpAccV.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-09-29T01:16:51Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

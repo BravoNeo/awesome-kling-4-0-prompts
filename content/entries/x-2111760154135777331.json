@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111760154135777331",
+  "slug": "add-a-third-friend",
+  "title": {
+    "en": "Add a third friend",
+    "zh": "增加第三位朋友"
+  },
+  "description": {
+    "en": "Add a third friend — an original prompt shared by @shikoba_86.",
+    "zh": "增加第三位朋友，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760132535099777",
+    "sourceTextOriginal": "Kling 4.0 — Video Editing Guide\n\nKling 4.0 can edit a video you already have: swap a subject, change the season or an outfit, add a person, or do several changes at once, while the actions, cuts and dialogue stay where they were.\n\nTo show it clearly, we generated one base clip and edited it in different ways. Every edit starts from that same original clip, one change at a time. All prompts below are the exact ones we used, and every result is a single generation.\n\nHow to use this guide\n\n- Generate the base clip (or use your own video).\n\n- When an edit uses a reference, prepare your reference image. A plain grey background helps Kling isolate the subject.\n\n- Load the video and the reference into @Kling_ai  4.0 editing and paste the edit prompt."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2111760154135777331",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2111760154135777331",
+  "conversationId": "2111760132535099777",
+  "originalLanguage": "en",
+  "originalPrompt": "Add a third friend sitting in the empty space in the middle of the bench, between Friend A (curly black hair, denim jacket) and Friend B (blond, green hoodie): a woman in her late 20s with a long dark braid and a yellow raincoat. She sits in this same spot, between the two friends, in every shot. Keep the bench, its length and its armrests exactly as they are. She watches the dog and laughs with the others. Keep everything else unchanged.",
+  "originalPromptSha256": "160faaf85b3cd43095804c5f6362b3748607393e4ce7c39556506d5f7d1f13ad",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "video-editing"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Add a third friend",
+    "Kling 4.0",
+    "video-editing"
+  ],
+  "guidance": {
+    "en": "Video editing prompt; requires the base clip in the same author thread, and a reference image where stated.",
+    "zh": "需要同一作者线程中的公园基础视频；恐龙编辑还需要参考图。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2111759985688379393",
+    "url": "https://video-s.twimg.com/amplify_video/2111759985688379393/vid/avc1/1920x1080/EQBCzyM2kFSzpP_2.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111759985688379393/vid/avc1/1920x1080/EQBCzyM2kFSzpP_2.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760154135777331",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111759985688379393/img/m8ostrHPls9bqKyd.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T10:03:50Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

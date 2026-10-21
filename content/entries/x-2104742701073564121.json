@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2104742701073564121",
+  "slug": "walking-street-vlog",
+  "title": {
+    "en": "Walking street vlog",
+    "zh": "街头步行视频"
+  },
+  "description": {
+    "en": "Walking street vlog — an original prompt shared by @minchoi.",
+    "zh": "街头步行视频，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2104689017526927698",
+    "sourceTextOriginal": "Kling 4.0 officially launches this October.\n\n30s video. Up to 15 refs. 4K HDR. Better audio + lip sync.\n\n6 wild examples + prompts.\n\nBookmark this ↓"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2104742701073564121",
+  "videoSourceUrl": "https://x.com/minchoi/status/2104742701073564121",
+  "conversationId": "2104689017526927698",
+  "originalLanguage": "en",
+  "originalPrompt": "\"Raw vertical 9:16 selfie video shot on a phone's front camera held at arm's length, one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the background as sharp as her face, auto-exposure brightening and dimming as she walks between sun and tree shade, no colour grading. Handheld and imperfect: the phone bobs and sways with each step, tilts off level, drifts until the top of her head is cut off, and she re-centres it. [Sadie], a young woman in her early 20s with long honey-blonde waves blowing across her face, light natural makeup, small gold hoop earrings, a cropped cream knit top and light-wash jeans, walks forward along one long, straight, tree-lined downtown street in bright late-morning sun, a plain iced coffee cup with no logo in her free hand. She never stops, turns around or turns a corner; behind her is the same street she has already walked, with a few passers-by, parked cars and shopfronts with unreadable signs. Around 12 s a flower stall slides past beside her and she glances at it; around 17 s she passes a bakery window, glances at it and laughs.[Sadie: casual young woman's voice, a little breathless from walking, recorded on the phone's built-in mic]: \"Okay, walk with me. I'm meeting my sister for brunch and I'm, like, ten minutes early for once. ... I love this street in the morning, before all the people. ... Oh, the flower stall's out again, so pretty. ... And that bakery... no. Be strong. ... Okay, it's just up here. I'll show you what we get. Bye!\"Audio as captured by the phone mic, not studio clean: her voice close and slightly compressed, light wind buffeting the mic, traffic passing, a bus pulling away, footsteps, snippets of passer-by chatter, all mixed under and around her voice.\"",
+  "originalPromptSha256": "263c3517c375e51a358c2e3745fe94fbd59a96b5c9039ef10c54a91b88757383",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Walking street vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Early October demonstration attributed to Kling 4.0 by the author; platform generation metadata is unavailable.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2104742584157458433",
+    "url": "https://video-s.twimg.com/amplify_video/2104742584157458433/vid/avc1/1080x1920/r-YCE7sMmaguzsfx.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2104742584157458433/vid/avc1/1080x1920/r-YCE7sMmaguzsfx.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2104742701073564121",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104742584157458433/img/1WwMtY95-EfZZMJT.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-09-29T01:18:58Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

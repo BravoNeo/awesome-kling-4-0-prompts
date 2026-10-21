@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110796791100711098-2",
+  "slug": "enchanted-forest-fairies",
+  "title": {
+    "en": "Enchanted forest fairies",
+    "zh": "魔法森林精灵"
+  },
+  "description": {
+    "en": "Enchanted forest fairies — an original prompt shared by @EndFolding79421.",
+    "zh": "魔法森林精灵，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110796791100711098",
+    "sourceTextOriginal": "#4 Test for Kling 4.0 \nI went all the way back to  1.5 when there was no sound. \n\n(Old Prompts Used)\n\n1st video is the new Kling 4.0 then 1.5\n\nPrompt:\n\n1. Character Description (Sorceress): The dark sorceress stands confidently in a dimly lit temple, with her glowing eyes casting an eerie light. Her hair moves gently in the soft breeze, and she slowly raises her left arm to point directly at the camera, as though casting a spell or summoning something sinister.\nGhostly Pharaohs: From behind the sorceress, two ghostly pharaohs emerge suddenly and swiftly, moving toward the camera. These pharaohs have the appearance of long-dead zombies, with rotting, skeletal features, but they glow ethereally with a bluish light. Their mouths are wide open in silent screams, and their skeletal hands reach out as they move forward. The pharaohs fly quickly toward the camera, giving a terrifying impression of an imminent attack.\nGhost Effects: The ghostly pharaohs should have an otherworldly, ethereal glow that contrasts with the warm flames in the background. Their movements are fast and unnatural, gliding forward as though they are not bound by the laws of physics. The bluish glow should make them stand out against the dark temple setting.\nFlame and Wind Effects: The temple remains dark, with flames flickering behind her, casting a soft glow on the stone walls. The flames move gently, with a soft breeze blowing her hair slightly. The wind adds an extra layer of motion to the scene, making it feel alive and foreboding.\nCamera Movement: The camera remains at the same level, focusing on the sorceress as she raises her arm. As the ghostly pharaohs are summoned, the camera shifts slightly to follow their movements as they quickly approach, giving the viewer the sensation that they are being attacked. The camera should move with the ghostly figures as they rush toward it.\nLighting: The bluish glow of the pharaohs contrasts with the warm light from the flames. The lighting should create stark shadows, emphasizing the horror elements. As the pharaohs move forward, their glowing forms become the main source of light, casting eerie reflections as they close in on the camera.\nAtmosphere: Dark, foreboding, and filled with tension. The eerie glow of the pharaohs and the sorceress's magical eyes add to the sense of otherworldly power. The atmosphere should feel like something ancient and malevolent is being unleashed.\n[Negative Prompt] Ghost Effects: No overly bright or cartoonish pharaohs. Avoid whimsical or playful appearances. The pharaohs should not move slowly or sluggishly; their approach must be swift and threatening.\nCharacter Actions: No fast or exaggerated gestures from the sorceress. Her movements should be controlled, calm, and menacing, not overly dramatic.\nCamera Movement: No shaky or erratic camera movements. Avoid zooming in or out too quickly, and no sudden shifts in direction. The camera should stay steady and follow the pharaohs smoothly.\nLighting: Avoid overly harsh or bright lighting. The bluish glow of the pharaohs should be subtle but eerie. The flames should provide soft light without overpowering the scene.\nAtmosphere: No peaceful or vibrant colors. The scene must remain dark and tense, avoiding any lighthearted or cheerful elements.\n\n2.  Environment (Enchanted Forest): A vibrant, magical forest bathed in soft daylight. The trees are lush with bright green leaves, and beams of sunlight filter through the canopy, casting soft, dappled light on the forest floor. The scene feels peaceful, with sparkling particles floating in the air, enhancing the magical atmosphere.\nFairies: Small, ethereal fairies with glowing wings flutter gracefully around the forest. They leave shimmering trails of light as they move, adding to the enchanting and whimsical feel of the scene. The fairies’ glow contrasts with the natural sunlight, making them stand out in the serene forest setting.\nLighting: The scene is lit by warm sunlight filtering through the trees, creating soft patches of light and shadow on the forest floor. The fairies’ glowing wings add a magical touch of light that contrasts with the warm, natural tones of the sunlight. The lighting enhances the otherworldly feel of the scene.\nCamera Movement: The camera moves slowly and steadily through the forest, capturing the beauty of the trees, the light filtering through them, and the fairies flying around. The movement should be smooth, as if gliding through the forest, giving the viewer a sense of exploration and wonder.\nAtmosphere: Peaceful, magical, and whimsical, with a strong sense of enchantment. The fairies and the glowing forest add to the serene, otherworldly feel, making the forest seem alive with magic.\n[Negative Prompt] Fairies: No overly bright or cartoonish fairies. Their glow should be soft and ethereal, not blinding. Avoid erratic or fast movements; fairies should fly gracefully and smoothly. Do not overcrowd the scene with too many fairies.\nLighting: Avoid harsh or artificial lighting. The sunlight should be natural and warm, with no excessive glare. Avoid overly bright spots that disrupt the magical atmosphere.\nCamera Movement: No fast, jerky, or shaky camera movements. The camera should not zoom in or out abruptly. It must move steadily and smoothly through the scene.\nAtmosphere: No dark, tense, or chaotic vibes. The scene should remain peaceful and whimsical. Avoid elements that feel foreboding or unsettling.\nEnvironment: No lifeless or dull surroundings. The forest should remain lush, vibrant, and magical. Avoid modern or urban elements."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2110796791100711098",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2110796791100711098",
+  "conversationId": "2110796791100711098",
+  "originalLanguage": "en",
+  "originalPrompt": "Environment (Enchanted Forest): A vibrant, magical forest bathed in soft daylight. The trees are lush with bright green leaves, and beams of sunlight filter through the canopy, casting soft, dappled light on the forest floor. The scene feels peaceful, with sparkling particles floating in the air, enhancing the magical atmosphere.\nFairies: Small, ethereal fairies with glowing wings flutter gracefully around the forest. They leave shimmering trails of light as they move, adding to the enchanting and whimsical feel of the scene. The fairies’ glow contrasts with the natural sunlight, making them stand out in the serene forest setting.\nLighting: The scene is lit by warm sunlight filtering through the trees, creating soft patches of light and shadow on the forest floor. The fairies’ glowing wings add a magical touch of light that contrasts with the warm, natural tones of the sunlight. The lighting enhances the otherworldly feel of the scene.\nCamera Movement: The camera moves slowly and steadily through the forest, capturing the beauty of the trees, the light filtering through them, and the fairies flying around. The movement should be smooth, as if gliding through the forest, giving the viewer a sense of exploration and wonder.\nAtmosphere: Peaceful, magical, and whimsical, with a strong sense of enchantment. The fairies and the glowing forest add to the serene, otherworldly feel, making the forest seem alive with magic.\n[Negative Prompt] Fairies: No overly bright or cartoonish fairies. Their glow should be soft and ethereal, not blinding. Avoid erratic or fast movements; fairies should fly gracefully and smoothly. Do not overcrowd the scene with too many fairies.\nLighting: Avoid harsh or artificial lighting. The sunlight should be natural and warm, with no excessive glare. Avoid overly bright spots that disrupt the magical atmosphere.\nCamera Movement: No fast, jerky, or shaky camera movements. The camera should not zoom in or out abruptly. It must move steadily and smoothly through the scene.\nAtmosphere: No dark, tense, or chaotic vibes. The scene should remain peaceful and whimsical. Avoid elements that feel foreboding or unsettling.\nEnvironment: No lifeless or dull surroundings. The forest should remain lush, vibrant, and magical. Avoid modern or urban elements.",
+  "originalPromptSha256": "f7fabe4e3ce35a1a4542629b3d89a15524ddf31514dee78ee6fc13e64195f186",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Enchanted forest fairies",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Example 2 in the original post. Independent example in a multi-example post. The linked post contains multiple videos; use the original example order and model labels. Kling 4.0 is the first video of each comparison pair.",
+    "zh": "原帖第 2 个示例。每组对比的第一个视频为 Kling 4.0。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110796625459228673",
+    "url": "https://video-s.twimg.com/amplify_video/2110796625459228673/vid/avc1/1920x1080/kmaEcCoYtoknumMf.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110796625459228673/vid/avc1/1920x1080/kmaEcCoYtoknumMf.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2110796791100711098",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110796625459228673/img/AEPPEE_KTols7PIi.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T18:15:46Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 2
+}

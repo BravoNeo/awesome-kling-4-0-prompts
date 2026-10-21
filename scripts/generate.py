@@ -10,7 +10,7 @@ def fenced(value):
 
 def build_outputs():
     entries=load_entries(); taxonomy=read_json(ROOT/'content/taxonomy.json')
-    outputs={'export/catalog.json':dump({'schemaVersion':1,'model':'Kling 4.0 Flash','count':len(entries),'taxonomy':taxonomy,'entries':entries})}
+    outputs={'export/catalog.json':dump({'schemaVersion':1,'model':'Kling 4.0','count':len(entries),'taxonomy':taxonomy,'entries':entries})}
     categories=[]
     for axis,options in taxonomy.items():
         for key,labels in options.items():
@@ -35,7 +35,7 @@ def build_outputs():
                       presentation()['descriptions'][e['slug']][locale], '',
                       '<details>', '<summary>'+('提示词原文' if zh else 'Prompt')+'</summary>', '',
                       fenced(e['originalPrompt']), '', '</details>', '']
-            if zh:
+            if zh and 'zh' in e['editorialCopies']:
                 lines += ['<details>', '<summary>中文参考改写</summary>', '',
                           fenced(e['editorialCopies']['zh']['text']), '', '</details>', '']
             lines += ['#### '+('视频' if zh else 'Video'), '',
@@ -48,6 +48,10 @@ def build_outputs():
                 lines += ['- '+('来源' if zh else 'Sources')+': '+
                           f'[{"提示词原帖" if zh else "Prompt post"}]({e["promptSourceUrl"]}) · '+
                           f'[{"视频原帖" if zh else "Video post"}]({e["videoSourceUrl"]})']
+            lines += ['- '+('模型' if zh else 'Model')+': '+e['modelClaim']['name'], '', e['guidance'][locale], '']
+            if e['modelClaim']['variant'] == 'flash':
+                lines += [('<details><summary>来源备注</summary>' if zh else '<details><summary>Source note</summary>'), '',
+                          ('原作者将此案例标注为 Kling 4.0 Flash；本合集统一使用 Kling 4.0 展示名称。' if zh else 'The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.'), '', '</details>', '']
             if e['referenceAssets']:
                 lines += ['', '<details>', '<summary>'+('输入参考图与提示词' if zh else 'Input references & prompts')+'</summary>', '']
                 for asset in e['referenceAssets']:
@@ -58,7 +62,7 @@ def build_outputs():
             lines += ['', '---', '']
         lines += [template('footer', locale, entries), '']
         outputs[path]=external_links('\n'.join(lines))
-    outputs['references/manifest.json']=dump({'schemaVersion':1,'model':'Kling 4.0 Flash','count':len(entries),'catalog':'export/catalog.json','categories':categories,'sha256':{k:hashlib.sha256(v.encode()).hexdigest() for k,v in sorted(outputs.items())}})
+    outputs['references/manifest.json']=dump({'schemaVersion':1,'model':'Kling 4.0','count':len(entries),'catalog':'export/catalog.json','categories':categories,'sha256':{k:hashlib.sha256(v.encode()).hexdigest() for k,v in sorted(outputs.items())}})
     return outputs
 
 def generate(check=False):

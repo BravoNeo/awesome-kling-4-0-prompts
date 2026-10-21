@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111760141640949817",
+  "slug": "dog-to-dinosaur-edit",
+  "title": {
+    "en": "Dog to dinosaur edit",
+    "zh": "小狗变恐龙编辑"
+  },
+  "description": {
+    "en": "Dog to dinosaur edit — an original prompt shared by @shikoba_86.",
+    "zh": "小狗变恐龙编辑，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760132535099777",
+    "sourceTextOriginal": "Kling 4.0 — Video Editing Guide\n\nKling 4.0 can edit a video you already have: swap a subject, change the season or an outfit, add a person, or do several changes at once, while the actions, cuts and dialogue stay where they were.\n\nTo show it clearly, we generated one base clip and edited it in different ways. Every edit starts from that same original clip, one change at a time. All prompts below are the exact ones we used, and every result is a single generation.\n\nHow to use this guide\n\n- Generate the base clip (or use your own video).\n\n- When an edit uses a reference, prepare your reference image. A plain grey background helps Kling isolate the subject.\n\n- Load the video and the reference into @Kling_ai  4.0 editing and paste the edit prompt."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2111760141640949817",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2111760141640949817",
+  "conversationId": "2111760132535099777",
+  "originalLanguage": "en",
+  "originalPrompt": "Replace the dog with the small dinosaur from the reference image. It runs, catches the yellow ball in its mouth and drops it at Friend B's feet, with the same path, timing and actions as the dog. Friend B pets it in the last shot. Keep everything else unchanged.",
+  "originalPromptSha256": "e861b23fdb1929120c593387f4284e559d662f008bc1fdba9dc410b4ba7a1367",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "video-editing"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Dog to dinosaur edit",
+    "Kling 4.0",
+    "video-editing"
+  ],
+  "guidance": {
+    "en": "Video editing prompt; requires the base clip in the same author thread, and a reference image where stated.",
+    "zh": "需要同一作者线程中的公园基础视频；恐龙编辑还需要参考图。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2111759728749506560",
+    "url": "https://video-s.twimg.com/amplify_video/2111759728749506560/vid/avc1/1920x1080/aZ-8_HjtrcPHBYiU.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111759728749506560/vid/avc1/1920x1080/aZ-8_HjtrcPHBYiU.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760141640949817",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111759728749506560/img/WPsyg9HihDMnSsu5.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T10:03:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112635900165533768",
+  "slug": "2d-train-animation",
+  "title": {
+    "en": "2D train animation",
+    "zh": "二维火车动画"
+  },
+  "description": {
+    "en": "2D train animation — an original prompt shared by @HBCoop_.",
+    "zh": "二维火车动画，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635806045421843",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0: same image, same prompt, one generation each.\n\nI ran eight image-to-video tests on both models at 10 seconds, 1080p: photoreal dialogue, 2D animation, 3D animation, a product shot, fast action, a landscape, a multi-shot scene and an FPV one-take. First result used, nothing re-rolled. Side by side below, sound compared in the thread.\n\n@Kling_ai\n\n🧵"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2112635900165533768",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2112635900165533768",
+  "conversationId": "2112635806045421843",
+  "originalLanguage": "en",
+  "originalPrompt": "The train's headlights grow brighter and the train slides into the station along the track, wind lifting the girl's hair and jacket; she turns her head to follow it. Camera holds a slow lateral drift to the right. Flat cel animation held throughout, thick outlines, limited palette. One continuous take.",
+  "originalPromptSha256": "0d0c47287a6280a5b74e809000190d4b008960d3053724a5bebf97065b54f5a3",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "2D train animation",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback order.",
+    "zh": "原帖包含旧版与 Kling 4.0 对比，播放顺序见作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112635864245587968",
+    "url": "https://video-s.twimg.com/amplify_video/2112635864245587968/vid/avc1/1920x1080/MGVWPDWerS26BnuA.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112635864245587968/vid/avc1/1920x1080/MGVWPDWerS26BnuA.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635900165533768",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112635864245587968/img/evEs9HNf1C4eYbR-.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T20:03:44Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

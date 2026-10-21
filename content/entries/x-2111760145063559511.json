@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111760145063559511",
+  "slug": "autumn-season-edit",
+  "title": {
+    "en": "Autumn season edit",
+    "zh": "秋季场景编辑"
+  },
+  "description": {
+    "en": "Autumn season edit — an original prompt shared by @shikoba_86.",
+    "zh": "秋季场景编辑，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760132535099777",
+    "sourceTextOriginal": "Kling 4.0 — Video Editing Guide\n\nKling 4.0 can edit a video you already have: swap a subject, change the season or an outfit, add a person, or do several changes at once, while the actions, cuts and dialogue stay where they were.\n\nTo show it clearly, we generated one base clip and edited it in different ways. Every edit starts from that same original clip, one change at a time. All prompts below are the exact ones we used, and every result is a single generation.\n\nHow to use this guide\n\n- Generate the base clip (or use your own video).\n\n- When an edit uses a reference, prepare your reference image. A plain grey background helps Kling isolate the subject.\n\n- Load the video and the reference into @Kling_ai  4.0 editing and paste the edit prompt."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2111760145063559511",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2111760145063559511",
+  "conversationId": "2111760132535099777",
+  "originalLanguage": "en",
+  "originalPrompt": "Change the season from late summer to late autumn: orange and red leaves on the trees and on the gravel, cooler softer light. Keep the people, the dog and all actions unchanged.",
+  "originalPromptSha256": "eb968df1b135674ea2d5c8b8d6faa556863ab734b58d7ecd3810113bac26e2ad",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "video-editing"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Autumn season edit",
+    "Kling 4.0",
+    "video-editing"
+  ],
+  "guidance": {
+    "en": "Video editing prompt; requires the base clip in the same author thread, and a reference image where stated.",
+    "zh": "需要同一作者线程中的公园基础视频；恐龙编辑还需要参考图。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2111759819585560576",
+    "url": "https://video-s.twimg.com/amplify_video/2111759819585560576/vid/avc1/1920x1080/TCDhH3aYJcUmVu0z.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111759819585560576/vid/avc1/1920x1080/TCDhH3aYJcUmVu0z.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2111760145063559511",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111759819585560576/img/dEwxYf6-HZqLlRRK.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T10:03:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

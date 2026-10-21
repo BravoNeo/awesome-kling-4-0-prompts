@@ -15,6 +15,26 @@
     "action": {
       "en": "Action",
       "zh": "动作"
+    },
+    "storytelling": {
+      "en": "Storytelling",
+      "zh": "叙事短片"
+    },
+    "ugc": {
+      "en": "UGC & vlogs",
+      "zh": "UGC 与日常视频"
+    },
+    "video-editing": {
+      "en": "Video editing",
+      "zh": "视频编辑"
+    },
+    "product": {
+      "en": "Product advertising",
+      "zh": "产品广告"
+    },
+    "landscape": {
+      "en": "Landscape & FPV",
+      "zh": "风景与 FPV"
     }
   },
   "style": {
@@ -29,6 +49,10 @@
     "painterly-animation": {
       "en": "Painterly animation",
       "zh": "绘画动画"
+    },
+    "fantasy": {
+      "en": "Fantasy",
+      "zh": "奇幻"
     }
   },
   "subject": {
@@ -55,6 +79,18 @@
     "martial-arts": {
       "en": "Martial arts",
       "zh": "武术"
+    },
+    "people": {
+      "en": "People",
+      "zh": "人物"
+    },
+    "environments": {
+      "en": "Environments",
+      "zh": "场景"
+    },
+    "products": {
+      "en": "Products",
+      "zh": "产品"
     }
   }
 }

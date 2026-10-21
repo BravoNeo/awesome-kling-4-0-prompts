@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2104742449562136796",
+  "slug": "sparkling-birch-water-ad",
+  "title": {
+    "en": "Sparkling birch water ad",
+    "zh": "桦树气泡水广告"
+  },
+  "description": {
+    "en": "Sparkling birch water ad — an original prompt shared by @minchoi.",
+    "zh": "桦树气泡水广告，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2104689017526927698",
+    "sourceTextOriginal": "Kling 4.0 officially launches this October.\n\n30s video. Up to 15 refs. 4K HDR. Better audio + lip sync.\n\n6 wild examples + prompts.\n\nBookmark this ↓"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2104742449562136796",
+  "videoSourceUrl": "https://x.com/minchoi/status/2104742449562136796",
+  "conversationId": "2104689017526927698",
+  "originalLanguage": "en",
+  "originalPrompt": "\"A premium product ad for [Fernloch]\nsparkling birch water: a clear glass bottle of crystal-clear sparkling water with fine bubbles, its dark-green label reading \"FERNLOCH\" and \"SPARKLING BIRCH WATER\". Clean, bright commercial style, four shots. 0s–3s: Macro close-up sliding slowly along the bottle; the label fills the frame, fine bubbles rising inside, condensation beading on the glass. 3s–7s: Side angle at counter height. [Jules]'s hand in a rust-orange coat sleeve lifts the bottle by its shoulder and pours crystal-clear sparkling water into a heavy glass tumbler as fine bubbles race up. 7s–11s: Front angle, label facing the camera. She sets the bottle down upright beside the full glass. 11s–15s: Medium shot across the counter. [Harry]'s hand in an olive jacket sleeve takes the bottle by the neck and lifts it toward the lens, label facing the camera.Soft window light from the left, pale oak counter, warm-white wall, the label crisp and readable in every shot, gentle fizz and a soft glass clink.\"",
+  "originalPromptSha256": "89423a250e3901a64490449142440c7d83cbf5d5955e640f67061d2ac32742a2",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Sparkling birch water ad",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Early October demonstration attributed to Kling 4.0 by the author; platform generation metadata is unavailable.",
+    "zh": "按提示词要求准备参考素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2104742391592718336",
+    "url": "https://video-s.twimg.com/amplify_video/2104742391592718336/vid/avc1/1080x1920/na7NzG_TFwgvju1f.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2104742391592718336/vid/avc1/1080x1920/na7NzG_TFwgvju1f.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2104742449562136796",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104742391592718336/img/Q_ttbuoc92ojsoal.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-09-29T01:17:58Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

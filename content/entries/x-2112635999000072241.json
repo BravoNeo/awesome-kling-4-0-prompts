@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112635999000072241",
+  "slug": "condensation-product-shot",
+  "title": {
+    "en": "Condensation product shot",
+    "zh": "凝露产品特写"
+  },
+  "description": {
+    "en": "Condensation product shot — an original prompt shared by @HBCoop_.",
+    "zh": "凝露产品特写，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635806045421843",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0: same image, same prompt, one generation each.\n\nI ran eight image-to-video tests on both models at 10 seconds, 1080p: photoreal dialogue, 2D animation, 3D animation, a product shot, fast action, a landscape, a multi-shot scene and an FPV one-take. First result used, nothing re-rolled. Side by side below, sound compared in the thread.\n\n@Kling_ai\n\n🧵"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2112635999000072241",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2112635999000072241",
+  "conversationId": "2112635806045421843",
+  "originalLanguage": "en",
+  "originalPrompt": "A single bead of condensation runs down the can; the can slowly rotates a quarter turn as the magenta light behind it pulses once brighter and settles; a fine mist of cold air rolls off the top. Camera locked. Product photography look held throughout. One continuous take.",
+  "originalPromptSha256": "6a006fe88a5298f9102fc21b25b39479daf33749d456e17a5920ad7fb2a77fc8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Condensation product shot",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback order.",
+    "zh": "原帖包含旧版与 Kling 4.0 对比，播放顺序见作者说明。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112635964560654336",
+    "url": "https://video-s.twimg.com/amplify_video/2112635964560654336/vid/avc1/1920x1080/vDr8Oe7TYwfDIhpn.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112635964560654336/vid/avc1/1920x1080/vDr8Oe7TYwfDIhpn.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2112635999000072241",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112635964560654336/img/t23JmgS0HM45nIif.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T20:04:07Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

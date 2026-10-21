@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2104743085087560174",
+  "slug": "night-market-spy-chase",
+  "title": {
+    "en": "Night-market spy chase",
+    "zh": "夜市间谍追逐"
+  },
+  "description": {
+    "en": "Night-market spy chase — an original prompt shared by @minchoi.",
+    "zh": "夜市间谍追逐，来自 @minchoi 的原始提示词。"
+  },
+  "author": {
+    "handle": "minchoi",
+    "url": "https://x.com/minchoi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minchoi/status/2104689017526927698",
+    "sourceTextOriginal": "Kling 4.0 officially launches this October.\n\n30s video. Up to 15 refs. 4K HDR. Better audio + lip sync.\n\n6 wild examples + prompts.\n\nBookmark this ↓"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/minchoi/status/2104743085087560174",
+  "videoSourceUrl": "https://x.com/minchoi/status/2104743085087560174",
+  "conversationId": "2104689017526927698",
+  "originalLanguage": "en",
+  "originalPrompt": "\"Multi-shot spy-thriller chase through a night market, 15 seconds, 6 shots with hard cuts, fast and relentless. [Cole]: early 30s, short dark-brown hair, clean-shaven, tailored charcoal suit, white shirt open at the collar, no tie. [Anton]: late 30s, ash-blond buzz cut, short blond beard, black leather jacket, dark grey henley. A packed night-market lane after rain: food stalls, red paper lanterns, string lights, grill smoke, steam, wet pavement reflecting the lights. Anton always runs toward frame right; Cole chases him. Shot 1 (0–2s): Telephoto close-up of Cole standing still in the moving crowd, shoppers blurring past in the foreground, eyes locked on something off-screen right. Shot 2 (2–4.5s): The camera whip-pans right along his eyeline and snaps sharp onto Anton under a red stall sign reading \"DUMPLINGS\". Anton sees Cole, drops his paper cup and bolts right. Shot 3 (4.5–7s): Fast side tracking shot racing alongside at full sprint, both men running frame right: Anton shoving shoppers aside, Cole ten metres behind and closing, string lights streaking past. Shot 4 (7–9.5s): Low angle: Anton yanks a stack of fruit crates down behind him and oranges spill across the wet ground; Cole leaps the crates in one stride, suit jacket flaring, lands hard and keeps running. Shot 5 (9.5–12.5s): Cole bursts into a crossroads of lanes beneath a stall sign reading \"HOT TEA\" and stops dead, breathing hard. Anton is gone. The camera orbits slowly halfway around Cole, circling past his left side to end over his shoulder, as he scans the crowd. Shot 6 (12.5–15s): Close on Cole. His eyes snap left and the camera whip-pans left, landing sharp on Anton climbing a metal stairway above the stalls, glancing back. Cole sprints out of frame after him. Gritty handheld spy-thriller look, anamorphic, shallow depth of field, teal shadows with warm amber lantern light, motion blur from speed only. No dialogue: pounding footsteps, crates crashing, oranges rolling, sizzling grills, crowd gasps, a pulsing percussion score with low brass stabs.\"",
+  "originalPromptSha256": "5b40f8af6723b27bd25cbdee8a92ca7e0b97803a2d098d22f68cee2ea80e3ba3",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Night-market spy chase",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Early October demonstration attributed to Kling 4.0 by the author; platform generation metadata is unavailable.",
+    "zh": "保留原始提示词，根据自己的项目调整场景。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2104743016938213376",
+    "url": "https://video-s.twimg.com/amplify_video/2104743016938213376/vid/avc1/1920x1080/SXTCXUlUfQQ36NUR.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2104743016938213376/vid/avc1/1920x1080/SXTCXUlUfQQ36NUR.mp4?tag=29",
+    "sourceUrl": "https://x.com/minchoi/status/2104743085087560174",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2104743016938213376/img/oK1o6FJmjlEYrl7c.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-09-29T01:20:30Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}
