@@ -1,14 +1,48 @@
+![Awesome Kling 4.0 Prompts](assets/cover.en.svg)
+
 # Awesome Kling 4.0 Prompts
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-A curated collection of Kling video prompts and examples by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>.
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/stargazers"><img src="https://img.shields.io/github/stars/BravoNeo/awesome-kling-4-0-prompts?style=social" alt="Stars" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/Code-MIT-blue" alt="Code license: MIT" /></a>
+<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="Catalog validation" /></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="Contributions welcome" /></a>
 
-**7 prompts · 7 creators · Kling 4.0 Flash**
+Video prompts and creator examples curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>.
 
-The current collection features creator-attributed Kling 4.0 Flash videos.
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Browse the online gallery</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a>
 
-<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Online gallery</a> · [Featured](#featured-videos) · [Categories](#browse-by-use) · [All prompts](#prompts-and-videos)
+## Table of contents
+
+- [About the collection](#about)
+- [Statistics](#statistics)
+- [Featured videos](#featured-videos)
+- [Browse by use](#browse-by-use)
+- [All prompts](#prompts-and-videos)
+- [More collections](#more-collections)
+- [Contribute](#contribute)
+- [Credits & license](#credits)
+
+<a id="about"></a>
+
+## About the Kling 4.0 series
+
+This collection brings together video prompts for the Kling 4.0 series. All current examples are attributed by their creators to **Kling 4.0 Flash**.
+
+Explore action choreography, character animation, comedy and travel films. Each case preserves the original prompt and creator sources, with input references where supplied. Find model information at the <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">official Kling AI website</a>.
+
+<a id="statistics"></a>
+
+## Statistics
+
+| Metric | Count |
+| --- | --- |
+| Prompts | 7 |
+| Creators | 7 |
+| Featured examples | 4 |
+| README updated | 2026-10-21 |
 
 <a id="featured-videos"></a>
 ## Featured videos
@@ -41,7 +75,7 @@ Click a cover to watch on X.
 ## All prompts
 
 <a id="cliffside-wuxia-duel"></a>
-### Cliffside Wuxia Duel
+### 1. Cliffside Wuxia Duel
 
 Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.
 
@@ -102,6 +136,10 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-01 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
 - Sources: <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
 
@@ -149,7 +187,7 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 ---
 
 <a id="pink-haired-fire-witch"></a>
-### Pink-Haired Fire Witch
+### 2. Pink-Haired Fire Witch
 
 A tiny fire witch practices a spell with a colorful character reference and expressive animation.
 
@@ -300,6 +338,10 @@ Avoid distorted hands or facial features.
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-01 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/imhealmachine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@imhealmachine</a>
 - Sources: <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
 
@@ -318,7 +360,7 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 ---
 
 <a id="pizza-delivery-cat"></a>
-### Pizza Delivery Cat
+### 3. Pizza Delivery Cat
 
 A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.
 
@@ -517,13 +559,17 @@ REALISM REQUIREMENTS
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-02 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
 - Source: <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="korea-fashion-travel-film"></a>
-### Korea Fashion Travel Film
+### 4. Korea Fashion Travel Film
 
 A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.
 
@@ -1151,13 +1197,17 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-02 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
 - Source: <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="astra-sky-battle"></a>
-### Astra Sky Battle
+### 5. Astra Sky Battle
 
 A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.
 
@@ -1192,6 +1242,10 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-01 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
 - Sources: <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
 
@@ -1252,7 +1306,7 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 ---
 
 <a id="sumo-pair-figure-skating"></a>
-### Sumo Pair Figure Skating
+### 6. Sumo Pair Figure Skating
 
 Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.
 
@@ -1271,13 +1325,17 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-01 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/techhalla" rel="nofollow noreferrer" referrerpolicy="no-referrer">@techhalla</a>
 - Source: <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="fox-owl-library"></a>
-### Fox and Owl in the Library
+### 7. Fox and Owl in the Library
 
 A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
 
@@ -1296,20 +1354,38 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 Click the cover to watch on X.
 
+#### Details
+
+- Published: 2026-10-02 (UTC)
+- Prompt language: English
 - Author: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
 - Sources: <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
 
 ---
+
+<a id="more-collections"></a>
 
 ## More collections
 
 - <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">GPT Image 2.5 Prompts</a>
 - <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 Prompts</a>
 
+<a id="contribute"></a>
+
 ## Contribute
 
 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a> with the original text, video, creator credit and any input references. See [contribution guidelines](CONTRIBUTING.md).
 
+<a id="credits"></a>
+
 ## Credits & license
 
 Prompts and artwork belong to their creators; follow their permissions for reuse. See [content rights](CONTENT_RIGHTS.md). Repository code is [MIT licensed](LICENSE).
+
+For attribution corrections or removal requests, <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new" rel="nofollow noreferrer" referrerpolicy="no-referrer">open an issue</a>.
+
+---
+
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Online gallery</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Star this repo</a>
+
+Generated from repository data. Updated: 2026-10-21.

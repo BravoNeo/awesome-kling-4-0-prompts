@@ -14,7 +14,7 @@ def presentation():
 def template(part, locale, entries):
     value = (ROOT / f'docs/readme-{part}.{locale}.md').read_text(encoding='utf-8')
     creators = len({e['author']['handle'] for e in entries})
-    return value.replace('{{count}}', str(len(entries))).replace('{{creators}}', str(creators)).replace('{{updated}}', presentation()['presentationUpdated']).rstrip()
+    return value.replace('{{count}}', str(len(entries))).replace('{{creators}}', str(creators)).replace('{{featured}}', str(sum(e['slug'] in presentation()['featured'] for e in entries))).replace('{{updated}}', presentation()['presentationUpdated']).rstrip()
 
 
 def featured_entries(entries):

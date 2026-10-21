@@ -1,14 +1,48 @@
+![Kling 4.0 精选提示词合集](assets/cover.zh.svg)
+
 # Kling 4.0 精选提示词合集
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-由 <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理的 Kling 视频提示词与作品合集。
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/stargazers"><img src="https://img.shields.io/github/stars/BravoNeo/awesome-kling-4-0-prompts?style=social" alt="Stars" /></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/Code-MIT-blue" alt="代码许可：MIT" /></a>
+<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="数据校验" /></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="欢迎投稿" /></a>
 
-**7 条提示词 · 7 位创作者 · Kling 4.0 Flash**
+由 <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理的视频提示词与创作者作品合集。
 
-当前收录作品均由创作者标注为 Kling 4.0 Flash。
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">提交作品</a>
 
-<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">在线作品库</a> · [精选](#featured-videos) · [分类](#browse-by-use) · [全部提示词](#prompts-and-videos)
+## 目录
+
+- [关于本合集](#about)
+- [统计](#statistics)
+- [精选视频](#featured-videos)
+- [按用途浏览](#browse-by-use)
+- [全部提示词](#prompts-and-videos)
+- [更多合集](#more-collections)
+- [投稿](#contribute)
+- [署名与许可](#credits)
+
+<a id="about"></a>
+
+## 关于 Kling 4.0 系列
+
+本合集围绕 Kling 4.0 系列整理视频提示词。目前收录的全部作品均由创作者标注为 **Kling 4.0 Flash**。
+
+案例涵盖动作编排、角色动画、喜剧和旅行短片，保留完整原文及作者来源；需要参考素材的案例另附输入参考图。模型信息见 <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI 官方网站</a>。
+
+<a id="statistics"></a>
+
+## 统计
+
+| 项目 | 数量 |
+| --- | --- |
+| 提示词 | 7 |
+| 创作者 | 7 |
+| 精选案例 | 4 |
+| README 更新日期 | 2026-10-21 |
 
 <a id="featured-videos"></a>
 ## 精选视频
@@ -41,7 +75,7 @@
 ## 全部提示词
 
 <a id="cliffside-wuxia-duel"></a>
-### 悬崖庭院武侠对决
+### 1. 悬崖庭院武侠对决
 
 黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。
 
@@ -121,6 +155,10 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-01 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
 - 来源: <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
 
@@ -168,7 +206,7 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 ---
 
 <a id="pink-haired-fire-witch"></a>
-### 粉发小女巫与魔法火苗
+### 2. 粉发小女巫与魔法火苗
 
 粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。
 
@@ -338,6 +376,10 @@ Avoid distorted hands or facial features.
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-01 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/imhealmachine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@imhealmachine</a>
 - 来源: <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
 
@@ -356,7 +398,7 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 ---
 
 <a id="pizza-delivery-cat"></a>
-### 送披萨的猫
+### 3. 送披萨的猫
 
 配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。
 
@@ -573,13 +615,17 @@ REALISM REQUIREMENTS
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-02 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
 - 来源: <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="korea-fashion-travel-film"></a>
-### 韩国旅行时尚广告
+### 4. 韩国旅行时尚广告
 
 红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。
 
@@ -1224,13 +1270,17 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-02 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
 - 来源: <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="astra-sky-battle"></a>
-### Astra天空战斗
+### 5. Astra天空战斗
 
 绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。
 
@@ -1284,6 +1334,10 @@ Astra天空战斗（中文编辑稿）
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-01 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
 - 来源: <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
 
@@ -1344,7 +1398,7 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 ---
 
 <a id="sumo-pair-figure-skating"></a>
-### 相扑双人花滑
+### 6. 相扑双人花滑
 
 两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。
 
@@ -1374,13 +1428,17 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-01 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/techhalla" rel="nofollow noreferrer" referrerpolicy="no-referrer">@techhalla</a>
 - 来源: <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 
 ---
 
 <a id="fox-owl-library"></a>
-### 图书馆狐狸与猫头鹰
+### 7. 图书馆狐狸与猫头鹰
 
 自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
 
@@ -1411,20 +1469,38 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 点击封面查看原帖视频。
 
+#### 作品信息
+
+- 发布于: 2026-10-02 (UTC)
+- 提示词语言: 英语
 - 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
 - 来源: <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
 
 ---
+
+<a id="more-collections"></a>
 
 ## 更多合集
 
 - <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">GPT Image 2.5 提示词</a>
 - <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 提示词</a>
 
+<a id="contribute"></a>
+
 ## 投稿
 
 通过<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿表单</a>提交原始提示词、视频、作者署名和所需参考图。详见[投稿指南](CONTRIBUTING.md)。
 
+<a id="credits"></a>
+
 ## 署名与许可
 
 提示词和作品归各自创作者所有，使用请遵循作者授权。详见[内容归属说明](CONTENT_RIGHTS.md)。仓库代码采用 [MIT 许可](LICENSE)。
+
+内容归属或移除请求，请<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new" rel="nofollow noreferrer" referrerpolicy="no-referrer">提交问题</a>。
+
+---
+
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">在线作品库</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Star 收藏</a>
+
+此页面由仓库数据生成。更新日期：2026-10-21。
