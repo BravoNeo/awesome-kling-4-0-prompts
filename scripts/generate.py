@@ -20,16 +20,6 @@ def build_outputs():
             categories.append({'axis':axis,'category':key,'labels':labels,'count':len(ids),'path':path})
     for locale,path in [('en','README.md'),('zh','README.zh-CN.md')]:
         zh=locale=='zh'
-        labels = {
-            'prompt_source': '提示词原帖' if zh else 'Prompt source',
-            'video_source': '视频原帖' if zh else 'Video source',
-            'preview': '视频预览' if zh else 'Video preview',
-            'watch_original': '观看原帖视频' if zh else 'Watch original video',
-            'watch': '观看视频' if zh else 'Watch video',
-            'prompt': '完整原始提示词' if zh else 'Complete original prompt',
-            'asset_source': '参考图原帖' if zh else 'Reference source',
-            'asset_prompt': '参考图原始提示词' if zh else 'Original reference prompt',
-        }
         roles = {'character-sheet': '角色设定图', 'environment-sheet': '场景设定图',
                  'character-reference': '角色参考图', 'character-portrait': '角色肖像'}
         lines=[template('intro', locale, entries), '', featured_navigation(entries, locale), '', '<a id="browse-by-use"></a>', '## '+('按用途浏览' if zh else 'Browse by use'), '']
@@ -38,18 +28,34 @@ def build_outputs():
             if c['axis'] != 'use' or not c['count']: continue
             links = ' · '.join(f"[{e['title'][locale]}](#{e['slug']})" for e in featured_entries(entries) if c['category'] in e['categories']['use'])
             lines.append(f"| {c['labels'][locale]} | {links} |")
-        lines += ['', '<details>', '<summary>'+('按风格与主题浏览' if zh else 'Browse styles & subjects')+'</summary>', '']
-        for c in categories:
-            if c['axis'] == 'use' or not c['count']: continue
-            links = ' · '.join(f"[{e['title'][locale]}](#{e['slug']})" for e in featured_entries(entries) if c['category'] in e['categories'][c['axis']])
-            lines.append(f"- **{c['labels'][locale]}:** {links}")
-        lines += ['', '</details>', '', '<a id="prompts-and-videos"></a>', '## '+('提示词与视频' if zh else 'Prompts & videos'),'']
+        lines += ['', '<a id="prompts-and-videos"></a>', '## '+('全部提示词' if zh else 'All prompts'),'']
         for e in featured_entries(entries):
             v=e['video']
-            lines += [f'<a id="{e["slug"]}"></a>', '### '+e['title'][locale],'', '**'+e['modelClaim']['name']+'** · '+('作者标注' if zh else 'Creator-attributed')+' · '+str(len(e['referenceAssets']))+(' 个附带参考素材' if zh else ' linked input references'), '',presentation()['descriptions'][e['slug']][locale],'',f'@{e["author"]["handle"]} · [{labels["prompt_source"]}]({e["promptSourceUrl"]}) · [{labels["video_source"]}]({e["videoSourceUrl"]})','',f'<a href="{media_url(v["url"])}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)} — {labels["preview"]}" width="800" /></a>','',f'[{labels["watch_original"]}]({e["videoSourceUrl"]}) · [{labels["watch"]}]({media_url(v["url"])}) · {v["durationSecondsReported"]}s · {v["aspectRatioReported"][0]}:{v["aspectRatioReported"][1]}','',e['guidance'][locale],'','<details>',f'<summary>{labels["prompt"]}</summary>','',fenced(e['originalPrompt']),'','</details>','']
-            if zh:lines += ['<details>','<summary>中文编辑稿（独立改写）</summary>','',fenced(e['editorialCopies']['zh']['text']),'','</details>','']
-            for a in e['referenceAssets']:
-                lines += [f'- [{roles.get(a["role"], a["role"]) if zh else a["role"].replace("-", " ")}]({media_url(a["url"])}) · [{labels["asset_source"]}]({a["sourceUrl"]})','<details>',f'<summary>{labels["asset_prompt"]}</summary>','',fenced(a['assetPromptOriginal']),'','</details>','']
+            lines += [f'<a id="{e["slug"]}"></a>', '### '+e['title'][locale], '',
+                      presentation()['descriptions'][e['slug']][locale], '',
+                      '<details>', '<summary>'+('提示词原文' if zh else 'Prompt')+'</summary>', '',
+                      fenced(e['originalPrompt']), '', '</details>', '']
+            if zh:
+                lines += ['<details>', '<summary>中文参考改写</summary>', '',
+                          fenced(e['editorialCopies']['zh']['text']), '', '</details>', '']
+            lines += ['#### '+('视频' if zh else 'Video'), '',
+                      f'<a href="{media_url(v["url"])}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)}" width="700" /></a>', '',
+                      ('点击封面播放视频。' if zh else 'Click the cover to play.'), '',
+                      '- '+('作者' if zh else 'Author')+f': [@{e["author"]["handle"]}]({e["author"]["url"]})']
+            if e['promptSourceUrl'] == e['videoSourceUrl']:
+                lines += ['- '+('来源' if zh else 'Source')+f': [X]({e["promptSourceUrl"]})']
+            else:
+                lines += ['- '+('来源' if zh else 'Sources')+': '+
+                          f'[{"提示词原帖" if zh else "Prompt post"}]({e["promptSourceUrl"]}) · '+
+                          f'[{"视频原帖" if zh else "Video post"}]({e["videoSourceUrl"]})']
+            if e['referenceAssets']:
+                lines += ['', '<details>', '<summary>'+('输入参考图与提示词' if zh else 'Input references & prompts')+'</summary>', '']
+                for asset in e['referenceAssets']:
+                    role=roles.get(asset['role'],asset['role']) if zh else asset['role'].replace('-', ' ').title()
+                    lines += [f'**[{role}]({media_url(asset["url"])})** · [{"来源" if zh else "Source"}]({asset["sourceUrl"]})', '',
+                              fenced(asset['assetPromptOriginal']), '']
+                lines += ['</details>', '']
+            lines += ['', '---', '']
         lines += [template('footer', locale, entries), '']
         outputs[path]=external_links('\n'.join(lines))
     outputs['references/manifest.json']=dump({'schemaVersion':1,'model':'Kling 4.0 Flash','count':len(entries),'catalog':'export/catalog.json','categories':categories,'sha256':{k:hashlib.sha256(v.encode()).hexdigest() for k,v in sorted(outputs.items())}})

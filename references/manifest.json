@@ -136,8 +136,8 @@
     }
   ],
   "sha256": {
-    "README.md": "7793b65355615f150626249d4ec5717faf21e56aeae2f56700a16248e799c311",
-    "README.zh-CN.md": "406016f42e9d0596b58ee33489570148a563f5950e9b4b4988de841ea6fbb3c4",
+    "README.md": "2afafe12e58da048e91d3d54add84708329555dc5a50fe5dfb07df1168bff208",
+    "README.zh-CN.md": "3d3e90e14092d098fbad2b79816ac55e9da6127e2b0039f0c6f671d3dabf4d5e",
     "export/catalog.json": "dd8a92ba951b4c0a269e199f4e27494cc597fba6ccea1cba650a8a510af7f3cb",
     "references/style/cinematic-realism.json": "a63a0ae2d7e09129356a6d4d444748719d05dcf6d0ba6abfa8a9b9403a931062",
     "references/style/cozy-animation.json": "cc7167f59d8989280a0459ff81fa7ec43b0464cadd62fb14decce25b4beb6b79",

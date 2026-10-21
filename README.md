@@ -2,31 +2,27 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**Watch the result. Read the full prompt. Build your next scene.**
+A curated collection of Kling video prompts and examples by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>.
 
-A Kling 4.0 series collection curated by <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>. Explore action choreography, expressive characters, visual comedy and travel films through complete prompts paired with their videos and input references.
+**7 prompts · 7 creators · Kling 4.0 Flash**
 
-**7 video examples · 7 creators · English edition**
+The current collection features creator-attributed Kling 4.0 Flash videos.
 
-All 7 current examples are attributed to **Kling 4.0 Flash** by their creators. Each entry keeps its exact model label; a Flash example is not a full Kling 4.0 result.
-
-[Featured videos](#featured-videos) · [Browse by use](#browse-by-use) · [All prompts](#prompts-and-videos) · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a>
-
-Presentation refreshed: **2026-10-21** · Original prompts and source credits preserved.
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Online gallery</a> · [Featured](#featured-videos) · [Categories](#browse-by-use) · [All prompts](#prompts-and-videos)
 
 <a id="featured-videos"></a>
 ## Featured videos
 
-Click a cover to watch its video, then open the complete case. All featured works are creator-attributed Kling 4.0 Flash examples.
+Click a cover to play.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="480" /></a><br/><strong>Cliffside Wuxia Duel</strong><br/>Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.<br/><sub>Kling 4.0 Flash · @yourPlugAI</sub><br/><a href="#cliffside-wuxia-duel">Full prompt & references →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="480" /></a><br/><strong>Pink-Haired Fire Witch</strong><br/>A tiny fire witch practices a spell with a colorful character reference and expressive animation.<br/><sub>Kling 4.0 Flash · @imhealmachine</sub><br/><a href="#pink-haired-fire-witch">Full prompt & references →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="480" /></a><br/><strong>Cliffside Wuxia Duel</strong><br/><a href="#cliffside-wuxia-duel">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="480" /></a><br/><strong>Pink-Haired Fire Witch</strong><br/><a href="#pink-haired-fire-witch">View prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="480" /></a><br/><strong>Pizza Delivery Cat</strong><br/>A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.<br/><sub>Kling 4.0 Flash · @Strength04_X</sub><br/><a href="#pizza-delivery-cat">Full prompt & references →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="480" /></a><br/><strong>Korea Fashion Travel Film</strong><br/>A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.<br/><sub>Kling 4.0 Flash · @Diplomeme</sub><br/><a href="#korea-fashion-travel-film">Full prompt & references →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="480" /></a><br/><strong>Pizza Delivery Cat</strong><br/><a href="#pizza-delivery-cat">View prompt →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="480" /></a><br/><strong>Korea Fashion Travel Film</strong><br/><a href="#korea-fashion-travel-film">View prompt →</a></td>
 </tr>
 </table>
 
@@ -41,41 +37,16 @@ Click a cover to watch its video, then open the complete case. All featured work
 | Character animation | [Pink-Haired Fire Witch](#pink-haired-fire-witch) · [Fox and Owl in the Library](#fox-owl-library) |
 | Action | [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Astra Sky Battle](#astra-sky-battle) |
 
-<details>
-<summary>Browse styles & subjects</summary>
-
-- **Cinematic realism:** [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Pizza Delivery Cat](#pizza-delivery-cat) · [Korea Fashion Travel Film](#korea-fashion-travel-film) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [Fox and Owl in the Library](#fox-owl-library)
-- **Cozy animation:** [Pink-Haired Fire Witch](#pink-haired-fire-witch)
-- **Painterly animation:** [Astra Sky Battle](#astra-sky-battle)
-- **Travelers:** [Korea Fashion Travel Film](#korea-fashion-travel-film)
-- **Animals:** [Pizza Delivery Cat](#pizza-delivery-cat) · [Fox and Owl in the Library](#fox-owl-library)
-- **Athletes:** [Sumo Pair Figure Skating](#sumo-pair-figure-skating)
-- **Witches:** [Pink-Haired Fire Witch](#pink-haired-fire-witch)
-- **Heroes:** [Astra Sky Battle](#astra-sky-battle)
-- **Martial arts:** [Cliffside Wuxia Duel](#cliffside-wuxia-duel)
-
-</details>
-
 <a id="prompts-and-videos"></a>
-## Prompts & videos
+## All prompts
 
 <a id="cliffside-wuxia-duel"></a>
 ### Cliffside Wuxia Duel
 
-**Kling 4.0 Flash** · Creator-attributed · 3 linked input references
-
 Mei and Master Zhen exchange rapid martial arts moves on wet stone beneath a dawn-lit pavilion.
 
-@yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel — Video preview" width="800" /></a>
-
-<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.085s · 16:9
-
-Prepare Mei, Master Zhen and the courtyard references. Choose a fixed tracking camera or the written 360-degree orbit before adapting the fight.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 [ENGINE DIRECTIVE]
@@ -125,9 +96,19 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="Cliffside Wuxia Duel" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
+- Sources: <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+
 <details>
-<summary>Original reference prompt</summary>
+<summary>Input references & prompts</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 1: Character Sheet 1 Prompt — Mei (The Student)
@@ -139,11 +120,7 @@ Wardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitc
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.
 ```
 
-</details>
-
-- <a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
-<details>
-<summary>Original reference prompt</summary>
+**<a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)
@@ -155,11 +132,7 @@ Wardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.
 ```
 
-</details>
-
-- <a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">environment sheet</a> · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
-<details>
-<summary>Original reference prompt</summary>
+**<a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Environment Sheet</a>** · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn
@@ -172,23 +145,16 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 
 </details>
 
+
+---
+
 <a id="pink-haired-fire-witch"></a>
 ### Pink-Haired Fire Witch
 
-**Kling 4.0 Flash** · Creator-attributed · 1 linked input references
-
 A tiny fire witch practices a spell with a colorful character reference and expressive animation.
 
-@imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch — Video preview" width="800" /></a>
-
-<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
-
-Prepare the supplied character reference before adapting the sequence. Keep the pink hair, outfit and flame design recognizable.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 20-second cinematic animated short, 16:9 widescreen.
@@ -328,9 +294,19 @@ Avoid distorted hands or facial features.
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character reference</a> · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="Pink-Haired Fire Witch" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/imhealmachine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@imhealmachine</a>
+- Sources: <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+
 <details>
-<summary>Original reference prompt</summary>
+<summary>Input references & prompts</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Reference</a>** · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa
@@ -338,23 +314,16 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 
 </details>
 
+
+---
+
 <a id="pizza-delivery-cat"></a>
 ### Pizza Delivery Cat
 
-**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
-
 A delivery cat sneaks a slice of pizza, hands over the box and escapes on a scooter with a flying kiss.
 
-@Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat — Video preview" width="800" /></a>
-
-<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
-
-Choose 16:9 landscape or 9:16 portrait and make the prompt agree. The source mixes both; the attached video is landscape.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 Create an exactly 20 second ultra-realistic live-action comedy video, filmed as if recorded on an iPhone 18 Pro Max. Vertical 16:9, 1080×1920, 24fps.
@@ -542,23 +511,24 @@ REALISM REQUIREMENTS
 
 </details>
 
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="Pizza Delivery Cat" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
+- Source: <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="korea-fashion-travel-film"></a>
 ### Korea Fashion Travel Film
 
-**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
-
 A red-jacket traveler moves from a train window through Seoul streets, food markets and mountain landscapes.
 
-@Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film — Video preview" width="800" /></a>
-
-<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
-
-Choose one duration before editing the shot list: the header says 20 seconds, while the timeline runs to 30 seconds. Keep the same traveler and wardrobe across shots.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 KOREA PREMIUM TRAVEL / FASHION FILM
@@ -1175,23 +1145,24 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 </details>
 
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="Korea Fashion Travel Film" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- Source: <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="astra-sky-battle"></a>
 ### Astra Sky Battle
 
-**Kling 4.0 Flash** · Creator-attributed · 2 linked input references
-
 A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.
 
-@itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle — Video preview" width="800" /></a>
-
-<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 19.272s · 16:9
-
-Use the supplied Astra portrait and character sheet to lock the character. Preserve the painterly look across all six cuts.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
@@ -1215,9 +1186,43 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character portrait</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra Sky Battle" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
+- Sources: <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+
 <details>
-<summary>Original reference prompt</summary>
+<summary>Input references & prompts</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Portrait</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
+
+```text
+Kling 4.0 Flash Prompt:
+
+STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
+
+WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
+
+CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
+
+CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
+- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
+- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
+- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
+- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
+- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
+- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
+
+LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
+
+weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
+```
+
+**<a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">Character Sheet</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Source</a>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1243,51 +1248,16 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">character sheet</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">Reference source</a>
-<details>
-<summary>Original reference prompt</summary>
 
-```text
-Kling 4.0 Flash Prompt:
-
-STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
-
-WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
-
-CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
-
-CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
-- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
-- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
-- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
-- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
-- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
-- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
-
-LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
-
-weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
-```
-
-</details>
+---
 
 <a id="sumo-pair-figure-skating"></a>
 ### Sumo Pair Figure Skating
 
-**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
-
 Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.
 
-@techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating — Video preview" width="800" /></a>
-
-<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.053s · 16:9
-
-Set the intended framing explicitly. The original asks for vertical video; the attached example is 16:9 landscape.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.
@@ -1295,23 +1265,24 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 </details>
 
+#### Video
+
+<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="Sumo Pair Figure Skating" width="700" /></a>
+
+Click the cover to play.
+
+- Author: <a href="https://x.com/techhalla" rel="nofollow noreferrer" referrerpolicy="no-referrer">@techhalla</a>
+- Source: <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="fox-owl-library"></a>
 ### Fox and Owl in the Library
 
-**Kling 4.0 Flash** · Creator-attributed · 0 linked input references
-
 A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
 
-@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt source</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video source</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library — Video preview" width="800" /></a>
-
-<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch original video</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">Watch video</a> · 20.041s · 16:9
-
-Text-to-video example. Keep the two characters, warm library lighting and conversational beats consistent.
-
 <details>
-<summary>Complete original prompt</summary>
+<summary>Prompt</summary>
 
 ```text
 A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
@@ -1319,33 +1290,26 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 </details>
 
-## How to use these examples
+#### Video
 
-1. Open a video preview and study the motion, pacing and camera.
-2. Read the input note and prepare the linked reference assets, where supplied.
-3. Expand **Complete original prompt**, copy it and adapt the scene in a tool supporting the stated model. Original wording and Chinese editorial adaptations are separate.
+<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="Fox and Owl in the Library" width="700" /></a>
 
-Choose the exact model and available controls in your tool. Creator prompts describe intentions, not guaranteed outputs or an official specification. See <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a> for model information.
+Click the cover to play.
 
-## Discover more
+- Author: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- Sources: <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
 
-Visit the <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling 4.0 Flash gallery</a> for more examples and prompt copying, or explore <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance Explore</a> for a new direction.
+---
 
-| More collections | Online gallery | GitHub |
-| --- | --- | --- |
-| GPT Image 2.5 | <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Gallery</a> | <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
-| Nano Banana 2.1 | <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Gallery</a> | <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Repository</a> |
+## More collections
 
-## Share your work
+- <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">GPT Image 2.5 Prompts</a>
+- <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 Prompts</a>
 
-Have an example to share? Open a <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">submission issue</a> with the complete original prompt, creator credit, original post, model name and corresponding output. Identify any input references separately.
+## Contribute
 
-Submissions are reviewed for prompt completeness, source/video pairing, exact model attribution and reference assets before inclusion. See [contribution requirements](CONTRIBUTING.md). No automatic publication or review-time guarantee.
+<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a> with the original text, video, creator credit and any input references. See [contribution guidelines](CONTRIBUTING.md).
 
-If this collection helps your next project, star it to find it again.
+## Credits & license
 
-## Attribution & use
-
-Prompts and artwork belong to their creators. Original posts are linked with each example; respect the creator’s permissions and conditions for further use. Model credits follow creator statements. See [content rights](CONTENT_RIGHTS.md). Repository code is [MIT licensed](LICENSE).
-
-[Maintainer and data documentation](docs/maintaining.md)
+Prompts and artwork belong to their creators; follow their permissions for reuse. See [content rights](CONTENT_RIGHTS.md). Repository code is [MIT licensed](LICENSE).

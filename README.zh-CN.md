@@ -2,31 +2,27 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-**先看效果，再读完整提示词，开始构思下一段视频。**
+由 <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理的 Kling 视频提示词与作品合集。
 
-由 <a href="https://reeldance.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理的 Kling 4.0 系列提示词合集。通过完整原文、对应视频和输入参考素材，学习动作编排、角色表演、视觉喜剧与旅行短片。
+**7 条提示词 · 7 位创作者 · Kling 4.0 Flash**
 
-**7 个视频案例 · 7 位创作者 · 中文版**
+当前收录作品均由创作者标注为 Kling 4.0 Flash。
 
-目前 7 个案例均由作者标注为 **Kling 4.0 Flash**。每条保留准确的模型名称，Flash 作品不作为完整 Kling 4.0 的生成结果展示。
-
-[精选视频](#featured-videos) · [按用途浏览](#browse-by-use) · [全部提示词](#prompts-and-videos) · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿</a>
-
-展示更新：**2026-10-21** · 保留原始提示词与来源署名。
+<a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">在线作品库</a> · [精选](#featured-videos) · [分类](#browse-by-use) · [全部提示词](#prompts-and-videos)
 
 <a id="featured-videos"></a>
 ## 精选视频
 
-点击封面观看对应视频，再打开完整案例。全部为作者标注的 Kling 4.0 Flash 作品。
+点击封面播放视频。
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决" width="480" /></a><br/><strong>悬崖庭院武侠对决</strong><br/>黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。<br/><sub>Kling 4.0 Flash · @yourPlugAI</sub><br/><a href="#cliffside-wuxia-duel">完整提示词与参考图 →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗" width="480" /></a><br/><strong>粉发小女巫与魔法火苗</strong><br/>粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。<br/><sub>Kling 4.0 Flash · @imhealmachine</sub><br/><a href="#pink-haired-fire-witch">完整提示词与参考图 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决" width="480" /></a><br/><strong>悬崖庭院武侠对决</strong><br/><a href="#cliffside-wuxia-duel">查看提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗" width="480" /></a><br/><strong>粉发小女巫与魔法火苗</strong><br/><a href="#pink-haired-fire-witch">查看提示词 →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫" width="480" /></a><br/><strong>送披萨的猫</strong><br/>配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。<br/><sub>Kling 4.0 Flash · @Strength04_X</sub><br/><a href="#pizza-delivery-cat">完整提示词与参考图 →</a></td>
-<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告" width="480" /></a><br/><strong>韩国旅行时尚广告</strong><br/>红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。<br/><sub>Kling 4.0 Flash · @Diplomeme</sub><br/><a href="#korea-fashion-travel-film">完整提示词与参考图 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫" width="480" /></a><br/><strong>送披萨的猫</strong><br/><a href="#pizza-delivery-cat">查看提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告" width="480" /></a><br/><strong>韩国旅行时尚广告</strong><br/><a href="#korea-fashion-travel-film">查看提示词 →</a></td>
 </tr>
 </table>
 
@@ -41,41 +37,16 @@
 | 角色动画 | [粉发小女巫与魔法火苗](#pink-haired-fire-witch) · [图书馆狐狸与猫头鹰](#fox-owl-library) |
 | 动作 | [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [Astra天空战斗](#astra-sky-battle) |
 
-<details>
-<summary>按风格与主题浏览</summary>
-
-- **电影写实:** [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [送披萨的猫](#pizza-delivery-cat) · [韩国旅行时尚广告](#korea-fashion-travel-film) · [相扑双人花滑](#sumo-pair-figure-skating) · [图书馆狐狸与猫头鹰](#fox-owl-library)
-- **温暖动画:** [粉发小女巫与魔法火苗](#pink-haired-fire-witch)
-- **绘画动画:** [Astra天空战斗](#astra-sky-battle)
-- **旅人:** [韩国旅行时尚广告](#korea-fashion-travel-film)
-- **动物:** [送披萨的猫](#pizza-delivery-cat) · [图书馆狐狸与猫头鹰](#fox-owl-library)
-- **运动员:** [相扑双人花滑](#sumo-pair-figure-skating)
-- **女巫:** [粉发小女巫与魔法火苗](#pink-haired-fire-witch)
-- **英雄:** [Astra天空战斗](#astra-sky-battle)
-- **武术:** [悬崖庭院武侠对决](#cliffside-wuxia-duel)
-
-</details>
-
 <a id="prompts-and-videos"></a>
-## 提示词与视频
+## 全部提示词
 
 <a id="cliffside-wuxia-duel"></a>
 ### 悬崖庭院武侠对决
 
-**Kling 4.0 Flash** · 作者标注 · 3 个附带参考素材
-
 黎明亭阁下，梅与振师傅在湿石庭院上快速交手；逐段动作、镜头和声效组成一场武侠对决。
 
-@yourPlugAI · <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.085s · 16:9
-
-准备梅、振师傅和庭院三张参考图。先选固定跟拍或原文中的360度环绕，再编辑战斗。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 [ENGINE DIRECTIVE]
@@ -126,7 +97,7 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 悬崖庭院武侠对决（中文编辑稿）
@@ -144,9 +115,19 @@ Generate a single continuous 20-second fast-paced, high-velocity photorealistic 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a> · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/6c8dfea9dc29573602c71f398aefaeaad0c3daaad4d57ab364551d749ce762c5.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/d1e0ab6c53820dc6d0c48eb3f40e89f1c161bf0fddcd8d64b011fcde8b3a718d.webp" alt="悬崖庭院武侠对决" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
+- 来源: <a href="https://x.com/yourPlugAI/status/2105587110639985048" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/yourPlugAI/status/2105585139703025950" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+
 <details>
-<summary>参考图原始提示词</summary>
+<summary>输入参考图与提示词</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/75df9dfbb2410726126d4f425022afd57d8287be3a4a073093928a884ee14630.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a>** · <a href="https://x.com/yourPlugAI/status/2105585851312857553" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
 
 ```text
 Asset 1: Character Sheet 1 Prompt — Mei (The Student)
@@ -158,11 +139,7 @@ Wardrobe: Tailored slate-blue woven linen martial tunic with subtle silver-stitc
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic fabric textures, neutral studio backdrop, 8K render.
 ```
 
-</details>
-
-- <a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a> · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
-<details>
-<summary>参考图原始提示词</summary>
+**<a href="https://media.reeldance.ai/galleries/assets/46b118955554051bc570f6a4c50689a3d383444c02a9214c97c1c4aba6ebe519.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a>** · <a href="https://x.com/yourPlugAI/status/2105586111116464293" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
 
 ```text
 Asset 2: Character Sheet 2 Prompt — Master Zhen (The Grandmaster)
@@ -174,11 +151,7 @@ Wardrobe: Layered warm ochre and dark mahogany silk scholar-warrior robes with a
 Style: Photorealistic 35mm wuxia cinema aesthetic. Natural morning light, realistic drape and silk cloth physics, dark studio backdrop, 8K render.
 ```
 
-</details>
-
-- <a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">场景设定图</a> · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
-<details>
-<summary>参考图原始提示词</summary>
+**<a href="https://media.reeldance.ai/galleries/assets/3b26021b91f72160ab362e8102ee615856c42b5d12e81795042922ccd707f9f1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">场景设定图</a>** · <a href="https://x.com/yourPlugAI/status/2105586309913882863" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
 
 ```text
 Asset 3: Environment Sheet Prompt — Cliffside Stone Courtyard at Dawn
@@ -191,23 +164,16 @@ Lighting & FX: Soft golden hour sunbeams cutting through sea mist, gentle mornin
 
 </details>
 
+
+---
+
 <a id="pink-haired-fire-witch"></a>
 ### 粉发小女巫与魔法火苗
 
-**Kling 4.0 Flash** · 作者标注 · 1 个附带参考素材
-
 粉发小女巫在金色草地练习魔法，用表情变化和青蓝火苗串起一段角色动画。
 
-@imhealmachine · <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.041s · 16:9
-
-先准备作者角色参考图，再改动作。保持粉发、服装和火苗设计一致。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 20-second cinematic animated short, 16:9 widescreen.
@@ -348,7 +314,7 @@ Avoid distorted hands or facial features.
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 粉发火焰小女巫（中文编辑稿）
@@ -366,9 +332,19 @@ Avoid distorted hands or facial features.
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色参考图</a> · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/3448123d8ec982a4cc29977c8e5679e9b49ac102433ddecef30ac8121854dcd8.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/3d14fd2e236be59f2222af2186ca723490e6a086b794e19bfc0f8a5496ba7ab5.webp" alt="粉发小女巫与魔法火苗" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/imhealmachine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@imhealmachine</a>
+- 来源: <a href="https://x.com/imhealmachine/status/2105659020359184617" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/imhealmachine/status/2105659013572800732" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+
 <details>
-<summary>参考图原始提示词</summary>
+<summary>输入参考图与提示词</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/bcf0b44d88e23d1653005ed62be45f9b04d2c1dff38908c692f144329bc28bc6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色参考图</a>** · <a href="https://x.com/imhealmachine/status/2105659016470995438" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
 
 ```text
 fire magician, girl, fullbody, simple white background --ar 3:4 --sref 4092479988 --profile wrzvdlt --hd --v 8.2 https://t.co/gopJoGaSNa
@@ -376,23 +352,16 @@ fire magician, girl, fullbody, simple white background --ar 3:4 --sref 409247998
 
 </details>
 
+
+---
+
 <a id="pizza-delivery-cat"></a>
 ### 送披萨的猫
 
-**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
-
 配送猫偷吃一片披萨，交出餐盒后骑踏板车逃走，临别还送出飞吻。
 
-@Strength04_X · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.041s · 16:9
-
-先选16:9横屏或9:16竖屏，再统一提示词。原文混用两种比例，附带视频是横屏。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 Create an exactly 20 second ultra-realistic live-action comedy video, filmed as if recorded on an iPhone 18 Pro Max. Vertical 16:9, 1080×1920, 24fps.
@@ -581,7 +550,7 @@ REALISM REQUIREMENTS
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 披萨配送猫（中文编辑稿）
@@ -598,23 +567,24 @@ REALISM REQUIREMENTS
 
 </details>
 
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/d4cb40cfa9de22e7eb6d3a2cee50950405bf944a6a9af04c7035bfb6a92457c6.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/97043944c405c0dafa7f5e4c0d7c7f984adbea96a2ddbaad31b627b08dc390c7.webp" alt="送披萨的猫" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
+- 来源: <a href="https://x.com/Strength04_X/status/2105889942958440671" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="korea-fashion-travel-film"></a>
 ### 韩国旅行时尚广告
 
-**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
-
 红夹克旅人从列车窗边走入首尔街道、夜市与山景，以连贯穿搭和转场连接旅行镜头。
 
-@Diplomeme · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.041s · 16:9
-
-先确定总时长，再调整分镜：标题写20秒，分镜延伸到30秒。保持旅人和服装一致。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 KOREA PREMIUM TRAVEL / FASHION FILM
@@ -1232,7 +1202,7 @@ Commercial polish should come from cinematography, editing, sound and art direct
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 韩国旅行／时尚短片（中文编辑稿）
@@ -1248,23 +1218,24 @@ Commercial polish should come from cinematography, editing, sound and art direct
 
 </details>
 
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/bc2366054cc62598c9a0fc39f4b8efa89fe642c3f8186e3b9cfc18dcc1c25fc7.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/5fd12b98979c5c3fdaed0ea383fe4659a3e8ed3b10148a0d79618089cae30c25.webp" alt="韩国旅行时尚广告" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- 来源: <a href="https://x.com/Diplomeme/status/2105902453770342795" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="astra-sky-battle"></a>
 ### Astra天空战斗
 
-**Kling 4.0 Flash** · 作者标注 · 2 个附带参考素材
-
 绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。
 
-@itsPixieVerse · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra天空战斗 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 19.272s · 16:9
-
-使用Astra立绘和角色表锁定造型，六个镜头均保持绘画质感。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
@@ -1289,7 +1260,7 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 Astra天空战斗（中文编辑稿）
@@ -1307,9 +1278,43 @@ Astra天空战斗（中文编辑稿）
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色肖像</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/fa480a03a6497d39494a98179c9a087edfe88b6330c33bc155db9ec413dc4846.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/e60863926adc223cdb3f510d32852e5144ae5fd28a59eaafab1b35bed065a539.webp" alt="Astra天空战斗" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
+- 来源: <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/itsPixieVerse/status/2105697902043800063" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+
 <details>
-<summary>参考图原始提示词</summary>
+<summary>输入参考图与提示词</summary>
+
+**<a href="https://media.reeldance.ai/galleries/assets/0687993f8eebbe16f2488fbae89e8ca6c48dd25e7888cb8b2efdf3c200fa3190.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色肖像</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
+
+```text
+Kling 4.0 Flash Prompt:
+
+STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
+
+WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
+
+CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
+
+CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
+- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
+- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
+- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
+- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
+- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
+- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
+
+LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
+
+weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
+```
+
+**<a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a>** · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">来源</a>
 
 ```text
 Kling 4.0 Flash Prompt:
@@ -1335,51 +1340,16 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 
 </details>
 
-- <a href="https://media.reeldance.ai/galleries/assets/b152383032f4aa7d8e7483753369918ba35f15e8d2340baf4574ac396de1e556.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">角色设定图</a> · <a href="https://x.com/itsPixieVerse/status/2105697908624617880" rel="nofollow noreferrer" referrerpolicy="no-referrer">参考图原帖</a>
-<details>
-<summary>参考图原始提示词</summary>
 
-```text
-Kling 4.0 Flash Prompt:
-
-STYLE: Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. 
-
-WORLD & ENVIRONMENT: The Stratos Basin of Sol-Vara. Monumental cantilevered brass runways and suspension pylons floating at 15,000 feet above an endless boiling sea of thunderheads. Heavy wind gusts, rain squalls, and blinding sun shafts breaking through dark storm clouds. 
-
-CHARACTER : Astra from the Stratos Basin of Sol-Vara. An athletic adult woman with long windswept silver-white hair, glowing emerald-green eyes, confident smirk, wearing a cropped white athletic top, billowing slate-blue hooded mantle with a circular eclipse crest, dark slate-blue short bottoms, tan utility pouch belt, forest-green gauntlets with brass cuffs, and black thigh-high boots, with a vertical beam of white-gold light blazing from her fist, elongated stylized tall proportions (10 heads tall), painterly matte skin with chunky brush-stroke shading. 
-
-CINEMATIC TIMELINE (20 SECONDS / 6 DYNAMIC CUTS):
-- 00:00 to 00:03 (Cut 1 | In Medias Res Hook - Macro Threat): Extreme macro close-up on Astra's clenched forest-green gauntlet; a blinding pillar of white-gold celestial energy erupts vertically from her knuckles with a deafening sonic crack. Sparks of raw light scatter outward, reflecting violently in her vibrant emerald-green eyes.
-- 00:03 to 00:06 (Cut 2 | Evasion & Kinetic Slide): Low-angle tracking shot; Astra executes a high-speed knee slide along the rain-slick brass platform edge at mach speed. An incoming cluster of heavy artillery shells demolishes the catwalk inches behind her; her slate-blue capelet and silver hair whip violently through smoke and flying debris.
-- 00:06 to 00:09 (Cut 3 | Smirk & Leap): Fast push-in on Astra's face as she vaults off the destroyed platform into empty space; unblinking emerald eyes, cocky grin, zero hesitation. She dives headfirst into the open sky between colossal floating battle-cruisers.
-- 00:09 to 00:13 (Cut 4 | FPV Freefall Pursuit): Fast FPV drone chase diving at supersonic terminal velocity directly behind Astra as she freefalls through swirling storm clouds. She cocks her right arm back, pulling loose lightning and sunbeams directly into her fist, turning it into a miniature sun.
-- 00:13 to 00:17 (Cut 5 | Celestial Strike & Hull Detonation): Low-angle wide clash; Astra slams her charged fist directly into the armored bridge of a colossal iron sky-dreadnought. An immense flat-painted shockwave of pure white-gold light explodes in a 360-degree ring, shearing the dreadnought's hull in two and parting the storm clouds across the entire horizon.
-- 00:17 to 00:20 (Cut 6 | Climax Hero Poster Frame): Low-angle three-quarter hero shot; Astra lands gracefully in a three-point stance on a narrow suspension cable, rising tall with effortless swagger. Her slate-blue cloak billows against the newly opened golden sky; her gauntlet smokes with fading amber sparks as she looks dead into the camera with a lethal smirk. Hold static hero frame to freeze.
-
-LIGHTING, DEPTH & PHYSICS: High-altitude stormy rim light, blinding vertical white-gold key flashes from her fist, cool slate shadow fill; strict three-layer depth separation in every frame; 
-
-weighty natural character animation, cloth and hair reacting to high-speed wind shears, follow-through and explosive momentum recoil.
-```
-
-</details>
+---
 
 <a id="sumo-pair-figure-skating"></a>
 ### 相扑双人花滑
 
-**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
-
 两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。
 
-@techhalla · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="相扑双人花滑 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.053s · 16:9
-
-明确选择画幅。原文要求竖屏，示例视频为16:9横屏。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 Realistic vertical handheld phone footage at a bright indoor ice rink during a figure skating competition, no text or captions on screen. Two enormous sumo wrestlers in mawashi loincloths and top-knots perform a graceful pairs figure skating routine: gliding hand in hand, one lifts the other high overhead with one arm and spins, then throws him into a triple jump that lands with a thud that cracks the ice, both finishing with elegant arms out while judges in the background hold up score cards. Single continuous shot, no cuts, romantic orchestral music, scraping blades and a heavy thud.
@@ -1388,7 +1358,7 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 相扑双人花滑（中文编辑稿）
@@ -1398,23 +1368,24 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 
 </details>
 
+#### 视频
+
+<a href="https://media.reeldance.ai/galleries/assets/183ba2909d3cec0dd1a926c5a132398b5254ad1cfe3174393db3b317e029d389.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/125b2d87a902828078671fce182fd19c0bd6f6697122e616e6813d41e849954b.webp" alt="相扑双人花滑" width="700" /></a>
+
+点击封面播放视频。
+
+- 作者: <a href="https://x.com/techhalla" rel="nofollow noreferrer" referrerpolicy="no-referrer">@techhalla</a>
+- 来源: <a href="https://x.com/techhalla/status/2105808684680945905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+
+---
+
 <a id="fox-owl-library"></a>
 ### 图书馆狐狸与猫头鹰
 
-**Kling 4.0 Flash** · 作者标注 · 0 个附带参考素材
-
 自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
 
-@Alin_Reaper05 · <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
-
-<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="图书馆狐狸与猫头鹰 — 视频预览" width="800" /></a>
-
-<a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看原帖视频</a> · <a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer">观看视频</a> · 20.041s · 16:9
-
-文生视频示例。保持两位角色、图书馆暖光和对话节奏一致。
-
 <details>
-<summary>完整原始提示词</summary>
+<summary>提示词原文</summary>
 
 ```text
 A photorealistic cinematic scene in a grand walnut-panelled library, late afternoon. An anthropomorphic red fox aristocrat wears a forest-green frock coat, a cream waistcoat and a carefully tied silk cravat. An elderly barn owl scholar stands beside a writing desk in a dark plum velvet jacket, with tiny spectacles resting above his beak. Warm window light catches individual strands of fur and delicate facial feathers. Begin in a medium two-shot as the fox confidently straightens his cuffs. He asks, “Would you describe me as a man of considerable intellect?” Cut to the owl’s close-up. After a thoughtful pause, the owl replies, “I would describe you as considerably well dressed.” The fox’s proud smile slowly fades in the blurred background. Understated British delivery, subtle expressions, believable animal anatomy, polished period-drama cinematography, gentle clock ticking, no subtitles.
@@ -1423,7 +1394,7 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 </details>
 
 <details>
-<summary>中文编辑稿（独立改写）</summary>
+<summary>中文参考改写</summary>
 
 ```text
 狐狸与猫头鹰的图书馆（中文编辑稿）
@@ -1434,33 +1405,26 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 
 </details>
 
-## 如何使用这些案例
+#### 视频
 
-1. 点击预览观看视频，观察动作、节奏和镜头。
-2. 阅读输入说明；如果提供参考素材，先准备对应角色或场景图。
-3. 展开「完整原始提示词」，复制到支持所标注模型的工具中，再按自己的故事调整。中文编辑稿与原文分开保留。
+<a href="https://media.reeldance.ai/galleries/assets/2874e5fd0a8cfe6f96ada02877c43b6b558b45674e838ed3efd1344a1d6a32aa.mp4" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://media.reeldance.ai/galleries/assets/a1e88f43b22a764f29b9cc3520f50cfed6e7d0dabcf6b4cab4d6a4718c3040f0.webp" alt="图书馆狐狸与猫头鹰" width="700" /></a>
 
-在使用的工具中选择准确模型和可用参数。作者提示词描述创作意图，不代表效果保证或官方规格。模型信息见 <a href="https://kling.ai/" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling AI</a>。
+点击封面播放视频。
 
-## 查看更多作品
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2105981906869199107" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2105981903727694047" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
 
-在 <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Kling 4.0 Flash 在线作品库</a> 浏览与复制更多案例，或到 <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance 灵感广场</a> 寻找新的创作方向。
+---
 
-| 其他模型合集 | 在线浏览 | GitHub |
-| --- | --- | --- |
-| GPT Image 2.5 | <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">仓库</a> |
-| Nano Banana 2.1 | <a href="https://reeldance.ai/nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">作品库</a> | <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">仓库</a> |
+## 更多合集
 
-## 分享你的作品
+- <a href="https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">GPT Image 2.5 提示词</a>
+- <a href="https://github.com/BravoNeo/awesome-nano-banana-2-1-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Nano Banana 2.1 提示词</a>
 
-欢迎通过 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿表单</a>，附完整原始提示词、作者、准确原帖、模型名称和对应输出。若用到参考图片，请与输出分开标明。
+## 投稿
 
-## 归属与使用
+通过<a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿表单</a>提交原始提示词、视频、作者署名和所需参考图。详见[投稿指南](CONTRIBUTING.md)。
 
-提示词和作品归各自创作者所有。作者原帖保留在每个案例中；进一步使用请尊重原作者的授权与要求。模型署名沿用创作者声明。 详见 [内容归属说明](CONTENT_RIGHTS.md)。仓库代码采用 [MIT](LICENSE) 许可。
+## 署名与许可
 
-[维护与数据说明](docs/maintaining.md)
-
-投稿需先审核完整原文、视频对应关系、准确模型归属与参考素材；不承诺自动发布或审核时限。详见 [投稿要求](CONTRIBUTING.md)。
-
-如果这些案例对你有帮助，可以点击 Star 收藏仓库。
+提示词和作品归各自创作者所有，使用请遵循作者授权。详见[内容归属说明](CONTENT_RIGHTS.md)。仓库代码采用 [MIT 许可](LICENSE)。
