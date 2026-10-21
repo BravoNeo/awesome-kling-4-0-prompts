@@ -1,4 +1,4 @@
-![Kling 4.0 精选提示词合集](assets/cover.zh.svg)
+![Kling 4.0 精选提示词合集](assets/cover-imagegen.png)
 
 # Kling 4.0 精选提示词合集
 

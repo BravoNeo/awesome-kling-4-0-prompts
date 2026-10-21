@@ -1,4 +1,4 @@
-![Awesome Kling 4.0 Prompts](assets/cover.en.svg)
+![Awesome Kling 4.0 Prompts](assets/cover-imagegen.png)
 
 # Awesome Kling 4.0 Prompts
 
