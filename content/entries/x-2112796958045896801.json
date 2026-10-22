@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112796958045896801",
+  "slug": "knight-defending-the-fortress",
+  "title": {
+    "en": "Knight defending the fortress",
+    "zh": "骑士守卫堡垒"
+  },
+  "description": {
+    "en": "Knight defending the fortress — original prompt by @AiwithBloodline.",
+    "zh": "骑士守卫堡垒，来自 @AiwithBloodline 的原始提示词。"
+  },
+  "author": {
+    "handle": "AiwithBloodline",
+    "url": "https://x.com/AiwithBloodline"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/AiwithBloodline/status/2112796958045896801",
+    "sourceTextOriginal": "One knight, one fortress, and a battle that will echo through history. A cinematic masterpiece brought to life. ⚔️\n\nCreated with Kling4.0 on @Kling_ai \n\nPROMPT ⤵️\nCreate a photorealistic medieval battle sequence featuring a lone male knight defending the entrance to an ancient stone fortress. The scene must resemble a premium Hollywood historical film, with realistic armor, physically accurate movement, natural lighting, and consistent character identity.\nCharacter reference: Use the uploaded knight image as the strict visual reference. Maintain the same helmet, silver plate armor, dark-blue cloak, sword, shield, and body proportions throughout the video.\n0–5 seconds: The knight stands alone in front of a massive fortress gate. Wind moves his dark-blue cloak as dust drifts across the stone courtyard. The camera slowly pushes toward him.\n5–10 seconds: A line of armored soldiers emerges through the distant dust. The knight raises his shield and positions his sword defensively. Sunlight glints naturally off the edges of his armor.\n10–15 seconds: The first opponent charges. The knight blocks the incoming sword strike with his shield, pivots, and pushes the opponent backward. His armor moves naturally with his body.\n15–20 seconds: Two more opponents approach from opposite directions. The knight turns to face them, maintaining a defensive stance. The camera tracks around the combatants while preserving spatial continuity.\n20–25 seconds: The knight deflects another strike and forces the opponents to retreat. Dust rises from their boots as they move across the courtyard.\n25–30 seconds: The knight lowers his shield slightly and turns toward the fortress gate as it begins to open behind him. Warm sunlight spills through the opening, illuminating his armor and revealing reinforcements arriving inside the fortress.\nAudio: No music. Metal armor clanking, swords colliding, boots striking stone, wind, distant battle ambience, and natural breathing.\nNegative prompt: Cartoon armor, inconsistent weapons, changing character appearance, extra limbs, floating swords, graphic gore, dismemberment, exaggerated fighting, unrealistic physics, background music, text, watermark.\n\n#klingai #kling4 #klingCPP"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/AiwithBloodline/status/2112796958045896801",
+  "videoSourceUrl": "https://x.com/AiwithBloodline/status/2112796958045896801",
+  "conversationId": "2112796958045896801",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a photorealistic medieval battle sequence featuring a lone male knight defending the entrance to an ancient stone fortress. The scene must resemble a premium Hollywood historical film, with realistic armor, physically accurate movement, natural lighting, and consistent character identity.\nCharacter reference: Use the uploaded knight image as the strict visual reference. Maintain the same helmet, silver plate armor, dark-blue cloak, sword, shield, and body proportions throughout the video.\n0–5 seconds: The knight stands alone in front of a massive fortress gate. Wind moves his dark-blue cloak as dust drifts across the stone courtyard. The camera slowly pushes toward him.\n5–10 seconds: A line of armored soldiers emerges through the distant dust. The knight raises his shield and positions his sword defensively. Sunlight glints naturally off the edges of his armor.\n10–15 seconds: The first opponent charges. The knight blocks the incoming sword strike with his shield, pivots, and pushes the opponent backward. His armor moves naturally with his body.\n15–20 seconds: Two more opponents approach from opposite directions. The knight turns to face them, maintaining a defensive stance. The camera tracks around the combatants while preserving spatial continuity.\n20–25 seconds: The knight deflects another strike and forces the opponents to retreat. Dust rises from their boots as they move across the courtyard.\n25–30 seconds: The knight lowers his shield slightly and turns toward the fortress gate as it begins to open behind him. Warm sunlight spills through the opening, illuminating his armor and revealing reinforcements arriving inside the fortress.\nAudio: No music. Metal armor clanking, swords colliding, boots striking stone, wind, distant battle ambience, and natural breathing.\nNegative prompt: Cartoon armor, inconsistent weapons, changing character appearance, extra limbs, floating swords, graphic gore, dismemberment, exaggerated fighting, unrealistic physics, background music, text, watermark.",
+  "originalPromptSha256": "b8552a6efafa6f52759692ba90fe77926096f16b1b063d88584e8c5f2af87bbd",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Knight defending the fortress",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112796465299124224",
+    "url": "https://video-s.twimg.com/amplify_video/2112796465299124224/vid/avc1/1280x720/URTTA0CfuKXeOM6t.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112796465299124224/vid/avc1/1280x720/URTTA0CfuKXeOM6t.mp4?tag=29",
+    "sourceUrl": "https://x.com/AiwithBloodline/status/2112796958045896801",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112796465299124224/img/OLwN3JHIcXIQCMy0.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T06:43:43Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

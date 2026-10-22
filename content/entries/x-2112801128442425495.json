@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112801128442425495",
+  "slug": "two-character-anime-parkour",
+  "title": {
+    "en": "Two-character anime parkour",
+    "zh": "双人动漫跑酷"
+  },
+  "description": {
+    "en": "Two-character anime parkour — original prompt by @Ayu_AI_0912.",
+    "zh": "双人动漫跑酷，来自 @Ayu_AI_0912 的原始提示词。"
+  },
+  "author": {
+    "handle": "Ayu_AI_0912",
+    "url": "https://x.com/Ayu_AI_0912"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2112801126353719566",
+    "sourceTextOriginal": "Kling4.0×パルクール動画\n\nKling4.0もSeedance並に\nキャラがまじらずいい感じに出力されている！\n\nプロンプトは、 https://t.co/f5FQ7PwQ0E"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Ayu_AI_0912/status/2112801128442425495",
+  "videoSourceUrl": "https://x.com/Ayu_AI_0912/status/2112801126353719566",
+  "conversationId": "2112801126353719566",
+  "originalLanguage": "ja",
+  "originalPrompt": "15秒、16:9、1080p、8カット構成の、\n高予算の2Dアニメ映画品質で描く\nシネマティックな超上級パルクール映像。登場人物は2人。\n\n主人公は添付画像の1人目、もう1人は添付画像\nの2人目のキャラクター。添付画像を2人それぞれのキャラクターデザインの参照として使用し、顔立ち、髪型、髪色、服装、配色、年齢感、体格、全体の雰囲気を忠実に踏襲し、全カットで一貫して維持すること。2人の特徴や衣装を混同せず、それぞれを明確に描き分ける。以下の主人公のアクションとカット構成は維持し、もう1人は主人公と並走、または少し前後した位置で同じルートを進む。2人の動作には自然な時間差をつけ、互いに接触せず、それぞれの身体と動きが明確に見えるようにする。舞台は快晴の現代日本の都市。東京、渋谷、横浜を思わせる屋上、路地、階段、手すり、配管、コンクリート壁を舞台に、主人公が世界トップレベルのフリーランニングを披露する。\n\n【カット1｜00:00〜00:01.60】\nローアングル後方追従。主人公が一気に加速し、腰ほどの高さの障害物をコングヴォルトで飛び越える。\n\n【カット2｜00:01.60〜00:03.40】\n正面ローアングル。ウォールランからティックタックを決め、向かいの屋上へジャンプして着地する。\n\n【カット3｜00:03.40〜00:05.20】\n横方向トラッキング。プレシジョンジャンプで細い足場へ着地し、そのままキャットリープで高い壁へ飛びついて登る。\n\n【カット4｜00:05.20〜00:07.20】\n屋上追従ショット。ダッシュヴォルトで障害物を越え、そのままウェブスターで屋上の隙間を飛び越える。\n\n【カット5｜00:07.20〜00:09.20】\n俯瞰移動カメラ。ダイブロールで着地の衝撃を吸収し、そのまま長い手すりをスピードヴォルトで攻略する。\n【カット6｜00:09.20〜00:11.30】\n正面から後退するハンドヘルド撮影。アンダーバーで低い障害物を通過し、その直後にサイドフリップで次の障害物を越える。\n【カット7｜00:11.30〜00:13.20】\n後方斜め上からのドローン撮影。パームスピンからコングヴォルトへ滑らかにつなぎ、最後のジャンプへ向けて全力で加速する。\n【カット8｜00:13.20〜00:15.00】\nクライマックス。大きな屋上の隙間へ向かって跳躍し、高く美しいコークスクリューを決める。カメラは空中で主人公の周囲を回り込む。正確に着地した後、そのままスピードを落とさず画面奥へ走り去る。\n\n【映像スタイル】\n高予算の劇場用2Dアニメ映画品質。全編を、緻密な手描き作画と美しい背景美術による2Dアニメーションで統一する。添付キャラクターのデザインを維持した、精密で安定した線画と豊かなセル調の陰影。快晴の強い日差し、都市の奥行き、光と影を映画的に描く。世界大会レベルのフリーランニング。リアルな重心移動。自然な筋肉の動き。リアルな着地衝撃。髪や衣装が風や動きに合わせて自然に揺れる。躍動感のある作画と滑らかな動きで、踏み切り、空中姿勢、着地の連続性を明確に表現する。背景は鮮明に保ち、高速移動中のみ自然なモーションブラーを使用する。ハンドヘルド撮影やドローン撮影などの指定は、2Dアニメーション上のカメラワークとして表現する。\n\n【禁止】人物の雰囲気や服装が大きく変化すること。添付キャラクターから顔立ちや体格が大きく逸脱すること。2人の顔、髪型、衣装、配色が入れ替わること。指定した2人以外の人物が登場すること。髪型や配色の不自然な変化。顔や身体の崩れ。手足の増殖。分身。身体の融合。貫通。電線を通過すること。ワープ。浮遊。不自然な着地。実写調。3DCG調。",
+  "originalPromptSha256": "79c9371f6ce34faa7329743f87c684198c1f90d90f331122596549a191e52381",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Two-character anime parkour",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112800537263636480",
+    "url": "https://video-s.twimg.com/amplify_video/2112800537263636480/vid/avc1/1280x720/v6WjVYfnfzKM5ry0.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112800537263636480/vid/avc1/1280x720/v6WjVYfnfzKM5ry0.mp4?tag=29",
+    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2112801126353719566",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112800537263636480/img/mnb3vSZl-0f7fSHL.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T07:00:17Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

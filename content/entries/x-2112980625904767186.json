@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112980625904767186",
+  "slug": "flying-car-desert-pursuit",
+  "title": {
+    "en": "Flying-car desert pursuit",
+    "zh": "沙漠飞车追逐"
+  },
+  "description": {
+    "en": "Flying-car desert pursuit — original prompt by @openclipsai.",
+    "zh": "沙漠飞车追逐，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2112980528811094381",
+    "sourceTextOriginal": "Kling 4.0 vs Seedance 2.5. Same prompt, same 15 seconds.\n\nWhich one turned out better? Comment below.\n\nFull prompt in the reply. https://t.co/sLVULgWVVD"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2112980625904767186",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2112980528811094381",
+  "conversationId": "2112980528811094381",
+  "originalLanguage": "en",
+  "originalPrompt": "Ultra-realistic sci-fi action film at golden hour over a vast desert highway: towering red-rock mountains, dramatic clouds, shimmering heat haze and swirling golden sand. Two vehicles: a futuristic silver flying sports car, and a black police interceptor with glowing blue emergency lights and jet engines. Two people: a female police officer in a sleek black tactical uniform, armored gloves and combat boots; a blond male driver in a black leather jacket, alone in the silver car.\n\n0-3s: wide aerial tracking shot from behind: the silver car races low over the highway, the police interceptor close behind it, sand swirling under both.\n3-6s: side tracking shot in slow motion: the officer leaps from the open side door of the interceptor across the gap between the two vehicles, electric-blue lightning and glowing particles trailing around her.\n6-8s: the camera circles her once in the air as she lands in a crouch on the roof of the silver car; sparks fly from under her boots and the car shakes.\n8-11s: inside the cockpit, close-up: the officer drops in through the open sunroof, pins the driver's wrists together with one hand and snaps a glowing blue magnetic cuff around them with her other hand.\n11-13s: wide aerial shot: the silver car spins out of control and slams onto an empty desert road in a huge fireball of smoke and glowing debris; the police interceptor hovers safely above.\n13-15s: ground-level shot: the officer walks out of the smoke toward the camera, holding the cuffed driver by the arm, the low setting sun behind her outlining her silhouette. END STATE: she stops in the foreground, the burning wreck and the hovering interceptor behind her.\n\nPhotorealistic faces, detailed metallic reflections, realistic vehicle physics, volumetric light, cinematic motion blur, rich warm color grading, clean unmarked vehicles and plain painted surfaces.\n\nSound: roaring jet engines and rushing wind from 0-6s, a crackling electric hum during the leap, a heavy metal thud and sparks on the landing at 7s, a sharp click of the cuff at 10s, a deep explosion boom at 12s, then crackling fire and a rising orchestral score to the end.",
+  "originalPromptSha256": "ef73dd909dde8165146d76a0528925a23fecbe38ec11063926e60f6b6dff8d2c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Flying-car desert pursuit",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Comparison post includes Kling 4.0 and Seedance 2.5; retain the original model labels.",
+    "zh": "原帖为 Kling 4.0 与 Seedance 2.5 对比，请按视频标签区分。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112979884511260672",
+    "url": "https://video-s.twimg.com/amplify_video/2112979884511260672/vid/avc1/1080x1350/fmHn5-AgbSO2KEMU.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112979884511260672/vid/avc1/1080x1350/fmHn5-AgbSO2KEMU.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2112980528811094381",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112979884511260672/img/BBPpTgsGknCg8qPb.jpg",
+    "durationSecondsReported": 15.424,
+    "aspectRatioReported": [
+      4,
+      5
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T18:53:10Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

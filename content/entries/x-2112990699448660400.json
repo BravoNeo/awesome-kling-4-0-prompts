@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112990699448660400",
+  "slug": "madara-battlefield-sequence",
+  "title": {
+    "en": "Madara battlefield sequence",
+    "zh": "斑的战场动作"
+  },
+  "description": {
+    "en": "Madara battlefield sequence — original prompt by @0kncn.",
+    "zh": "斑的战场动作，来自 @0kncn 的原始提示词。"
+  },
+  "author": {
+    "handle": "0kncn",
+    "url": "https://x.com/0kncn"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/0kncn/status/2112990696005116178",
+    "sourceTextOriginal": "Kling 4.0 vs Wan 3 Prime\n\nYeni çıkan Kling 4.0'ı eski bir Madara savaş sahnesi promptuyla test ettim. Aynı prompt, iki farklı sonuç.\n\nPrompt 🔽 https://t.co/YQymgoylZD"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/0kncn/status/2112990699448660400",
+  "videoSourceUrl": "https://x.com/0kncn/status/2112990696005116178",
+  "conversationId": "2112990696005116178",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: 8K cinematic. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic.\nCinematography: naturalistic master cinematography.\nLighting: Natural light only — contre-jour backlight, camera on shadow side, atmospheric haze. Key light from sky and windows only.\nColor: 60:30:10 — dominant / secondary / accent.\nCamera: Physical cine lens. 180° shutter motion blur.\nSkin: Pore-level realism — vellus hair, asymmetric moles, capillary flush, pore-shadow matching on-set light.\nActing: top-tier cinematic — micro-pauses before reactions, precise eye-line, wet living eyes with catch-lights, visible breath and chest rise.\nPhysics: Gravity and inertia respected — mass has real weight, correct contact shadows. No floating props.\nComposition: Rule of thirds + golden ratio. Every person moving from frame one.\nContinuity: Characters, props, environment identical across every cut. No identity drift.\nTechnical: 24fps smooth motion. 8K detail. No jitter.\nAudio: Environmental SFX only. No music. No subtitles.\n\nSUBJECT — is the only main character reference. Strictly preserve the exact live-action facial identity, long black hair, deep crimson samurai armor, body proportions, and all costume details from the reference. The protagonist is Madara Uchiha, portrayed as a real human actor in a grounded live-action blockbuster. He possesses his signature calm arrogance, overwhelming taijutsu mastery, three-tomoe Sharingan, the Uchiha gunbai war fan, Fire Release: Gōka Mekkyaku, and a recognizable purple Susanoo. He faces 20–25 distinct enemy ninjas alone.\n\nLOCATION — A vast war-torn battlefield inspired by the Fourth Shinobi War: broken earth, trenches, scattered weapons, shattered rocks, drifting dust, scorched patches of ground, distant barren mountains, heavy clouds with natural daylight piercing through haze. The battlefield must feel large, real, physical, and grounded.\n\nACTION — One uninterrupted 30-second combat sequence that progressively escalates: psychological intimidation, signature taijutsu domination, precise Gunbai use, large-scale fire release, then a climactic Susanoo finish.\n\nSHOT 1 (0:00–0:05) — Extreme close-up of Madara’s eyes. His three-tomoe Sharingan is clearly visible, red irises but not glowing unnaturally. He slowly lifts his chin with absolute calm contempt while distant enemy footsteps and shouting approach. The camera pulls back to reveal him standing alone in the middle of the battlefield, surrounded by a widening ring of enemy ninjas.\n\nSHOT 2 (0:05–0:12) — The first wave of enemy ninjas rushes in from multiple directions. Madara begins moving with his iconic minimal-effort taijutsu. He slips past a sword slash with a tiny shoulder turn, seizes an attacker’s wrist, redirects the body into another enemy, pivots into a crushing elbow strike, then sweeps two more opponents off their feet. He never wastes motion. His hair and armor move with real weight. He uses one attacker’s momentum against the next. The choreography feels effortless, superior, and humiliating for the enemies.\n\nSHOT 3 (0:12–0:18) — A second wave closes in tighter. Madara draws and uses the massive Uchiha gunbai. He catches a blade against its hardened surface, rotates the fan to slam one attacker backward, then snaps it across another opponent’s chest and knocks a thrown weapon aside. He combines the fan with body blows, knees, and spinning kicks. Several enemies attack together; he reads them with Sharingan-like anticipation and defeats them with exact timing and clean, brutal efficiency. Bodies collide, stumble, and fall with believable force.\n\nSHOT 4 (0:18–0:24) — More ninjas flood the frame and a storm of kunai and shuriken flies toward him. Madara predicts the trajectories, evades by the narrowest margins, bats several projectiles aside with the gunbai, then lands in a stable stance. He rapidly forms hand seals with total mastery, visibly inhales, and unleashes Fire Release: Gōka Mekkyaku. A massive fan-shaped wall of fire erupts from his mouth and tears across the battlefield. The flames spread wide and low with terrifying scale, rolling heat distortion, sparks, dust, and real shockwave force, engulfing the charging enemies and illuminating his armor and the entire landscape.\n\nSHOT 5 (0:24–0:30) — Through the smoke and fire, the final surviving enemies attempt one desperate charge. Madara stands unmoved. He raises his head slightly, expression cold and almost bored. Around him, a colossal translucent purple Susanoo forms in layers: skeletal frame, ribcage, armored torso, and two giant warrior arms. Madara remains visible at its core. The Susanoo sweeps one huge arm across the battlefield, smashing rock, hurling debris, and launching the remaining enemies away in a single devastating impact. The camera rapidly retreats low across the ground, ending in a dramatic wide shot of Madara standing untouched in the center of scorched terrain, surrounded by fallen enemies, fire, dust, and the towering violet presence of Susanoo behind him.\n\nCAMERA — One uninterrupted 30-second handheld tracking shot with a 35mm anamorphic cinema lens. Begins in extreme close-up, slowly pulls back into a medium-wide reveal, then stays dynamically close and responsive during the taijutsu section. Motivated lateral tracking and short 180-degree orbits during hand-to-hand combat. Slight impact-reactive handheld shake during hits. Pulls back under pressure during the fire technique to preserve scale and readability. Finishes with a low-angle retreating wide shot for the full Susanoo reveal. No cuts, no impossible camera jumps, no floating camera.\n\nSTYLE — 60% weathered earth-brown battlefield and broken stone, 30% storm-grey sky, smoke and dust atmosphere, 10% crimson armor, orange fire, and translucent violet chakra energy. WB 6000K. Hollywood live-action blockbuster tone. Practical-feeling stunt choreography, grounded VFX integrated into natural light, realistic material response, real debris, real environmental interaction.\n\nCONSTRAINTS — 16:9. 30 seconds. One continuous take. Strict preservation of the reference character identity and costume. Madara must feel unmistakably like Madara through behavior and combat language: minimal wasted movement, contemptuous calm, dominance through precise taijutsu, proper Gunbai use, clear three-tomoe Sharingan, large-scale Gōka Mekkyaku, and anatomically recognizable purple Susanoo forming around him rather than replacing him. Include 20–25 distinct enemy ninjas across the full sequence. Real actors, real physicality, believable gravity, inertia, body collisions, dust, weapon handling, and environmental destruction. Fast but readable choreography. No anime rendering, no game look, no CGI-looking bodies, no duplicated enemies, no eye glow, no text, no subtitles, no dialogue, no scene cuts.",
+  "originalPromptSha256": "31f9deaa1ac6d1beb1b58922fe0051d4a414471d58d9099ca86e8cf7f7f56727",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Madara battlefield sequence",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Comparison with Wan 3 Prime; model labels remain in the source post. Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "原帖同时包含 Wan 3 Prime 对比，模型标签保留在原帖。 请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112990031509905408",
+    "url": "https://video-s.twimg.com/amplify_video/2112990031509905408/vid/avc1/1920x2160/RNnZCg_vtI_TwfXB.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112990031509905408/vid/avc1/1920x2160/RNnZCg_vtI_TwfXB.mp4?tag=29",
+    "sourceUrl": "https://x.com/0kncn/status/2112990696005116178",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112990031509905408/img/hA7IMLzlNxT4gvLd.jpg",
+    "durationSecondsReported": 30.066,
+    "aspectRatioReported": [
+      8,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T19:33:34Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

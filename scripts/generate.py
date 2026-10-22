@@ -41,13 +41,15 @@ def build_outputs():
             lines += ['#### '+('视频' if zh else 'Video'), '',
                       f'<a href="{e["videoSourceUrl"]}" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="{media_url(v["posterUrl"])}" alt="{html.escape(e["title"][locale], quote=True)}" width="700" /></a>', '',
                       ('点击封面查看原帖视频。' if zh else 'Click the cover to watch on X.'), '',
-                      '#### '+('作品信息' if zh else 'Details'), '', '- '+('发布于' if zh else 'Published')+': '+v['publishedAt'][:10]+' (UTC)', '- '+('提示词语言' if zh else 'Prompt language')+': '+({'en':'英语','zh':'中文','ko':'韩语'}.get(e['originalLanguage'],e['originalLanguage']) if zh else {'en':'English','zh':'Chinese','ko':'Korean'}.get(e['originalLanguage'],e['originalLanguage'])), '- '+('作者' if zh else 'Author')+f': [@{e["author"]["handle"]}]({e["author"]["url"]})']
+                      '#### '+('作品信息' if zh else 'Details'), '', '- '+('发布于' if zh else 'Published')+': '+v['publishedAt'][:10]+' (UTC)', '- '+('提示词语言' if zh else 'Prompt language')+': '+({'en':'英语','zh':'中文','ko':'韩语','ja':'日语'}.get(e['originalLanguage'],e['originalLanguage']) if zh else {'en':'English','zh':'Chinese','ko':'Korean','ja':'Japanese'}.get(e['originalLanguage'],e['originalLanguage'])), '- '+('作者' if zh else 'Author')+f': [@{e["author"]["handle"]}]({e["author"]["url"]})']
             if e['promptSourceUrl'] == e['videoSourceUrl']:
                 lines += ['- '+('来源' if zh else 'Source')+f': [X]({e["promptSourceUrl"]})']
             else:
                 lines += ['- '+('来源' if zh else 'Sources')+': '+
                           f'[{"提示词原帖" if zh else "Prompt post"}]({e["promptSourceUrl"]}) · '+
                           f'[{"视频原帖" if zh else "Video post"}]({e["videoSourceUrl"]})']
+            for source in e.get('additionalPromptSourceUrls', []):
+                lines += ['- '+('提示词续篇' if zh else 'Prompt continuation')+f': [X]({source})']
             lines += ['- '+('模型' if zh else 'Model')+': '+e['modelClaim']['name'], '', e['guidance'][locale], '']
             if e['modelClaim']['variant'] == 'flash':
                 lines += [('<details><summary>来源备注</summary>' if zh else '<details><summary>Source note</summary>'), '',

@@ -130,7 +130,20 @@ def validate_entries(entries, taxonomy=None):
             raise ValueError('Model evidence must credit the same author')
         evidence_id = canonical_source(e['modelClaim']['sourceUrl']).rsplit('/', 1)[-1]
         video_id = canonical_source(e['videoSourceUrl']).rsplit('/', 1)[-1]
-        if evidence_id not in {video_id, e['conversationId']}:
+        quoted_by = e['modelClaim'].get('quotedBySourceUrl')
+        if quoted_by and canonical_source(quoted_by) != canonical_source(e['videoSourceUrl']):
+            raise ValueError('Quoted evidence must be linked by the bound video post')
+        if quoted_by:
+            records = read_json(ROOT / 'docs/collection-2026-10-22-sources.json')
+            if not any(r['entryId'] == e['id'] and r['videoSourceUrl'] == quoted_by
+                       and r['quotedModelSourceUrl'] == e['modelClaim']['sourceUrl']
+                       and r['modelSourceText'] == e['modelClaim']['sourceTextOriginal']
+                       for r in records):
+                raise ValueError('Quoted model evidence requires an archived source relationship')
+        for source in e.get('additionalPromptSourceUrls', []):
+            if urlsplit(source).path.split('/')[1].lower() != e['author']['handle'].lower():
+                raise ValueError('Additional prompt sources must match the credited author')
+        if evidence_id not in {video_id, e['conversationId']} and not quoted_by:
             raise ValueError('Model evidence must be the video post or its thread root')
         if e['video']['durationSecondsReported'] <= 0:
             raise ValueError('Invalid reported video duration')

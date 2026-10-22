@@ -17,3 +17,11 @@ The display model is Kling 4.0. Historical Flash cases retain `variant: flash` a
 A post containing multiple independent examples uses `sourcePart` with the original one-based example number and an `x-{postId}-{sourcePart}` ID. Individual timeline shots are not split. Model evidence may come from the same author’s thread root instead of the video reply. `conversationId` is the actual thread root.
 
 Observed dimensions and duration are optional when `playbackVerified` is false. Never populate observed fields from reported metadata. New video links are source-extracted, not playback-verified. Reference requirements may be declared even when the source input files are not available; `video-reference` covers editing instructions requiring the base clip. Chinese edited adaptations are optional; original prompts remain available in both READMEs.
+
+## Multi-post and multilingual sources (2026-10-22)
+
+`originalLanguage` includes `ja`. `additionalPromptSourceUrls` credits continuation posts belonging to one work; both READMEs expose these links. Do not split a continuing story merely to increase the count.
+
+`modelClaim.quotedBySourceUrl` is allowed only when the bound video post explicitly quotes the same author's model evidence. The archived source relationship must match the entry, video URL, evidence URL and original evidence text. This does not weaken the rule excluding Flash evidence from full-version entries.
+
+The batch source record retains exact extraction evidence. URL-entity restoration must use the original display text and a recorded mapping; it is not editorial rewriting. Model attribution and source matching do not imply independent verification of the actual generation settings.

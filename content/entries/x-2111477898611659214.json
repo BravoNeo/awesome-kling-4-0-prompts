@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111477898611659214",
+  "slug": "dancing-to-a-music-reference",
+  "title": {
+    "en": "Dancing to a music reference",
+    "zh": "跟随音乐参考起舞"
+  },
+  "description": {
+    "en": "Dancing to a music reference — original prompt by @EndFolding79421.",
+    "zh": "跟随音乐参考起舞，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111477898611659214",
+    "sourceTextOriginal": "Here is a Little Trick for Kling 4.0.\n\nLink: https://t.co/2sAqIbBkMC\n\nIf you're making a music video or even adding a short musical scene to your own movie and want a character dancing to a specific song, here's a little tip for Kling.\n\nKling won't accept WAV or MP3 music files directly for the omni for this, but there's a simple workaround. Just convert your song into an MP4 video with a black screen and upload that instead. It works great!\n\n***make your own music because MIGHT not work with copyrighted music***\n\nAnd I just did a VERY simple prompt: Ruth (image1) dancing to the music in (video1).\n\nYou can add dances like hip hop dancer, slow dancer, free style and make the person change their dances around."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2111477898611659214",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2111477898611659214",
+  "conversationId": "2111477898611659214",
+  "originalLanguage": "en",
+  "originalPrompt": "Ruth (image1) dancing to the music in (video1).",
+  "originalPromptSha256": "722cd1a13a321ab0046f63e09190eb35c6e160c930c14e0f314d0ef61338c4b6",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Dancing to a music reference",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Requires the character image and the author-described MP4 music reference. The instruction is short by design. Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "需要角色参考图及作者说明的 MP4 音乐参考。原始指令本身较短。 请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2111476255761559552",
+    "url": "https://video-s.twimg.com/amplify_video/2111476255761559552/vid/avc1/1280x720/tU1Qtlnnw-9zFOaO.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111476255761559552/vid/avc1/1280x720/tU1Qtlnnw-9zFOaO.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2111477898611659214",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111476255761559552/img/qNrBoy08rJ0Ik7TO.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T15:22:15Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

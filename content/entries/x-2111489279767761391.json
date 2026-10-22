@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111489279767761391",
+  "slug": "warehouse-stunt-fight",
+  "title": {
+    "en": "Warehouse stunt fight",
+    "zh": "仓库特技格斗"
+  },
+  "description": {
+    "en": "Warehouse stunt fight — original prompt by @SilentNightX97.",
+    "zh": "仓库特技格斗，来自 @SilentNightX97 的原始提示词。"
+  },
+  "author": {
+    "handle": "SilentNightX97",
+    "url": "https://x.com/SilentNightX97"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SilentNightX97/status/2111489219378221067",
+    "sourceTextOriginal": "Prompt using DeepSeek and made video by @Kling_ai \n#Kling4 \nPrompt below. 👇 https://t.co/xnMfvvwV1B"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SilentNightX97/status/2111489279767761391",
+  "videoSourceUrl": "https://x.com/SilentNightX97/status/2111489219378221067",
+  "conversationId": "2111489219378221067",
+  "originalLanguage": "en",
+  "originalPrompt": "Cinematic 15-second realistic action stunt fight scene, ARRI Alexa 32mm lens, shallow-to-deep depth of field, handheld camera with natural shake and occasional whip pans, natural warehouse lighting with dusty skylight beams, cool desaturated grade with warm lamp accents, subtle motion blur, practical stunt realism, no wire-work, no CGI enhancement.\n\nSETTING: Large dusty warehouse, metal shelving stacked with boxes and wooden pallets, concrete floor with scattered debris, shafts of light cutting through a high window.\n\n0-2s: Wide static shot with slight push-in. Two men in their late 20s stand facing each other, breathing hard, sweat on their foreheads, fists raised. Dust floats in the light beams.\nMan A (low, steady, dangerous): \"Last chance. Walk away.\"\nMan B (grinning, out of breath): \"You first.\"\n\n2-5s: Handheld medium shot at a 45° angle. Man A lunges forward with a straight right punch — Man B slips it, blocks with his forearm, counters with a body shot into A's ribs. A grunts, twists away. Real physical impact, natural body weight, feet planted with realistic footwork, no floating motion.\n\n5-8s: Low-angle wide shot at ground level. Man B throws a knee — Man A jumps back, B pivots and drives an elbow into A's shoulder, shoving A hard into a metal shelving unit. The shelf rattles, boxes shift. Camera shakes on impact.\n\n8-11s: Handheld close-up with slight Dutch angle. Man A grabs Man B by the collar and slams him against the wall — dust puffs from the concrete, boxes tumble off the shelf and crash to the floor. Man B grabs A's throat in return, both grappling, breathing ragged, faces inches apart, real strain in their arms and necks.\n\n11-13s: Whip pan with a speed-ramp into 0.5x slow motion. Man A lands a sharp elbow strike to Man B's jaw. Man B's head snaps back, his body spins and he crashes down onto a stack of wooden pallets — real impact, real weight, pallets crack and shift, dust bursts up around him.\n\n13-15s: Static wide shot with a slow push-in. Man B lies on the pallets, chest heaving, one hand twitching. Man A stands over him, shoulders rising and falling, blood at the corner of his mouth, dust settling around them both in the light beam. Fade to black.\n\nNATURAL REALISM: realistic fight choreography with proper weight transfer and momentum, natural footwork, real physical contact and impact recoil, realistic skin texture with sweat and dirt, natural micro-expressions of pain and exhaustion, natural English dialogue with lip-sync, ambient warehouse sound — echoing footsteps, metal rattling, boxes crashing, heavy breathing, no stiff movement, no robotic motion, no cartoon physics, no over-choreographed wire-fu.",
+  "originalPromptSha256": "bba42038a0b56f3f50bd8e22eb6d3e5df9950d3d5006048760c9d1e119b313fc",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Warehouse stunt fight",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111489054051278849",
+    "url": "https://video-s.twimg.com/amplify_video/2111489054051278849/vid/avc1/1920x1080/08z333pNTnWaWJiw.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111489054051278849/vid/avc1/1920x1080/08z333pNTnWaWJiw.mp4?tag=29",
+    "sourceUrl": "https://x.com/SilentNightX97/status/2111489219378221067",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111489054051278849/img/OLKwxXj3R2CfoQw1.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T16:07:14Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

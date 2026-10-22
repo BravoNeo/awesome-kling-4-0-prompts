@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112959711385391271",
+  "slug": "background-only-product-whip-pan",
+  "title": {
+    "en": "Background-only product whip pan",
+    "zh": "产品固定与背景甩镜"
+  },
+  "description": {
+    "en": "Background-only product whip pan — original prompt by @shikoba_86.",
+    "zh": "产品固定与背景甩镜，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2112959703357792510",
+    "sourceTextOriginal": "Kling 4.0 brings a superpower: the ability to direct your scene frame by frame, with up to 10 keyframes in a single video.\n\nThis opens up a lot of possibilities. Here are a few cases, and at the end a simulation of a real spot.\n\nHow keyframes work\n\nYou load a start frame, up to 8 middle frames and an end frame, in order. Each keyframe is a moment the video must reach: Kling generates the motion between one frame and the next, and lands on each image as you gave it.\n• The keyframes decide where the video goes: locations, framing, the state of the subject at each step.\n• The prompt decides how it gets there: the type of transition, the camera move, the actions between frames, the sound.\n• No prompt: @Kling_ai  chooses the transitions on its own.\n\nSame keyframes, different prompt, completely different video. That is what the cases below show.\n\nThe keyframes (Cases 1, 2 and 3)\nFive keyframes with the can standing in the center, same position and same size in every frame. Only the location changes:\n1. Start: white studio\n2. Middle: snow\n3. Middle: sand\n4. Middle: concert\n5. End: rooftop at night\n\nKey: when you edit the middle keyframes, lock the can's position and size but let light, shadow and the contact with the ground adapt to each place. With everything forced to stay pixel-identical, the sand and snow looked fake."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2112959711385391271",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2112959711385391271",
+  "conversationId": "2112959703357792510",
+  "originalLanguage": "en",
+  "originalPrompt": "The can stays perfectly still in the center of the frame for the whole video, same position, same size, label facing the camera. Only the background moves: between each keyframe, a fast horizontal whip pan with strong motion blur sweeps the background from right to left and reveals the next location, while the can stays sharp and locked in place.",
+  "originalPromptSha256": "285949edb2f24dd71f2b2ae0270698a2e724da4db118a4938362231618f754a8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Background-only product whip pan",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112959462411497472",
+    "url": "https://video-s.twimg.com/amplify_video/2112959462411497472/vid/avc1/1280x720/IWNMDG4zjtYcAA66.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112959462411497472/vid/avc1/1280x720/IWNMDG4zjtYcAA66.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2112959711385391271",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112959462411497472/img/RUQfVmrnnBCpCFoW.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T17:30:26Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

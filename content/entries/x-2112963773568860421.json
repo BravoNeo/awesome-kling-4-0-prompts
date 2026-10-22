@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112963773568860421",
+  "slug": "anime-noodle-scene",
+  "title": {
+    "en": "Anime noodle scene",
+    "zh": "动漫面条场景"
+  },
+  "description": {
+    "en": "Anime noodle scene — original prompt by @minuitIA.",
+    "zh": "动漫面条场景，来自 @minuitIA 的原始提示词。"
+  },
+  "author": {
+    "handle": "minuitIA",
+    "url": "https://x.com/minuitIA"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/minuitIA/status/2112963655910264990",
+    "sourceTextOriginal": "Toshi's @ToshiArte Daily Challenge: Noodles\n\nI’ll leave the video prompt in the comments! \n\nMade with Midjourney + @Kling_ai 4.0\n#Kling4\nhttps://t.co/RAV75bW1Xc https://t.co/E9ycd9AVgU"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/minuitIA/status/2112963773568860421",
+  "videoSourceUrl": "https://x.com/minuitIA/status/2112963655910264990",
+  "conversationId": "2112963655910264990",
+  "originalLanguage": "en",
+  "originalPrompt": "Use the provided image as the first frame and strict visual reference. Traditional hand-drawn 2D Japanese anime animation, warm colors, soft lighting. Faithfully preserve the character's face, hairstyle, clothing, noodle bowl, and surrounding environment.\nSingle continuous 10-second shot, square 1:1 format. Static frontal camera, identical framing to the reference image, no cuts, no camera angle changes.\nThe young woman enthusiastically slurps the long noodles hanging between her chopsticks and her mouth. The noodles gradually slide between her lips with natural, smooth movement. Her cheeks puff up slightly as she eats. She chews happily, gently closes her eyes for a moment, and displays an adorable expression of pure enjoyment, with rosy cheeks and a small, satisfied smile. She opens her eyes again, looks eagerly at her bowl, picks up another portion of noodles with her chopsticks, and joyfully starts slurping again.\nFluid, expressive, delicate animation with natural blinking, subtle head movements, and realistic hand gestures. Precise synchronization between the chopsticks, noodles, and mouth. Gentle noodle-slurping sounds, soft chewing sounds, and subtle chopstick sounds against the ceramic bowl. Cozy, heartwarming atmosphere. Maintain consistent anatomy, bowl shape, character proportions, and original anime art style throughout the entire sequence.\nno music, no subtitle",
+  "originalPromptSha256": "ecefedb0f1ea1cf24bdee482fc0785496de8aad730f7c1f22f960240e8b1177c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Anime noodle scene",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112963208235413504",
+    "url": "https://video-s.twimg.com/amplify_video/2112963208235413504/vid/avc1/1440x1440/h8p4KIQvjockIOym.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112963208235413504/vid/avc1/1440x1440/h8p4KIQvjockIOym.mp4?tag=29",
+    "sourceUrl": "https://x.com/minuitIA/status/2112963655910264990",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112963208235413504/img/afs6_U0E3Z2FpZIT.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      1,
+      1
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T17:46:07Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

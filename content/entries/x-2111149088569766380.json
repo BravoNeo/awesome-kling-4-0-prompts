@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111149088569766380",
+  "slug": "the-floating-violin-melody",
+  "title": {
+    "en": "The floating violin melody",
+    "zh": "悬浮小提琴旋律"
+  },
+  "description": {
+    "en": "The floating violin melody — original prompt by @NigelWatsonTFTC.",
+    "zh": "悬浮小提琴旋律，来自 @NigelWatsonTFTC 的原始提示词。"
+  },
+  "author": {
+    "handle": "NigelWatsonTFTC",
+    "url": "https://x.com/NigelWatsonTFTC"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/NigelWatsonTFTC/status/2111149085973692595",
+    "sourceTextOriginal": "A street musician’s violin breaks. The pieces rise and keep playing.\n\nText-to-video. Kling 4 had to hold the rain, the light, and the transformation in one continuous shot. The idea is simple; the continuity is the hard part.\nAmbient sounds are missing though (prompt in comment) https://t.co/DZAccIpyux"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/NigelWatsonTFTC/status/2111149088569766380",
+  "videoSourceUrl": "https://x.com/NigelWatsonTFTC/status/2111149085973692595",
+  "conversationId": "2111149085973692595",
+  "originalLanguage": "en",
+  "originalPrompt": "A street musician sits alone on wet pavement at night under a single streetlight. He plays a violin. The violin slowly cracks and falls silent. As the pieces break, they lift into the air and reassemble into floating, glowing shards that continue the melody. Slow continuous camera move, rain and neon reflections stay consistent. Emotional, restrained, 20 seconds.",
+  "originalPromptSha256": "c0f67b244f9926468a9f17809694966efeda2f2e9b56270525fdd4d317f9e906",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "The floating violin melody",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111148338577915904",
+    "url": "https://video-s.twimg.com/amplify_video/2111148338577915904/vid/avc1/1920x1080/ZsXqFuWa7THpbANn.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111148338577915904/vid/avc1/1920x1080/ZsXqFuWa7THpbANn.mp4?tag=29",
+    "sourceUrl": "https://x.com/NigelWatsonTFTC/status/2111149085973692595",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111148338577915904/img/Cb6fau0MWwR4oG0Z.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T17:35:40Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

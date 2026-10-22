@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111424984631460196",
+  "slug": "mirror-world-cinematic-journey",
+  "title": {
+    "en": "Mirror-world cinematic journey",
+    "zh": "镜中世界电影旅程"
+  },
+  "description": {
+    "en": "Mirror-world cinematic journey — original prompt by @TheRogueA1.",
+    "zh": "镜中世界电影旅程，来自 @TheRogueA1 的原始提示词。"
+  },
+  "author": {
+    "handle": "TheRogueA1",
+    "url": "https://x.com/TheRogueA1"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/TheRogueA1/status/2111424869430648844",
+    "sourceTextOriginal": "Okay. Kling 4.0 just dropped on @TopviewAIhq  - the platform I use for creating my videos.\n\nI ran a semi-complicated test with the credits I had so the video was only 26s at 720p. It's only marginally cheaper than SD2.5 by the way.\n\nThe result:  Not what I was expecting to be honest. Started out good and ended good - the middle bits....mnnn. Need more testing as maybe a more detailed prompt 🤷‍♀️\n\nPrompt in comments ⬇️"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/TheRogueA1/status/2111424984631460196",
+  "videoSourceUrl": "https://x.com/TheRogueA1/status/2111424869430648844",
+  "conversationId": "2111424869430648844",
+  "originalLanguage": "en",
+  "originalPrompt": "26-second continuous cinematic sequence, photoreal, film grain, dynamic camera, seamless magical transitions between worlds. Dialogue in English, lip-synced.\n\nCHARACTERS: Eve @Image1, dark brown shoulder-length hair, mustard cable-knit jumper, blue jeans, brown Chelsea boots. Demon Eve @Image2, red-skinned demon with black curved horns, leathery wings folded behind her, spiked tail, black leather armour. Eve's voice: low, dry, deadpan female voice with a natural British accent. Demon Eve's voice: husky, gravelly, slightly resonant female voice, unimpressed.\n\n0-6s: LIVING ROOM @Image3, cosy late-afternoon lamplight, Halloween pumpkin glowing on the windowsill. Medium-wide shot facing the sofa. Eve sits on the left of the sofa with a silver MacBook Pro on her lap, typing. Demon Eve sits on the right, wings tucked, tail curled over the armrest, staring blankly ahead at a TV just off camera, its flicker on her face. Eve suddenly stops typing, gasps, eyes wide at the screen, and says: \"Eve, Kling 4.0 just came out.\" Demon Eve slowly turns her head towards her, deadpan, and says: \"Do it.\"\n\n6-8s: Close on Eve's hands typing fast and hitting enter. The laptop screen erupts with bright light, a swirling vortex pulls Eve forward, her hair whipping, and she is sucked headfirst into the screen. Camera pushes through the screen after her.\n\n8-13s: DARK FANTASY BATTLEFIELD, ash and embers, stormy sky. Eve is now the necromancer @Image4: black hooded cloak, dark plate armour with bone details and skulls, holding a staff topped with a skull with glowing blue eyes. Horned demon monsters charge in. She slams the staff into the ground, releasing a huge circular shockwave of blue spectral energy that blasts the demons off their feet. Beside her, her skeleton minion @Image5, bronze skeleton in a tattered coat and boots, swings a rusty sword and cuts down demons one after another. The last demon collapses into ash.\n\n13-18s: A beam of light yanks Eve straight up into the sky; mid-air she transforms in a burst of light into the caped hero suit from @Image6, long blonde hair, blue suit, red cape, red skirt, red boots. She flies fast above a modern high-rise city at golden hour, banking left and right between glass skyscrapers, cape snapping, camera chasing behind her. She pitches downward and dives towards the ground.\n\n18-22s: She slams down in a ruined war zone, dust and debris blasting outward, and in the impact flash transforms into the futuristic soldier @Image7: white-silver ponytail, dark tactical armour, cargo trousers, combat boots. She raises a futuristic rifle and fires bright bursts at armoured enemy soldiers advancing through smoke, dropping them one by one. Behind her, on a crumbling window ledge, a tiny potted cactus sits untouched in the chaos.\n\n22-23s: The last enemy falls. The light vortex grabs her again and pulls her up and away, blur of colour.\n\n23-26s: BACK IN THE LIVING ROOM @Image3. Eve @Image1, back in her mustard jumper, is shot out of the laptop screen and thumps back onto the sofa, hair messy, laptop on her lap. She stares straight ahead, completely stunned, eyes wide, mouth slightly open. Demon Eve looks at her with a raised eyebrow and says: \"So?\" Eve slowly turns her head to Demon Eve and says: \"That was fucking awesome.\" Hold on the two of them.\n\nNEGATIVE: extra limbs, morphing faces, identity drift between characters, Demon Eve losing horns or wings, logos or text on screen, subtitles, watermark, blurry faces, duplicate characters, laptop disappearing, cartoon style",
+  "originalPromptSha256": "d5f0fd1bc33fca597bae83017c032eb157c59fba40c6da78f3d67414ffcc9a83",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Mirror-world cinematic journey",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2111424422468886528",
+    "url": "https://video-s.twimg.com/amplify_video/2111424422468886528/vid/avc1/1280x720/IjnK2UVRmJ9WN9yq.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111424422468886528/vid/avc1/1280x720/IjnK2UVRmJ9WN9yq.mp4?tag=29",
+    "sourceUrl": "https://x.com/TheRogueA1/status/2111424869430648844",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111424422468886528/img/eHysj64fzvkktY0O.jpg",
+    "durationSecondsReported": 26.048,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T11:51:31Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

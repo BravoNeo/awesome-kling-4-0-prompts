@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112974523670638644",
+  "slug": "desert-warrior-combat",
+  "title": {
+    "en": "Desert warrior combat",
+    "zh": "沙漠战士激战"
+  },
+  "description": {
+    "en": "Desert warrior combat — original prompt by @fromjtown.",
+    "zh": "沙漠战士激战，来自 @fromjtown 的原始提示词。"
+  },
+  "author": {
+    "handle": "fromjtown",
+    "url": "https://x.com/fromjtown"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/fromjtown/status/2112967291608666539",
+    "sourceTextOriginal": "Kling 4.0 is here!!\n\nI  tried the new kling 4.0 @Kling_ai which now has a (Native 30-second Generation) \n\nThe motion, realism and \nsound is just epic!\n\nPrompt below 👇🏾 https://t.co/SjHqXvhkL2"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/fromjtown/status/2112974523670638644",
+  "videoSourceUrl": "https://x.com/fromjtown/status/2112967291608666539",
+  "conversationId": "2112967291608666539",
+  "originalLanguage": "en",
+  "originalPrompt": "HYPER-KINETIC DESERT COMBAT — 30-SECOND CINEMATIC SEQUENCE\n\nWARRIOR — FIRST REFERENCE IMAGE: Use the exact masked tribal warrior with red-and-black wrapped dreadlocks, metallic ornaments, skull-covered shoulders, muscular build, layered black armor, wrapped forearms, bone accessories, distressed red-and-black hanging garments, and rugged footwear. Preserve his exact appearance and costume throughout the sequence.\n\nDARK REAPER — SECOND REFERENCE IMAGE: Use the exact hooded supernatural reaper with flowing, tattered black robes, glowing molten-orange cracks, fiery skeletal details, and an enormous curved flaming scythe. Preserve the same silhouette, weapon design, and spectral appearance throughout the sequence.\n\nVISUAL STYLE: Hyper-kinetic desert combat spectacle, extreme high-intensity CGI action, thick volumetric cinematic haze, golden-hour dust storms, aggressive anamorphic 35mm lens, heavy motion blur, relentless handheld tracking, whip pans, deep shadows, heat distortion, ultra-realistic particle systems.\n\n0–4s — EXTREME WIDE CRASH-IN\n\nInstant violent collision. The tribal warrior explodes forward through a dense dust cloud, his tattered red garments whipping violently. The dark reaper swings its massive flaming scythe in a wide horizontal arc. The impact detonates a shockwave of sand and embers. No pause.\n\n4–8s — DYNAMIC LOW TRACKING\n\nRapid exchange. The warrior ducks beneath the scythe, delivers a spinning elbow to the reaper’s ribs, then an upward knee. The reaper phases partially out of existence, reforms mid-strike, and counters with a spectral claw rake across the warrior’s chest. Fabric, sparks, ash, and dust explode outward.\n\n8–13s — ORBITING MEDIUM + DUTCH ANGLE\n\nAcrobatic mid-air clash. The warrior vaults off the scythe shaft, his tattered red garments fully extended, and lands a dual-fist hammer blow against the reaper’s hood. The reaper retaliates with a vertical scythe slam that cracks the ground. The warrior rolls and rises into a spinning back-kick that shreds the reaper’s robe into black ribbons.\n\n13–18s — HANDHELD CLOSE-COMBAT FRENZY\n\nBrutal ground scramble. The warrior grapples the scythe pole, headbutts the reaper’s shadowed hood, then unleashes three distinct strikes: an upward palm, a horizontal elbow, and a downward axe-kick. The reaper absorbs the attacks before unleashing a tendril-whip of living shadow that lashes the warrior’s back, drawing blood and dust.\n\n18–23s — SLOW-MOTION IMPACT MONTAGE\n\nEscalating power. The warrior catches the scythe mid-swing, twists, drives a knee into the reaper’s midsection twice, then delivers a spinning heel kick that sends the figure airborne. The reaper crashes down in an explosion of ash and sand, its robes partially dissolved. The warrior advances without mercy.\n\n23–28s — WIDE TO TIGHT PUSH-IN\n\nFinishing sequence. The warrior seizes the collapsing reaper by its remaining hood, delivers a savage rising uppercut followed by a final two-handed overhead smash. The reaper’s entire form shatters into swirling black ash and ember particles that scatter across the desert floor. The warrior stands over the dissipating cloud, breathing hard.\n\n28–30s — HARD-CUT REVERSE EXTREME CLOSE-UP\n\nThe blurred tribal warrior fills the foreground, chest heaving, sweat and dust streaking his mask, mouth open in ragged breath. In sharp focus in the deep background, the dark reaper slowly reconstitutes from residual ash. Its enormous flaming scythe reforms in its hand as it rises and begins stalking forward with predatory stillness.\n\nFINAL QUALITY REQUIREMENTS\n\nPhotorealistic, ultra-detailed fabric physics and particle simulation, precise character consistency, physically convincing combat, coherent anatomy and proportions, realistic weapon interactions, intense fire and shadow effects, perfect motion blur, maximum-density volumetric haze, cinematic color grading, and movie-level VFX polish.",
+  "originalPromptSha256": "4381dcbb3e2ec94c9928fc1cc436e4be8918fb9369ce937edda0c89c7e5a3671",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Desert warrior combat",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112967044911996928",
+    "url": "https://video-s.twimg.com/amplify_video/2112967044911996928/vid/avc1/3840x2160/PyNNzjy6oQGUggAi.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112967044911996928/vid/avc1/3840x2160/PyNNzjy6oQGUggAi.mp4?tag=29",
+    "sourceUrl": "https://x.com/fromjtown/status/2112967291608666539",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112967044911996928/img/2tjTGC4MWz8cv0g2.jpg",
+    "durationSecondsReported": 29.533,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T18:00:34Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

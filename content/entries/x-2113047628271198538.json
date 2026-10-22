@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113047628271198538",
+  "slug": "from-the-fridge-to-the-party",
+  "title": {
+    "en": "From the fridge to the party",
+    "zh": "从冰箱到派对"
+  },
+  "description": {
+    "en": "From the fridge to the party — original prompt by @shikoba_86.",
+    "zh": "从冰箱到派对，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2112959703357792510",
+    "sourceTextOriginal": "Kling 4.0 brings a superpower: the ability to direct your scene frame by frame, with up to 10 keyframes in a single video.\n\nThis opens up a lot of possibilities. Here are a few cases, and at the end a simulation of a real spot.\n\nHow keyframes work\n\nYou load a start frame, up to 8 middle frames and an end frame, in order. Each keyframe is a moment the video must reach: Kling generates the motion between one frame and the next, and lands on each image as you gave it.\n• The keyframes decide where the video goes: locations, framing, the state of the subject at each step.\n• The prompt decides how it gets there: the type of transition, the camera move, the actions between frames, the sound.\n• No prompt: @Kling_ai  chooses the transitions on its own.\n\nSame keyframes, different prompt, completely different video. That is what the cases below show.\n\nThe keyframes (Cases 1, 2 and 3)\nFive keyframes with the can standing in the center, same position and same size in every frame. Only the location changes:\n1. Start: white studio\n2. Middle: snow\n3. Middle: sand\n4. Middle: concert\n5. End: rooftop at night\n\nKey: when you edit the middle keyframes, lock the can's position and size but let light, shadow and the contact with the ground adapt to each place. With everything forced to stay pixel-identical, the sand and snow looked fake.",
+    "quotedBySourceUrl": "https://x.com/shikoba_86/status/2113047628271198538"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2113047628271198538",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2113047628271198538",
+  "conversationId": "2113047628271198538",
+  "originalLanguage": "en",
+  "originalPrompt": "One continuous shot, no cuts. The camera starts inside the closed dark fridge, on the middle shelf. At 2 seconds the door opens, the light switches on, and the smiling young man reaches in and takes the can. Then the camera moves forward, never backward: it glides out through the open fridge door, passes over his shoulder as he turns away, and continues forward behind his back, following the can in his hand as he walks out of the quiet, dim kitchen, down a short hallway, the party music getting louder, and through a doorway into a different room: the crowded living room party with string lights. There he opens the can with a hiss, takes a sip and talks and laughs with the young woman. He sets the can down on the table; the camera pushes in to a close-up of the can as the party blurs behind it. The background darkens and glowing blue and violet light streaks sweep in with motion-design graphics, revealing \"With you, frame by frame.\" and \"KLING 4.0\" around the can.\nCAMERA: one forward-moving tracking shot from inside the fridge to the table. The camera never pulls back and never stays inside the fridge after he takes the can.\nSound: silence and fridge hum, the door opening, muffled party music growing through the hallway, full music in the living room, the can hissing open, laughter, then the music drops to a single deep bass hit as the graphic appears.",
+  "originalPromptSha256": "7d7bb9ac0495a2e2c5f9605723cda75d240b652fe37b24c800250b2ef120f450",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "From the fridge to the party",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113002921373712384",
+    "url": "https://video-s.twimg.com/amplify_video/2113002921373712384/vid/avc1/1924x1076/DtxlIWvmfFNw7ZjR.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2113002921373712384/vid/avc1/1924x1076/DtxlIWvmfFNw7ZjR.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2113047628271198538",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113002921373712384/img/Dqf2lv12oPqnxhl8.jpg",
+    "durationSecondsReported": 21.041,
+    "aspectRatioReported": [
+      481,
+      269
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T23:19:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

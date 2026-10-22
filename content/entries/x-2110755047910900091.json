@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110755047910900091",
+  "slug": "living-alien-transit-terminal",
+  "title": {
+    "en": "Living alien transit terminal",
+    "zh": "活体外星交通枢纽"
+  },
+  "description": {
+    "en": "Living alien transit terminal — original prompt by @Alin_Reaper05.",
+    "zh": "活体外星交通枢纽，来自 @Alin_Reaper05 的原始提示词。"
+  },
+  "author": {
+    "handle": "Alin_Reaper05",
+    "url": "https://x.com/Alin_Reaper05"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2110755045499171078",
+    "sourceTextOriginal": "And Kling 4.0 is finally here, we have been waiting for this for weeks 😉Much more videos to come, but now it feels like is very slow. You can find the prompt below btw 😊 https://t.co/dMDxG992XJ"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Alin_Reaper05/status/2110755047910900091",
+  "videoSourceUrl": "https://x.com/Alin_Reaper05/status/2110755045499171078",
+  "conversationId": "2110755045499171078",
+  "originalLanguage": "en",
+  "originalPrompt": "First-person cinematic POV inside a living extraterrestrial transit terminal grown from pale coral and translucent membranes. An original humanoid alien with opalescent skin, narrow amber eyes, and delicate crystalline ridges sits beside a basin of luminous drinking water. Its anatomy remains consistent throughout. As the viewer approaches, it covers the basin with one trembling hand. In a soft, precise English voice, it says: “Don't drink the water. It carries the colony's memories. Drink enough... and there won't be any room left for yours.” Moving shadows inside the water briefly resemble thousands of crowded faces. The alien struggles to recall a word, then falls silent. One continuous take, intimate framing, photoreal creature effects, organic architecture, cold bioluminescent lighting, subtle breathing and distant biological pulses, clear lip sync, no captions. 😉",
+  "originalPromptSha256": "ce0c91ac91950180f5d0612b1e5784bdb92c22723b67907a08259e146d018693",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Living alien transit terminal",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110754388306268160",
+    "url": "https://video-s.twimg.com/amplify_video/2110754388306268160/vid/avc1/1920x1080/Gp9WRMRXSU7_CWal.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110754388306268160/vid/avc1/1920x1080/Gp9WRMRXSU7_CWal.mp4?tag=29",
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2110755045499171078",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110754388306268160/img/42OhSPwiiXEkbNcy.jpg",
+    "durationSecondsReported": 12.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T15:29:53Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

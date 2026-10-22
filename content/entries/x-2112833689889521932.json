@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112833689889521932",
+  "slug": "futuristic-talk-show",
+  "title": {
+    "en": "Futuristic talk show",
+    "zh": "未来访谈节目"
+  },
+  "description": {
+    "en": "Futuristic talk show — original prompt by @Alin_Reaper05.",
+    "zh": "未来访谈节目，来自 @Alin_Reaper05 的原始提示词。"
+  },
+  "author": {
+    "handle": "Alin_Reaper05",
+    "url": "https://x.com/Alin_Reaper05"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2112833687502913915",
+    "sourceTextOriginal": "Hello there, everyone. Hope you have a nice day. Here is another Kling 4.0 video, wait until the end 😁You can find the prompt below, btw, as usual 😉 https://t.co/4KFI44lYpC"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Alin_Reaper05/status/2112833689889521932",
+  "videoSourceUrl": "https://x.com/Alin_Reaper05/status/2112833687502913915",
+  "conversationId": "2112833687502913915",
+  "originalLanguage": "en",
+  "originalPrompt": "A cinematic futuristic talk show filmed inside a polished science-fiction broadcast studio. A serious male interviewer dressed entirely in black speaks calmly while sitting in a modern chair. Opposite him sits a beautiful red-haired female android with intricate silver-black mechanical plating and highly realistic synthetic skin. Begin with a stable waist-up shot of the man speaking naturally and gesturing with both hands. Seamless cut to a close-up of the android answering him, moving her hands naturally while her mechanical fingers articulate precisely. Background screens display abstract futuristic imagery. Transition to a wide establishing shot showing the circular stage, overhead lights, glass architecture and both guests. Cut back to their faces during the conversation. At the end, the center of the stage suddenly detonates in a powerful explosion, sparks and fragments burst outward, both characters react instantly, thick smoke rapidly consumes the entire frame. Hyperrealistic live-action aesthetic, realistic explosion physics, subtle handheld reaction during blast, professional studio cameras, dramatic but believable",
+  "originalPromptSha256": "21be8e53e5bf9eee43fb1f9bc29dac47502593e6e053a015f69c794410f3b2ea",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Futuristic talk show",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112832848407281664",
+    "url": "https://video-s.twimg.com/amplify_video/2112832848407281664/vid/avc1/1920x1080/UWUcf5-Nd0QWtBCU.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112832848407281664/vid/avc1/1920x1080/UWUcf5-Nd0QWtBCU.mp4?tag=29",
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2112833687502913915",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112832848407281664/img/0Q3vAsI2VrgQ0bcF.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T09:09:40Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

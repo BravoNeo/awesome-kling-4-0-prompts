@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112499136620810684",
+  "slug": "world-war-i-aerial-pursuit",
+  "title": {
+    "en": "World War I aerial pursuit",
+    "zh": "一战空中追逐"
+  },
+  "description": {
+    "en": "World War I aerial pursuit — original prompt by @PromptSin.",
+    "zh": "一战空中追逐，来自 @PromptSin 的原始提示词。"
+  },
+  "author": {
+    "handle": "PromptSin",
+    "url": "https://x.com/PromptSin"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/PromptSin/status/2112499176487665729",
+    "sourceTextOriginal": "Kling 4.0 : the full video.\n\n10 seconds · 16:9 · 720p. Same prompt and starting image. https://t.co/dgACrcpPaU"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/PromptSin/status/2112499136620810684",
+  "videoSourceUrl": "https://x.com/PromptSin/status/2112499176487665729",
+  "conversationId": "2112499116995735950",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 10-second photorealistic World War I aerial pursuit, horizontal 16:9, using the supplied image as the exact opening frame.\n\nAIRCRAFT AND CONTINUITY\nExactly two single-seat biplane fighters throughout. The burgundy aircraft with black cross markings is the pursuer, nearest the camera. The olive aircraft with roundels is the target, ahead and slightly lower. Preserve their reference designs, colors, markings, wing structures, rigging, open cockpits, pilots and fixed landing gear. They fly in the same direction, with the olive aircraft leading at all times.\n\n0–3 SECONDS — IMMEDIATE ACTION\nContinue directly from the reference without a static hold. Both propellers spin rapidly. The olive aircraft banks hard left and descends toward a gap between clouds. The burgundy aircraft immediately banks left in pursuit and fires one short machine-gun burst forward from its nose-mounted guns. Brief muzzle flashes and a few thin, fast tracer streaks pass behind the target without hitting it.\n\n3–7 SECONDS — DIVING PURSUIT\nThe olive aircraft steepens its descending turn along the edge of a cloud. The burgundy aircraft follows the same curved flight path several aircraft lengths behind, firing one more brief burst before ceasing fire. Wisps of vapor sweep past; the distant fields and river move rapidly across the background. Both aircraft remain identifiable, with clear separation and no complete cloud occlusion.\n\n7–10 SECONDS — LOW SWEEP AND PULL-OUT\nBoth aircraft emerge below the cloud edge. The olive aircraft smoothly levels its wings and pulls out of the dive; the burgundy aircraft follows a moment later. The camera drops slightly behind and below the pursuer, revealing both planes racing forward over the landscape. End mid-pursuit with both aircraft intact and the olive plane still ahead.\n\nCAMERA\nOne continuous airborne tracking shot starting at the supplied rear three-quarter viewpoint. The camera follows the burgundy aircraft smoothly while keeping the olive target visible ahead. Subtle airframe-like vibration, strong background parallax, readable silhouettes. No cuts, teleportation, reverse angles or slow motion.\n\nPHYSICS AND LOOK\nReal-time motion, convincing weight, aerodynamic banking and smooth pull-out. Aircraft turn through banked flight, never skid sideways, hover or fly backward. Consistent sunlight, photorealistic weathered fabric, wood, metal and taut rigging. Natural propeller motion blur and cinematic cloud depth. No modern jet-like speeds or maneuvers.\n\nAUDIO\nContinuous period piston-engine roar, rushing wind and two short synchronized machine-gun bursts from the burgundy pursuer. Engine pitch rises during the dive. No music, dialogue or narration.\n\nAVOID\nExtra aircraft, swapped pursuer and target, changing markings, morphing wings, missing rigging, extra propellers, detached wheels, missiles, jets, lasers, fireballs, collisions, crashes, visible injuries, repeated loops, frozen opening, text, subtitles, logos or watermarks.",
+  "originalPromptSha256": "63c4fdf78dfd95321c0fb68ca4d050875571ebc8e7b82cb605214c613d3666f4",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "World War I aerial pursuit",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112499149996445696",
+    "url": "https://video-s.twimg.com/amplify_video/2112499149996445696/vid/avc1/1280x720/USd6y8SCtMetLsHB.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112499149996445696/vid/avc1/1280x720/USd6y8SCtMetLsHB.mp4?tag=16",
+    "sourceUrl": "https://x.com/PromptSin/status/2112499176487665729",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112499149996445696/img/1-4iv0PleyPGSSyR.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T11:00:26Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

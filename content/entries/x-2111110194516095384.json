@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111110194516095384",
+  "slug": "margot-and-leo",
+  "title": {
+    "en": "Margot and Leo",
+    "zh": "玛戈与莱奥"
+  },
+  "description": {
+    "en": "Margot and Leo — original prompt by @EricKerArt.",
+    "zh": "玛戈与莱奥，来自 @EricKerArt 的原始提示词。"
+  },
+  "author": {
+    "handle": "EricKerArt",
+    "url": "https://x.com/EricKerArt"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EricKerArt/status/2111110191961854080",
+    "sourceTextOriginal": "Kling 4 can indeed speak French. It's not perfect, but it's way better than other models for now.\nAs an editor, I think the best line is when she says \"Et si Claire ne venait pas ?\" (\"What if Claire didn't come?\"). It sounds just right: casual on the surface, but she clearly knows something he doesn't.\n\n\"Margot and Léo\"  (Prompt Below)"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/EricKerArt/status/2111110194516095384",
+  "videoSourceUrl": "https://x.com/EricKerArt/status/2111110191961854080",
+  "conversationId": "2111110191961854080",
+  "originalLanguage": "en",
+  "originalPrompt": "Sunny late summer afternoon on a narrow coastal footpath in Brittany, France, winding along the top of a cliff through bright yellow blooming gorse and heather. Deep blue sky with a few white clouds, sparkling turquoise sea below, pink granite rocks, warm golden natural light, gentle sea breeze moving the gorse. Shot on 16mm film with natural grain, warm natural colors, 1990s French auteur cinema style, no music.\n\nCamera:\nhandheld throughout, operated by a single camera operator walking with the actors, slight natural sway and small breathing movements, loose documentary framing, never stabilized. Multiple cuts between angles: walking shots from the front and from behind on the path, two-shots, over-the-shoulder shots, and closer shots on their faces, edited with the rhythm of the conversation.All dialogue is spoken in French, with natural native French pronunciation, a relaxed conversational rhythm and clear diction.\n\nCharacters:\nMARGOT, a 25-year-old French woman with shoulder-length chestnut hair blowing in the wind, wearing a navy and white striped sailor sweater and light beige trousers, canvas espadrilles.\nLÉO, a 23-year-old French man with short dark tousled hair, wearing a loose white linen shirt with rolled sleeves and grey trousers, hands in his pockets, canvas espadrilles.Margot and Léo walk one behind the other along the narrow path between the gorse bushes, then side by side when the path widens.\nMARGOT (curious, teasing, in French): \"Alors, Solène ? Tu l'as rappelée ?\"LÉO (evasive, in French): \"Non. Elle voulait aller à Bréhat samedi. Mais samedi, Claire arrive par le train de quatorze heures.\"MARGOT (amused, precise, in French): \"Donc tu vas chercher Claire à la gare, et tu penses à Solène tout l'après-midi.\"LÉO (defensive, in French): \"Je n'ai pas dit ça.\"MARGOT (casually, without looking at him, in French): \"Et si Claire ne venait pas ?\"Léo stops walking on the path.LÉO (in French): \"Pourquoi tu dis ça ?\"MARGOT (turning back to him, calm, in French): \"Elle m'a appelée hier soir.\" Silence.\nLéo stands still among the yellow gorse, stunned, the wind in his hair. Margot gives him a small enigmatic smile, turns and keeps walking ahead along the cliff path. Léo watches her go, then slowly follows. The final image lingers on the two figures on the winding path above the sea.Natural acting, realistic gestures and subtle facial expressions, spontaneous and talkative mood. Live direct sound: sea breeze in the microphone, distant waves crashing below, seagulls, insects buzzing in the gorse, footsteps on the dry path.",
+  "originalPromptSha256": "a74caf75b72fc6bfb3337da9fc6867b36596233202bd2131a8f64ad17f254830",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Margot and Leo",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111108601632735232",
+    "url": "https://video-s.twimg.com/amplify_video/2111108601632735232/vid/avc1/1280x720/Gs64KeqLHvXjEPur.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111108601632735232/vid/avc1/1280x720/Gs64KeqLHvXjEPur.mp4?tag=29",
+    "sourceUrl": "https://x.com/EricKerArt/status/2111110191961854080",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111108601632735232/img/B-Y8LDqu5eW4DZSU.jpg",
+    "durationSecondsReported": 27.916,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T15:01:06Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

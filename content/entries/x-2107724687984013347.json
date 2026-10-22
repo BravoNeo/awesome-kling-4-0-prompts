@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2107724687984013347",
+  "slug": "tabby-cat-street-vlogger",
+  "title": {
+    "en": "Tabby cat street vlogger",
+    "zh": "虎斑猫街头博主"
+  },
+  "description": {
+    "en": "Tabby cat street vlogger — original prompt by @AIwithSarah_.",
+    "zh": "虎斑猫街头博主，来自 @AIwithSarah_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "AIwithSarah_",
+    "url": "https://x.com/AIwithSarah_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/AIwithSarah_/status/2107724687984013347",
+    "sourceTextOriginal": "Kling 4.0 Prompt share:\n\nA 15-second continuous cinematic selfie-style video of an anthropomorphic tabby cat vlogger walking down a modern city street while holding a front-facing camera. The cat is wearing black headphones and a blue plaid shirt, speaking directly to the camera in a casual, confident tone like a daily street vlogger. Mouth movement synced to speech throughout.\nThe camera remains in selfie mode the entire time with slight handheld shake for realism. Natural daylight lighting. Background includes passing cars, pedestrians, and tall buildings softly blurred with shallow depth of field.\nAs the cat walks forward, it talks continuously, occasionally nodding, blinking, and slightly adjusting its headphones mid-sentence. Subtle fabric movement from wind. Natural whisker and ear motion. The cat briefly laughs near the end while still speaking, then gives a friendly wink at the camera.\nUltra-realistic fur detail, natural lip sync, vlog aesthetic, cinematic color grading, 4K, 24fps, realistic motion blur."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/AIwithSarah_/status/2107724687984013347",
+  "videoSourceUrl": "https://x.com/AIwithSarah_/status/2107724687984013347",
+  "conversationId": "2107724687984013347",
+  "originalLanguage": "en",
+  "originalPrompt": "A 15-second continuous cinematic selfie-style video of an anthropomorphic tabby cat vlogger walking down a modern city street while holding a front-facing camera. The cat is wearing black headphones and a blue plaid shirt, speaking directly to the camera in a casual, confident tone like a daily street vlogger. Mouth movement synced to speech throughout.\nThe camera remains in selfie mode the entire time with slight handheld shake for realism. Natural daylight lighting. Background includes passing cars, pedestrians, and tall buildings softly blurred with shallow depth of field.\nAs the cat walks forward, it talks continuously, occasionally nodding, blinking, and slightly adjusting its headphones mid-sentence. Subtle fabric movement from wind. Natural whisker and ear motion. The cat briefly laughs near the end while still speaking, then gives a friendly wink at the camera.\nUltra-realistic fur detail, natural lip sync, vlog aesthetic, cinematic color grading, 4K, 24fps, realistic motion blur.",
+  "originalPromptSha256": "754aca515b3260ac552fd2f80e5a561955257d26a5a1ef3e6021e349d3a8bc8d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Tabby cat street vlogger",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2107724583063392256",
+    "url": "https://video-s.twimg.com/amplify_video/2107724583063392256/vid/avc1/1076x1920/opxCZQMIL0M_FaPa.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2107724583063392256/vid/avc1/1076x1920/opxCZQMIL0M_FaPa.mp4?tag=29",
+    "sourceUrl": "https://x.com/AIwithSarah_/status/2107724687984013347",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107724583063392256/img/Sc01AQ0nxCRBnJHV.jpg",
+    "durationSecondsReported": 15.046,
+    "aspectRatioReported": [
+      269,
+      480
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-07T06:48:19Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

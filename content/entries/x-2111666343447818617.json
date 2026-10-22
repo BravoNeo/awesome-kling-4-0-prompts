@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111666343447818617",
+  "slug": "waterfall-from-an-ink-scroll",
+  "title": {
+    "en": "Waterfall from an ink scroll",
+    "zh": "水墨卷轴流出瀑布"
+  },
+  "description": {
+    "en": "Waterfall from an ink scroll — original prompt by @opener_ai.",
+    "zh": "水墨卷轴流出瀑布，来自 @opener_ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "opener_ai",
+    "url": "https://x.com/opener_ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/opener_ai/status/2111666343447818617",
+    "sourceTextOriginal": "Kling 4 Test\nLiquids actually look pretty good in Kling 4.\n\nPrompt\nA tall Korean ink-wash landscape scroll hangs against a warm plaster wall in a quiet hanok alcove. Painted misty mountains and a black pine surround one narrow painted waterfall. A shallow celadon basin rests directly below the scroll, already visible from the opening frame. The opening second reveals the striking ink waterfall gleaming faintly like liquid. Over the next three seconds only the waterfall's lower end gradually becomes a small continuous stream of real clear water, crossing the paper's lower edge and falling into the basin. For the remaining six seconds that stream keeps flowing from the same painted waterfall, producing contact splashes and expanding ripples; the basin's water level rises slightly without overflowing. The deliberate fantasy is only the painted waterfall producing real water: mountains, pine, paper borders and wall remain still and dry. Static full view of scroll and basin, warm side lighting, exquisite ink texture and glossy celadon, one continuous ten-second shot. No cuts, new objects or captions.\n\n#Klingai"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/opener_ai/status/2111666343447818617",
+  "videoSourceUrl": "https://x.com/opener_ai/status/2111666343447818617",
+  "conversationId": "2111666343447818617",
+  "originalLanguage": "en",
+  "originalPrompt": "A tall Korean ink-wash landscape scroll hangs against a warm plaster wall in a quiet hanok alcove. Painted misty mountains and a black pine surround one narrow painted waterfall. A shallow celadon basin rests directly below the scroll, already visible from the opening frame. The opening second reveals the striking ink waterfall gleaming faintly like liquid. Over the next three seconds only the waterfall's lower end gradually becomes a small continuous stream of real clear water, crossing the paper's lower edge and falling into the basin. For the remaining six seconds that stream keeps flowing from the same painted waterfall, producing contact splashes and expanding ripples; the basin's water level rises slightly without overflowing. The deliberate fantasy is only the painted waterfall producing real water: mountains, pine, paper borders and wall remain still and dry. Static full view of scroll and basin, warm side lighting, exquisite ink texture and glossy celadon, one continuous ten-second shot. No cuts, new objects or captions.",
+  "originalPromptSha256": "0ffc2b32061708d896d8aa81351e4859303470266ec96f74a48609a767af78e4",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Waterfall from an ink scroll",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111662273332961280",
+    "url": "https://video-s.twimg.com/amplify_video/2111662273332961280/vid/avc1/720x1280/Ic3WInBpCM_1f40b.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111662273332961280/vid/avc1/720x1280/Ic3WInBpCM_1f40b.mp4?tag=29",
+    "sourceUrl": "https://x.com/opener_ai/status/2111666343447818617",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111662273332961280/img/MJ_HJO9oR_evE7s4.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T03:51:03Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

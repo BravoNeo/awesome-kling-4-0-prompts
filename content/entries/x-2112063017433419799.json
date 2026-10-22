@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112063017433419799",
+  "slug": "urban-rooftop-parkour",
+  "title": {
+    "en": "Urban rooftop parkour",
+    "zh": "都市屋顶跑酷"
+  },
+  "description": {
+    "en": "Urban rooftop parkour — original prompt by @Ayu_AI_0912.",
+    "zh": "都市屋顶跑酷，来自 @Ayu_AI_0912 的原始提示词。"
+  },
+  "author": {
+    "handle": "Ayu_AI_0912",
+    "url": "https://x.com/Ayu_AI_0912"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2112063015092887844",
+    "sourceTextOriginal": "Kling4.0 × パルクール動画\n----\nすっげえ！\nプロンプトは↓ https://t.co/vIV9Vumc0X"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Ayu_AI_0912/status/2112063017433419799",
+  "videoSourceUrl": "https://x.com/Ayu_AI_0912/status/2112063015092887844",
+  "conversationId": "2112063015092887844",
+  "originalLanguage": "ja",
+  "originalPrompt": "15秒、16:9、1080p、8カット構成のシネマティックな超上級パルクール映像。\n主人公は image_1 の人物。\n添付画像をキャラクターデザインの参照として使用し、髪型、髪色、服装、配色、年齢感、体格、全体の雰囲気を全カットで一貫して維持すること。\n舞台は快晴の現代日本の都市。\n東京、渋谷、横浜を思わせる屋上、路地、階段、手すり、配管、コンクリート壁を舞台に、主人公が世界トップレベルのフリーランニングを披露する。\n【カット1｜00:00〜00:01.60】\nローアングル後方追従。\n主人公が一気に加速し、腰ほどの高さの障害物をコングヴォルトで飛び越える。\n【カット2｜00:01.60〜00:03.40】\n正面ローアングル。\nウォールランからティックタックを決め、向かいの屋上へジャンプして着地する。\n【カット3｜00:03.40〜00:05.20】\n横方向トラッキング。\nプレシジョンジャンプで細い足場へ着地し、そのままキャットリープで高い壁へ飛びついて登る。\n【カット4｜00:05.20〜00:07.20】\n屋上追従ショット。\nダッシュヴォルトで障害物を越え、そのままウェブスターで屋上の隙間を飛び越える。\n【カット5｜00:07.20〜00:09.20】\n俯瞰移動カメラ。\nダイブロールで着地の衝撃を吸収し、そのまま長い手すりをスピードヴォルトで攻略する。\n【カット6｜00:09.20〜00:11.30】\n正面から後退するハンドヘルド撮影。\nアンダーバーで低い障害物を通過し、その直後にサイドフリップで次の障害物を越える。\n【カット7｜00:11.30〜00:13.20】\n後方斜め上からのドローン撮影。\nパームスピンからコングヴォルトへ滑らかにつなぎ、最後のジャンプへ向けて全力で加速する。\n【カット8｜00:13.20〜00:15.00】\nクライマックス。\n大きな屋上の隙間へ向かって跳躍し、高く美しいコークスクリューを決める。\nカメラは空中で主人公の周囲を回り込む。\n正確に着地した後、そのままスピードを落とさず画面奥へ走り去る。\n【映像スタイル】\n実写映画品質。\n世界大会レベルのフリーランニング。\nリアルな重心移動。\n自然な筋肉の動き。\nリアルな着地衝撃。\n髪や衣装が風や動きに合わせて自然に揺れる。\n背景は鮮明に保ち、高速移動中のみ自然なモーションブラーを使用する。\n【禁止】\n人物の雰囲気や服装が大きく変化すること。\n髪型や配色の不自然な変化。\n顔や身体の崩れ。\n手足の増殖。\n分身。\n身体の融合。\n貫通。\n電線を通過すること\nワープ。\n浮遊。\n不自然な着地。\nアニメ調。\nCG調。",
+  "originalPromptSha256": "e73892385b5ace89e083c6c52a53de3111a82bd796723fb3530c6efd43366e7a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Urban rooftop parkour",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Prepare the input references described by the creator; this entry does not bundle them.",
+    "zh": "请按作者要求准备输入参考素材；本条目未附带这些素材。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112062418662924288",
+    "url": "https://video-s.twimg.com/amplify_video/2112062418662924288/vid/avc1/1280x720/YBx5AEi6qNufggsQ.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2112062418662924288/vid/avc1/1280x720/YBx5AEi6qNufggsQ.mp4?tag=29",
+    "sourceUrl": "https://x.com/Ayu_AI_0912/status/2112063015092887844",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112062418662924288/img/u9HKxFzY5yNcMwlQ.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-19T06:07:17Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}

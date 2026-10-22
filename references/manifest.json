@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "model": "Kling 4.0",
-  "count": 60,
+  "count": 100,
   "catalog": "export/catalog.json",
   "categories": [
     {
@@ -31,7 +31,7 @@
         "en": "Character animation",
         "zh": "角色动画"
       },
-      "count": 4,
+      "count": 7,
       "path": "references/use/character-animation.json"
     },
     {
@@ -41,7 +41,7 @@
         "en": "Action",
         "zh": "动作"
       },
-      "count": 13,
+      "count": 26,
       "path": "references/use/action.json"
     },
     {
@@ -51,7 +51,7 @@
         "en": "Storytelling",
         "zh": "叙事短片"
       },
-      "count": 23,
+      "count": 38,
       "path": "references/use/storytelling.json"
     },
     {
@@ -61,7 +61,7 @@
         "en": "UGC & vlogs",
         "zh": "UGC 与日常视频"
       },
-      "count": 5,
+      "count": 6,
       "path": "references/use/ugc.json"
     },
     {
@@ -81,7 +81,7 @@
         "en": "Product advertising",
         "zh": "产品广告"
       },
-      "count": 3,
+      "count": 7,
       "path": "references/use/product.json"
     },
     {
@@ -91,7 +91,7 @@
         "en": "Landscape & FPV",
         "zh": "风景与 FPV"
       },
-      "count": 3,
+      "count": 7,
       "path": "references/use/landscape.json"
     },
     {
@@ -101,7 +101,7 @@
         "en": "Cinematic realism",
         "zh": "电影写实"
       },
-      "count": 47,
+      "count": 71,
       "path": "references/style/cinematic-realism.json"
     },
     {
@@ -111,7 +111,7 @@
         "en": "Cozy animation",
         "zh": "温暖动画"
       },
-      "count": 3,
+      "count": 8,
       "path": "references/style/cozy-animation.json"
     },
     {
@@ -131,7 +131,7 @@
         "en": "Fantasy",
         "zh": "奇幻"
       },
-      "count": 9,
+      "count": 20,
       "path": "references/style/fantasy.json"
     },
     {
@@ -151,7 +151,7 @@
         "en": "Animals",
         "zh": "动物"
       },
-      "count": 9,
+      "count": 12,
       "path": "references/subject/animals.json"
     },
     {
@@ -201,7 +201,7 @@
         "en": "People",
         "zh": "人物"
       },
-      "count": 41,
+      "count": 70,
       "path": "references/subject/people.json"
     },
     {
@@ -211,7 +211,7 @@
         "en": "Environments",
         "zh": "场景"
       },
-      "count": 2,
+      "count": 6,
       "path": "references/subject/environments.json"
     },
     {
@@ -221,35 +221,35 @@
         "en": "Products",
         "zh": "产品"
       },
-      "count": 3,
+      "count": 7,
       "path": "references/subject/products.json"
     }
   ],
   "sha256": {
-    "README.md": "66c36ba5306f0d275bebc233daf99af0bdb39af490760529e6c35b1a63940949",
-    "README.zh-CN.md": "b4f5891123c226446433b37015ccb97d061abaf76bfdb8a0507e17ab38975713",
-    "export/catalog.json": "93353095a65f0b38bb63a575fcec49308fb544ae721365220d53ab65aea4dcfa",
-    "references/style/cinematic-realism.json": "6ccb193dfcd8f913c241231e1671c85e6733ec4e4e3e4df8b84981f0f55806df",
-    "references/style/cozy-animation.json": "e7ba63428e4144d543857c8338bd507c7a7b65f26f1ed44ee1eb041ac4ca0f70",
-    "references/style/fantasy.json": "bf6bba535aed0c03f2d87b1337e999d5d0f83fa8f80ab62671e6205d380e470a",
+    "README.md": "a83d9c1501be33367c6cbaecb77a2e540226a7f0e35c0067318f4c7a22888313",
+    "README.zh-CN.md": "41e58ad511135fce4d562cc110d29d6ce966e4e16e7c815e567254b3c8477345",
+    "export/catalog.json": "d2e985de788806905033a0c1f72e056580237edf24c7250572be6a65383bf934",
+    "references/style/cinematic-realism.json": "3293a568ff2acd182e3d8d6b2fb95b93a5e9b081989df63fe7861aab98b302ef",
+    "references/style/cozy-animation.json": "a35da66bba3b9802b192bf2cde36e21d8ba170d997e16e6d213c9d09467ed875",
+    "references/style/fantasy.json": "e5cabe1f38b7ad5c8b9c88f10081b6f011abeeb23ac972fd67855129b2becba9",
     "references/style/painterly-animation.json": "b891a88d08819439d07b2295ac60d18843457217a826d9a3e9c52cfc098652b6",
-    "references/subject/animals.json": "a98d9c0a75701ee186c0a2deb9138a3dd5f8a9f41e46b955239ace9cb2bb5981",
+    "references/subject/animals.json": "fc0b988dad26f9fc2e862fab74f0a4fdd049bdda66ce76a91c5b24bfdb697127",
     "references/subject/athletes.json": "ce4d0a8cbdb514e93fef9f0e21ae9e7dba8dcf7e6d0fbd9904a8fd05e40dcce9",
-    "references/subject/environments.json": "5c66d23f1fb39d1edb4678be1c33105eb2e82ff9e8110bb4bd30ce27e926f228",
+    "references/subject/environments.json": "ca8eb107f97a5da17212a5a7316a90f33d22f5094b6db47b2d421cce040853f1",
     "references/subject/heroes.json": "84a0ada597107ca0d523b4b85b64174fa46eff113026f496110aac5c8e2fc8f8",
     "references/subject/martial-arts.json": "472e0eb7886e450455e9d2fee907694aaf4921519019a98b410923713c65066e",
-    "references/subject/people.json": "31b17ebf7b45878031e38f5ea4c3651c8f8df01a6884a9214f2f87acf91dc323",
-    "references/subject/products.json": "9f1a201239bf5fe2fe684668b08a1a1272fc53aee9edd06153e9240fb4ecd0c1",
+    "references/subject/people.json": "ed8d6abe9dee27242c75e1790d7d77d0919086208476d1c96357006b91683354",
+    "references/subject/products.json": "af7493bda62c3450a6cde8daaaddc3b77f51078162dbcd469acf31a5a2ef9305",
     "references/subject/travelers.json": "1a87e823e026825bfd38ef1d5bb4da2c86af4b380e6288a9508be13d16cea9f0",
     "references/subject/witches.json": "ee9680f405a80700457889e9244e3ae9e899c06b825b3e1b1ccbbf17b96f7ea0",
-    "references/use/action.json": "52fce72e0c95cac41827dcb38373bd28f43ed18f5c5025220450bfefe2c026f7",
-    "references/use/character-animation.json": "743ab4043d2b39b09652f3dd316e2ad530d80c013002cdbbf93a3372170c49c2",
+    "references/use/action.json": "26c5ef1a8eb8cac1a2a633c23d237720a517557f20567086863dc36fa58d1a87",
+    "references/use/character-animation.json": "b5aae99cbd011327eaf3459ed4f38c50480ce3597f8f80818ca3a507cb9106b2",
     "references/use/comedy.json": "bd5248c86e07a18b7b3445bd3307eecdb269f8a3c1a55074de10ad285818082a",
-    "references/use/landscape.json": "0791732021287358c428e29bd86d1dc1ce0d07d82695128c462a76bd9b36b4af",
-    "references/use/product.json": "429724a82ccabe0021c6b5c60f593cfff3f545ccc45899b122b478110dd299f6",
-    "references/use/storytelling.json": "109e551a37322facc444266aadc902bb4950bd0f48e2dd95c67de59d4a631e50",
+    "references/use/landscape.json": "88b06ae208c6a01eb6cc9172c0b6ea05f46fa581b1ffb53667ba3d51504e705d",
+    "references/use/product.json": "f64593c6ae6b8ec824d88a393aba73baa530afea90cc345c2117adcacdb0ecf3",
+    "references/use/storytelling.json": "d97ab5d555a434f58c881affc008102d4f9198fe9a095e5c8eeb3a8375c331c3",
     "references/use/travel-commercial.json": "a370bedbc974cd83920df661d9b33945fe274e11c561887f00f1c7190a7042c9",
-    "references/use/ugc.json": "f29ed22c5b53c76b9ec11c873b172bb9a9ee4ad57e6cb209662ce0068dcb23ed",
+    "references/use/ugc.json": "1274f3397d277e32fb7b4866be90baaee94ce4bf7cbd7bb487796f6d2ef5deef",
     "references/use/video-editing.json": "de1f1b5e963b95974a3a831795df58f0b4cbc153c8ed99e768248179da81a55e"
   }
 }

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111462820349124692",
+  "slug": "japanese-romantic-goodbye",
+  "title": {
+    "en": "Japanese romantic goodbye",
+    "zh": "日式浪漫告别"
+  },
+  "description": {
+    "en": "Japanese romantic goodbye — original prompt by @agi_aibusi.",
+    "zh": "日式浪漫告别，来自 @agi_aibusi 的原始提示词。"
+  },
+  "author": {
+    "handle": "agi_aibusi",
+    "url": "https://x.com/agi_aibusi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/agi_aibusi/status/2111462816922370367",
+    "sourceTextOriginal": "これもKLING4.0でポン出し\n流暢な日本語で良い演技します\n\nプロンプトはツリー↓ https://t.co/nqYa4HKVz6"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/agi_aibusi/status/2111462820349124692",
+  "videoSourceUrl": "https://x.com/agi_aibusi/status/2111462816922370367",
+  "conversationId": "2111462816922370367",
+  "originalLanguage": "en",
+  "originalPrompt": "Create one complete 30-second, ultra-realistic Japanese romantic drama. Follow the five timed scenes below within a single finished film. The emotion comes from a woman who tries to say goodbye, then finds the courage to admit she wants to meet again.\n\nMAIN SUBJECT\nElla is the sole visible character: a beautiful adult Japanese woman with straight dark hair and bangs, natural skin texture, subtle everyday makeup, and believable expressions.\n\nHer wardrobe for this film is a white blouse, a pale blue cardigan, simple neutral trousers, and ordinary low shoes. Keep the same facial identity, facial proportions, apparent adult age, eyes, skin tone, hair, clothes, and body proportions throughout every shot. Use small changes around her eyes and mouth to convey emotion; avoid exaggerated crying.\n\nLOCATION\nA quiet fork in a Japanese residential lane at sunset. Modest houses, concrete-block garden walls, plants at entrances, overhead utility wires, and a distant railway crossing establish a lived-in Japanese neighborhood. Keep the street layout and sunset direction coherent. No landmark, crowds, prominent brands, or readable advertisements.\n\nCAMERA / VISUAL STYLE\nNaturalistic live-action romance, intimate eye-level framing, soft warm sunset, realistic depth of field, restrained contrast. The camera occupies the emotional position of the unseen person saying goodbye to her. No visible male actor. Begin in a medium shot, hold the physical distance as she leaves, and let her approach create the final close-up. Subtle human handheld movement, clean motivated edits, no orbiting, drone shots, artificial beauty filters, or slow motion. This is a dramatic scene, not a fashion montage.\n\n00:00–00:05 — A POLITE GOODBYE\nElla stands at the fork facing the unseen person near the camera. She makes a slightly forced but gentle smile and gives one small wave. In natural Japanese, with synchronized lips, she says: 「じゃあね。……元気でね」. She lowers her hand and begins to turn away.\n\n00:05–00:11 — THE SMILE DISAPPEARS\nShe walks several normal steps away. The camera stays at the original position and does not chase her. A restrained three-quarter view reveals that her social smile has faded. She looks down very briefly, trying to maintain composure. Only ordinary footsteps and neighborhood ambience.\n\n00:11–00:17 — SHE CHANGES HER MIND\nHer feet stop naturally. A small breath moves her shoulders. She hesitates, turns her head and then her body back toward the camera, and softly calls: 「……ねえ」. Leave silence around the word. No tears falling, no melodramatic gesture.\n\n00:17–00:24 — RETURNING\nShe walks back toward the same camera along the same path, stopping at a comfortable conversational distance. Her expression combines shyness and resolve. Looking toward the unseen person's eyes beside the lens, she says: 「さっきの、言い直してもいい？」. Do not rush her approach or dialogue.\n\n00:24–00:30 — THE HONEST WORDS\nAn intimate close-up as she stays still. Her eyes become slightly moist, and a vulnerable smile appears. At approximately 00:25–00:27, she says quietly: 「また、会いたい」. Hold her face and the silence through the final seconds as she waits for a reply. End on this living expression without a title card or a fade to black.\n\nPHYSICAL REALISM / CONTINUITY\nRealistic walking speed, grounded feet, anatomically correct hands, consistent spatial direction, and natural breathing. No extra fingers, duplicated people, facial morphing, sliding feet, teleportation, or changing clothing. Her return follows the path she just walked. One person and one continuous emotional event; no unrelated insert shots.\n\nAUDIO\nElla speaks only the four specified Japanese lines, in one consistent natural adult female voice. Accurate Japanese lip synchronization, quiet breaths, shoes on pavement, distant traffic, and a faint railway crossing. No male reply, narrator, music, subtitles, or added text. Preserve roughly two seconds of emotional breathing space after the final line.\n\nFINAL FEEL\nA small, believable romantic turning point. Her beauty is visible in her face and presence, while her uncertainty makes the scene human. The final result should feel like thirty seconds extracted from a convincing Japanese live-action drama.",
+  "originalPromptSha256": "6c8f5c64665987c2ada769e938740f670fc6a9622f2d70b2a80a330824a19d73",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Japanese romantic goodbye",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt below and watch the creator’s result.",
+    "zh": "阅读下方原始提示词，点击封面查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111460789781680128",
+    "url": "https://video-s.twimg.com/amplify_video/2111460789781680128/vid/avc1/1080x1440/J6baiPWyu1ebzA1R.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111460789781680128/vid/avc1/1080x1440/J6baiPWyu1ebzA1R.mp4?tag=29",
+    "sourceUrl": "https://x.com/agi_aibusi/status/2111462816922370367",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111460789781680128/img/JBcad7v1mbZq_rHA.jpg",
+    "durationSecondsReported": 29.373,
+    "aspectRatioReported": [
+      3,
+      4
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-17T14:22:19Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  }
+}
