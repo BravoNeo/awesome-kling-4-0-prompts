@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113620690129862944",
+  "slug": "monsoon-velocity",
+  "title": {
+    "en": "Monsoon velocity",
+    "zh": "季风极速战"
+  },
+  "description": {
+    "en": "Monsoon velocity — original prompt by @bmx_ai13.",
+    "zh": "季风极速战，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2113620686346523093",
+    "sourceTextOriginal": "Kling 4.0 is here up to 30 second videos, 10 keyframes and 15 reference assets. 4K and 10 bit HDR are coming next.\n\nMore room to tell a story. More control over each shot. Now give creators pricing that makes experimenting affordable.\n\nMade with Kling 4.0 via @Kling_ai \nPrompt ⤵️"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2113620690129862944",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2113620686346523093",
+  "conversationId": "2113620686346523093",
+  "originalLanguage": "en",
+  "originalPrompt": "TITLE: MONSOON VELOCITY\n\nFORMAT: 20 seconds, 16:9, 24fps, photoreal live-action superhero action, anamorphic lens feel, handheld chase camera with whip pans, heavy motion blur on the speedster only. Pure text to video, no on-screen text, no logos, no subtitles at any point.\n\nWORLD: A monsoon evening in a dense South Asian city. Narrow wet street between old pastel colonial buildings with iron balconies, hanging shop signs blurred and unreadable, rickshaws parked, tangled overhead wires, steam rising from a tea stall. Light rain falls steadily. Sodium orange streetlamps and cyan neon spill reflections across ankle-deep puddles. Color grade: teal shadows, warm amber highlights, wet glossy surfaces.\n\nCHARACTERS:\nNIRA, the speedster. Mid 20s South Asian woman, athletic, long black hair tied in a high braid, sleek charcoal grey running suit with thin copper seams, bare forearms, calm fierce eyes. When she moves at speed she leaves a crackling copper-crimson energy trail with small electric sparks, never gold.\nTHE ASHEN MONK, the rival. Tall lean man in layered ash-grey wrap robes, deep hood, cloth mask covering nose and mouth, leather wrist bindings, barefoot. Moves with martial calm. He can phase into a burst of grey smoke and reappear a few meters away.\n\nSHOT LIST:\n0 to 2s. Wide low angle down the rainy street. Pedestrians with umbrellas in the background. The Ashen Monk stands still in the middle of the road, rain bouncing off his hood. Far behind him a copper streak ignites at the end of the street.\n2 to 4s. Time slows. Every raindrop freezes in midair like suspended glass beads. Nira runs through them in real speed, her body shattering the frozen drops into glittering spray, copper trail crackling behind her. Camera tracks beside her at shoulder height.\n4 to 6s. Impact. Nira tackles the Monk at full speed. Both bodies fly sideways and slam into the hood of a parked white car, the metal crumples, windshield cracks into a spiderweb, water sheets off the roof in a wave.\n6 to 8s. Tight close up, handheld shake. The Monk grabs her braid and twists. Nira's face strains, sparks jump from her skin. He bursts into grey smoke in her hands and she falls through empty air onto wet asphalt.\n8 to 10s. Over the shoulder of the Monk as he reforms beside a crumbling plaster wall, smoke curling off his robes, eyes narrowing above the mask. Behind him puddles ripple outward as something approaches too fast to see.\n10 to 13s. Nira circles him at super speed, a ring of copper light spinning around the Monk, the rain inside the ring spiraling upward into a vortex. Rickshaw canopies flap, shop shutters rattle, a tea glass tips off the stall and hangs frozen midair.\n13 to 15s. The Monk throws a sharp palm strike into the ring. It connects. Nira is knocked out of speed, skidding on one knee across the flooded road, a wake of water spraying behind her, copper sparks hissing in the puddle.\n15 to 17s. Low angle on Nira rising, rain streaming down her face, she exhales, lowers into a sprinter crouch. The asphalt under her fingertips glows hot and steams.\n17 to 19s. She launches. One continuous blur of copper light straight at the Monk. He tries to phase but too late. She drives him backward into the plaster wall. Massive impact, the wall cracks outward in a radial web, brick dust and rainwater explode together in a dense cloud, a balcony above shakes and drips.\n19 to 20s. LAST FRAME. Locked wide shot. Dust settling in the rain. A Monk shaped crater in the wall, empty, wisps of grey smoke drifting out of it. Nira stands in front of the crater breathing hard, copper sparks fading off her hands, back to camera, staring left down the street where a faint smoke trail disappears. Hold still. No text, no title card, no letters, no signage legible anywhere in frame.\n\nAUDIO, diegetic only, no music, no narration:\nSteady rain hiss on tin awnings and puddles, distant rickshaw bells, a tea kettle whistle. Sharp electric crackle and whoosh whenever Nira moves at speed. Near silence with single tinkling drops during the frozen rain moment. Metal crunch and glass crack on the car impact. Soft smoke whump when the Monk phases. Low rising whirlwind roar inside the speed ring. Heavy concrete crack and rumble of the wall impact, then debris trickle, rain returning, Nira's heavy breathing.\n\nSTYLE NOTES: Realistic physics for water, debris and cloth. Speed effect only on Nira, everything else stays sharp. Consistent faces and costumes in every shot. No extra superheroes, no flying, no weapons, no blood.",
+  "originalPromptSha256": "489b9b1c97d2e08c9a868d5401dea16911413e97052a806a7c923fb3e16a77cf",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Monsoon velocity",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2113619536629129217",
+    "url": "https://video-s.twimg.com/amplify_video/2113619536629129217/vid/avc1/1920x1080/aJHkDS8K9ULQNte8.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2113619536629129217/vid/avc1/1920x1080/aJHkDS8K9ULQNte8.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2113620686346523093",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113619536629129217/img/ERXlEOPtpqjVypKG.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T13:16:55Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

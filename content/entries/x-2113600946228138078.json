@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113600946228138078",
+  "slug": "a-flying-roadster-delivers-one-coffee",
+  "title": {
+    "en": "A flying roadster delivers one coffee",
+    "zh": "飞行跑车只送一杯咖啡"
+  },
+  "description": {
+    "en": "A flying roadster delivers one coffee — original prompt by @AIwithSynthia.",
+    "zh": "飞行跑车只送一杯咖啡，来自 @AIwithSynthia 的原始提示词。"
+  },
+  "author": {
+    "handle": "AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/AIwithSynthia/status/2113600946228138078",
+    "sourceTextOriginal": "Kling 4.0 on @itsPolloAI  is pushing AI filmmaking to new heights. 🎬 The motion feels smoother, visuals look sharper, and realism is getting wild.\n\nPrompt :\n\n**SHOT 1 (0–6 seconds)**\n\nA busy afternoon on a real Manhattan street. Yellow taxis are stuck bumper-to-bumper, delivery bikes weave through traffic, and pedestrians cross at the intersection. Inside a red Tesla Roadster, a young female delivery driver holds a Starbucks coffee securely in the cup holder. Her phone reads, “Customer waiting.”\n\nShe glances at the traffic, then at the clock, looking genuinely frustrated.\n\n**Girl:** “Come on, come on… it's literally just one coffee!”\n\nThe camera feels like someone sitting in the passenger seat, casually recording her.\n\n**Audio:** Real traffic, horns, turn signals, phone navigation, muffled city noise.\n\n**SHOT 2 (6–12 seconds)**\n\nShe looks through the windshield. Traffic hasn't moved. She sighs, notices a small unfamiliar button on the dashboard marked “FLIGHT,” and stares at it for a second.\n\n**Girl:** “You're kidding me.”\n\nShe presses it.\n\nA low mechanical hum starts. The car vibrates slightly. A few pedestrians turn as the vehicle slowly rises above the road, kicking up dust, loose receipts, and water from the pavement.\n\nA man standing beside a yellow taxi looks up.\n\n**Man:** “Yo! Is that car flying?!”\n\nSomeone nearby immediately starts filming on their phone.\n\n**SHOT 3 (12–19 seconds)**\n\nA handheld street-level shot captures the Tesla moving above the traffic, not too fast. The car passes between Manhattan buildings, tilting slightly as it adjusts its balance. The camera operator struggles to keep it in frame.\n\nCut to a distant view of the car passing near the Empire State Building, then returning toward the street.\n\nInside the Tesla, the girl keeps one hand on the steering wheel and checks that the coffee hasn't spilled.\n\n**Girl:** “Okay… this is actually working.”\n\nHer phone navigation speaks casually.\n\n**Phone voice:** “You have arrived at your destination.”\n\nShe looks down at the street below.\n\n**Girl:** “I'M STILL SIX BLOCKS AWAY!”\n\n**SHOT 4 (19–25 seconds)**\n\nThe Tesla descends toward a Manhattan apartment building. A customer leans out of an open window on a lower floor, looking confused. The car hovers just outside, maintaining a little distance from the building.\n\nThe driver lowers her window and holds out the Starbucks cup.\n\n**Girl:** “Caramel latte for Jake?”\n\n**Customer:** “You flew here for my coffee?”\n\n**Girl:** “Parking was impossible.”\n\nHe takes the cup, examines it, and gives a small nod.\n\n**Customer:** “Respect.”\n\n**SHOT 5 (25–30 seconds)**\n\nThe girl gives a quick thumbs-up, rolls up the window, and the Tesla drops gently toward the street before accelerating away.\n\nThe customer takes a sip while watching the car disappear.\n\nA passerby beside him calls out:\n\n**Passerby:** “Hey! Can you order me one too?”\n\nThe customer looks at his coffee.\n\n**Customer:** “Bro, I'm not sharing.”\n\nCut abruptly to black.\n\n**Sound:** Natural city ambience throughout, with modest electric motor noise, real reactions, and no overpowering soundtrack.\n\n**REALISM RULES:** Use ordinary New York street lighting and natural colors. Keep the actors' reactions understated and spontaneous. Avoid glowing blue trails, giant explosions, dramatic slow motion, perfect camera tracking, futuristic holograms, exaggerated facial expressions, and glossy CGI. The flying feature is fictional, but the footage should resemble real-world video with practical-looking effects. Maintain consistent vehicle design, realistic reflections, believable movement, and natural dialogue timing. No narrator, no robotic voices, no artificial-looking crowds."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/AIwithSynthia/status/2113600946228138078",
+  "videoSourceUrl": "https://x.com/AIwithSynthia/status/2113600946228138078",
+  "conversationId": "2113600946228138078",
+  "originalLanguage": "en",
+  "originalPrompt": "**SHOT 1 (0–6 seconds)**\n\nA busy afternoon on a real Manhattan street. Yellow taxis are stuck bumper-to-bumper, delivery bikes weave through traffic, and pedestrians cross at the intersection. Inside a red Tesla Roadster, a young female delivery driver holds a Starbucks coffee securely in the cup holder. Her phone reads, “Customer waiting.”\n\nShe glances at the traffic, then at the clock, looking genuinely frustrated.\n\n**Girl:** “Come on, come on… it's literally just one coffee!”\n\nThe camera feels like someone sitting in the passenger seat, casually recording her.\n\n**Audio:** Real traffic, horns, turn signals, phone navigation, muffled city noise.\n\n**SHOT 2 (6–12 seconds)**\n\nShe looks through the windshield. Traffic hasn't moved. She sighs, notices a small unfamiliar button on the dashboard marked “FLIGHT,” and stares at it for a second.\n\n**Girl:** “You're kidding me.”\n\nShe presses it.\n\nA low mechanical hum starts. The car vibrates slightly. A few pedestrians turn as the vehicle slowly rises above the road, kicking up dust, loose receipts, and water from the pavement.\n\nA man standing beside a yellow taxi looks up.\n\n**Man:** “Yo! Is that car flying?!”\n\nSomeone nearby immediately starts filming on their phone.\n\n**SHOT 3 (12–19 seconds)**\n\nA handheld street-level shot captures the Tesla moving above the traffic, not too fast. The car passes between Manhattan buildings, tilting slightly as it adjusts its balance. The camera operator struggles to keep it in frame.\n\nCut to a distant view of the car passing near the Empire State Building, then returning toward the street.\n\nInside the Tesla, the girl keeps one hand on the steering wheel and checks that the coffee hasn't spilled.\n\n**Girl:** “Okay… this is actually working.”\n\nHer phone navigation speaks casually.\n\n**Phone voice:** “You have arrived at your destination.”\n\nShe looks down at the street below.\n\n**Girl:** “I'M STILL SIX BLOCKS AWAY!”\n\n**SHOT 4 (19–25 seconds)**\n\nThe Tesla descends toward a Manhattan apartment building. A customer leans out of an open window on a lower floor, looking confused. The car hovers just outside, maintaining a little distance from the building.\n\nThe driver lowers her window and holds out the Starbucks cup.\n\n**Girl:** “Caramel latte for Jake?”\n\n**Customer:** “You flew here for my coffee?”\n\n**Girl:** “Parking was impossible.”\n\nHe takes the cup, examines it, and gives a small nod.\n\n**Customer:** “Respect.”\n\n**SHOT 5 (25–30 seconds)**\n\nThe girl gives a quick thumbs-up, rolls up the window, and the Tesla drops gently toward the street before accelerating away.\n\nThe customer takes a sip while watching the car disappear.\n\nA passerby beside him calls out:\n\n**Passerby:** “Hey! Can you order me one too?”\n\nThe customer looks at his coffee.\n\n**Customer:** “Bro, I'm not sharing.”\n\nCut abruptly to black.\n\n**Sound:** Natural city ambience throughout, with modest electric motor noise, real reactions, and no overpowering soundtrack.\n\n**REALISM RULES:** Use ordinary New York street lighting and natural colors. Keep the actors' reactions understated and spontaneous. Avoid glowing blue trails, giant explosions, dramatic slow motion, perfect camera tracking, futuristic holograms, exaggerated facial expressions, and glossy CGI. The flying feature is fictional, but the footage should resemble real-world video with practical-looking effects. Maintain consistent vehicle design, realistic reflections, believable movement, and natural dialogue timing. No narrator, no robotic voices, no artificial-looking crowds.",
+  "originalPromptSha256": "229dc8b5ce8fccecb811e82f1274607ed801936bc7bf7731383e55d7f28fa2d1",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "A flying roadster delivers one coffee",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2113600898056474624",
+    "url": "https://video-s.twimg.com/amplify_video/2113600898056474624/vid/avc1/1280x720/13nOC4GcJAKej57r.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2113600898056474624/vid/avc1/1280x720/13nOC4GcJAKej57r.mp4?tag=29",
+    "sourceUrl": "https://x.com/AIwithSynthia/status/2113600946228138078",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113600898056474624/img/ZC4wc9m_FGRZ2J60.jpg",
+    "durationSecondsReported": 30.08,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T11:58:29Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

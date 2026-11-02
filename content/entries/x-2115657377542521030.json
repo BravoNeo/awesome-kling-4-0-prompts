@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115657377542521030",
+  "slug": "a-christmas-dress-code-mix-up",
+  "title": {
+    "en": "A Christmas dress-code mix-up",
+    "zh": "圣诞派对着装大乌龙"
+  },
+  "description": {
+    "en": "A Christmas dress-code mix-up — original prompt by @bmx_ai13.",
+    "zh": "圣诞派对着装大乌龙，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2115657376309354759",
+    "sourceTextOriginal": "DRESS CODE 🎄 He told me dress fun. He told his mom costume party. He told his dad black tie. Then he showed up in a tux 💀🦖🦞\n\nMade with Kling 4.0 via @Kling_ai \nPrompt 👇 https://t.co/9yWFZUfHCC"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2115657377542521030",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2115657376309354759",
+  "conversationId": "2115657376309354759",
+  "originalLanguage": "en",
+  "originalPrompt": "SCENE CONTEXT\n30 second widescreen 1990s Christmas romcom comedy. Christmas Eve daytime, a cream and gold mansion foyer. A gorgeous woman in an inflatable dinosaur costume opens the door for her boyfriend and finds his gorgeous parents in equally absurd costumes. The boyfriend arrives last in a tuxedo. He gave everyone a different dress code.\n\nACTIVE REFERENCES\nCLAIRE: mid 20s, strikingly beautiful supermodel face, glossy brunette blowout, glam makeup with red lips, wearing a full body green inflatable T-rex costume with tiny arms and a Santa hat on the dinosaur head, her face visible through the open neck. Bright voice.\nMARGARET: 50s, stunning 90s supermodel glamour, sculpted cheekbones, voluminous blonde blowout, wearing a full body green Christmas tree costume covered in blinking multicolor bulbs and baubles, a gold star on her head. Silky voice.\nHAROLD: 50s, chiseled silver fox, sharp jaw, styled silver hair, wearing a full body red lobster costume with giant padded claws and a black satin bow tie at the neck. Deep dry voice.\nJAKE: late 20s, handsome, swept back blond 90s hair, sharp black tuxedo, holding red roses. Cheerful voice.\n\nLOCATION MAP\nForeground: marble floor.\nMidground: tall white double doors with a wreath, garland pillars with warm fairy lights, poinsettias, lit candles.\nBackground through the doors: snowy courtyard, snow falling at 3 km/h.\n\nFORMAT MODE\nTimed multishot, cuts only at the specified points, the camera does not cut on its own.\n\nOPTICS\nEach segment holds its stated FOV, no drift mid-segment. Soft vintage prime look, creamy fairy light bokeh.\n\nCAMERA\nEye level operator inside the foyer facing the doors, locked off comic framing, quick reaction cuts.\n\nACTION\n0.0s to 3.0s, WS 63 degrees: Claire waddles toward the doors in the swaying T-rex costume, practicing a roar with her tiny arms up. Doorbell chimes.\n3.0s HARD CUT\n\n3.0s to 5.0s, MS 47 degrees from behind Claire: she flings the doors open and shouts \"RAWR! Merry Christmas, baby!\"\n5.0s HARD CUT\n\n5.0s to 8.0s, WS 47 degrees reverse: Margaret the Christmas tree and Harold the lobster stand side by side on the snowy step, perfectly calm, bulbs blinking.\n8.0s HARD CUT\n\n8.0s to 10.0s, CU 29 degrees: Claire's smile freezes, her tiny T-rex arms stuck mid wave.\n10.0s HARD CUT\n\n10.0s to 13.0s, MCU 29 degrees: Margaret smiles elegantly, says \"You must be Claire.\" Claire off screen: \"And you must be a tree.\"\n13.0s HARD CUT\n\n13.0s to 16.0s, MS 47 degrees: Harold extends a giant lobster claw for a handshake. Claire strains her tiny T-rex arms forward. They fall short by a hand's width. Both keep straining in silence.\n16.0s HARD CUT\n\n16.0s to 19.0s, MCU 29 degrees: Harold taps his bow tie with his claw, says \"Jake said black tie.\" Margaret: \"He told me costume party.\" Claire: \"He told me dress fun.\"\n19.0s HARD CUT\n\n19.0s to 22.0s, WS 63 degrees: Jake steps up behind his parents in the sharp tuxedo with roses, stops dead, says \"Why is everyone dressed like that? I said formal dinner.\"\n22.0s HARD CUT\n\n22.0s to 25.0s, MS 47 degrees from behind Jake: the dinosaur, the tree and the lobster turn their heads toward him in perfect unison. All of Margaret's bulbs switch to solid red.\n25.0s HARD CUT\n\n25.0s to 27.0s, CU 29 degrees: Claire stares at Jake, says flatly \"Rawr.\" Her costume slowly deflates with a long wheeze around her.\n27.0s HARD CUT\n\n27.0s to 30.0s, WS 63 degrees: Harold pinches Jake's ear with his lobster claw and drags him inside past Claire. Jake yelps \"Ow ow ow!\" Margaret follows, bulbs blinking happily again.\n\nPERFORMANCE\nComedy through total seriousness: the parents treat their costumes as completely normal. Glamorous faces stay perfectly composed while the costumes are ridiculous. Claire's eyes widen in small steps, lips pressed together. Real skin texture, wet catch lights.\n\nPHYSICS\nInflatable costume sways and bounces with each step and sags softly when deflating. Lobster claws are heavy and padded. Snowflakes land and melt on hair and costumes.\n\nLIGHTING\nWarm 3200K tungsten interior from lamps, candles and fairy lights. Cool 5600K snow daylight through the doors as rim light. Margaret's costume bulbs cast colored light on nearby faces.\n\nAUDIO\nDiegetic only: doorbell chime, costume fan motor hum, plastic squeak, wind and snow hiss at the open door, bulbs clicking, deflating wheeze, spoken dialogue. No music.\n\nSTYLE\nPhotoreal 1990s holiday romcom on 35mm film, fine grain, soft halation.\n\nOUTPUT SETTINGS\n16:9 widescreen, real time, 24fps.\n\nPOSITIVE LOCKS\nSame four people, same costumes and same foyer in every cut. Faces stay beautiful and fully visible. Clean frames with no on-screen text, no subtitles, no captions, no logos, no watermarks.",
+  "originalPromptSha256": "9f58c03956c012f0aabc21b1348e38e7d360123777d531ba1feaa67aefe12ea2",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Christmas dress-code mix-up",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115542571221164032",
+    "url": "https://video-s.twimg.com/amplify_video/2115542571221164032/vid/avc1/1920x1080/FTDCZI-gXKuQb10E.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115542571221164032/vid/avc1/1920x1080/FTDCZI-gXKuQb10E.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2115657376309354759",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115542571221164032/img/0PvJL9VEKWm4dLLh.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T04:10:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

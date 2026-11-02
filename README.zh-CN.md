@@ -10,7 +10,7 @@
 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="数据校验" /></a>
 <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="欢迎投稿" /></a>
 
-精选 100 条 Kling 4.0 视频提示词，保留完整原文、创作者视频及已提供的输入参考素材，涵盖电影感场景、动作、动画、UGC 和产品广告。
+精选 200 条 Kling 4.0 视频提示词，保留完整原文、创作者视频及已提供的输入参考素材，涵盖电影感场景、动作、动画、UGC 和产品广告。
 
 由 <a href="https://reeldance.ai/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-kling-4-0" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a> 整理。
 
@@ -48,10 +48,10 @@
 
 | 项目 | 数量 |
 | --- | --- |
-| 提示词 | 100 |
-| 创作者 | 34 |
+| 提示词 | 200 |
+| 创作者 | 77 |
 | 精选案例 | 4 |
-| README 更新日期 | 2026-10-22 |
+| README 更新日期 | 2026-11-03 |
 
 <a id="featured-videos"></a>
 ## 精选视频
@@ -76,14 +76,14 @@
 | 用途 | 案例 |
 | --- | --- |
 | 旅行与广告 | [韩国旅行时尚广告](#korea-fashion-travel-film) |
-| 喜剧 | [送披萨的猫](#pizza-delivery-cat) · [相扑双人花滑](#sumo-pair-figure-skating) · [小蛇咖啡时间](#snake-coffee-break) · [章鱼调酒师](#octopus-bartender) |
-| 角色动画 | [粉发小女巫与魔法火苗](#pink-haired-fire-witch) · [图书馆狐狸与猫头鹰](#fox-owl-library) · [露天体育场演唱会](#live-stadium-concert) · [跟随音乐参考起舞](#dancing-to-a-music-reference) · [电影感舞台走秀](#cinematic-pageant-walk) · [二维火车动画](#2d-train-animation) · [三维狐狸打喷嚏](#3d-fox-sneeze) |
-| 动作 | [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [夜市间谍追逐](#night-market-spy-chase) · [Astra天空战斗](#astra-sky-battle) · [绯红余焰连续动作](#crimson-afterburn-two-scene-action) · [地铁搏斗](#subway-fight) · [螺旋楼梯决斗](#spiral-staircase-duel) · [霓虹夜市跑酷](#neon-market-parkour) · [第一人称战术射击](#first-person-tactical-shooter) · [代码刺客跳跃](#cyber-assassin-code-jump) · [无名之刃预告片](#the-nameless-edge-trailer) · [浪客武士预告片](#vagabond-samurai-trailer) · [七镜头滑雪短片](#seven-shot-ski-film) · [连续跟拍滑板](#continuous-skateboard-tracking) · [仓库特技格斗](#warehouse-stunt-fight) · [都市屋顶跑酷](#urban-rooftop-parkour) · [仓库搏斗](#warehouse-fight) · [西部酒馆拳斗](#western-saloon-fistfight) · [女怪盗与笨拙警官](#phantom-thief-and-the-clumsy-officer) · [一战空中追逐](#world-war-i-aerial-pursuit) · [雷帝觉醒](#thunder-emperor-awakens) · [拳击动作](#boxer-action) · [骑士守卫堡垒](#knight-defending-the-fortress) · [双人动漫跑酷](#two-character-anime-parkour) · [沙漠战士激战](#desert-warrior-combat) · [沙漠飞车追逐](#flying-car-desert-pursuit) · [斑的战场动作](#madara-battlefield-sequence) |
-| 叙事短片 | [末班渡轮爱情片段](#last-ferry-love-scene) · [催眠地下神殿](#hypnotic-underground-temple) · [活体外星交通枢纽](#living-alien-transit-terminal) · [黑木森林奔跑](#blackwood-forest-run) · [林间小屋惊悚](#cabin-horror-sequence) · [日落屋顶踢踏舞](#sunset-rooftop-tap-dance) · [女巫与幽灵法老](#sorceress-and-ghostly-pharaohs) · [魔法森林精灵](#enchanted-forest-fairies) · [露西离开餐馆](#lucy-leaves-the-diner) · [绿松石泻湖中的外星巨兽](#alien-giants-in-a-turquoise-lagoon) · [机械丛林捕食者](#mechanical-jungle-predator) · [日出时分的外星聚落](#alien-settlement-at-sunrise) · [雨夜恐怖分镜](#rainy-horror-storyboard) · [潜艇怪物遭遇](#submarine-creature-encounter) · [发光海底城市](#glowing-underwater-city) · [兄弟会住宅情感片段](#fraternity-house-emotional-scene) · [玛戈与莱奥](#margot-and-leo) · [悬浮小提琴旋律](#the-floating-violin-melody) · [镜中世界电影旅程](#mirror-world-cinematic-journey) · [深夜厨房坦白](#late-night-kitchen-confession) · [日式浪漫告别](#japanese-romantic-goodbye) · [超自然惊悚预告片](#3-2-1-supernatural-thriller-trailer) · [公园长椅基础片段](#park-bench-base-clip) · [酒馆犯罪对话](#cantina-crime-drama) · [苍白火焰之墓](#the-tomb-of-pale-flame) · [动漫街头偶遇](#anime-street-encounter) · [沙漠集市飞船](#desert-market-starship) · [维多利亚港口幽灵](#victorian-harbor-ghost) · [手持玫瑰等待](#waiting-with-a-rose) · [地下室悬疑](#basement-suspense) · [超现实屋顶](#surreal-rooftop) · [实验室中的机器人苏醒](#android-laboratory-awakening) · [少女与龙的料理](#girl-and-dragon-cooking) · [托尔斯坦：破门者](#torstein-the-gatebreaker) · [咖啡馆对话](#cafe-conversation) · [陶艺多镜头](#pottery-multi-shot) · [未来访谈节目](#futuristic-talk-show) · [动漫面条场景](#anime-noodle-scene) |
-| UGC 与日常视频 | [街头步行视频](#walking-street-vlog) · [虎斑猫街头博主](#tabby-cat-street-vlogger) · [早午餐自拍视频](#brunch-selfie) · [机场日常视频](#airport-vlog) · [停车场车内独白](#parked-car-confession) · [海边日常视频](#beach-vlog) |
-| 视频编辑 | [小狗变恐龙编辑](#dog-to-dinosaur-edit) · [秋季场景编辑](#autumn-season-edit) · [狐狸、秋景与衬衫编辑](#fox-autumn-and-flannel-edit) · [增加第三位朋友](#add-a-third-friend) |
-| 产品广告 | [桦树气泡水广告](#sparkling-birch-water-ad) · [森林汽车广告](#forest-automotive-commercial) · [Maison Doré 法式吐司广告](#maison-dor-french-toast-commercial) · [凝露产品特写](#condensation-product-shot) · [产品固定与背景甩镜](#background-only-product-whip-pan) · [手持产品转场](#hand-carried-product-transition) · [从冰箱到派对](#from-the-fridge-to-the-party) |
-| 风景与 FPV | [FPV 追随金雕](#fpv-eagle-chase) · [水墨卷轴流出瀑布](#waterfall-from-an-ink-scroll) · [悬崖与海浪](#cliff-and-waves) · [仓库 FPV 穿越](#warehouse-fpv) · [海堤风暴巨浪](#storm-surge-against-a-seawall) · [龙门吊集装箱跟拍](#gantry-crane-container-tracking) · [单滴水微距物理](#single-droplet-macro-physics) |
+| 喜剧 | [送披萨的猫](#pizza-delivery-cat) · [相扑双人花滑](#sumo-pair-figure-skating) · [猫咪的连续午夜冒险](#a-cats-continuous-midnight-adventure) · [意外的米其林天才](#accidental-michelin) · [小蛇咖啡时间](#snake-coffee-break) · [章鱼调酒师](#octopus-bartender) · [扫地机器人上的小猫：双视角](#a-cat-on-a-robot-vacuum-two-camera-views) · [飞行跑车只送一杯咖啡](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [猫咪骑上扫地机器人](#cat-rides-the-robot-vacuum) · [慷慨贵族与宣传账单](#a-generous-nobleman-and-the-publicity-bill) · [仓鼠摇滚明星分镜短片](#hamster-rock-star-storyboard) · [圣诞派对着装大乌龙](#a-christmas-dress-code-mix-up) · [万圣节飞天扫帚喜剧](#a-broomstick-comedy-on-halloween) · [电梯地板错觉](#the-elevator-floor-illusion) · [Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [王子与森林女巫的铃铛](#the-prince-and-baba-cloantas-bell) |
+| 角色动画 | [粉发小女巫与魔法火苗](#pink-haired-fire-witch) · [图书馆狐狸与猫头鹰](#fox-owl-library) · [罗宾完成升级](#robin-completes-an-update) · [绝对不要按：三维动态文字](#do-not-press-the-button-3d-kinetic-typography) · [露天体育场演唱会](#live-stadium-concert) · [跟随音乐参考起舞](#dancing-to-a-music-reference) · [电影感舞台走秀](#cinematic-pageant-walk) · [二维火车动画](#2d-train-animation) · [三维狐狸打喷嚏](#3d-fox-sneeze) · [Kling 4.0 与 Kling 3.0：小牛与蝴蝶](#kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly) · [Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市](#kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city) · [充满爱意的生日蛋糕](#a-birthday-cake-made-with-love) · [Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林](#kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest) · [三位调皮女巫](#three-mischievous-witches) · [南瓜小怪物的不给糖就捣蛋之旅](#a-pumpkin-monster-goes-trick-or-treating) · [Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人](#kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo) · [黏土小幽灵学会吓人](#a-clay-ghost-learns-to-say-boo) · [Kling 与 Seedance 版本对比：雨夜屋顶芭蕾](#kling-and-seedance-versions-rainy-rooftop-ballet) · [方块怪物讨糖果](#voxel-monsters-go-trick-or-treating) · [Kling 4.0 五种动画风格短片中的绘画风开门](#painted-door-opening-in-a-five-style-kling-4-0-film) |
+| 动作 | [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [夜市间谍追逐](#night-market-spy-chase) · [多镜头汽车漂移](#multi-shot-car-drifting) · [Astra天空战斗](#astra-sky-battle) · [绯红余焰连续动作](#crimson-afterburn-two-scene-action) · [地铁搏斗](#subway-fight) · [螺旋楼梯决斗](#spiral-staircase-duel) · [霓虹夜市跑酷](#neon-market-parkour) · [第一人称战术射击](#first-person-tactical-shooter) · [PUBG 风格第一人称交火、搜刮与治疗](#pubg-style-first-person-firefight-looting-and-healing) · [Kling 4.0 与 Seedance 2.5：矮人森林格斗](#kling-4-0-vs-seedance-2-5-dwarven-forest-fight) · [港口战术射击竞技游戏](#competitive-harbor-tactical-shooter) · [双车追逐](#a-two-car-chase) · [代码刺客跳跃](#cyber-assassin-code-jump) · [无名之刃预告片](#the-nameless-edge-trailer) · [突发爆炸冲散军阵](#army-scattered-by-a-sudden-blast) · [巨狮奔赴战场](#giant-lion-charges-toward-battle) · [浪客武士预告片](#vagabond-samurai-trailer) · [七镜头滑雪短片](#seven-shot-ski-film) · [连续跟拍滑板](#continuous-skateboard-tracking) · [仓库特技格斗](#warehouse-stunt-fight) · [都市屋顶跑酷](#urban-rooftop-parkour) · [神明投掷山间巨石](#a-god-hurls-a-mountain-boulder) · [仓库搏斗](#warehouse-fight) · [西部酒馆拳斗](#western-saloon-fistfight) · [女怪盗与笨拙警官](#phantom-thief-and-the-clumsy-officer) · [一战空中追逐](#world-war-i-aerial-pursuit) · [雷帝觉醒](#thunder-emperor-awakens) · [拳击动作](#boxer-action) · [穿越公寓三处空间的格斗](#a-fight-through-three-apartment-spaces) · [骑士守卫堡垒](#knight-defending-the-fortress) · [双人动漫跑酷](#two-character-anime-parkour) · [沙漠战士激战](#desert-warrior-combat) · [沙漠飞车追逐](#flying-car-desert-pursuit) · [斑的战场动作](#madara-battlefield-sequence) · [黑色电影警车拦截](#film-noir-police-interception) · [Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车](#kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding) · [季风极速战](#monsoon-velocity) · [卷帘门落下前的最后一单](#last-delivery-before-the-shutter) · [城市巨兽的手持摄影记录](#camcorder-footage-of-a-city-monster) · [双日之下的首次接触伏击](#first-contact-ambush-beneath-twin-suns) · [屋顶雷电与烈焰对决](#lightning-and-fire-rooftop-duel) · [外星巨环下的战场](#battle-beneath-an-alien-ring) · [简的废土跑酷](#janes-wasteland-freerunning) · [Kling 4.0 与 Seedance 2.5：风暴中的维京长船](#kling-4-0-vs-seedance-2-5-the-longship-in-the-storm) · [幽灵马与南瓜车过山车](#ghost-horses-and-the-pumpkin-carriage-roller-coaster) · [雨林中的美洲豹追逐](#jaguar-chase-through-the-rainforest) · [地下拳馆的最后一回合](#final-round-in-an-underground-boxing-club) · [连续屋顶跑酷](#a-continuous-rooftop-parkour-run) · [Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺](#kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint) · [水系战士浴室激战](#water-powered-bathroom-battle) · [霓虹太空港异星射击](#alien-shooter-at-a-neon-spaceport) |
+| 叙事短片 | [末班渡轮爱情片段](#last-ferry-love-scene) · [催眠地下神殿](#hypnotic-underground-temple) · [活体外星交通枢纽](#living-alien-transit-terminal) · [黑木森林奔跑](#blackwood-forest-run) · [林间小屋惊悚](#cabin-horror-sequence) · [日落屋顶踢踏舞](#sunset-rooftop-tap-dance) · [女巫与幽灵法老](#sorceress-and-ghostly-pharaohs) · [魔法森林精灵](#enchanted-forest-fairies) · [露西离开餐馆](#lucy-leaves-the-diner) · [咖啡馆里的面包店闲谈](#cafe-conversation-about-a-bakery) · [冬夜河畔的告别](#a-winter-riverside-farewell) · [绿松石泻湖中的外星巨兽](#alien-giants-in-a-turquoise-lagoon) · [机械丛林捕食者](#mechanical-jungle-predator) · [日出时分的外星聚落](#alien-settlement-at-sunrise) · [雨夜恐怖分镜](#rainy-horror-storyboard) · [潜艇怪物遭遇](#submarine-creature-encounter) · [发光海底城市](#glowing-underwater-city) · [兄弟会住宅情感片段](#fraternity-house-emotional-scene) · [炼金术士召唤火焰精灵](#alchemist-summons-a-tiny-fire-spirit) · [玛戈与莱奥](#margot-and-leo) · [悬浮小提琴旋律](#the-floating-violin-melody) · [镜中世界电影旅程](#mirror-world-cinematic-journey) · [深夜厨房坦白](#late-night-kitchen-confession) · [日式浪漫告别](#japanese-romantic-goodbye) · [超自然惊悚预告片](#3-2-1-supernatural-thriller-trailer) · [公园长椅基础片段](#park-bench-base-clip) · [酒馆犯罪对话](#cantina-crime-drama) · [苍白火焰之墓](#the-tomb-of-pale-flame) · [动漫街头偶遇](#anime-street-encounter) · [沙漠集市飞船](#desert-market-starship) · [维多利亚港口幽灵](#victorian-harbor-ghost) · [手持玫瑰等待](#waiting-with-a-rose) · [地下室悬疑](#basement-suspense) · [超现实屋顶](#surreal-rooftop) · [实验室中的机器人苏醒](#android-laboratory-awakening) · [少女与龙的料理](#girl-and-dragon-cooking) · [托尔斯坦：破门者](#torstein-the-gatebreaker) · [咖啡馆对话](#cafe-conversation) · [陶艺多镜头](#pottery-multi-shot) · [未来访谈节目](#futuristic-talk-show) · [动漫面条场景](#anime-noodle-scene) · [Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣](#kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound) · [Kling 4.0 与 Seedance 2.5：船具店打烊](#kling-4-0-vs-seedance-2-5-closing-the-chandlery) · [静止人物与疾行城市](#a-still-figure-in-a-rushing-city) · [四模型人物台词对比中的 Kling 4.0](#kling-4-0-in-a-four-model-spoken-line-comparison) · [四模型酒吧欢笑对比中的 Kling 4.0](#kling-4-0-in-a-four-model-laughing-group-comparison) · [四模型扑克筹码动作对比中的 Kling 4.0](#kling-4-0-in-a-four-model-poker-chip-comparison) · [粉色衣领的快速变焦](#snap-zoom-into-a-pink-collar) · [哥特钟楼上空的蝙蝠群](#bat-swarm-over-a-gothic-belfry) · [Kling 4.0 与 Hailuo H3：夜空中的第一颗星](#kling-4-0-vs-hailuo-h3-the-evenings-first-star) · [迷你云朵生物](#the-tiny-cloud-creature) · [月夜森林中的滑板少女](#skateboarder-in-the-moonlit-forest) · [带电星云中的探索飞船](#exploration-ship-in-a-charged-storm) · [铠甲猎人的汉堡晚餐](#an-armored-hunter-cooks-dinner) · [黑夜中的星光火花](#a-spark-across-the-dark) · [Kling 4.0 与 2.6：水下侧脸对比](#kling-4-0-vs-2-6-underwater-profile) · [Kling 4.0 Omni 与 1.6：走向海景阳光房对比](#kling-4-0-omni-vs-1-6-hallway-to-sun-porch) · [Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比](#kling-4-0-omni-vs-3-0-omni-corridor-glance) · [探索者与六足巨兽群](#explorers-beside-a-six-legged-herd) · [月球逼近海滨城市：英文提示词](#coastal-moonfall-english-prompt) · [外星市场漫游](#alien-marketplace-walk) · [骑士与闹鬼古堡](#the-knight-and-the-haunted-castle) · [迷雾森林追逐](#foggy-forest-pursuit) · [女孩的万圣节秘密](#a-girl-reveals-her-halloween-secret) · [Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇](#kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon) · [Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt) |
+| UGC 与日常视频 | [街头步行视频](#walking-street-vlog) · [虎斑猫街头博主](#tabby-cat-street-vlogger) · [一起散步的夏日午后](#a-quiet-summer-walk-together) · [早午餐自拍视频](#brunch-selfie) · [机场日常视频](#airport-vlog) · [停车场车内独白](#parked-car-confession) · [海边日常视频](#beach-vlog) · [2010 年精品店手机直播](#2010-boutique-mobile-livestream) · [城市夜游自拍](#a-night-city-selfie-walk) · [Kling 4.0 与 Seedance 2.5：秋日穿搭](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 与 Seedance 2.5：核心训练日记](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [万圣节服装健身日记](#halloween-costume-gym-vlog) · [金色时分的皮卡穿搭短片](#golden-hour-pickup-truck-lookbook) · [西西里小巷里的柠檬漫步](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 与 Seedance 2.5：哑铃健身日记](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 与 Veo 3.1：西装试穿与转身](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) |
+| 视频编辑 | [小狗变恐龙编辑](#dog-to-dinosaur-edit) · [秋季场景编辑](#autumn-season-edit) · [狐狸、秋景与衬衫编辑](#fox-autumn-and-flannel-edit) · [增加第三位朋友](#add-a-third-friend) · [代码提示词视觉实验](#a-code-prompt-visual-experiment) |
+| 产品广告 | [桦树气泡水广告](#sparkling-birch-water-ad) · [森林汽车广告](#forest-automotive-commercial) · [Maison Doré 法式吐司广告](#maison-dor-french-toast-commercial) · [凝露产品特写](#condensation-product-shot) · [产品固定与背景甩镜](#background-only-product-whip-pan) · [手持产品转场](#hand-carried-product-transition) · [从冰箱到派对](#from-the-fridge-to-the-party) · [奢华护肤 ASMR 片段](#luxury-skincare-asmr-sequence) · [火箭动力香水瓶](#rocket-powered-perfume-bottle) · [粉色浴室护肤广告](#pink-bathroom-skincare-commercial) |
+| 风景与 FPV | [FPV 追随金雕](#fpv-eagle-chase) · [水墨卷轴流出瀑布](#waterfall-from-an-ink-scroll) · [悬崖与海浪](#cliff-and-waves) · [仓库 FPV 穿越](#warehouse-fpv) · [海堤风暴巨浪](#storm-surge-against-a-seawall) · [龙门吊集装箱跟拍](#gantry-crane-container-tracking) · [单滴水微距物理](#single-droplet-macro-physics) · [四模型燃烧街道对比中的 Kling 4.0](#kling-4-0-in-a-four-model-burning-street-comparison) · [Kling 4.0 与 1.6：水下镜头下潜对比](#kling-4-0-vs-1-6-underwater-camera-descent) · [马车穿过金色城市](#a-carriage-through-the-golden-city) · [从三维预演到日本小镇](#a-japanese-town-from-a-3d-previsualization) |
 
 <a id="prompts-and-videos"></a>
 ## 全部提示词
@@ -1500,8 +1500,39 @@ FPV 追随金雕，来自 @minchoi 的原始提示词。
 
 ---
 
+<a id="multi-shot-car-drifting"></a>
+### 10. 多镜头汽车漂移
+
+多镜头汽车漂移，来自 @minchoi 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Generate a multi-shot car drifting action scene.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/minchoi/status/2104743218722267597" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2104743157590052864/img/tyWkX-28WjTT7olN.jpg" alt="多镜头汽车漂移" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-09-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/minchoi" rel="nofollow noreferrer" referrerpolicy="no-referrer">@minchoi</a>
+- 来源: <a href="https://x.com/minchoi/status/2104743218722267597" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="astra-sky-battle"></a>
-### 10. Astra天空战斗
+### 11. Astra天空战斗
 
 绘画风格的 Astra 穿越风暴云层与浮空战舰，以白金色天体攻击收尾。
 
@@ -1629,7 +1660,7 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 ---
 
 <a id="sumo-pair-figure-skating"></a>
-### 11. 相扑双人花滑
+### 12. 相扑双人花滑
 
 两位相扑选手在冰场完成出乎意料的优雅双人花滑，让体型与轻盈动作形成喜剧效果。
 
@@ -1679,7 +1710,7 @@ Realistic vertical handheld phone footage at a bright indoor ice rink during a f
 ---
 
 <a id="fox-owl-library"></a>
-### 12. 图书馆狐狸与猫头鹰
+### 13. 图书馆狐狸与猫头鹰
 
 自信的狐狸向猫头鹰询问自己的学识，却得到一句关于衣着的冷幽默赞美。
 
@@ -1730,7 +1761,7 @@ A photorealistic cinematic scene in a grand walnut-panelled library, late aftern
 ---
 
 <a id="tabby-cat-street-vlogger"></a>
-### 13. 虎斑猫街头博主
+### 14. 虎斑猫街头博主
 
 虎斑猫街头博主，来自 @AIwithSarah_ 的原始提示词。
 
@@ -1766,7 +1797,7 @@ Ultra-realistic fur detail, natural lip sync, vlog aesthetic, cinematic color gr
 ---
 
 <a id="crimson-afterburn-two-scene-action"></a>
-### 14. 绯红余焰连续动作
+### 15. 绯红余焰连续动作
 
 绯红余焰连续动作，来自 @itxabdullaa 的原始提示词。
 
@@ -1855,7 +1886,7 @@ CRITICAL: Relentless continuous combat. Every attack flows into the next. No idl
 ---
 
 <a id="hypnotic-underground-temple"></a>
-### 15. 催眠地下神殿
+### 16. 催眠地下神殿
 
 催眠地下神殿，来自 @itxsarmadd 的原始提示词。
 
@@ -1935,7 +1966,7 @@ NEGATIVE: Anime, cartoon, videogame render plastic skin, holograms, clone format
 ---
 
 <a id="living-alien-transit-terminal"></a>
-### 16. 活体外星交通枢纽
+### 17. 活体外星交通枢纽
 
 活体外星交通枢纽，来自 @Alin_Reaper05 的原始提示词。
 
@@ -1968,7 +1999,7 @@ First-person cinematic POV inside a living extraterrestrial transit terminal gro
 ---
 
 <a id="blackwood-forest-run"></a>
-### 17. 黑木森林奔跑
+### 18. 黑木森林奔跑
 
 黑木森林奔跑，来自 @EndFolding79421 的原始提示词。
 
@@ -2001,7 +2032,7 @@ Late afternoon fading toward dusk in Blackwood Forest.Endless North Georgia pine
 ---
 
 <a id="cabin-horror-sequence"></a>
-### 18. 林间小屋惊悚
+### 19. 林间小屋惊悚
 
 林间小屋惊悚，来自 @EndFolding79421 的原始提示词。
 
@@ -2034,7 +2065,7 @@ Foggy early morning pine forest. A weathered moss-covered log cabin sits alone a
 ---
 
 <a id="subway-fight"></a>
-### 19. 地铁搏斗
+### 20. 地铁搏斗
 
 地铁搏斗，来自 @EndFolding79421 的原始提示词。
 
@@ -2067,7 +2098,7 @@ Inside a speeding subway car, a woman in a blood-smeared trench coat fights off 
 ---
 
 <a id="sunset-rooftop-tap-dance"></a>
-### 20. 日落屋顶踢踏舞
+### 21. 日落屋顶踢踏舞
 
 日落屋顶踢踏舞，来自 @EndFolding79421 的原始提示词。
 
@@ -2100,7 +2131,7 @@ A beautiful woman in a flowing dress is joyfully tap dancing on a rooftop at sun
 ---
 
 <a id="spiral-staircase-duel"></a>
-### 21. 螺旋楼梯决斗
+### 22. 螺旋楼梯决斗
 
 螺旋楼梯决斗，来自 @EndFolding79421 的原始提示词。
 
@@ -2133,7 +2164,7 @@ Two figures fight on a spiral staircase [top-down rotating shot]. Sparks from cl
 ---
 
 <a id="neon-market-parkour"></a>
-### 22. 霓虹夜市跑酷
+### 23. 霓虹夜市跑酷
 
 霓虹夜市跑酷，来自 @EndFolding79421 的原始提示词。
 
@@ -2166,7 +2197,7 @@ Two figures fight on a spiral staircase [top-down rotating shot]. Sparks from cl
 ---
 
 <a id="sorceress-and-ghostly-pharaohs"></a>
-### 23. 女巫与幽灵法老
+### 24. 女巫与幽灵法老
 
 女巫与幽灵法老，来自 @EndFolding79421 的原始提示词。
 
@@ -2210,7 +2241,7 @@ Atmosphere: No peaceful or vibrant colors. The scene must remain dark and tense,
 ---
 
 <a id="enchanted-forest-fairies"></a>
-### 24. 魔法森林精灵
+### 25. 魔法森林精灵
 
 魔法森林精灵，来自 @EndFolding79421 的原始提示词。
 
@@ -2251,8 +2282,39 @@ Environment: No lifeless or dull surroundings. The forest should remain lush, vi
 
 ---
 
+<a id="a-cats-continuous-midnight-adventure"></a>
+### 26. 猫咪的连续午夜冒险
+
+猫咪的连续午夜冒险，来自 @umesh_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+An amateur handheld recording in third-person perspective rapidly follows a cat through its nighttime adventures in one continuous shot, with no cuts, no stopping, and no pause. The sequence feels like fast-forward, showing all the curious, mischievous, funny, and chaotic things a cat might do while the town, house, garden, and everything around it are half-asleep.The cat races through about ten places a cat would naturally explore at night, each one flowing into the next in a single continuous chase: a quiet bedroom, a dim hallway, a kitchen, a living room, a backyard garden, a fence line, a garage, a rooftop, a tree, and a sleepy street or alley. The camera is shaky and imperfect, always struggling to keep up as it follows close behind. In every location, the cat causes some kind of chaos. In the bedroom it jumps onto furniture and disturbs sleeping people. In the hallway it sends small objects tumbling. In the kitchen it knocks items off the counter. In the living room it darts across shelves and tips things over. In the garden it rustles plants, digs, or startles birds. On the fence it rattles loose objects. In the garage it weaves through clutter and causes things to wobble or fall. On the rooftop it skids across surfaces and startles other animals. In the tree it shakes branches and scatters leaves. In the street or alley it darts through trash, shadows, and unexpected little messes, always leaving brief chaos behind before sprinting onward.The cat behaves like a restless, curious nighttime troublemaker: climbing, leaping, squeezing through gaps, chasing tiny movements, staring at strange things, swatting objects, knocking things over, and vanishing into corners before bursting back out again. Every scene should contain a clear action, reaction, or small disaster caused by the cat.Everything around it feels sleepy and still, with dark houses, quiet gardens, dim windows, silent rooftops, and empty streets. The contrast is that the cat is pure energy, moving so quickly that the world smears into motion blur and fragmented glimpses of chaos. The overall feeling is funny, lively, mischievous, and cinematic, like a whole secret night of cat behavior compressed into one rapid continuous chase.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/umesh_ai/status/2110797373584887907" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110797232949891072/img/3VgG5z57oETKHaAQ.jpg" alt="猫咪的连续午夜冒险" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-15 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/umesh_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@umesh_ai</a>
+- 来源: <a href="https://x.com/umesh_ai/status/2110797376827035806" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/umesh_ai/status/2110797373584887907" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="lucy-leaves-the-diner"></a>
-### 25. 露西离开餐馆
+### 27. 露西离开餐馆
 
 露西离开餐馆，来自 @EndFolding79421 的原始提示词。
 
@@ -2284,8 +2346,172 @@ Lucy stepped out of the small diner where she worked, the doorbell jingling soft
 
 ---
 
+<a id="robin-completes-an-update"></a>
+### 28. 罗宾完成升级
+
+罗宾完成升级，来自 @obi_ai6193 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+[Shot1, 3s ]
+水色のワンピースを着た女の子が、ロビンの隣にしゃがんで両手で優しく肩を支えている。心配そうに父親を見上げて話す。カメラはリリーの不安げな顔へゆっくりドリーイン。ロビンは静止したまま、光る目がわずかに点滅する。静かなサスペンス調のBGM。セリフ：「Daddy, something's wrong with Robin!」
+
+[Shot2, 3s ]
+黄色い花柄のワンピースを着た母親が、心配そうにロビンを見下ろしながら身を乗り出す。突然何かを思い出したように眉を上げ、考え込むように話す。カメラは母親の顔のクローズアップへゆっくりプッシュイン。背景のキッチンには暖かい照明が灯っている。不穏なストリングスが静かに流れる。セリフ：「He's been acting strange lately.」
+
+[Shot3, 3s ]
+ベージュのスーツを着た父親が突然目を大きく見開く。慌てて上半身を起こし、信じられないという表情でロビンを凝視する。カメラは父親の驚いた顔へ素早くドリーインし、タイトなクローズアップ。表情はますます緊迫していく。鋭いオーケストラの効果音が鳴り、その後一瞬の静寂が訪れる。セリフ：「Oh, no! It can't be!」
+
+[Shot4, 3s ]
+小さく光沢のあるオレンジ色のレトロロボット、ロビンが突然起動する。丸い目が明るく輝く。頭部を2回ぎこちなく機械的に動かし、非常に短い腕がわずかに震える。カメラはローアングルから光る目へゆっくりドリーイン。ロビンの元のデザイン、体の比率、アンテナ、腹部前面のパネル、極端に短い脚を完全に維持する。柔らかな電子音と陽気な完了チャイムが響く。セリフ：「Don't worry! Kling four point oh update complete!」
+
+[Shot5, 3s ]
+家族全員が突然喜びの笑い声を上げる。父親と母親が勢いよくハイタッチし、水色のワンピースを着たリリーとピンクのワンピースを着た妹も楽しそうにハイタッチする。ロビンは非常に短い機械の両腕を上げて喜び、丸い目が明るく輝く。カメラはワイドショットから緩やかにクレーンアップしながら後退。美しいレトロフューチャーなキッチンと夜の街並みを映し出す。1950年代の陽気なスウィングジャズが始まる。セリフ：「Hooray!」
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/obi_ai6193/status/2110855814005342673" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110852998725591040/img/M0nYHlPw0X_RVak_.jpg" alt="罗宾完成升级" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-15 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/obi_ai6193" rel="nofollow noreferrer" referrerpolicy="no-referrer">@obi_ai6193</a>
+- 来源: <a href="https://x.com/obi_ai6193/status/2110855814005342673" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="do-not-press-the-button-3d-kinetic-typography"></a>
+### 29. 绝对不要按：三维动态文字
+
+绝对不要按：三维动态文字，来自 @su_nagomi 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+【30秒｜16:9｜3Dキネティックタイポグラフィ×ポップアート｜テーマ：絶対に押すな！｜BGM無し／SEあり／日本語文字を正確に表示】 【全体仕様】1920×1080、30fps、極太3Dゴシック体、赤・黄・ピンク・青・白の鮮やかな配色。文字は光沢のある立体樹脂素材。文字そのものが意思を持って動き、伸縮・衝突・回転・飛散・再結合する。カメラは高速ドリー、ウィップパン、マクロ、ローアングルを使い分ける。スタジオ照明と漫画的な集中線を組み合わせる。画面転換は文字の衝突や動きと同期。主役の赤いボタンは1個だけで、黒と黄色の警告ストライプ付き台座に固定。文字の形状・赤ボタンの構造・奥行き関係を全カットで統一。背景色は切り替えても空間配置の矛盾を起こさない。日本語は文字化け・不要文字・複製を禁止。音楽なし、コミカルなSEをアクションに完全同期。 CUT1【0:00–0:03】Visuals：真っ白なスタジオ空間。中央奥に巨大な赤い立体文字「絶対に押すな！」。中央手前に赤いボタン。Camera：50mm/f4、ゆっくりドリーイン。Lighting：白いソフトボックス光、床に柔らかな影。Motion：文字は静止。ただし「押」だけが一瞬小さく震える。SE：静寂→「ピッ」。Emotion：禁止されたものへの好奇心。Transition：ボタンへマッチカット。 CUT2【0:03–0:06】Visuals：ボタンのマクロショット。赤い表面に光が走る。奥の巨大文字「押」が左右を見回すように傾く。Camera：85mm Macro/f2.8、低い視点からボタンへ接近。Lighting：艶やかな白いハイライト。Motion：「押」の文字が元の配置からわずかに前へ傾く。SE：「ピッ、ピッ」、小さなゴムの軋み音。Transition：文字「押」へウィップパン。 CUT3【0:06–0:09】Visuals：「押」が文字列から抜け出し、ボタンへ向かって少しずつ前進。残った文字「す」「な」「！」が慌てたように震える。Camera：35mm/f4、斜め45度の立体構図、横方向トラッキング。Lighting：黄色のアクセント光。Motion：「押」が小さくジャンプしながらボタンへ近づき、「す」が横から阻止しようと傾く。SE：「ピョコ、ピョコ」「キュッ！」。Transition：「押」がジャンプした頂点で切り替え。 CUT4【0:09–0:12】Visuals：「押」がボタンの真上に浮く。一瞬、時間が止まる。次の瞬間、真下へ落下してボタンを押す。Camera：最初は真横のクローズアップ、押下時に広角28mmへ衝撃カット。Lighting：押下の瞬間に強烈な黄色の発光。Motion：「押」の着地→ボタン沈下→床面から衝撃波が広がる。SE：直前0.4秒無音→「ポチッ！」「ドカーン！」。Transition：衝撃波が画面を覆う。 CUT5【0:12–0:15】Visuals：背景が鮮烈な黄色へ変化。巨大な「えっ!?」が画面奥から飛び出し、周囲の文字を弾き飛ばす。Camera：24mm/f5.6、急激なドリーズーム。Lighting：明るいスタジオ光、文字の縁に白いリムライト。Motion：「えっ!?」が激しくバウンドし、スクワッシュ＆ストレッチで伸び縮み。SE：「バイーン！」「ポヨン！」。Transition：巨大文字がカメラ前を横切ってワイプ。 CUT6【0:15–0:19】Visuals：背景がビビッドピンクへ。文字たちがピンボールのように飛び回る。赤いボタンは床中央に固定されたまま。文字「押」が再びボタンへ突進して周囲の文字がパニックになる。Camera：35mm/f5.6、左右ウィップパンと素早い引き。Lighting：白いキーライト＋マゼンタのリムライト。Motion：文字が衝突・反発・回転。動く文字は手前と奥の2群に分け、視認性を保つ。SE：「ドン！」「バン！」「ビヨーン！」「カン！」。Transition：「押」がボタンに再衝突した衝撃で次へ。 CUT7【0:19–0:22】Visuals：背景が赤い警告空間へ。巨大な白い3D文字「押した…」が画面いっぱいに迫る。周囲を赤い警告灯が回る。Camera：45mm/f4、高速ドリーインから急停止。Lighting：赤い警告光と白い正面光。Motion：「押した…」が膨張し、重さに耐えられず下方向へ潰れる。SE：短いサイレン「ウーウー！」→重低音「ズシン！」。Transition：文字が画面を押し潰して青背景へ切り替え。 CUT8【0:22–0:25】Visuals：一転して静かな青背景。巨大な白い文字「だから言ったのに」が整列。床には疲れたように転がる「押」。Camera：50mm/f4、正面固定から軽いプッシュイン。Lighting：明るいクールホワイト。Motion：「だから言ったのに」が呆れたように左右へゆっくりウェーブ。「押」が小さく震える。SE：「ハァ〜……」「コロン」。Emotion：笑えるツッコミ。Transition：床から文字の破片が吸い上がる。 CUT9【0:25–0:28】Visuals：散らばった文字が渦を巻き、吸い寄せられて元の「絶対に押すな！」へ再結合。背景は白に戻る。Camera：35mm/f4、周囲をわずかに回り込みながら正面位置へ復帰。Lighting：清潔な白いスタジオ光。Motion：文字が一個ずつ元の場所に戻り、最後に「押」がはまる。SE：「シュルルル！」「カチカチカチ！」「ポン！」。Transition：完成と同時に静止。 CUT10【0:28–0:30】Visuals：CUT1と完全に同じ構図。元通りの「絶対に押すな！」と赤ボタン。安心した直後、「押」の文字だけが再びボタンに向かってわずかに傾く。Camera：50mm/f4、正面固定。Lighting：CUT1と一致。Motion：「押」の小さな傾き→ボタンが一度点滅。SE：短い沈黙→「ピッ」。Emotion：また押すのか！という予感。Transition：暗転なしでCUT1へ自然にループ。 【最重要の破綻防止】「押」は文字列から抜け出した同一個体として扱う。文字が増殖しない。ボタンは1個で位置固定。ボタンを押す瞬間は接触・沈下・反発の順序を守る。背景色変更は編集上のカット切り替えで行い、物理空間を不自然に変形させない。文字の輪郭・書体・厚みを統一。動きのピークは15〜22秒、ラストは静かに締める。最後の構図を冒頭と一致させる。。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/su_nagomi/status/2110877880389624063" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110875398464745472/img/Qw6RLTgbYfVikdZ7.jpg" alt="绝对不要按：三维动态文字" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-15 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/su_nagomi" rel="nofollow noreferrer" referrerpolicy="no-referrer">@su_nagomi</a>
+- 来源: <a href="https://x.com/su_nagomi/status/2110877883128574135" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/su_nagomi/status/2110877880389624063" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="cafe-conversation-about-a-bakery"></a>
+### 30. 咖啡馆里的面包店闲谈
+
+咖啡馆里的面包店闲谈，来自 @tanabe_fragm 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A fixed, locked-off medium two-shot in a bright café at midday, horizontal 16:9 cinematic framing. Two young Japanese women in their early twenties sit facing each other across a small wooden table. The camera is at table height beside the table, so both women are seen in three-quarter view from the waist up — Misaki on the left of frame, Yui on the right — with their faces large and clearly lit. A large window runs along the background; soft natural daylight falls on their faces from the side, not from behind. Two iced lattes sit on the table between them. Photorealistic, natural skin texture, gentle background blur.
+
+Misaki (left): 22, cheerful and talkative, black chin-length bob, white knit sweater, expressive hand gestures.
+Yui (right): 23, gentle and easygoing, long brown hair, beige cardigan, laughs easily.
+
+The camera does not move or cut. Exactly four lines of dialogue, in natural Tokyo-standard Japanese, in this order. While one speaks, the other listens with her mouth closed, reacting only with nods and smiles.
+
+0–4s: Misaki leans forward toward Yui, eyes bright, excited:「ねえ聞いて！ 昨日ね、駅前のパン屋さん、やっと行けたの」
+4–7s: Yui's eyes widen, surprised, quick:「え、まって、あの毎朝並んでるとこ？」
+7–11s: Misaki nods hard, hands miming something crispy, delighted:「そうそう！ メロンパン、ぱりっぱりで…もう最高だった」
+11–15s: Yui bursts out laughing and speaks through the laugh, playfully envious:「ずるい！ 今度ぜったい一緒に行こうね」
+
+Precise lip sync: lips fully close on ま, ぱ, め, ば sounds; mouth shapes follow each vowel. No extra lines, no ad-libs, no narration. Audio is only the two voices and soft café ambience — no background music. No subtitles, no on-screen text. Single continuous horizontal shot, same framing from start to end.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/tanabe_fragm/status/2110887676832543125" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110887184144506880/img/GdJX1ccP4Jqu_kO1.jpg" alt="咖啡馆里的面包店闲谈" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/tanabe_fragm" rel="nofollow noreferrer" referrerpolicy="no-referrer">@tanabe_fragm</a>
+- 来源: <a href="https://x.com/tanabe_fragm/status/2110887676832543125" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-winter-riverside-farewell"></a>
+### 31. 冬夜河畔的告别
+
+冬夜河畔的告别，来自 @tanabe_fragm 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A vertical 9:16 Japanese short drama scene, cinematic and photorealistic, shot at night on a riverside walking path in early winter. Streetlights stand at even intervals along the path, their warm light reflected on the dark river. Cool night air, breath faintly visible. Shallow depth of field, soft bokeh from the streetlights, muted teal-and-amber color grade, subtle film grain.
+
+Haruka: Japanese woman, 24, shoulder-length black hair, long beige coat. Quiet voice, but firm.
+Souta: Japanese man, 25, short black hair, navy duffle coat. Usually gentle; now shaken.
+
+Four shots, in this order. Exactly four lines of dialogue in natural Tokyo-standard Japanese, spoken softly and slowly, with real pauses. No other lines.
+
+Shot 1 (0–4s) — Frontal tracking shot, the camera moving backward ahead of them, bust shot of both. Haruka and Souta walk side by side toward the camera, a small gap between their shoulders. Haruka keeps looking straight ahead and says quietly:「ねえ…来月から、大阪なんだ」
+
+Shot 2 (4–7s) — Tracking from behind at waist height, focus on the space between their two hands. Their hands swing as they walk, almost touching but never touching. Souta's voice, after a pause, low:「…なんで、今言うの」
+
+Shot 3 (7–11s) — Side tracking shot, moving alongside them. Haruka stops walking. The camera keeps moving with Souta for two more steps, then stops. Focus racks from Souta in the foreground to Haruka standing behind, now one streetlight's distance away. Haruka, still and steady:「言ったら…止められると思ったから」
+
+Shot 4 (11–15s) — Souta turns back toward her. Slow push-in on his face; streetlight falls across only half of it. He starts to speak, swallows it, then says in a hoarse voice:「…止めたら、いてくれんの？」 Hold on his face to the end.
+
+Audio is only their voices, footsteps, the river, and distant traffic — no background music. No subtitles, no on-screen text. Same two people, same clothes, same night riverside path in every shot.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/tanabe_fragm/status/2110893614671040886" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110893349444153344/img/nd1GNJFGnYrv5-RZ.jpg" alt="冬夜河畔的告别" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/tanabe_fragm" rel="nofollow noreferrer" referrerpolicy="no-referrer">@tanabe_fragm</a>
+- 来源: <a href="https://x.com/tanabe_fragm/status/2110893614671040886" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="first-person-tactical-shooter"></a>
-### 26. 第一人称战术射击
+### 32. 第一人称战术射击
 
 第一人称战术射击，来自 @higgsfield_ai 的原始提示词。
 
@@ -2332,8 +2558,503 @@ Audio: competitive shooter sound design, with punchy rifle bursts with echo off 
 
 ---
 
+<a id="pubg-style-first-person-firefight-looting-and-healing"></a>
+### 33. PUBG 风格第一人称交火、搜刮与治疗
+
+PUBG 风格第一人称交火、搜刮与治疗，来自 @AI__TSUBAKI 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+30-second horizontal 16:9 1080p first-person gameplay capture in the style of PUBG: BATTLEGROUNDS, played in PUBG FPP (first-person perspective) mode during an intense late-game squad match, recorded directly from a PC screen at a smooth high frame rate. Hyper-realistic, photorealistic next-generation graphics rendered in Unreal Engine 5 with Lumen global illumination and Nanite geometry. It is almost indistinguishable from real-life helmet-cam combat footage, but it is clearly a game capture because of the on-screen HUD. Ultra-detailed photogrammetry textures, physically accurate lighting, realistic ambient occlusion and soft shadows, volumetric smoke and dust, real-world material response on every surface, sharp 1080p clarity, no motion blur, no film grain, no cinematic color grading.
+
+Persistent PUBG-style HUD, always visible on screen for the entire 30 seconds, fixed in place, never fading and never changing position:
+- Top center: a thin horizontal compass bar with degree ticks.
+- Top right: a small counter for players alive and a small kill counter, with a kill feed below them where short white notification lines appear after each kill.
+- Bottom center: a thin white health bar, and above it small icons for the equipped helmet and vest. The health bar drops and turns red when the player is hit, and refills when the player heals.
+- Bottom right: a square minimap showing the terrain in muted greens and browns, with a small player arrow. Next to it, a white ammo counter showing the rounds in the magazine and the reserve ammo. The magazine count drops with every shot and refills after the reload.
+- Center: a small dot crosshair, plus a brief white X hit marker flash on each hit and a red X on each kill.
+The HUD is clean, semi-transparent, white and minimal, rendered in sharp UI graphics over the 3D image. HUD text is limited to simple numbers and short abstract lines, with no logos.
+
+PUBG looting system: shortly after an enemy dies, the body is replaced by a PUBG-style wooden loot crate on the ground, a death box made of weathered wooden planks. When the player opens it, the PUBG inventory screen appears as a full-screen overlay over the dimmed, blurred game view. The left column is a vicinity list of nearby items, each shown as a realistic item icon with a short abstract label line. The middle column shows the player's backpack contents. The right side shows equipment slots for the helmet, vest, backpack and two primary weapons. The player drags items from the vicinity list into the backpack and equipment slots, and each item slides across with a quick UI animation. When the inventory closes, the normal HUD view returns immediately.
+
+Camera and view: locked true first-person view at a wide 90-degree gameplay FOV, never third-person and never an over-the-shoulder view. The player's hands wear worn black tactical gloves with frayed fabric, stitching and dust in the creases. They hold a battle-worn AKM assault rifle with a scratched, oil-stained dark walnut stock and handguard showing real wood grain, a weathered black steel receiver with chipped paint and bare metal wear on the edges, and a plain red dot sight with a faint lens reflection. There is no skin and no bright colors, only a realistic military weapon. The rifle sits in the lower right of the frame, slightly left of the minimap. Natural view bob, strong realistic AK recoil kick with muzzle climb, a visible muzzle flash and a brief puff of gun smoke from the barrel, and fast mouse-driven flicks. One continuous unbroken take with no cuts, no camera switches and no replays.
+
+Map: an original PUBG-style battle royale map in the countryside of rural Eastern Europe. An abandoned village of two-story red brick and grey concrete houses with shattered windows, crumbling mortar, peeling plaster and water stains. Broken wooden fences with weathered grain, rusted corrugated sheds and a crumbling compound wall. Burned-out cars and a rusted military truck with flaking paint sit along a cracked, rutted dirt road with puddles and tire tracks. Rolling golden wheat fields with individual stalks swaying in the wind, and pine tree lines on the hills. A derelict military base with a concrete watchtower stands on a distant ridge. The sky is overcast, with soft cold diffused daylight and hazy atmospheric depth. Thick smoke columns rise from burning vehicles in the distance, with dust particles and ash drifting through the air.
+
+Battlefield atmosphere: it feels like a real war zone. Constant distant gunfire echoes across the hills from other fights. Muzzle flashes flicker on the far ridge. A red smoke flare burns in a field in the distance. Dirt and brick debris kick up from incoming fire around the player.
+
+Enemies: photorealistic soldiers in mixed camouflage gear with realistic fabric folds, level-2 and level-3 military helmets and tactical vests with pouches, using cover and moving aggressively. When hit, they react with weight, stagger and ragdoll realistically to the ground.
+
+[00:00–00:03] Crouched behind the crumbling compound wall, the player pops up, flicks onto an enemy running across the dirt road and drops him with a short controlled AK burst. Hit markers flash, the enemy screams as he falls, and a kill notification appears in the kill feed.
+[00:03–00:06] Incoming bullets snap past and chip the bricks beside the player's head, throwing dust and brick fragments across the view. One round hits the player: the screen edges flash red, the view jolts, and the health bar drops to about half. The player ducks and sprints through a broken doorway into a ruined brick house.
+[00:06–00:09] Inside the dim house, with light beams through the broken windows and dust floating in them, the player swings around a doorframe and taps an enemy on the staircase with two shots. The enemy tumbles down the stairs. Another kill notification appears.
+[00:09–00:11] At a shattered window, the player does a fast tactical reload. The curved AK magazine is ripped out and a fresh one slams in, followed by a hard charging-handle pull, and the ammo counter refills. An enemy shouts orders somewhere outside.
+[00:11–00:13] The player vaults out through the window into the wheat field and throws a smoke grenade toward the rusted military truck. It pops and thick, volumetric white smoke rolls across the road.
+[00:13–00:16] Two enemies rush out of the smoke, yelling. The player holds the AK steady and sprays through them. Bullets spark off the truck's steel body and kick up dirt clods, while the ammo counter drains fast. Both enemies collapse into the wheat, and two kill notifications stack in the kill feed. Their bodies are replaced by wooden loot crates lying in the flattened wheat.
+[00:16–00:18] The player jogs to the nearest loot crate, crouches over it and looks down at its weathered wooden planks. The PUBG inventory screen opens over the dimmed game view.
+[00:18–00:23] Looting in the inventory screen: the vicinity list shows a first aid kit, bandages, an energy drink, painkillers, boxes of rifle ammo, a level-3 military helmet and a bolt-action sniper rifle with a long-range scope. The player quickly drags the first aid kit, bandages, energy drink and painkillers into the backpack, drags the ammo boxes in, swaps in the level-3 helmet, which replaces the old helmet in the equipment slot, and drags the bolt-action sniper rifle into the second weapon slot. The inventory screen closes and the normal HUD returns, with the new helmet icon visible.
+[00:23–00:27] Still crouched in the tall wheat, the player uses the first aid kit. The AK is lowered out of view, and the gloved hands appear, unrolling and wrapping a white medical bandage. A circular progress ring fills around the crosshair with a small countdown number. The health bar smoothly refills to almost full. Then the player drinks the energy drink, tilting the can toward the camera, and a small boost bar appears just above the health bar.
+[00:27–00:30] Fully healed, the player raises the AK again, rises from the wheat and scans the smoky road and the distant ridge. Gunfire still echoes from far-off fights, the smoke drifts past, and the player turns toward the military base on the ridge as the clip ends. The HUD stays on screen.
+
+Style: authentic, intense PUBG FPP gameplay with hyper-realistic next-gen visuals, like a raw live stream clip from a skilled player in a chaotic endgame. Readable action, confident crosshair placement, muted desaturated military color palette with earthy browns, greys and olive greens, and extreme detail. The persistent HUD and the PUBG inventory screen are the only on-screen graphics. No real-world text, no brand logos, no PUBG logo, no watermark, no streamer overlay, no webcam frame.
+
+Audio: realistic, aggressive battlefield sound design. Loud, punchy AKM gunfire with heavy bass and echo across the open fields. Bullets snap and crack as they pass close by, and a heavy thud plays when the player is hit. Brass casings clatter on the concrete floor and dirt. Footsteps change from dirt to concrete to creaking wooden stairs to rustling wheat. Bullet impacts hit brick, steel and earth. Hit marker ticks sound on each hit. The smoke grenade pops and hisses. A heavy magazine swap and a charging-handle rack. Soft UI clicks and item pickup sounds play during looting: a cloth rustle for medical items, a metallic clank for the ammo, a hard plastic knock for the helmet and a heavy weapon rattle for the sniper rifle. The bandage tears and wraps, and the energy drink can snaps open with a fizz and a gulp. Constant distant gunfire and explosions roll across the map. Enemies shout and scream in pain when hit, with wordless yells and battle cries and no clear words. The player breathes heavily after the fight and calms down while healing. No music.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/AI__TSUBAKI/status/2110917779406872831" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110916857721208832/img/1nNZszu-1e-mFjFZ.jpg" alt="PUBG 风格第一人称交火、搜刮与治疗" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/AI__TSUBAKI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@AI__TSUBAKI</a>
+- 来源: <a href="https://x.com/AI__TSUBAKI/status/2110918165706498200" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/AI__TSUBAKI/status/2110917779406872831" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-quiet-summer-walk-together"></a>
+### 34. 一起散步的夏日午后
+
+一起散步的夏日午后，来自 @agi_aibusi 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30-second video in 1920×1080, with the realism of an ordinary recording a boyfriend made of his girlfriend during a summer walk in Japan.
+
+The small story:
+They have no particular destination. She has just opened a can of fruit juice, and he starts recording without announcing it. Over the next half-minute, she gradually notices the camera, gets a little embarrassed, and begins including him in the moment. Their familiarity should come through in how she waits for him, looks at him, and closes the distance between them.
+
+The woman:
+A beautiful Japanese woman around 24 years old, with an approachable, individual face rather than a polished model appearance. Dark brown eyes, natural skin texture, light everyday makeup, and straight black hair loosely gathered in a low ponytail. A few short strands around her temples have escaped in the summer humidity.
+
+She wears a faded navy cotton T-shirt, loose ivory trousers, comfortable gray sneakers, and a small rust-colored crossbody bag. A plain elastic hair tie is around one wrist. Keep her facial features, hair, outfit, bag, and proportions consistent in every shot.
+
+Her expressions are understated and responsive. Sometimes she looks distracted or squints in the light. Her smile develops because of something between them, rather than appearing on cue.
+
+The place:
+A residential neighborhood in a regional Japanese city, near a narrow canal. Late afternoon in midsummer, with warm sunlight still reaching the upper parts of the houses.
+
+Use ordinary local details: patched asphalt, short concrete bridges over the canal, metal railings warm from the sun, compact houses with tiled roofs, frosted entrance windows, outdoor air-conditioning units, bicycles tucked beside gates, and plants growing in mismatched pots. Utility wires cross the sky. A striped fabric awning hangs outside a closed shop farther down the street.
+
+Avoid famous landmarks and postcard compositions. The location should feel like somewhere the couple already knows.
+
+How the camera behaves:
+The boyfriend holds a small consumer camera at his own eye or chest level. Most of the time he is beside her or only a step behind. The viewpoint should feel like her companion's attention, with no third-person shots of the couple.
+
+Let framing respond to their interaction. When she suddenly looks at him, he may take a fraction of a second to correct the composition. When he laughs, the camera moves slightly. When they walk, his footsteps create a gentle, uneven rhythm.
+
+Use ordinary consumer-camera rendering: restrained detail, modest dynamic range, occasional clipped highlights, a little shadow noise, and slight focus hesitation when she moves closer. Preserve natural skin color.
+
+Keep the camera's attention on her face, gestures, and shared surroundings. Avoid fashion poses, body-scanning shots, elaborate camera moves, slow motion, or a glossy advertising finish.
+
+Suggested edit — six short memories from the same walk:
+
+0:00–0:05
+She stands beside a low canal railing with a small, unbranded can of mandarin orange juice. The recording begins just as she finishes lifting the pull tab. She takes a sip, lowers the can, and notices that he is filming.
+
+She looks directly at him with a briefly puzzled expression, then gives a small, amused smile, as though silently asking, “Really, you're filming this?”
+
+Begin with a slightly loose frame that includes her hands and the canal, then let the boyfriend adjust it toward her face.
+
+0:05–0:10
+A cut to the two of them walking side by side along the narrow lane. She carries the can naturally in one hand.
+
+She gets half a step ahead, realizes he has slowed down while filming, and turns back. Instead of posing, she waits with a mildly impatient but affectionate look. Once he catches up, she resumes walking beside him.
+
+Her gaze should meet the person holding the camera, not an imaginary audience.
+
+0:10–0:15
+They pause near a house entrance where a small glass wind chime hangs beneath the eaves.
+
+A breeze makes it ring. She glances upward and listens for a moment. Loose strands of hair move against her cheek; she brushes them aside with her free hand.
+
+She notices him still watching her through the camera and suppresses a smile before looking back toward the wind chime.
+
+Keep this moment quiet and unhurried.
+
+0:15–0:20
+On a short concrete bridge, she stops to look down at the canal. The camera first catches the rippling water, then tilts back toward her after she has already turned around.
+
+She leans slightly toward him to see what he is recording. Her face briefly comes too close for the camera's focus, making her laugh softly and step back.
+
+The laugh should feel like a shared interruption, with a small answering movement from the camera.
+
+0:20–0:25
+They rest beside the bridge in the shade. She is closer to the camera now, relaxed enough to stop paying attention to being filmed.
+
+She takes another small sip of juice, then holds the can toward him as an offer. Leave the can clearly visible in the foreground, separate from her face.
+
+He does not take it during the shot. She gives a tiny questioning lift of her eyebrows, then draws it back with an affectionate smile.
+
+0:25–0:30
+She steps toward him and gently touches his free forearm, inviting him to keep walking. Only a small, natural part of his arm may enter the lower edge of the frame.
+
+As they start moving together, he lowers the camera. The view drifts from her smiling face to her bag, their moving shadows, and the sunlit pavement.
+
+Let the last second settle on the overlapping shadows of two people walking close together. End with an ordinary recording stop, without a dramatic transition or title.
+
+Sound:
+Use the sound that would actually reach the camera microphone: cicadas, the juice can opening, a few footsteps, a wind chime, faint canal water, distant tires on the road, and their quiet laughter.
+
+A single softly spoken Japanese remark such as “撮ってたの？” may occur when she first notices the camera, but speech is optional. Do not add explanatory dialogue.
+
+No music, voiceover, or added dramatic sound effects.
+
+Continuity and physical detail:
+There is one juice can, carried by her throughout the sequence. Its color, size, opening, and remaining shape stay consistent. The crossbody strap stays on the same shoulder. Her ponytail remains tied.
+
+Hands should hold objects with believable contact and weight. Walking speed, foot placement, shadows, and reflections must agree with the surroundings. Keep the canal, bridge, houses, sunlight direction, and summer weather coherent between cuts.
+
+Emotional direction:
+The viewer should feel that she knows and trusts the person behind the camera. Build that feeling through small changes in distance and attention: noticing him, waiting for him, leaning in, offering a drink, and asking him to walk beside her.
+
+Let ordinary pauses remain. Her beauty is something her boyfriend happens to notice during their time together.
+
+The finished video should feel like a personal memory he would keep because of the way she looked at him that afternoon.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/agi_aibusi/status/2110924173619138656" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110923316307636224/img/Mo1S7XbII-Iwbqy9.jpg" alt="一起散步的夏日午后" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/agi_aibusi" rel="nofollow noreferrer" referrerpolicy="no-referrer">@agi_aibusi</a>
+- 来源: <a href="https://x.com/agi_aibusi/status/2110924176890757483" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/agi_aibusi/status/2110924173619138656" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-dwarven-forest-fight"></a>
+### 35. Kling 4.0 与 Seedance 2.5：矮人森林格斗
+
+Kling 4.0 与 Seedance 2.5：矮人森林格斗，来自 @AibeginnerR8 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+参照素材
+参照画像1 ：兜なしのドワーフA。顔、体格、髭、髪、衣服の基準。
+参照画像2 ：角兜のドワーフB。顔、体格、髭、髪、衣服、兜の基準。
+参照画像3 ：森の景観、植生、色、光、雰囲気の基準。
+人物写真は同一性と衣装に使う。最初から森にいるAのアップで始め、写真の白背景や直立ポーズは引き継がない。
+
+実写映画調、30秒、全8ショット。2人の重く頑丈なドワーフが、速い拳と脚の攻防を連続させる。4秒以降は、攻撃を受け流す動きが反撃になり、蹴りを外す踏み替えが次の接近になる。打った側もかわした側も足を動かし続け、相手の反応を次の攻撃へつなぐ。顔だけの反応カットや、腕を触れ合わせて待つ時間を挟まず、手足と相手の応答が読める距離から撮る。短い踏ん張りの間にも、拳、肩、足運びのいずれかが次の攻防へ動き続ける。通常速度。
+
+薄暗い針葉樹の森。高い幹、深緑のシダ、苔むした根、落ち葉の地面。戦う通路の脇に太い幹と露出した根がある。前半と後半で同じ根を使う。自然な皮膚、革と布、重い髭の揺れ、柔らかな森の光。
+開始時はAが画面左、Bが画面右で向かい合い、それぞれ相手を見る。カメラは2人を結ぶ軸の同じ側を保つ。以後の手足の左右は、その人物自身の身体を基準にする。
+
+SHOT 1｜0〜2秒：Aの挑発
+顔と右手が入る胸上のアップ。AはBを見て、掌を上に向け、指を小さく2回曲げて招く。口元に薄い笑み。手招きしながら、かすれた軽い声で「グラ・ドゥン！」と短く言う。発声は約0.6〜1.4秒。2秒でBのアップへ切り替える。
+
+SHOT 2｜2〜4秒：Bの返答と加速
+角兜と顔が入るBの胸上のアップ。Aを見て、口の片側を上げてにやりと笑う。低く太い声で「バル・ガッ！」。発声は約2.5〜3.3秒。語尾に肩を前へ倒して地面を蹴り、Aへ踏み出す。その加速の途中で4秒の全身アクションへ切る。
+
+SHOT 3｜4〜8秒：拳のラリーから低い蹴り
+Aの肩越しに、Bが同じ突進の続きで奥から急接近。カメラが両者の足まで入る画へ広がる。
+Bの左の短い拳をAが右手で外へ払い、続くBの右ストレートをAが左前腕で逸らす。Aは空いた右拳をBの胴へ返し、Bが左肘を締めて受ける。Bの右フックをAが低くくぐり、抜ける勢いでAが右の低い蹴りを出す。Bは狙われた前足を引いて外し、蹴りの通過とともに踏み直して再接近。拳、低い回避、蹴り、踏み直しを一続きに見せる。
+
+SHOT 4｜8〜12秒：押されながらも打ち返す
+斜め横からの全身追従。8〜10秒、Bが左の拳から右の胴打ちへつなぎ、Aが左右の前腕で処理しながら下がる。Aは受けた直後に左拳をBの脇腹へ返し、Bが肘を下げて遮る。
+10〜12秒、Bが低い蹴りを出す。Aは狙われた足を引いて外すが、Bは蹴った足の着地から肩を押し込む。Aは一歩滑り、後ろ足の踵を露出した根に当てて支える。足が止まる短い瞬間にも、AはBの押す腕を外へずらし、反撃を始める。Aの眉と口元が力み、Bは息を吐いて圧力をかける。接触点、双方の足、根を同じ画面に入れる。
+
+SHOT 5｜12〜17秒：攻防しながら幹の脇へ移動
+斜め前から下がりながら捉える。Aは根を蹴り、左前腕でBの右腕を外へ押し、右拳で胴へ反撃。Bは左腕で受け、右肘を返す。Aは左前腕で遮りながら頭を攻撃線の外へ移す。Aが続けて左の前蹴りを出すと、Bは胴を引いて半歩下がる。Aが蹴り脚を下ろすのに合わせ、Bが右拳で追い、Aはその外を抜けて幹の脇へ進む。Bも追い、左手をAの右前腕へ伸ばす。
+カメラはこの移動中に緩やかに腰の高さへ下がり、2人の全身を保つ。
+17秒前後、既にある手前の太い幹のすぐ脇をカメラが滑らかに通過する。樹皮が画面左から右へ素早く流れ、画面全体を約0.1秒だけ覆う。全体の通過は約0.3秒。全面が樹皮に覆われた中で、1回だけマスクカットする。遮蔽前後でカメラの高さ、人物の大きさ、幹の流れる方向と速度をそろえる。2人は移動を続け、Bの手はまだAをつかまない。
+
+SHOT 6｜17〜22秒：つかみをほどき、立ったまま反撃
+同じ方向へ流れる幹の縁が抜け、同じ軸側、同じ高さの低い斜め前の全身画へつながる。Aが先、Bが追う位置、身体の向き、歩幅、勢いを継続。画面が開くと同時に攻防が続き、見せ直しの静止を挟まない。
+17〜19秒、Bの左手がAの右前腕をつかむ。Aは踏み込みながら右肘を返してつかみを外し、空いている左拳をBの胴へ返す。Bが右前腕で遮り、すぐ右の短いアッパーを返す。Aは後ろ足で支えて上体を外し、その戻る勢いで左膝をBの腹へ突き上げる。Bは腰を引いて外す。
+19〜22秒、Aが左脚を下ろした瞬間、Bがその前足へ低い足払い。Aは前足を引いて空振りさせ、反対の足で身体を支える。引いた足を斜め前へ踏み直し、Aが右拳を返す。Bは左前腕で受け、さらに踏み込む。Aは立ったまま相手を見て後退し、同じ根の位置へ誘う。両者の手は相手への打撃、防御、短いつかみに使う。この区間は脚を引く回避と踏み替えでつなぎ、地面を叩く動作を入れない。
+
+SHOT 7｜22〜27秒：連打の圧力を投げへ変える
+斜め横の全身ショット。Bが左右の短い拳で押し込み、Aは受け流しながら一歩ずつ根へ下がる。Aが身体を少し開くと、Bが肩から再突進。
+Aは後ろ足で根を押し、左手でBの右前腕を取り、右腕でBの上体を制御する。根に当てた踵から支持を移し、Bの進路へ腰を入れて回る。Bの前進が横方向の投げへ変わり、落ち葉の上へ落下する。Aは着地に合わせて腕を解放し、そのまま足を運んで追う。踏ん張り、支持の移動、腰の回転、Bの落下と着地を同じショットで見せ切る。
+
+SHOT 8｜27〜30秒：倒れたBから即座に反撃
+Bの低い後方斜めからAを見る。Bは着地の勢いで転がり、片手と片膝で身体を起こしながら、詰めてきたAへ低い足払いを返す。Aは小さく跳び越え、脚の軌道の外へ着地。着地からAが右拳を出し、Bが立ち上がりながら左前腕で受ける。Bの目に警戒と闘志。カメラはBとともに上がり、互いが次の一歩を踏み込むところで終了。
+
+音声・BGM
+セリフは意味を定めない短いドワーフ語風の創作音。AとBの声を区別し、発声する本人の口と合わせる。セリフは冒頭の各ひと言だけ。
+約144 BPMの荒々しいファンタジー戦闘のインストゥルメンタル。低いフレームドラム、乾いた木製打楽器、短く刻む低弦。0〜4秒は薄く敷いて声を前に出し、4秒の突進から速い刻みを立ち上げる。12〜22秒は低弦の反復を重ね、マスクカットでも拍を途切れさせない。投げで打楽器を厚くし、Bの着地に低いアクセント。最後まで進行中のリズムを保って30秒で切る。歌声なし。
+重い足音、衣服と革の軋み、息、前腕で受ける音、打撃、シダと落ち葉、投げの着地音。SHOT 2→3と幹の遮蔽前後で足音と呼吸を連続させる。BGMは声と動作音より下。
+
+連続性
+2人の顔、体格、髭、衣服、Bの角兜を維持。髭と衣服は加速に遅れて揺れる。攻撃線から外れた回避、接触による反動、足の支持と蹴りの回収を見せる。マスクカットはSHOT 5→6の1回、それ以外は通常のカット。字幕や画面内文字なし。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/AibeginnerR8/status/2110935157503041672" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110932147477549056/img/qGJ5QnjmLwcNu9sk.jpg" alt="Kling 4.0 与 Seedance 2.5：矮人森林格斗" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/AibeginnerR8" rel="nofollow noreferrer" referrerpolicy="no-referrer">@AibeginnerR8</a>
+- 来源: <a href="https://x.com/AibeginnerR8/status/2110935160434610592" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/AibeginnerR8/status/2110935157503041672" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="competitive-harbor-tactical-shooter"></a>
+### 36. 港口战术射击竞技游戏
+
+港口战术射击竞技游戏，来自 @ImaStudio_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+15-second horizontal 16:9, 1080p, 60fps first-person gameplay recording of a stylish competitive 5v5 tactical hero shooter, with the clean visual readability, snappy gunplay, colorful map design and polished esports feel associated with modern games like Valorant, while using completely original characters, weapons and map design.
+The footage should feel like an authentic high-level ranked match captured directly from a PC game.
+Visual Style
+Stylized semi-realistic competitive shooter graphics rather than military realism.
+Clean, colorful, slightly graphic art direction with:
+- simplified but high-quality materials
+- crisp angular architecture
+- strong readable silhouettes
+- saturated but controlled colors
+- clean environmental shapes
+- low visual clutter
+- soft stylization rather than photorealism
+- bright global illumination
+- sharp sunlight and clearly readable shadows
+Everything should feel intentionally designed for competitive visibility.
+Characters have original futuristic tactical outfits with clean silhouettes, colorful accent panels and subtle sci-fi details. They should feel like unique hero-shooter agents, but must not resemble any existing game character.
+First-Person View
+Pure first-person perspective.
+The player's hands wear sleek purple tactical gloves with subtle futuristic details.
+The player holds an original compact assault rifle in the lower-right of the screen, with proportions and handling similar to a modern competitive tactical rifle.
+The weapon has a premium animated skin:
+hot pink + cyan + deep purple, glossy graphic panels, neon accents, stylized graffiti-like abstract patterns, subtle animated light strips and metallic highlights.
+The weapon should feel like a premium in-game cosmetic rather than a real-world firearm.
+Minimal HUD.
+The only visible UI element is a tiny bright green competitive crosshair in the exact center of the screen.
+No minimap.
+No health.
+No ammo counter.
+No timer.
+No kill feed.
+No player names.
+No score.
+No banners.
+Movement & Gunplay
+Gameplay should feel extremely responsive and competitive:
+- quick shoulder peeks
+- jiggle peeks
+- counter-strafing
+- short controlled bursts
+- precise one-taps
+- fast crosshair placement
+- small mouse flicks
+- rapid angle clearing
+Movement should feel grounded and tactical.
+No Call of Duty-style sprinting.
+No exaggerated sliding.
+No bunny hopping.
+No cinematic camera movement.
+When firing while standing still, shots are extremely accurate.
+While moving, the player briefly stops before firing, creating the recognizable rhythm of:
+move → counter-strafe → fire → reposition.
+Gun recoil is controlled and readable with compact muzzle flash and subtle weapon kick.
+Headshots produce a clean, satisfying stylized hit spark and sharp elimination sound.
+Enemies fall quickly with restrained stylized death animations rather than exaggerated realistic ragdolls.
+Original Map — Asian Harbor Market
+A completely original competitive three-lane tactical map set in a sunny Asian harbor market district.
+The environment combines:
+- narrow market alleys
+- stacked red, cyan and mustard-yellow shipping containers
+- sun-bleached concrete
+- colorful canvas awnings
+- hanging paper lanterns
+- small food stalls
+- wooden crates
+- fish barrels
+- metal stairways
+- elevated catwalks
+- corrugated metal buildings
+- wooden harbor docks
+- floating pontoons
+- fishing boats
+- deep turquoise harbor water
+- distant industrial cranes
+Architecture is deliberately stylized and clean.
+Use large readable color blocks and simplified environmental geometry.
+Shop signs contain only abstract symbols and geometric icons — no readable text or real-world language.
+Bright clear midday sky.
+Warm sunlight.
+Strong blue sky.
+Clean hard-edged shadows.
+Colorful but competitive visual readability.
+The harbor water is saturated turquoise-blue with sparkling sunlight.
+Gameplay Sequence
+00:00–00:02
+The player shoulder-peeks from behind a bright blue shipping container.
+A single enemy appears at the far end of the alley.
+The player instantly counter-strafes, makes a tiny horizontal flick and fires a tight two-round burst.
+The second bullet lands as a clean headshot.
+A sharp stylized headshot spark appears.
+The enemy immediately drops.
+The player instantly pulls back behind cover.
+00:02–00:04
+The player quickly advances through the container lane.
+He clears the left angle, then wide-swings around a stack of wooden crates.
+An enemy is holding the corner.
+The player stops for a fraction of a second and fires two precise taps.
+The enemy drops immediately.
+Fast, confident ranked-match movement.
+00:04–00:06
+The player reaches a colorful market stall.
+He performs two quick jiggle peeks.
+On the second peek, he spots an enemy standing on an elevated metal catwalk.
+A fast upward micro-flick.
+One clean shot.
+Instant headshot elimination.
+A brief bright hit spark appears around the enemy's head before the character collapses.
+00:06–00:08
+The player rotates toward the harbor.
+He hops from the concrete pier onto a floating wooden pontoon.
+While moving forward, he performs a smooth tactical reload.
+The magazine is removed and replaced with a fast polished animation.
+Sunlight reflects beautifully from the animated rifle skin.
+The camera has subtle natural first-person view bob.
+00:08–00:10
+Moving between colorful fishing boats, the player spots an enemy standing on the deck of a nearby boat.
+The player quickly stops movement.
+Small crosshair correction.
+Two fast taps.
+The enemy is eliminated and falls naturally from the boat deck into the turquoise water.
+A clean splash appears.
+No exaggerated physics.
+00:10–00:11
+The player equips a small futuristic smoke device.
+With a quick underhand throw, it lands on the dock ahead.
+The device activates.
+Instead of realistic military smoke, it rapidly expands into a smooth spherical tactical smoke cloud with a clean outer boundary.
+Dark blue-grey interior with subtle purple highlights.
+Very readable against the bright environment.
+00:11–00:13
+The player holds his crosshair at head height toward the edge of the smoke.
+Two enemies emerge one after another.
+First enemy:
+quick counter-strafe → short burst → headshot.
+Second enemy:
+small flick → controlled three-round burst → elimination.
+Wood splinters appear from missed bullets hitting the dock.
+Small water impacts create quick stylized splashes.
+The eliminations feel fast, clean and competitive.
+00:13–00:15
+Silence after the final elimination.
+The player stands alone on the floating pontoon.
+For half a second he looks down toward the turquoise harbor water moving against the wooden boards.
+Then he looks back up.
+He activates the weapon inspect animation.
+The rifle rotates elegantly in his hands while its neon pink and cyan skin briefly pulses with animated light.
+A short polished round-win audio cue plays.
+No victory banner or text appears.
+End naturally on the weapon inspection.
+Camera & Animation
+Authentic mouse-controlled FPS camera.
+Fast but controlled aiming.
+Small natural micro-adjustments.
+Precise crosshair placement at head level.
+Subtle recoil.
+Natural first-person weapon sway.
+No cinematic cuts.
+No third-person shots.
+No slow motion.
+No artificial camera zoom.
+One continuous uninterrupted gameplay round.
+Sound Design
+Polished stylized competitive shooter audio:
+- sharp punchy rifle shots
+- satisfying headshot confirmation sound
+- subtle weapon mechanical clicks
+- magazine removal and insertion
+- shell casings hitting concrete and wood
+- footsteps changing naturally between concrete, metal and wooden docks
+- wood impact splinters
+- small water bullet impacts
+- tactical smoke activation sound
+- distant seagulls
+- soft harbor ambience
+- water hitting wooden pontoons
+- faint distant harbor horn
+- short clean round-win sting
+No dialogue.
+No announcer voice.
+No music.
+Important Negative Constraints
+No photorealistic military simulation look.
+No Counter-Strike-style gritty realism.
+No Call of Duty-style movement.
+No battle royale HUD.
+No realistic military uniforms.
+No realistic weapon branding.
+No excessive blood.
+No gore.
+No exaggerated ragdolls.
+No giant muzzle flashes.
+No camera shake.
+No motion blur.
+No readable text.
+No real-world logos.
+No game logos.
+No existing Valorant agents.
+No existing Valorant weapons.
+No copied Valorant maps.
+No recognizable IP characters.
+The final result should feel like high-level competitive Valorant-style gameplay in an original map, emphasizing clean readability, colorful stylized environments, precise one-taps, counter-strafing, premium weapon skins and polished tactical shooter feedback.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/ImaStudio_ai/status/2110942541604675883" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2110942384456712193/img/f7wZeZxrpnsQS6fE.jpg" alt="港口战术射击竞技游戏" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/ImaStudio_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@ImaStudio_ai</a>
+- 来源: <a href="https://x.com/ImaStudio_ai/status/2110942886791647349" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/ImaStudio_ai/status/2110942541604675883" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="forest-automotive-commercial"></a>
-### 27. 森林汽车广告
+### 37. 森林汽车广告
 
 森林汽车广告，来自 @Diplomeme 的原始提示词。
 
@@ -2366,7 +3087,7 @@ High-octane, hyper-realistic automotive commercial for the Kia Seltos, shot with
 ---
 
 <a id="alien-giants-in-a-turquoise-lagoon"></a>
-### 28. 绿松石泻湖中的外星巨兽
+### 38. 绿松石泻湖中的外星巨兽
 
 绿松石泻湖中的外星巨兽，来自 @Alin_Reaper05 的原始提示词。
 
@@ -2399,7 +3120,7 @@ Two enormous long-necked alien animals slowly walk through a shallow turquoise l
 ---
 
 <a id="mechanical-jungle-predator"></a>
-### 29. 机械丛林捕食者
+### 39. 机械丛林捕食者
 
 机械丛林捕食者，来自 @Alin_Reaper05 的原始提示词。
 
@@ -2432,7 +3153,7 @@ A living mechanical predator with a glowing orange central eye moves through den
 ---
 
 <a id="alien-settlement-at-sunrise"></a>
-### 30. 日出时分的外星聚落
+### 40. 日出时分的外星聚落
 
 日出时分的外星聚落，来自 @Alin_Reaper05 的原始提示词。
 
@@ -2464,8 +3185,61 @@ A colorful alien settlement filled with enormous spherical buildings and bizarre
 
 ---
 
+<a id="a-two-car-chase"></a>
+### 41. 双车追逐
+
+双车追逐，来自 @PromptSin 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+15-second widescreen 16:9 photorealistic cinematic action sequence, Kling 4.0 full model, 720p, native sound. Use the supplied image as the opening-frame and vehicle-identity reference. Exactly two cars: the same red sports coupe leads and the same black sports sedan pursues. Preserve car shapes, colors, wheels and the four adult occupants throughout. Driver in each car controls the vehicle; passengers perform the fictional action-film gunfire. No pedestrians.
+
+PACE: relentless real-time action from the first frame. No slow motion, freeze frames, speed ramps, introductory establishing shots or pauses. Believable wheel contact, steering, suspension and momentum. Maintain clear lead/pursuer relationship and forward screen direction across cuts.
+
+0–4 SECONDS — IMMEDIATE HOOK:
+Begin matching the reference, already mid-drift around a city street corner. Red coupe leads, black sedan follows close behind. Tires howl, smoke streams backward and road grit sprays. Brief gunfire from the pursuing passenger, small muzzle flashes and impacts on road or vehicle bodywork, no injuries. Low moving three-quarter tracking camera keeps both cars legible.
+
+4–10 SECONDS — ESCALATING PURSUIT:
+A fast lateral tracking shot shows both cars surging along the riverside avenue. The red car passenger briefly returns fire toward the black car; driver keeps both hands on the wheel. Alternate short readable bursts of gunfire with tire squeal, sparks from impacts and rapid lane changes. Cut to a low rear chase view as both cars drift through a second bend toward the bridge approach, red car still leading. No extra vehicles, explosions or unrelated action. Preserve geography and continuous acceleration.
+
+10–15 SECONDS — CAMERA PASS, SMALL CREST JUMP AND LANDING:
+A low roadside camera catches the red coupe then the black sedan roaring past close to camera. The camera pans to follow them rear three-quarter as they reach a small smooth convex crest on the intact bridge roadway. Show continuous unbroken asphalt across the entire crest and beyond, with intact guardrails. Each car briefly lifts its four wheels only slightly off the road over the crest, red first, black following. A short low hop, not a long aerial leap. BOTH cars visibly land back on the same asphalt by second 14, suspension compresses and rebounds, and they keep accelerating along the continuous road until the cut at second 15. Real-time speed, no slow motion. The river remains far below the intact bridge and neither car leaves the roadway corridor.
+
+ENVIRONMENT:
+Same fictional modern riverside city as reference, late-afternoon daylight, coherent shadows and reflections. The bridge is structurally intact with a continuous road surface, a gentle raised crest and visible road continuing beyond it. Stylized blockbuster stunt physics with realistic-looking cars and materials.
+
+AUDIO:
+Powerful engines with Doppler shifts, tire squeals, short cinematic gunfire, metallic impact ticks, debris, wind and brief tire lift followed by tire contact and suspension compression on landing. No dialogue, narration or music needed.
+
+AVOID:
+Slow motion, motionless cars, reversing direction accidentally, car-color swaps, shape morphing, extra cars, duplicated occupants, drivers firing weapons, excessive smoke hiding the action, gratuitous explosions, blood, injuries, text overlays, captions, visible real-world logos or watermarks.
+
+CRITICAL ENDING: no broken bridge, missing road, chasm, ramp, fall into river, or cut while airborne. Show a modest road-crest hop, asphalt landing and continued driving.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PromptSin/status/2111042013210825211" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111041977894797313/img/7_JZY9hxgveJv1xL.jpg" alt="双车追逐" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PromptSin" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PromptSin</a>
+- 来源: <a href="https://x.com/PromptSin/status/2111042032135553463" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PromptSin/status/2111042013210825211" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="rainy-horror-storyboard"></a>
-### 31. 雨夜恐怖分镜
+### 42. 雨夜恐怖分镜
 
 雨夜恐怖分镜，来自 @EndFolding79421 的原始提示词。
 
@@ -2498,7 +3272,7 @@ First Panel:  A low-angle view of muddy boots stepping through a rain-soaked all
 ---
 
 <a id="cyber-assassin-code-jump"></a>
-### 32. 代码刺客跳跃
+### 43. 代码刺客跳跃
 
 代码刺客跳跃，来自 @EndFolding79421 的原始提示词。
 
@@ -2531,7 +3305,7 @@ A cyber-assassin leaps off a skyscraper [tracking shot from above]. She disinteg
 ---
 
 <a id="submarine-creature-encounter"></a>
-### 33. 潜艇怪物遭遇
+### 44. 潜艇怪物遭遇
 
 潜艇怪物遭遇，来自 @EndFolding79421 的原始提示词。
 
@@ -2564,7 +3338,7 @@ Hyperrealistic 8K underwater sci-fi horror scene inside a deep-sea submarine. A 
 ---
 
 <a id="glowing-underwater-city"></a>
-### 34. 发光海底城市
+### 45. 发光海底城市
 
 发光海底城市，来自 @EndFolding79421 的原始提示词。
 
@@ -2597,7 +3371,7 @@ The camera follows the glowing water-woman as she swims deeper into the ocean. H
 ---
 
 <a id="fraternity-house-emotional-scene"></a>
-### 35. 兄弟会住宅情感片段
+### 46. 兄弟会住宅情感片段
 
 兄弟会住宅情感片段，来自 @EndFolding79421 的原始提示词。
 
@@ -2629,8 +3403,48 @@ integrated_multimodal_description: <image 0> = STORYBOARD / VISUAL SEQUENCE REFE
 
 ---
 
+<a id="alchemist-summons-a-tiny-fire-spirit"></a>
+### 47. 炼金术士召唤火焰精灵
+
+炼金术士召唤火焰精灵，来自 @shikoba_86 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A cramped alchemist's workshop at night, inside an old stone tower, lit only by candles. Rain on a small window.
+Shot 1, wide: the alchemist stands at a cluttered wooden table full of glass jars and an open book.
+Shot 2, medium: she slowly pours a glowing green liquid into a round glass vial.
+Shot 3, close-up on the vial: the liquid flashes into golden light and a tiny fire spirit made of living flame rises out of it.
+Shot 4, medium close-up: the spirit lands on her open palm, lighting her face orange. She whispers: "Finally. After a hundred tries."
+
+CHARACTER LOCK: Alchemist: woman in her late 30s, long dark red hair tied back, ink-stained fingers, dark green apron over a cream linen shirt. Fire spirit: hand-sized figure of orange and gold flame with two bright white eyes. Same faces and outfits in every shot.
+LOCATION: worn stone walls, melted candle wax, scattered parchment, deep shadows in the corners. 
+AUDIO: rain, crackling candles, glass clinking, a soft whoosh when the spirit appears, her whisper. No music.
+AVOID: no subtitles or on-screen text, no extra characters, no warped hands or glass.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/shikoba_86/status/2111101132223205663" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111100882435653633/img/d6JIjNBlhGu_iKrZ.jpg" alt="炼金术士召唤火焰精灵" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-16 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/shikoba_86" rel="nofollow noreferrer" referrerpolicy="no-referrer">@shikoba_86</a>
+- 来源: <a href="https://x.com/shikoba_86/status/2111101132223205663" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="margot-and-leo"></a>
-### 36. 玛戈与莱奥
+### 48. 玛戈与莱奥
 
 玛戈与莱奥，来自 @EricKerArt 的原始提示词。
 
@@ -2672,7 +3486,7 @@ Léo stands still among the yellow gorse, stunned, the wind in his hair. Margot 
 ---
 
 <a id="the-floating-violin-melody"></a>
-### 37. 悬浮小提琴旋律
+### 49. 悬浮小提琴旋律
 
 悬浮小提琴旋律，来自 @NigelWatsonTFTC 的原始提示词。
 
@@ -2705,7 +3519,7 @@ A street musician sits alone on wet pavement at night under a single streetlight
 ---
 
 <a id="the-nameless-edge-trailer"></a>
-### 38. 无名之刃预告片
+### 50. 无名之刃预告片
 
 无名之刃预告片，来自 @NigelWatsonTFTC 的原始提示词。
 
@@ -3630,8 +4444,39 @@ FINAL PRIORITY: Beat-perfect cuts, enormous sword-and-sorcery spectacle, aggress
 
 ---
 
+<a id="army-scattered-by-a-sudden-blast"></a>
+### 51. 突发爆炸冲散军阵
+
+突发爆炸冲散军阵，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A dense army advances through smoke when an enormous explosion erupts directly ahead, soldiers knocked backward and shields spinning through the air, the formation immediately breaks into chaotic combat, camera pushing aggressively into the crowd.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2111358378186522680" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111357925063057408/img/f_5yabjYM2Zfefhl.jpg" alt="突发爆炸冲散军阵" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-17 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2111358380656730513" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2111358378186522680" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="maison-dor-french-toast-commercial"></a>
-### 39. Maison Doré 法式吐司广告
+### 52. Maison Doré 法式吐司广告
 
 Maison Doré 法式吐司广告，来自 @ryosuke_journey 的原始提示词。
 
@@ -3939,8 +4784,39 @@ GOOD FOOD BRIGHTER DAYS
 
 ---
 
+<a id="giant-lion-charges-toward-battle"></a>
+### 53. 巨狮奔赴战场
+
+巨狮奔赴战场，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A gigantic lion stands on a hill overlooking several ancient villages when a dark god summons an enormous enemy creature in the distance, thunderclouds spiral overhead, the lion roars and sprints downhill toward the coming battle.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2111372303271657806" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111371932549496832/img/fSdQ3Srd_4j74TTC.jpg" alt="巨狮奔赴战场" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-17 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2111372306761290098" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2111372303271657806" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="mirror-world-cinematic-journey"></a>
-### 40. 镜中世界电影旅程
+### 54. 镜中世界电影旅程
 
 镜中世界电影旅程，来自 @TheRogueA1 的原始提示词。
 
@@ -3991,7 +4867,7 @@ NEGATIVE: extra limbs, morphing faces, identity drift between characters, Demon 
 ---
 
 <a id="late-night-kitchen-confession"></a>
-### 41. 深夜厨房坦白
+### 55. 深夜厨房坦白
 
 深夜厨房坦白，来自 @MayorKingAI 的原始提示词。
 
@@ -4067,7 +4943,7 @@ Exactly two people for the entire scene. Same faces, hair, clothing and wedding 
 ---
 
 <a id="vagabond-samurai-trailer"></a>
-### 42. 浪客武士预告片
+### 56. 浪客武士预告片
 
 浪客武士预告片，来自 @NigelWatsonTFTC 的原始提示词。
 
@@ -4219,7 +5095,7 @@ FINAL PRIORITY: beat-synced percussion editing, authentic chanbara atmosphere, t
 ---
 
 <a id="japanese-romantic-goodbye"></a>
-### 43. 日式浪漫告别
+### 57. 日式浪漫告别
 
 日式浪漫告别，来自 @agi_aibusi 的原始提示词。
 
@@ -4287,7 +5163,7 @@ A small, believable romantic turning point. Her beauty is visible in her face an
 ---
 
 <a id="brunch-selfie"></a>
-### 44. 早午餐自拍视频
+### 58. 早午餐自拍视频
 
 早午餐自拍视频，来自 @minchoi 的原始提示词。
 
@@ -4320,7 +5196,7 @@ Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one 
 ---
 
 <a id="live-stadium-concert"></a>
-### 45. 露天体育场演唱会
+### 59. 露天体育场演唱会
 
 露天体育场演唱会，来自 @minchoi 的原始提示词。
 
@@ -4356,7 +5232,7 @@ GLOBAL: Real live concert footage filmed outdoors at an open-air stadium at nigh
 ---
 
 <a id="seven-shot-ski-film"></a>
-### 46. 七镜头滑雪短片
+### 60. 七镜头滑雪短片
 
 七镜头滑雪短片，来自 @minchoi 的原始提示词。
 
@@ -4389,7 +5265,7 @@ A 30-second, seven-shot ski film edit of Kai <Character reference> skiing one st
 ---
 
 <a id="airport-vlog"></a>
-### 47. 机场日常视频
+### 61. 机场日常视频
 
 机场日常视频，来自 @minchoi 的原始提示词。
 
@@ -4422,7 +5298,7 @@ Raw vertical 9:16 selfie video shot on a phone's front camera held low at chest 
 ---
 
 <a id="continuous-skateboard-tracking"></a>
-### 48. 连续跟拍滑板
+### 62. 连续跟拍滑板
 
 连续跟拍滑板，来自 @minchoi 的原始提示词。
 
@@ -4455,7 +5331,7 @@ Raw vertical 9:16 selfie video shot on a phone's front camera held low at chest 
 ---
 
 <a id="parked-car-confession"></a>
-### 49. 停车场车内独白
+### 63. 停车场车内独白
 
 停车场车内独白，来自 @minchoi 的原始提示词。
 
@@ -4488,7 +5364,7 @@ Raw vertical 9:16 video recorded on a phone's front camera, one continuous 30-se
 ---
 
 <a id="beach-vlog"></a>
-### 50. 海边日常视频
+### 64. 海边日常视频
 
 海边日常视频，来自 @minchoi 的原始提示词。
 
@@ -4521,7 +5397,7 @@ Raw vertical 9:16 selfie video shot on a phone's front camera held at arm's leng
 ---
 
 <a id="dancing-to-a-music-reference"></a>
-### 51. 跟随音乐参考起舞
+### 65. 跟随音乐参考起舞
 
 跟随音乐参考起舞，来自 @EndFolding79421 的原始提示词。
 
@@ -4554,7 +5430,7 @@ Ruth (image1) dancing to the music in (video1).
 ---
 
 <a id="3-2-1-supernatural-thriller-trailer"></a>
-### 52. 超自然惊悚预告片
+### 66. 超自然惊悚预告片
 
 超自然惊悚预告片，来自 @EndFolding79421 的原始提示词。
 
@@ -4588,7 +5464,7 @@ Create a dark, intense, photorealistic 30-second theatrical movie trailer for a 
 ---
 
 <a id="warehouse-stunt-fight"></a>
-### 53. 仓库特技格斗
+### 67. 仓库特技格斗
 
 仓库特技格斗，来自 @SilentNightX97 的原始提示词。
 
@@ -4639,7 +5515,7 @@ NATURAL REALISM: realistic fight choreography with proper weight transfer and mo
 ---
 
 <a id="waterfall-from-an-ink-scroll"></a>
-### 54. 水墨卷轴流出瀑布
+### 68. 水墨卷轴流出瀑布
 
 水墨卷轴流出瀑布，来自 @opener_ai 的原始提示词。
 
@@ -4672,7 +5548,7 @@ A tall Korean ink-wash landscape scroll hangs against a warm plaster wall in a q
 ---
 
 <a id="park-bench-base-clip"></a>
-### 55. 公园长椅基础片段
+### 69. 公园长椅基础片段
 
 公园长椅基础片段，来自 @shikoba_86 的原始提示词。
 
@@ -4716,7 +5592,7 @@ AVOID: no music, no subtitles or on-screen text, the ball stays yellow, the dog 
 ---
 
 <a id="dog-to-dinosaur-edit"></a>
-### 56. 小狗变恐龙编辑
+### 70. 小狗变恐龙编辑
 
 小狗变恐龙编辑，来自 @shikoba_86 的原始提示词。
 
@@ -4749,7 +5625,7 @@ Replace the dog with the small dinosaur from the reference image. It runs, catch
 ---
 
 <a id="autumn-season-edit"></a>
-### 57. 秋季场景编辑
+### 71. 秋季场景编辑
 
 秋季场景编辑，来自 @shikoba_86 的原始提示词。
 
@@ -4782,7 +5658,7 @@ Change the season from late summer to late autumn: orange and red leaves on the 
 ---
 
 <a id="fox-autumn-and-flannel-edit"></a>
-### 58. 狐狸、秋景与衬衫编辑
+### 72. 狐狸、秋景与衬衫编辑
 
 狐狸、秋景与衬衫编辑，来自 @shikoba_86 的原始提示词。
 
@@ -4815,7 +5691,7 @@ Replace the dog with a red fox, change the season to late autumn, and change Fri
 ---
 
 <a id="add-a-third-friend"></a>
-### 59. 增加第三位朋友
+### 73. 增加第三位朋友
 
 增加第三位朋友，来自 @shikoba_86 的原始提示词。
 
@@ -4847,8 +5723,72 @@ Add a third friend sitting in the empty space in the middle of the bench, betwee
 
 ---
 
+<a id="2010-boutique-mobile-livestream"></a>
+### 74. 2010 年精品店手机直播
+
+2010 年精品店手机直播，来自 @bmx_ai13 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30second ultra realistic video featuring the character from @.jpg (maintaining her exact pinkish purple bob hair, heterochromia eyes one green and one amber, face markings, and facial features) hosting a live shopping session inside a trendy boutique in 2010. The video is captured entirely through an early smartphone front-facing camera (like iPhone 4 era), featuring authentic 2010 mobile livestream aesthetics: heavy pixelation, low resolution, digital compression artifacts, grainy texture, and slightly shaky handheld movements.
+
+Scene 1 — Welcome to the Live (0–5 seconds)
+Choi Yu-na stands inside a 2010 style women's boutique with neon signage and racks filled with early 2010s fashion trends, wearing her signature black bomber jacket over a black top and gray pleated skirt. She holds her early smartphone at arm's length, smiling into the low res pixelated camera and greeting her viewers.
+
+Dialogue: “Hey guys! Welcome to my mobile live stream! I'm here at the boutique today, and you guys have to see these new arrivals!”
+She briefly pans the pixelated camera toward the clothing racks, then returns it to her face.
+
+Scene 2 — Show the First Dress (5–10 seconds)
+
+She picks up a trendy 2010 color-block party dress from the rack, holding it up close to the low res camera lens to show its fabric and design.
+
+Dialogue: “Look at this color block dress! It's so hot right now, and the fabric is super cute for a night out!”
+She squints slightly at the screen as if reading early mobile chat comments.
+
+Scene 3 — First Outfit Try On (10–16 seconds)
+
+A pixelated, glitchy transition shows her wearing the same color-block dress, standing in front of a full-length boutique mirror while maintaining her exact face, hair, and unique eye colors. She poses and takes a few steps for the camera.
+
+Dialogue: “Okay everyone, here it is on! How does it look? I'm totally loving this style!”
+She smiles and waves at the viewer names popping up on her phone screen.
+
+Scene 4 — Second Outfit Reveal (16–23 seconds)
+
+A quick, low-res transition brings her back wearing a classic 2010 sequin top and skinny jeans set. She adjusts her hair, steps forward, and shows off the outfit.
+
+Dialogue: “And check out this sequin top and denim combo! Perfect for weekend hangs with friends!”
+Her delivery feels spontaneous, casual, and true to early social media video creators.
+
+Scene 5 — Final Sales Pitch (23–30 seconds)
+
+She stands near the boutique display wearing the second outfit while holding the color-block dress on a hanger beside her, smiling brightly into the phone.
+
+Dialogue: “Alright guys, let me know in the comments which one you like best! Send a text message or leave a comment to grab yours before they sell out. Bye!”
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/bmx_ai13/status/2111824846309269700" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111824807004430336/img/p3h0VpXB0nvCopNP.jpg" alt="2010 年精品店手机直播" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-18 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- 来源: <a href="https://x.com/bmx_ai13/status/2111824850222452968" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/bmx_ai13/status/2111824846309269700" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="cantina-crime-drama"></a>
-### 60. 酒馆犯罪对话
+### 75. 酒馆犯罪对话
 
 酒馆犯罪对话，来自 @MayorKingAI 的原始提示词。
 
@@ -4941,8 +5881,108 @@ Exactly four people for the entire scene: Ernesto, Flaco and two bodyguards. Sam
 
 ---
 
+<a id="accidental-michelin"></a>
+### 76. 意外的米其林天才
+
+意外的米其林天才，来自 @yourPlugAI 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+[ENGINE DIRECTIVE]
+
+Generate a continuous 30-second hyper-realistic live-action office/academic comedy sequence using Kling 4.0 at 120fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: "Director Kang-jun" (master chef in navy coat) and "Hye-soo" (clumsy student in flour-dusted apron). Setting strictly follows "High-End Culinary Art Academy Lab". Style: High-tension K-drama comedy, sharp whip-pans, snap-zooms, exaggerated physical freezes, dramatic shadow drops, synced comedic audio hits, dynamic subtitle overlays.
+
+[AUDIO DIRECTIVE]
+
+MUSIC: High-energy K-drama comedic track featuring rapid orchestral pizzicato strings, sudden brass drops, and frantic pots-and-pans percussion syncs.
+
+SOUND DESIGN: Loud metallic pots clanking, high-pitched sneaker slide screech, chef's clipboard SLAP, dramatic gong hit, liquid splash, sharp whip-pan WHOOSH, comedic record scratch.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:03 | EXTREME CLOSE-UP HOOK & FLYING SPICES (SCROLL-STOPPING HOOK)
+VISUAL: Extreme macro snap-zoom onto Director Kang-jun’s twitching eye and twitching jaw. Sudden whip-pan 180 degrees to Hye-soo slipping on a stray piece of butter on the floor in slow motion.
+
+ACTION: Kang-jun stands rigidly with his clipboard, inspecting. Hye-soo trips over her own feet; her tray of spices and a squeeze bottle of dark reduction go flying into the air in hyper-slow motion toward an expensive, unfinished plating dish.
+
+DIALOGUE (HYE-SOO): Ah! Director!! Watch out!!
+
+SOUND: Comedic high-pitched screech, slow-motion bass drop, frantic brass swell, metallic clang.
+
+00:03 - 00:07 | SLIDING CATCH & CRASH ON MARBLE
+
+VISUAL: Fast tracking camera following Hye-soo sliding across the stainless-steel prep table.
+ACTION: Hye-soo executes a desperate, clumsy slide across the counter, catching the falling sauce bottle mid-air, but landing face-first on a pastry board, sending a huge cloud of flour into the air. A spray of dark reduction splatters directly onto the center of Kang-jun’s pristine clipboard and sleeve.
+
+DIALOGUE (KANG-JUN): What... are you doing in my exam room?
+
+SOUND: Sliding THUD, loud flour POOF, sharp record scratch, dead silence beat.
+
+00:07 - 00:12 | SNAP-ZOOM REACTION & SHADOW DROP
+
+VISUAL: Rapid three-stage snap-zoom on Kang-jun’s deadpan, unblinking face under a sudden dramatic shadow drop as he looks down at his splattered sleeve.
+
+ACTION: Kang-jun slowly adjusts his glasses with one finger, maintaining total silence. He reaches down, dips his finger into the chaotic splash of sauce that accidentally landed on his tasting spoon, and slowly tastes it. His eyes widen by a millimeter—the mistake created a spectacular, unplanned savory-sweet infusion.
+DIALOGUE (HYE-SOO - WHISPERING): Please, just don't fail me...
+
+SOUND: Sharp camera shutter CLICK-CLICK-CLICK, dramatic choir chant hit, sizzle of a pan.
+
+00:12 - 00:18 | THE WHIP-PAN INTERROGATION
+
+VISUAL: Whip-pan camera movement back and forth between Kang-jun leaning down over the table and Hye-soo lying flat on her belly, clutching the squeeze bottle.
+
+ACTION: Kang-jun slams his hands on the counter, leaning inches from her flour-sputtered face. His expression is terrifyingly intense, but his eyes are fixed purely on the sauce.
+
+DIALOGUE (KANG-JUN): This sauce ratio... how did you think of this?
+DIALOGUE (HYE-SOO): Huh? It just... mixed when I fell...
+
+SOUND: Heavy counter SLAM, low bass rumble, high pizzicato tension strings.
+
+00:18 - 00:24 | EXAGGERATED FREEZE & CLASS STUN
+
+VISUAL: Dynamic low-angle wide shot. High-contrast lighting flashes as the entire background student team in the kitchen freezes in over-the-top shock.
+
+ACTION: Kang-jun suddenly lifts the spoon and his clipboard into the air, turning sharply toward the evaluation board with an epic, serious posture, pointing dramatically at Hye-soo.
+
+DIALOGUE (KANG-JUN): She’s a genius. This student gets the highest score in history!
+
+SOUND: Triumphant K-drama orchestra hit, audience gasps, thunderous comedic sting.
+00:24 - 00:30 | ABSURD RESOLUTION & CHAOTIC FINISH
+
+VISUAL: Tracking hero shot moving backward as Kang-jun vigorously shakes Hye-soo's hand while she is still half-sprawled on the marble pastry table.
+
+ACTION: Kang-jun aggressively shakes her flour-coated hand with a deadpan, intense expression. Hye-soo, still on her belly holding the bottle, nods along in complete confusion as a rain of flour dust falls around them.
+
+DIALOGUE (KANG-JUN): Starting tomorrow, you are my head research assistant.
+
+DIALOGUE (HYE-SOO): What?! I just got here yesterday!!
+
+SOUND: High-energy comedic K-drama theme song playout, party horn sound, fast fade to black.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/yourPlugAI/status/2112030985751756819" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2112028260959731712/img/-i1cQTW0f4aUnelv.jpg" alt="意外的米其林天才" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-19 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
+- 来源: <a href="https://x.com/yourPlugAI/status/2112030985751756819" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="urban-rooftop-parkour"></a>
-### 61. 都市屋顶跑酷
+### 77. 都市屋顶跑酷
 
 都市屋顶跑酷，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -5026,8 +6066,39 @@ CG調。
 
 ---
 
+<a id="a-god-hurls-a-mountain-boulder"></a>
+### 78. 神明投掷山间巨石
+
+神明投掷山间巨石，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A god hand grabs a huge boulder from a mountain and throws it toward an enemy settlement, the camera follows the rock through the air before it crashes outside the city walls, villagers running in panic, dramatic but playful god-simulation presentation.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2112122587333493236" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2112121385690554368/img/rS5O3OqvJ6JMJcPF.jpg" alt="神明投掷山间巨石" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-19 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2112122589845790790" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2112122587333493236" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="the-tomb-of-pale-flame"></a>
-### 62. 苍白火焰之墓
+### 79. 苍白火焰之墓
 
 苍白火焰之墓，来自 @itsPixieVerse 的原始提示词。
 
@@ -5070,7 +6141,7 @@ CG調。
 ---
 
 <a id="anime-street-encounter"></a>
-### 63. 动漫街头偶遇
+### 80. 动漫街头偶遇
 
 动漫街头偶遇，来自 @ShamiWeb3 的原始提示词。
 
@@ -5180,7 +6251,7 @@ Realistic or 3D look, character design drift (wrong hair colour, missing glasses
 ---
 
 <a id="cinematic-pageant-walk"></a>
-### 64. 电影感舞台走秀
+### 81. 电影感舞台走秀
 
 电影感舞台走秀，来自 @EndFolding79421 的原始提示词。
 
@@ -5213,7 +6284,7 @@ Realistic or 3D look, character design drift (wrong hair colour, missing glasses
 ---
 
 <a id="desert-market-starship"></a>
-### 65. 沙漠集市飞船
+### 82. 沙漠集市飞船
 
 沙漠集市飞船，来自 @EndFolding79421 的原始提示词。
 
@@ -5246,7 +6317,7 @@ Starting from the given image: a bustling sci-fi desert marketplace with crowds 
 ---
 
 <a id="victorian-harbor-ghost"></a>
-### 66. 维多利亚港口幽灵
+### 83. 维多利亚港口幽灵
 
 维多利亚港口幽灵，来自 @EndFolding79421 的原始提示词。
 
@@ -5279,7 +6350,7 @@ A beautiful woman in a deep burgundy Victorian dress stands at the harbor, facin
 ---
 
 <a id="snake-coffee-break"></a>
-### 67. 小蛇咖啡时间
+### 84. 小蛇咖啡时间
 
 小蛇咖啡时间，来自 @EndFolding79421 的原始提示词。
 
@@ -5312,7 +6383,7 @@ A beautiful woman in a deep burgundy Victorian dress stands at the harbor, facin
 ---
 
 <a id="octopus-bartender"></a>
-### 68. 章鱼调酒师
+### 85. 章鱼调酒师
 
 章鱼调酒师，来自 @EndFolding79421 的原始提示词。
 
@@ -5345,7 +6416,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="waiting-with-a-rose"></a>
-### 69. 手持玫瑰等待
+### 86. 手持玫瑰等待
 
 手持玫瑰等待，来自 @EndFolding79421 的原始提示词。
 
@@ -5378,7 +6449,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="warehouse-fight"></a>
-### 70. 仓库搏斗
+### 87. 仓库搏斗
 
 仓库搏斗，来自 @EndFolding79421 的原始提示词。
 
@@ -5411,7 +6482,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="western-saloon-fistfight"></a>
-### 71. 西部酒馆拳斗
+### 88. 西部酒馆拳斗
 
 西部酒馆拳斗，来自 @EndFolding79421 的原始提示词。
 
@@ -5444,7 +6515,7 @@ cinematic widescreen. Gritty 1970s Western film aesthetic with weathered texture
 ---
 
 <a id="basement-suspense"></a>
-### 72. 地下室悬疑
+### 89. 地下室悬疑
 
 地下室悬疑，来自 @EndFolding79421 的原始提示词。
 
@@ -5477,7 +6548,7 @@ A nervous woman in jeans and a hoodie descends into a damp basement lit only by 
 ---
 
 <a id="surreal-rooftop"></a>
-### 73. 超现实屋顶
+### 90. 超现实屋顶
 
 超现实屋顶，来自 @EndFolding79421 的原始提示词。
 
@@ -5511,7 +6582,7 @@ A realistic woman stands alone on a rooftop at night. The city lights below glow
 ---
 
 <a id="android-laboratory-awakening"></a>
-### 74. 实验室中的机器人苏醒
+### 91. 实验室中的机器人苏醒
 
 实验室中的机器人苏醒，来自 @Alin_Reaper05 的原始提示词。
 
@@ -5544,7 +6615,7 @@ Ultra-realistic cinematic close-up of an elegant female android awakening inside
 ---
 
 <a id="phantom-thief-and-the-clumsy-officer"></a>
-### 75. 女怪盗与笨拙警官
+### 92. 女怪盗与笨拙警官
 
 女怪盗与笨拙警官，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -5717,7 +6788,7 @@ Ultra-realistic cinematic close-up of an elegant female android awakening inside
 ---
 
 <a id="girl-and-dragon-cooking"></a>
-### 76. 少女与龙的料理
+### 93. 少女与龙的料理
 
 少女与龙的料理，来自 @Ukiyo_il 的原始提示词。
 
@@ -5881,7 +6952,7 @@ Do not repeat the first 16 seconds. Stop the initial flames immediately. Keep ch
 ---
 
 <a id="world-war-i-aerial-pursuit"></a>
-### 77. 一战空中追逐
+### 94. 一战空中追逐
 
 一战空中追逐，来自 @PromptSin 的原始提示词。
 
@@ -5938,7 +7009,7 @@ Extra aircraft, swapped pursuer and target, changing markings, morphing wings, m
 ---
 
 <a id="thunder-emperor-awakens"></a>
-### 78. 雷帝觉醒
+### 95. 雷帝觉醒
 
 雷帝觉醒，来自 @RizwanAly07 的原始提示词。
 
@@ -6009,7 +7080,7 @@ NEGATIVE: No female characters, gender swapping, face morphing, identity changes
 ---
 
 <a id="torstein-the-gatebreaker"></a>
-### 79. 托尔斯坦：破门者
+### 96. 托尔斯坦：破门者
 
 托尔斯坦：破门者，来自 @itsPixieVerse 的原始提示词。
 
@@ -6061,7 +7132,7 @@ Weighty natural human movement, physically simulated cloth and hair reacting to 
 ---
 
 <a id="cafe-conversation"></a>
-### 80. 咖啡馆对话
+### 97. 咖啡馆对话
 
 咖啡馆对话，来自 @HBCoop_ 的原始提示词。
 
@@ -6094,7 +7165,7 @@ The man on the left leans in and says, in a calm British accent, "You already kn
 ---
 
 <a id="2d-train-animation"></a>
-### 81. 二维火车动画
+### 98. 二维火车动画
 
 二维火车动画，来自 @HBCoop_ 的原始提示词。
 
@@ -6127,7 +7198,7 @@ The train's headlights grow brighter and the train slides into the station along
 ---
 
 <a id="3d-fox-sneeze"></a>
-### 82. 三维狐狸打喷嚏
+### 99. 三维狐狸打喷嚏
 
 三维狐狸打喷嚏，来自 @HBCoop_ 的原始提示词。
 
@@ -6160,7 +7231,7 @@ Snow falls steadily; the fox blinks, catches a snowflake on its nose, sneezes a 
 ---
 
 <a id="condensation-product-shot"></a>
-### 83. 凝露产品特写
+### 100. 凝露产品特写
 
 凝露产品特写，来自 @HBCoop_ 的原始提示词。
 
@@ -6193,7 +7264,7 @@ A single bead of condensation runs down the can; the can slowly rotates a quarte
 ---
 
 <a id="boxer-action"></a>
-### 84. 拳击动作
+### 101. 拳击动作
 
 拳击动作，来自 @HBCoop_ 的原始提示词。
 
@@ -6226,7 +7297,7 @@ The boxer fires a fast three-punch combination into the pads, jab, cross, hook, 
 ---
 
 <a id="cliff-and-waves"></a>
-### 85. 悬崖与海浪
+### 102. 悬崖与海浪
 
 悬崖与海浪，来自 @HBCoop_ 的原始提示词。
 
@@ -6259,7 +7330,7 @@ The drone pushes forward low over the water toward the cliff as a big wave hits 
 ---
 
 <a id="pottery-multi-shot"></a>
-### 86. 陶艺多镜头
+### 103. 陶艺多镜头
 
 陶艺多镜头，来自 @HBCoop_ 的原始提示词。
 
@@ -6292,7 +7363,7 @@ Cut between shots of the same scene: a wide as the camera circles slowly around 
 ---
 
 <a id="warehouse-fpv"></a>
-### 87. 仓库 FPV 穿越
+### 104. 仓库 FPV 穿越
 
 仓库 FPV 穿越，来自 @HBCoop_ 的原始提示词。
 
@@ -6324,8 +7395,88 @@ FPV racing drone, one continuous take: the drone accelerates down the aisle, ban
 
 ---
 
+<a id="a-cat-on-a-robot-vacuum-two-camera-views"></a>
+### 105. 扫地机器人上的小猫：双视角
+
+扫地机器人上的小猫：双视角，来自 @yarakashiyama_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+【外から撮る場面】
+参照画像の猫・掃除機・部屋を保つ。掃除機は最初のコマから最後まで、一定の速さで前進する。撮影カメラは掃除機の前方から後退しながら撮る。猫と掃除機の大きさを画面内でほぼ一定に保つ。床の継ぎ目が機体の下を通り、後ろの家具が遠ざかる。しっぽは1本で、掃除機の右側、この画面では左側に垂れている。
+
+【掃除機の目線の場面】
+参照画像の低いカメラ位置と、前向きの方向を保つ。カメラは一定の速さで前進する。見えるのは前方の床・部屋・右から入る1本のしっぽ。機体の天板や縁は映さない。床の継ぎ目が画面の下へ流れ、前方の戸口に近づく。しっぽはレンズへ近づくにつれて大きく見える。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/yarakashiyama_/status/2112651319223926813" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2112158361039114240/img/QKq49EnhPGnUWRDL.jpg" alt="扫地机器人上的小猫：双视角" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-20 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/yarakashiyama_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yarakashiyama_</a>
+- 来源: <a href="https://x.com/yarakashiyama_/status/2112651320209600627" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/yarakashiyama_/status/2112651319223926813" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-fight-through-three-apartment-spaces"></a>
+### 106. 穿越公寓三处空间的格斗
+
+穿越公寓三处空间的格斗，来自 @boke_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+SCENE: three places in one continuous bare-handed fight, each change of place triggered by a body crashing through something: an apartment corridor, then the cramped entrance hall of an apartment full of scattered shoes, then a concrete outdoor stairwell high above the street.
+CAST: two women, one in a plain grey sweatshirt, the other in a plain navy sweatshirt.
+CAMERA:
+- Corridor (0-4s): over the grey fighter's shoulder as the navy fighter rushes her with a flurry of punches, fluorescent white light, apartment doors flashing past.
+- The grey fighter's back slams through a half-open apartment door; the camera whip-pans with the impact, the motion blur carrying us into the entrance hall.
+- Entrance hall (4-8s): three fast angle changes, one from floor level among the shoes, as they wrestle; the door chain swinging; a shoe spinning through the air past the lens. Warm yellow bulb light.
+- A focus pull from the swinging door chain in the foreground to the navy fighter's face as she catches her breath for half a second.
+- The camera pushes straight through a hanging coat on the coat hook as both women tumble through a second door onto the outdoor stairwell.
+- Stairwell (10-15s): grey daylight, wind, the street far below; the camera drops from above as they fight down the stairs, then a crash zoom on the final throw.
+MOTION RULES:
+- Every place change happens exactly on an impact; the world gets bigger with each one: a door, then a wall of shoes and coats, then open sky.
+- In the corridor the rush runs at five strikes per second; in the entrance hall it becomes grappling and elbows in the tight space; on the stairwell it becomes leaps from landing to landing.
+- The navy fighter leaps down a whole flight of stairs feet-first; the grey fighter sidesteps, pivots 180 degrees mid-sprint and suplexes her onto the landing: the single maximum hit, one-third speed for half a second, the railing shuddering, dust blasting off the concrete.
+- The grey fighter starts laughing in the middle of the fight and her strength drains for a moment; the navy fighter gains the upper hand until the suplex turns it back.
+Impacts come in three tiers. Normal hits: a two-frame hold, a jump in brightness, a two-to-four-frame camera jolt, sleeves and hair trailing 0.1 seconds behind. Heavy hits: a three-frame dead stop, then sweat, dust or water bursts radially from the contact point, a six-frame hard shake, the struck body carried by momentum, fabric settling 0.4 seconds later. One maximum hit only: the whole frame flashes toward white, radial blur spreads from the contact point, and the surroundings break.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/boke_ai/status/2112740231497859258" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2112737360068894720/img/srjdDeS3CfajmTfe.jpg" alt="穿越公寓三处空间的格斗" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-21 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/boke_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@boke_ai</a>
+- 来源: <a href="https://x.com/boke_ai/status/2112740231497859258" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="knight-defending-the-fortress"></a>
-### 88. 骑士守卫堡垒
+### 107. 骑士守卫堡垒
 
 骑士守卫堡垒，来自 @AiwithBloodline 的原始提示词。
 
@@ -6367,7 +7518,7 @@ Negative prompt: Cartoon armor, inconsistent weapons, changing character appeara
 ---
 
 <a id="two-character-anime-parkour"></a>
-### 89. 双人动漫跑酷
+### 108. 双人动漫跑酷
 
 双人动漫跑酷，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -6431,7 +7582,7 @@ Negative prompt: Cartoon armor, inconsistent weapons, changing character appeara
 ---
 
 <a id="futuristic-talk-show"></a>
-### 90. 未来访谈节目
+### 109. 未来访谈节目
 
 未来访谈节目，来自 @Alin_Reaper05 的原始提示词。
 
@@ -6464,7 +7615,7 @@ A cinematic futuristic talk show filmed inside a polished science-fiction broadc
 ---
 
 <a id="background-only-product-whip-pan"></a>
-### 91. 产品固定与背景甩镜
+### 110. 产品固定与背景甩镜
 
 产品固定与背景甩镜，来自 @shikoba_86 的原始提示词。
 
@@ -6497,7 +7648,7 @@ The can stays perfectly still in the center of the frame for the whole video, sa
 ---
 
 <a id="hand-carried-product-transition"></a>
-### 92. 手持产品转场
+### 111. 手持产品转场
 
 手持产品转场，来自 @shikoba_86 的原始提示词。
 
@@ -6530,7 +7681,7 @@ Between each keyframe, a hand enters the frame, picks up the can, and the camera
 ---
 
 <a id="anime-noodle-scene"></a>
-### 93. 动漫面条场景
+### 112. 动漫面条场景
 
 动漫面条场景，来自 @minuitIA 的原始提示词。
 
@@ -6567,7 +7718,7 @@ no music, no subtitle
 ---
 
 <a id="desert-warrior-combat"></a>
-### 94. 沙漠战士激战
+### 113. 沙漠战士激战
 
 沙漠战士激战，来自 @fromjtown 的原始提示词。
 
@@ -6638,7 +7789,7 @@ Photorealistic, ultra-detailed fabric physics and particle simulation, precise c
 ---
 
 <a id="flying-car-desert-pursuit"></a>
-### 95. 沙漠飞车追逐
+### 114. 沙漠飞车追逐
 
 沙漠飞车追逐，来自 @openclipsai 的原始提示词。
 
@@ -6682,7 +7833,7 @@ Sound: roaring jet engines and rushing wind from 0-6s, a crackling electric hum 
 ---
 
 <a id="madara-battlefield-sequence"></a>
-### 96. 斑的战场动作
+### 115. 斑的战场动作
 
 斑的战场动作，来自 @0kncn 的原始提示词。
 
@@ -6748,7 +7899,7 @@ CONSTRAINTS — 16:9. 30 seconds. One continuous take. Strict preservation of th
 ---
 
 <a id="storm-surge-against-a-seawall"></a>
-### 97. 海堤风暴巨浪
+### 116. 海堤风暴巨浪
 
 海堤风暴巨浪，来自 @sebatheepan 的原始提示词。
 
@@ -6789,7 +7940,7 @@ Constraints: Count of people in frame: zero. Count of gulls: two. Count of light
 ---
 
 <a id="gantry-crane-container-tracking"></a>
-### 98. 龙门吊集装箱跟拍
+### 117. 龙门吊集装箱跟拍
 
 龙门吊集装箱跟拍，来自 @sebatheepan 的原始提示词。
 
@@ -6830,7 +7981,7 @@ Constraints: Count of cuts: zero. Count of people in frame: zero. No music, no s
 ---
 
 <a id="single-droplet-macro-physics"></a>
-### 99. 单滴水微距物理
+### 118. 单滴水微距物理
 
 单滴水微距物理，来自 @sebatheepan 的原始提示词。
 
@@ -6865,7 +8016,7 @@ Camera law: 100mm macro at minimum focus distance, locked-off, no camera move; t
 ---
 
 <a id="from-the-fridge-to-the-party"></a>
-### 100. 从冰箱到派对
+### 119. 从冰箱到派对
 
 从冰箱到派对，来自 @shikoba_86 的原始提示词。
 
@@ -6899,6 +8050,4617 @@ Sound: silence and fridge hum, the door opening, muffled party music growing thr
 
 ---
 
+<a id="kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound"></a>
+### 120. Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣
+
+Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣，来自 @sebatheepan 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A heavy-lift rocket tears off a coastal launch pad at first light, and the marsh three kilometres away only hears it long after the vehicle has climbed out of frame.
+
+Shot 1 - 0.0s to 5.0s - EWS, low angle looking up from the marsh edge, locked-off. First light on a flat coastal plain: a grey unmarked launch vehicle stands on a steel tower between a black water channel and a mile of dead reed beds, the sky behind it going from slate to sulphur. Frost rimes the vehicle's upper tank in patchy white plates. At 1.8s its vent valves exhale a thin white breath to the left, and a flock of birds lifts out of the reeds in one motion at 3.2s, crossing frame right to left, unhurried and unconcerned. Nothing else moves. The tower's floodlights are still lit against the coming day.
+Hard cut.
+
+Shot 2 - 5.0s to 10.0s - MCU, low angle at the base of the tower, handheld. At 5.0s the frame is nothing but machinery and concrete: hold-down clamps the size of cars, a flame trench mouthing black, deluge pipes beaded with condensation. At 5.6s the ignition lights - a white core under the vehicle that swells rather than appears, and the frame's whole shadow structure flips in a single frame. By 6.4s the deluge water meeting the flame trench flashes to steam, and the steam does not rise politely: it erupts outward and down, rolling over the camera position and turning the frame to white-grey at 7.8s. The handheld frame takes the shock physically, one hard jolt at 6.1s, then steadies as the sound of it arrives.
+Hard cut.
+
+Shot 3 - 10.0s to 15.0s - MS, low angle following the vehicle's base, crane mount. At 10.0s the hold-downs release: four bolts shear at once and the vehicle's base jumps upward, the machine answering with a lurch that shakes frost off the tank in white sheets. The ice plates fall in the vehicle's own wash, tumbling end over end, some of them shattering on the concrete apron at 12.4s. The camera cranes up at 1.6 m/s, tracking the rising base as it clears the tower's crossbeams, and the exhaust plume below it grows a hard bright core wrapped in a rolling grey skirt.
+Hard cut.
+
+Shot 4 - 15.0s to 20.0s - EWS, high angle looking down from above and behind the tower, drone. At 15.0s the vehicle is a bright nail head punching through the top of its own steam cloud, the tower below it still dripping deluge water from every level and the concrete apron black with wet. The cloud spreads sideways across the pad rather than climbing, driven by the pressure wave, and by 18.2s the pad is a lake of steam with the tower's tip sticking out of it. The vehicle's contrail has formed as one clean white line leaning out over the water to the east.
+Hard cut.
+
+Shot 5 - 20.0s to 25.0s - WS, low angle on the marsh, locked-off at water level. At 20.0s the frame is quiet, empty and cold: still black water, reeds standing, one bird settling back onto a post. At 21.3s the sound arrives - the water rings outward in concentric circles from nowhere in particular, the reed bed flattens in one direction and stays flattened, and the single bird is gone in a single frame. Nothing else appears. The launch is three kilometres away and completely invisible; only its pressure is here.
+Hard cut.
+
+Shot 6 - 25.0s to 30.0s - EWS, low angle looking east over the marsh, slow dolly forward at 0.3 m/s. At 25.0s the vehicle is a small bright point still burning above the horizon, the contrail now a long unbroken white seam across the sulphur sky, and the pad's steam has thinned to a soft ground haze that catches the first direct light. Frost still sits in the reeds' shadows. The frame arrives at full daylight with the sound already gone.
+Camera law: 35mm anamorphic throughout; the mount family moves from locked-off to handheld to crane to drone and back to locked-off; height never rises above the vehicle's base except in shot four; 180 degree motion blur. Anti-default: in shot two, a deluge pipe in the near foreground stays almost dry while steam pours behind it, defocused across the lower frame.
+
+Grade and audio: gold-hour amber palette - sulphur, wet concrete grey, one white plume - contrast pushed high with blacks crushed. Key light is the rising sun directly behind the tower in shot one, then the engine's own light becomes the key from shot two onward, halation blooming where the plume burns through the steam. Audio: a low wind and water bed under five diegetic events - frost cracking on the tank, hold-down bolts shearing, deluge water flashing to steam, ice plates shattering on concrete, and one low pressure boom arriving late at the marsh.
+
+Constraints: Count of shots: six. Count of people in frame: zero. Count of visible vehicles: one. Count of birds in shot five: one. Count of logos, insignia or lettering on the vehicle and tower: zero. No music, no score, no bgm. No subtitles.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/sebatheepan/status/2113187370690379856" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113184225432080384/img/acLbg5bvibq4IskJ.jpg" alt="Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-22 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/sebatheepan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sebatheepan</a>
+- 来源: <a href="https://x.com/sebatheepan/status/2113187765944779146" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/sebatheepan/status/2113187370690379856" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="film-noir-police-interception"></a>
+### 121. 黑色电影警车拦截
+
+黑色电影警车拦截，来自 @PromptSin 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+15-second horizontal 16:9 photorealistic black-and-white police pursuit, filmed as a tense 1950s crime movie. Use the supplied opening image as the first frame and the supplied ending image as the final composition. Animate a coherent physical chase; do not dissolve or morph between still images.
+
+CONTINUITY: Exactly two early-1950s American sedans: the dark getaway sedan with its distinctive split chrome grille, and the black-and-white police sedan with white doors, star badge and single roof beacon. Preserve both reference designs and drivers. Same empty wet warehouse district at night, period streetlamps and brick buildings.
+
+0–4s — IMMEDIATE ACTION: Begin in the opening composition, already moving fast. The dark sedan rounds the wet corner, throwing water from its tires. The police follows the same turn a few car lengths behind. Low front three-quarter tracking camera retreats ahead of them. Engines roar, a period siren wails, tires squeal. Realistic suspension roll, wheel rotation and forward momentum.
+
+4–8s — OVERTAKE: Cut to a moving side view with both vehicles visible. On the straight, the police accelerates up the getaway car's left side, draws level and clearly overtakes. Show the full passing maneuver with space between the vehicles. Water spray and streetlamp reflections emphasize speed.
+
+8–12s — INTERCEPTION: Once safely ahead at a broad intersection, the police brakes and swings into a tight controlled turn across the escape route. The getaway brakes hard. Show the police turning and the getaway decelerating together in a wide shot. Tire squeal, spray and suspension compression. No collision or teleportation.
+
+12–15s — ENDING: The getaway stops short. Settle into the ending reference's elevated sidewalk three-quarter view: dark sedan at left, angled police sedan at right blocking its route, both intact with a clear gap between them. Hold this composition for the final second as spray settles and engines idle. Drivers remain inside. Headlights and roof beacon remain active.
+
+LOOK: True monochrome, rich blacks, luminous wet-road reflections, hard film-noir lighting, restrained 35mm grain, realistic metal and glass. Fast action at normal speed, decisive cuts and clear spatial continuity.
+AUDIO: Engines with natural pitch changes, period siren, tire squeal and water spray. No music, dialogue or narration.
+AVOID: Color, sepia, modern objects, extra cars, pedestrians, swapped vehicle identities, disappearing cars, deformed wheels, impossible acceleration, collisions, explosions, gunfire, slow motion, dissolves, text, subtitles and watermarks.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PromptSin/status/2113216401494491281" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113216366304251904/img/ob7tPRTC_0vNyyWr.jpg" alt="黑色电影警车拦截" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-22 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PromptSin" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PromptSin</a>
+- 来源: <a href="https://x.com/PromptSin/status/2113216352832061872" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PromptSin/status/2113216401494491281" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-closing-the-chandlery"></a>
+### 122. Kling 4.0 与 Seedance 2.5：船具店打烊
+
+Kling 4.0 与 Seedance 2.5：船具店打烊，来自 @sebatheepan 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A chandlery closes for the night and the woman who runs it walks out along a wet quay alone.
+
+Shot 1 - 0.0s to 5.0s - MS, eye level across a shop counter, locked-off.
+
+The interior of a ship's chandlery at dusk: bare bulbs, coils of tarred rope hung in loops, brass shackles in a wooden tray. A woman in her late thirties works along the shelf at frame right, counting shackles into her palm. She has deep brown skin, cropped silver-grey hair, and a small scar through her left eyebrow. She wears a faded red canvas work jacket with a torn right cuff and a brass boat-hook clasp at the throat.
+
+At 2.4s she taps the clasp twice against her palm, thinking, then returns to counting. Her face is turned three-quarters to camera and in focus.
+
+Hard cut.
+
+Shot 2 - 5.0s to 10.0s - CU, eye level, locked-off, her face filling the right two thirds.
+
+The same woman: same deep brown skin, same cropped silver-grey hair, same small scar through the left eyebrow, same faded red canvas jacket at the frame's lower edge. She reads a paper ledger by lamplight, and the bulb's warm light sits on the left side of her face while the shop's shadow takes the right.
+
+At 6.8s she frowns at a figure in the column, and at 8.1s she licks her thumb and turns the page. Her hands stay visible at the frame's bottom edge.
+
+Hard cut.
+
+Shot 3 - 10.0s to 15.0s - MWS, low angle in the shop doorway looking out, locked-off.
+
+The same woman - same silver-grey hair, same scar through the left eyebrow, same red canvas jacket with the torn right cuff - pulls a steel roller shutter down in front of her. The shutter travels down in one continuous run and its slats catch the shop's bulb light in a single moving band.
+
+At 13.0s she is visible only as a reflection in the shutter's grey paint, inverted and cut off at the chest, and the reflection is still wearing the same red jacket. The shutter lands at 14.2s and the reflection is gone.
+
+Hard cut.
+
+Shot 4 - 15.0s to 20.0s - MS, low angle from behind and slightly left, gimbal, over-shoulder.
+
+She walks away from camera along a wet stone quay - the same cropped silver-grey hair, short at the nape, the same red canvas jacket across her shoulders, its torn right cuff catching the wind.
+
+Rain falls in fine lines and the quay carries one long reflection of a harbour lamp. Her pace is even, one boot landing per second, and she does not turn.
+
+Hard cut.
+
+Shot 5 - 20.0s to 25.0s - MCU, eye level, handheld, moving ahead of her and walking backwards.
+
+She stops at 21.0s and looks back over her left shoulder toward the town - the same face, the same silver-grey hair flattened by rain, the same small scar through the left eyebrow, the same red canvas jacket now soaked darker at the shoulders.
+
+At 22.6s a passing boat's lamp sweeps across her from frame left to right, lighting her face in full and then leaving it in shadow. She exhales once and turns forward again.
+
+Hard cut.
+
+Shot 6 - 25.0s to 30.0s - EWS, high angle looking down from a warehouse roof, locked-off.
+
+The quay runs diagonally across the frame as a wet dark line between the black channel and the shuttered shops. One small figure walks its length away from camera - silver-grey hair the only pale thing in the frame, the red jacket the only warm colour - reaching the far edge at 29.0s and going out of it.
+
+Nothing else moves except the rain and the water.
+
+Camera law:
+
+40mm spherical throughout, with shallow focus on her face in shots one, two and five; the mount family is locked-off for shots one, two, three and six, gimbal over-shoulder for shot four and handheld for shot five; height sits at her eye level in every shot except the last, which looks down from above; 180 degree motion blur.
+
+Anti-default:
+
+The shutter's reflection of her in shot three is inverted and cut off at the chest, and no shot is centred on her face.
+
+Grade and audio:
+
+Ember-night palette - wet stone grey, red jacket, one warm bulb - contrast soft lifted blacks. Key light is the bare shop bulb in shots one to three and a harbour lamp in shots four to six, halation blooming in the rain.
+
+Audio: rain on stone and tin as the bed under five diegetic events - shackles knocking in a tray, a ledger page turning, a steel shutter running down and landing, boots on wet stone, and one distant boat horn.
+
+Constraints:
+
+Count of people in frame: one.
+
+Count of shots in which her face is clearly visible: three.
+
+Count of wardrobe changes across the clip: zero.
+
+Count of logos, insignia or legible lettering: zero.
+
+No music, no score, no bgm.
+
+No subtitles.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/sebatheepan/status/2113234961620967557" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113233723550539776/img/u6lQK99KwTb65qp1.jpg" alt="Kling 4.0 与 Seedance 2.5：船具店打烊" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-22 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/sebatheepan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sebatheepan</a>
+- 来源: <a href="https://x.com/sebatheepan/status/2113234965236449310" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/sebatheepan/status/2113234961620967557" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-still-figure-in-a-rushing-city"></a>
+### 123. 静止人物与疾行城市
+
+静止人物与疾行城市，来自 @AIwithSynthia 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a hyper-realistic cinematic time-lapse featuring the woman as the central subject, standing completely motionless in her original pose.
+
+Keep her face, hairstyle, clothing, body position, and facial expression perfectly unchanged throughout the entire video, as if she is frozen in time.
+
+Animate only the surrounding environment, with crowds walking rapidly in different directions, people passing behind and in front of her, and vehicles moving quickly through the background.
+
+Gradually increase the speed of the surrounding activity, creating dramatic time-lapse motion with realistic directional blur and flowing movement trails.
+
+Allow natural shadows, sunlight, and background activity to shift subtly, emphasizing the passage of time while the woman remains perfectly still and sharply focused.
+
+Maintain realistic depth, natural movement, consistent scene geometry, and strong contrast between the frozen subject and the fast-moving environment.
+
+The camera must remain completely fixed on a tripod, with no panning, tilting, zooming, or camera shake.
+
+Toward the end, gradually return the surrounding movement to normal speed while the woman remains frozen in precisely the same position.
+
+Negative prompt: Subject movement, blinking, facial changes, body deformation, identity drift, camera movement, flickering, background warping, unnatural motion blur, duplicated limbs, text, logos, watermark.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/AIwithSynthia/status/2113237971449348351" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113237843116244992/img/UGbT620nOWLuDYgq.jpg" alt="静止人物与疾行城市" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-22 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/AIwithSynthia" rel="nofollow noreferrer" referrerpolicy="no-referrer">@AIwithSynthia</a>
+- 来源: <a href="https://x.com/AIwithSynthia/status/2113237971449348351" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly"></a>
+### 124. Kling 4.0 与 Kling 3.0：小牛与蝴蝶
+
+Kling 4.0 与 Kling 3.0：小牛与蝴蝶，来自 @openclipsai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+The clip opens on the given first frame and animates it. ONE CONTINUOUS SHOT - no cuts, no scene changes. Keep the calf's design exactly as in the first frame: the same ginger-caramel fur, blonde fringe, pale horns, pink muzzle and teal-blue eyes.
+
+ACTION: the calf notices the blue morpho butterfly and its eyes widen with curiosity. It trots after the butterfly through the wildflowers, then rears up on its hind legs and bats at it with its front hooves, wobbling with comic clumsiness. It lands, beams with a wide open-mouthed grin and its tongue lolling, and bounds toward camera through the meadow. The butterfly settles just above its head and the calf goes cross-eyed looking up at it, then flops onto its back in the flowers with its hooves in the air as the butterfly circles above.
+
+Pixar-style 3D animation, soft volumetric fur with warm golden-hour rim light, shallow depth of field with creamy bokeh, gentle lens bloom, saturated storybook colours, buttery smooth character animation with squash-and-stretch weight.
+
+CAMERA: low ground-level angle tracking with the calf, a slow push-in to a tight close-up on its face at the peak of the reaction, then a wide follow as it bounds away, ending low among the flowers looking up at it.
+
+SOUND: soft meadow ambience, birdsong, light breeze through grass, hooves padding on turf, playful snorts and a delighted moo. No music, no narration.
+
+No text, no watermark, no logos, no split screen.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/openclipsai/status/2113350420311478317" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113350356465819648/img/ydftPGVZFlAKvn8S.jpg" alt="Kling 4.0 与 Kling 3.0：小牛与蝴蝶" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-22 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- 来源: <a href="https://x.com/openclipsai/status/2113350679133831357" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/openclipsai/status/2113350420311478317" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding"></a>
+### 125. Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车
+
+Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车，来自 @nukegala83 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+スーツおじさんが、発車寸前の満員電車にギリギリで乗り込み出発するまでを、映画ジョンウィックのような激しいアクションで動画にして
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/nukegala83/status/2113553262137745583" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113490110448881664/img/0APz-ZuYWUDQ7Lgg.jpg" alt="Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/nukegala83" rel="nofollow noreferrer" referrerpolicy="no-referrer">@nukegala83</a>
+- 来源: <a href="https://x.com/nukegala83/status/2113553262137745583" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-flying-roadster-delivers-one-coffee"></a>
+### 126. 飞行跑车只送一杯咖啡
+
+飞行跑车只送一杯咖啡，来自 @AIwithSynthia 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+**SHOT 1 (0–6 seconds)**
+
+A busy afternoon on a real Manhattan street. Yellow taxis are stuck bumper-to-bumper, delivery bikes weave through traffic, and pedestrians cross at the intersection. Inside a red Tesla Roadster, a young female delivery driver holds a Starbucks coffee securely in the cup holder. Her phone reads, “Customer waiting.”
+
+She glances at the traffic, then at the clock, looking genuinely frustrated.
+
+**Girl:** “Come on, come on… it's literally just one coffee!”
+
+The camera feels like someone sitting in the passenger seat, casually recording her.
+
+**Audio:** Real traffic, horns, turn signals, phone navigation, muffled city noise.
+
+**SHOT 2 (6–12 seconds)**
+
+She looks through the windshield. Traffic hasn't moved. She sighs, notices a small unfamiliar button on the dashboard marked “FLIGHT,” and stares at it for a second.
+
+**Girl:** “You're kidding me.”
+
+She presses it.
+
+A low mechanical hum starts. The car vibrates slightly. A few pedestrians turn as the vehicle slowly rises above the road, kicking up dust, loose receipts, and water from the pavement.
+
+A man standing beside a yellow taxi looks up.
+
+**Man:** “Yo! Is that car flying?!”
+
+Someone nearby immediately starts filming on their phone.
+
+**SHOT 3 (12–19 seconds)**
+
+A handheld street-level shot captures the Tesla moving above the traffic, not too fast. The car passes between Manhattan buildings, tilting slightly as it adjusts its balance. The camera operator struggles to keep it in frame.
+
+Cut to a distant view of the car passing near the Empire State Building, then returning toward the street.
+
+Inside the Tesla, the girl keeps one hand on the steering wheel and checks that the coffee hasn't spilled.
+
+**Girl:** “Okay… this is actually working.”
+
+Her phone navigation speaks casually.
+
+**Phone voice:** “You have arrived at your destination.”
+
+She looks down at the street below.
+
+**Girl:** “I'M STILL SIX BLOCKS AWAY!”
+
+**SHOT 4 (19–25 seconds)**
+
+The Tesla descends toward a Manhattan apartment building. A customer leans out of an open window on a lower floor, looking confused. The car hovers just outside, maintaining a little distance from the building.
+
+The driver lowers her window and holds out the Starbucks cup.
+
+**Girl:** “Caramel latte for Jake?”
+
+**Customer:** “You flew here for my coffee?”
+
+**Girl:** “Parking was impossible.”
+
+He takes the cup, examines it, and gives a small nod.
+
+**Customer:** “Respect.”
+
+**SHOT 5 (25–30 seconds)**
+
+The girl gives a quick thumbs-up, rolls up the window, and the Tesla drops gently toward the street before accelerating away.
+
+The customer takes a sip while watching the car disappear.
+
+A passerby beside him calls out:
+
+**Passerby:** “Hey! Can you order me one too?”
+
+The customer looks at his coffee.
+
+**Customer:** “Bro, I'm not sharing.”
+
+Cut abruptly to black.
+
+**Sound:** Natural city ambience throughout, with modest electric motor noise, real reactions, and no overpowering soundtrack.
+
+**REALISM RULES:** Use ordinary New York street lighting and natural colors. Keep the actors' reactions understated and spontaneous. Avoid glowing blue trails, giant explosions, dramatic slow motion, perfect camera tracking, futuristic holograms, exaggerated facial expressions, and glossy CGI. The flying feature is fictional, but the footage should resemble real-world video with practical-looking effects. Maintain consistent vehicle design, realistic reflections, believable movement, and natural dialogue timing. No narrator, no robotic voices, no artificial-looking crowds.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/AIwithSynthia/status/2113600946228138078" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113600898056474624/img/ZC4wc9m_FGRZ2J60.jpg" alt="飞行跑车只送一杯咖啡" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/AIwithSynthia" rel="nofollow noreferrer" referrerpolicy="no-referrer">@AIwithSynthia</a>
+- 来源: <a href="https://x.com/AIwithSynthia/status/2113600946228138078" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="monsoon-velocity"></a>
+### 127. 季风极速战
+
+季风极速战，来自 @bmx_ai13 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+TITLE: MONSOON VELOCITY
+
+FORMAT: 20 seconds, 16:9, 24fps, photoreal live-action superhero action, anamorphic lens feel, handheld chase camera with whip pans, heavy motion blur on the speedster only. Pure text to video, no on-screen text, no logos, no subtitles at any point.
+
+WORLD: A monsoon evening in a dense South Asian city. Narrow wet street between old pastel colonial buildings with iron balconies, hanging shop signs blurred and unreadable, rickshaws parked, tangled overhead wires, steam rising from a tea stall. Light rain falls steadily. Sodium orange streetlamps and cyan neon spill reflections across ankle-deep puddles. Color grade: teal shadows, warm amber highlights, wet glossy surfaces.
+
+CHARACTERS:
+NIRA, the speedster. Mid 20s South Asian woman, athletic, long black hair tied in a high braid, sleek charcoal grey running suit with thin copper seams, bare forearms, calm fierce eyes. When she moves at speed she leaves a crackling copper-crimson energy trail with small electric sparks, never gold.
+THE ASHEN MONK, the rival. Tall lean man in layered ash-grey wrap robes, deep hood, cloth mask covering nose and mouth, leather wrist bindings, barefoot. Moves with martial calm. He can phase into a burst of grey smoke and reappear a few meters away.
+
+SHOT LIST:
+0 to 2s. Wide low angle down the rainy street. Pedestrians with umbrellas in the background. The Ashen Monk stands still in the middle of the road, rain bouncing off his hood. Far behind him a copper streak ignites at the end of the street.
+2 to 4s. Time slows. Every raindrop freezes in midair like suspended glass beads. Nira runs through them in real speed, her body shattering the frozen drops into glittering spray, copper trail crackling behind her. Camera tracks beside her at shoulder height.
+4 to 6s. Impact. Nira tackles the Monk at full speed. Both bodies fly sideways and slam into the hood of a parked white car, the metal crumples, windshield cracks into a spiderweb, water sheets off the roof in a wave.
+6 to 8s. Tight close up, handheld shake. The Monk grabs her braid and twists. Nira's face strains, sparks jump from her skin. He bursts into grey smoke in her hands and she falls through empty air onto wet asphalt.
+8 to 10s. Over the shoulder of the Monk as he reforms beside a crumbling plaster wall, smoke curling off his robes, eyes narrowing above the mask. Behind him puddles ripple outward as something approaches too fast to see.
+10 to 13s. Nira circles him at super speed, a ring of copper light spinning around the Monk, the rain inside the ring spiraling upward into a vortex. Rickshaw canopies flap, shop shutters rattle, a tea glass tips off the stall and hangs frozen midair.
+13 to 15s. The Monk throws a sharp palm strike into the ring. It connects. Nira is knocked out of speed, skidding on one knee across the flooded road, a wake of water spraying behind her, copper sparks hissing in the puddle.
+15 to 17s. Low angle on Nira rising, rain streaming down her face, she exhales, lowers into a sprinter crouch. The asphalt under her fingertips glows hot and steams.
+17 to 19s. She launches. One continuous blur of copper light straight at the Monk. He tries to phase but too late. She drives him backward into the plaster wall. Massive impact, the wall cracks outward in a radial web, brick dust and rainwater explode together in a dense cloud, a balcony above shakes and drips.
+19 to 20s. LAST FRAME. Locked wide shot. Dust settling in the rain. A Monk shaped crater in the wall, empty, wisps of grey smoke drifting out of it. Nira stands in front of the crater breathing hard, copper sparks fading off her hands, back to camera, staring left down the street where a faint smoke trail disappears. Hold still. No text, no title card, no letters, no signage legible anywhere in frame.
+
+AUDIO, diegetic only, no music, no narration:
+Steady rain hiss on tin awnings and puddles, distant rickshaw bells, a tea kettle whistle. Sharp electric crackle and whoosh whenever Nira moves at speed. Near silence with single tinkling drops during the frozen rain moment. Metal crunch and glass crack on the car impact. Soft smoke whump when the Monk phases. Low rising whirlwind roar inside the speed ring. Heavy concrete crack and rumble of the wall impact, then debris trickle, rain returning, Nira's heavy breathing.
+
+STYLE NOTES: Realistic physics for water, debris and cloth. Speed effect only on Nira, everything else stays sharp. Consistent faces and costumes in every shot. No extra superheroes, no flying, no weapons, no blood.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/bmx_ai13/status/2113620686346523093" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113619536629129217/img/ERXlEOPtpqjVypKG.jpg" alt="季风极速战" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- 来源: <a href="https://x.com/bmx_ai13/status/2113620690129862944" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/bmx_ai13/status/2113620686346523093" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-in-a-four-model-spoken-line-comparison"></a>
+### 128. 四模型人物台词对比中的 Kling 4.0
+
+四模型人物台词对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Slow push-in on the woman leaning against the wall. She holds the camera's gaze, exhales softly through her nose, and a small knowing smile forms at one corner of her mouth. She says quietly: "I already said yes." Natural daylight, real skin texture, subtle handheld breathing in the camera. Quiet room tone.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2113662571362590905" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662547404742656/img/032SuX4ixY0-4uJ9.jpg" alt="四模型人物台词对比中的 Kling 4.0" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2113662571362590905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-in-a-four-model-laughing-group-comparison"></a>
+### 129. 四模型酒吧欢笑对比中的 Kling 4.0
+
+四模型酒吧欢笑对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Handheld camera, warm bar light. The group bursts out laughing together; the platinum-haired woman throws her head back laughing, and two friends beside her clink their glasses. People lean in, shoulders shake with laughter. Busy bar chatter, laughter, glasses clinking.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2113662617705418865" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662584545218560/img/DYQNBWaQnAuzmD4a.jpg" alt="四模型酒吧欢笑对比中的 Kling 4.0" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2113662617705418865" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-in-a-four-model-poker-chip-comparison"></a>
+### 130. 四模型扑克筹码动作对比中的 Kling 4.0
+
+四模型扑克筹码动作对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Static camera, low-key lighting. The man's fingers riffle the stack of poker chips, then slowly slide the whole stack forward across the table. His eyes lift to the camera, expression unreadable. Chips clicking softly, quiet room.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2113662650639089739" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662631190147072/img/P6B9dGsAz5zbvdcz.jpg" alt="四模型扑克筹码动作对比中的 Kling 4.0" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2113662650639089739" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-in-a-four-model-burning-street-comparison"></a>
+### 131. 四模型燃烧街道对比中的 Kling 4.0
+
+四模型燃烧街道对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Slow crane down into the smoke-filled city street. Flames ripple and flicker out of the building windows, glowing embers drift through the thick haze, and smoke rolls slowly between the towers. Dim headlights glow through the smoke at street level. Low roar of fire, distant sirens.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2113662683966996572" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113662663997976576/img/JWosxdarRjHw0SR9.jpg" alt="四模型燃烧街道对比中的 Kling 4.0" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2113662683966996572" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="last-delivery-before-the-shutter"></a>
+### 132. 卷帘门落下前的最后一单
+
+卷帘门落下前的最后一单，来自 @bmx_ai13 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+TITLE: LAST DELIVERY BEFORE THE SHUTTER
+
+FORMAT: 15 seconds exactly, 16:9, ultra photorealistic, 24fps, one single unbroken physical camera take from first frame to last. Zero cuts, zero hidden edits, zero transitions, zero teleportation, zero slow motion, zero static moments.
+
+CHARACTER: Mochi, an adult female long-haired miniature dachshund with a very long low body, short muscular legs, glossy chestnut coat soaked dark by rain, floppy ears, bright amber eyes and a white star on her chest. She wears a snug bright yellow waterproof courier vest with a small zipped delivery pouch on her back and a reflective strip along her spine. She runs, she does not ride anything. Every movement is real dog behavior, real canine gait, real weight and traction, no human gestures, no cartoon expressions.
+
+LOCATION: Crowded downtown street during a heavy evening rainstorm. Wet asphalt mirroring neon storefronts, red taxi tail lights, buses, umbrellas, gutters overflowing, wind pushing sheets of rain sideways.
+
+CAMERA: Handheld FPV style gimbal rig flying at dog height, aggressive banking, extreme foreground parallax, rain droplets hitting and streaking across the lens, constant acceleration, shallow depth of field with bokeh from headlights.
+
+0 to 3 seconds: Begin in violent motion. Mochi's front paws slap through a deep puddle as she leans hard around a wet street corner, ears flying back, claws scrabbling for grip on painted lane lines. The camera skims inches off the asphalt beside her paws, rolls up along her long body, and whips around her shoulder as a bus and taxis roar past in a blur of light.
+
+3 to 6 seconds: A taxi door suddenly swings open from the curb. Mochi skids, back legs sliding sideways, then ducks low and threads underneath the opening door with her belly almost touching the water. The camera executes a fast 270 degree orbit around her, scraping past the dripping door edge and a parked car mirror, then snaps back alongside her as she accelerates.
+
+6 to 9 seconds: TWIST ONE. A gust rips the pouch zipper open and the waterproof envelope flips out, spinning into the wind above the bike lane. Mochi stops for a split second, eyes locking on it, then launches into a full sprint after it as loose cardboard sheets tumble across the lane. She hops over a broken drainage grate, the camera plunging inches above her racing legs, then swinging upward as a passing bus throws a huge curtain of water across the street.
+
+9 to 12 seconds: TWIST TWO. Mochi bursts through the spray with the envelope now clamped carefully in her mouth, ears soaked flat. A startled pigeon flock explodes off a ledge across her path and she weaves through them low and fast. She scrambles up a low curb ramp toward a small glowing bakery where an elderly shopkeeper in a cardigan is pulling down the metal shutter against the storm. The camera sweeps around her, revealing the warm storefront reflected across the flooded pavement.
+
+12 to 15 seconds: TWIST THREE. Mochi drops into a long belly slide across the wet tiles, her long body skimming like a sled under the descending shutter edge, and pushes the envelope into the shopkeeper's hands just in time. He laughs in surprise, opens it, and pulls out a single small dog biscuit wrapped in paper, the delivery was addressed to her all along. He drops the biscuit, she catches it midair. The camera violently swings around his hands and her face, then rockets backward out into the rain as the shutter slams shut and rainwater explodes off the pavement, leaving the glowing gap of light under the shutter.
+
+PHYSICS AND REALISM: Authentic canine anatomy and gait, real paw slip and recovery on wet surfaces, water shaking off fur, believable rain interaction, natural human reactions from pedestrians stepping aside and pointing. No superhero movement, no impossible jumps, nothing exaggerated. Ordinary reality made unbelievably cinematic.
+
+AUDIO: Diegetic only. Heavy rain drumming on awnings and car roofs, paws slapping puddles, claws scraping asphalt, taxi door thunk, bus engine roar and hiss of the water curtain, pigeon wings flapping, short excited panting and one happy bark, shopkeeper's warm surprised laugh, rattling metal shutter crash. No music, no score.
+
+LAST FRAME: Wide pulled back view of the rain soaked street, the closed bakery shutter glowing with a thin line of warm light beneath it, Mochi's silhouette visible through the gap, rain streaking across the lens. No on screen text, no titles, no captions, no logos, no watermarks, no signage readable in frame.
+
+NEGATIVE: No cuts, no transitions, no slow motion, no freeze frames, no bicycle, no dog walking upright, no human like dog hands, no cartoon look, no distorted legs, no extra limbs, no morphing fur, no floating objects, no text.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/bmx_ai13/status/2113727192639459801" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113726736806588416/img/zYDzfZZG8_o2IRV1.jpg" alt="卷帘门落下前的最后一单" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- 来源: <a href="https://x.com/bmx_ai13/status/2113727196858904605" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/bmx_ai13/status/2113727192639459801" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="snap-zoom-into-a-pink-collar"></a>
+### 133. 粉色衣领的快速变焦
+
+粉色衣领的快速变焦，来自 @ai_artworkgen 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+One continuous shot, no cuts, the camera body never leaves its position. 0-2s: hold the full shot as a gust ruffles the fuzzy pink shoulder pads and lifts their fringe off the brow. 2-3s: on the gust, the lens snap-zooms in one unbroken push from full length to their face and fuzzy pink collar, brief motion blur on the zoom only. 3-5s: the frame feathers back ten percent and settles as they hold the lens with a calm stare and blink. Soft pastel light, haze, fine grain.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/ai_artworkgen/status/2113730057071890909" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113729718209884160/img/NLLCdnqgOskMJXeH.jpg" alt="粉色衣领的快速变焦" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/ai_artworkgen" rel="nofollow noreferrer" referrerpolicy="no-referrer">@ai_artworkgen</a>
+- 来源: <a href="https://x.com/ai_artworkgen/status/2113730057071890909" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="bat-swarm-over-a-gothic-belfry"></a>
+### 134. 哥特钟楼上空的蝙蝠群
+
+哥特钟楼上空的蝙蝠群，来自 @Shinebynous 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A colossal bat swarm blotting the sky, leathery wings in inky ebony and subtle wine-red veins.Effect: Wingbeats weave "SWARM," pulsing with ultrasonic waves.Location: A gothic belfry tower pierced by lightning during a tempest.Texture: Supple, fluttering, enveloping.Mood: Overwhelming, vampiric, eclipsing, halloween music
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Shinebynous/status/2113746281663238357" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113744473423233024/img/uj5lghb9YMk03JKf.jpg" alt="哥特钟楼上空的蝙蝠群" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-23 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Shinebynous" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Shinebynous</a>
+- 来源: <a href="https://x.com/Shinebynous/status/2113746281663238357" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-hailuo-h3-the-evenings-first-star"></a>
+### 135. Kling 4.0 与 Hailuo H3：夜空中的第一颗星
+
+Kling 4.0 与 Hailuo H3：夜空中的第一颗星，来自 @Iancu_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+STYLE FIRST: a real Japanese TV anime, like a scene from a seasonal anime opening. Hand-drawn character animation on twos and threes, hand-inked lines that change weight, flat cel color with one hard-edged shadow tone, painted anime background art with soft brush texture. Anime compositing only: gentle backlight bloom, light leaks at sunset, depth-of-field blur on painted layers, rain drawn as thin streaks. No 3D, no CG, no glossy skin or hair, no AI polish. This applies to every shot.
+
+CHARACTER: use @[image1] as the character design sheet and match its hand-drawn look. Keep her face, violet eyes, very long straight pink hair with blunt bangs, white cropped high-neck top with black collar, oversized off-shoulder white techwear jacket with orange panels, black harness belt with white hip pouch, orange baggy cargo pants, one orange fingerless glove, white and orange sneakers. Her face stays on-model in every shot.
+
+MAIN GOAL: a 30-second calm slice-of-life showcase, no fighting. One evening in a Japanese city from golden hour to the first star. 7 shots, each about 4 seconds, each a different classic anime shot type with one slow camera move. Hard cuts. Let every shot breathe, no rushing. Her hair and jacket always move in the wind.
+
+(0–4.5s) SHOT 1, extreme wide: a city rooftop at golden hour, she sits on the railing edge, skyline and long orange sky behind her, wind lifting her hair. Slow push-in from far away.
+(4.5–8.5s) SHOT 2, extreme close-up of her violet eyes, the sunset reflected in them, a strand of pink hair crossing her face. Rack focus from the hair strand to her eyes, then she blinks once.
+(8.5–13s) SHOT 3, inside a commuter train: she stands by the window holding a strap, orange sunlight strobing across her face through passing poles. The camera tracks sideways with the train.
+(13–17s) SHOT 4, insert close-up: her gloved hand on the train window as the first raindrops hit the glass, city lights blurring behind. Slow push-in on the hand.
+(17–21.5s) SHOT 5, medium wide at a rainy bus stop at dusk: she is large in frame under the shelter beside a glowing vending machine, rain falling past the streetlight. She shakes rain off her sleeve and looks down the street. Slow pan toward her.
+(21.5–25.5s) SHOT 6, low side angle from the ground: her reflection in a puddle, her sneaker steps in and sends ripples. The camera tilts up from the side and stops on her face.
+(25.5–30s) SHOT 7, the rain stops. Side profile: she slowly tilts her head back and looks up, her chin lifting, as the clouds part and the first star appears in a deep blue sky. Slow crane up from her face to the sky and hold on the single star until the end.
+
+Sound: city ambience only, wind, train, rain, the rain fading to quiet in the last shot. No music, no voice, no text, no subtitles, no watermark, no other characters.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Iancu_ai/status/2113988692570456163" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113988431428923392/img/wj6vpoiQDQE6OyIM.jpg" alt="Kling 4.0 与 Hailuo H3：夜空中的第一颗星" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-24 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Iancu_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Iancu_ai</a>
+- 来源: <a href="https://x.com/Iancu_ai/status/2113988696479547703" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Iancu_ai/status/2113988692570456163" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="camcorder-footage-of-a-city-monster"></a>
+### 136. 城市巨兽的手持摄影记录
+
+城市巨兽的手持摄影记录，来自 @CaptainHaHaa 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+30-second terrifying amateur camcorder recording of a colossal creature rampaging through the city district in the supplied reference. Preserve the dusty brick main street, vintage parked cars, blue pickup truck, storefronts and water tower.Match the creature exactly: enormous ridged head, gaping toothed mouth, hanging facial tentacles, hooked claws and vast ragged wings. Maintain its immense scale relative to the buildings. One continuous handheld recording from street level. The unseen camera operator is frightened but keeps trying to capture what’s happening. No additional visible people or creatures.
+
+CAMCORDER LOOK:
+Weathered consumer videotape footage: muted brown colours, blown-out dusty skies, colour bleed, interlacing, mild tracking distortion and imperfect autofocus. Sudden zooms amplify hand tremor. Exposure struggles when dust fills the frame. Keep the monster readable between disturbances.
+
+[00:00–00:06]
+Begin with the reference street composition, already trembling slightly in the operator’s hands.The creature takes an immense step towards the street, shoulders rolling and facial tentacles swinging with its momentum. Dust erupts around its feet. The operator hurriedly zooms towards its face, overshoots, then widens enough to recover its head and wings.The monster lifts its head and releases a deep, ragged roar. The recording microphone distorts at the peak.
+
+[00:06–00:13]
+The creature drives one clawed forelimb through the corner of a brick building. The wall buckles at the impact point, then masonry and roof timbers tumble into the street.The operator flinches, briefly pointing at the road before snapping back towards the destruction. Autofocus catches airborne dust, then finds the creature again.Its torn wings begin opening, scraping roof edges and pulling loose signs from their brackets.
+
+[00:13–00:20]
+A massive wingbeat sends a pressure wave down the street. Dust, paper and loose debris race towards the camera. Shop awnings thrash, parked vehicles rock on their suspensions and a storefront window shatters.The operator retreats towards the blue pickup, camera bouncing with hurried backward steps. The truck’s bonnet enters the foreground as the operator crouches behind it.Peer over the bonnet to reveal the monster still advancing through the haze, each footfall shaking the image.[
+
+00:20–00:26]
+From behind the pickup, the operator attempts another shaky zoom. The creature turns its head towards the camera’s position. Its tentacles curl and spread around its open mouth. 
+
+It shoves against the nearby water tower. Metal supports bend, the tank tilts and a torrent of water pours across the rooftops as the structure collapses behind it.The camera jerks sideways at the crash, then finds the monster’s silhouette looming through water spray and dust.
+
+[00:26–00:30]
+The creature surges forward, lowering its head into the street.The operator abandons the shot and runs. The camera whips towards the pavement, catching blurred glimpses of kerb, truck tyres and shopfronts. Heavy footsteps and panicked breathing dominate the recording.
+One final involuntary glance backwards catches its enormous wing sweeping across the dusty sky. Abrupt tape breakup, then cut to black.
+
+MOVEMENT AND PHYSICS:
+Give the creature tremendous weight: deliberate foot placement, shifting shoulders, heavy wing membranes and tentacles that lag behind head movements. Buildings break only where struck, with debris falling naturally. Maintain the street layout and accumulating damage throughout the continuous take.
+
+SOUND:
+Full camcorder audio: deep ground-shaking footsteps, layered animalistic roars, tearing metal, cracking masonry, falling bricks, shattering glass, wing buffets, rushing water and distant emergency sirens.Include microphone wind distortion during the pressure wave, handling bumps, the operator’s breathing and shoes scraping the pavement. Loud impacts briefly overload the microphone. 
+
+No intelligible dialogue.
+No music
+The raw recorded destruction carries the entire scene.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/CaptainHaHaa/status/2113996000029507971" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2113994117642346496/img/IOHGq_7Mxt-xsCXb.jpg" alt="城市巨兽的手持摄影记录" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-24 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/CaptainHaHaa" rel="nofollow noreferrer" referrerpolicy="no-referrer">@CaptainHaHaa</a>
+- 来源: <a href="https://x.com/CaptainHaHaa/status/2113996003913179501" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/CaptainHaHaa/status/2113996000029507971" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="first-contact-ambush-beneath-twin-suns"></a>
+### 137. 双日之下的首次接触伏击
+
+双日之下的首次接触伏击，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+On a mysterious alien planet beneath two enormous glowing suns, a female astronaut cautiously approaches a tall biomechanical alien being. The alien slowly raises one hand toward her helmet, but suddenly both characters react as the ground violently trembles. The astronaut loses balance and catches herself while the alien turns rapidly toward the horizon. Strange flying creatures burst from the distant valley. The alien grabs the astronaut and pulls her behind a rock formation as energy projectiles streak overhead. She draws a compact futuristic weapon while the alien extends its arms and generates a shimmering defensive field. The camera circles around both characters continuously, switching from intimate close-ups to fast tracking shots, realistic body reactions, moving helmet reflections, atmospheric particles, strong wind, fluid character interaction, cinematic first-contact action.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2114038903615431021" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114038542678511616/img/5XT7DpQ4cfc3gpNH.jpg" alt="双日之下的首次接触伏击" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-24 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2114038906366693737" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2114038903615431021" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-wan-3-0-the-couriers-missing-television-head"></a>
+### 138. Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋
+
+Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋，来自 @baskojpeg 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+30-SECOND MODERN 2D ANIME ACTION COMEDY.. 16:9. SIX SHOTS.
+KEPALA KETINGGALAN. Native sound. No dialogue or music.
+
+[PURPOSE]
+A CRT courier fights two thugs, escapes, then realizes one still holds his detachable television head. Readable action, awkward visual punchline.
+
+[CHARACTERS]
+CRT: lean adult mechanical humanoid, charcoal CRT head, ivory bezel, curved static screen, short antenna. Burgundy jacket, black trousers, white sneakers. Mechanical neck coupling, no human face.
+A: broad adult Indonesian man, shaved head, black bomber, tan trousers.
+B: lean adult Indonesian man, short black hair, grey hoodie, dark trousers.
+Three fictional adults.
+
+[LOCATION]
+Jakarta parking garage, late afternoon. Concrete pillars, yellow wheel stops, distant apartments.
+One grey scooter on its stand beside a pillar. Exit ramp right. Clear floor, no traffic or pedestrians.
+
+[SCENE]
+CRT stands beside his scooter. A blocks ahead; B approaches from the side. Hands empty, head attached. No helmet or loose props.
+
+[SHOTS]
+SHOT 1 | 00:00 TO 00:04
+Low medium-wide, short lateral track right.
+A grabs CRT's jacket collar with his RIGHT hand.
+CRT traps that wrist with his LEFT hand and turns into the grip. B closes from the side. Jacket creak, shoe scrape.
+
+SHOT 2 | 00:04 TO 00:10
+Hard cut, stable side full shot.
+CRT pulls A's wrist down and drives his RIGHT elbow into A's torso.
+A folds forward and releases the jacket.
+CRT steps clear, delivers ONE short side kick to A's middle and replants his foot.
+A stumbles against a pillar and remains seated there, recovering. Clear contact and recoil. No extra strikes.
+
+SHOT 3 | 00:10 TO 00:16
+Hard cut, medium two-shot of CRT and B.
+B lunges and grabs both sides of CRT's television casing.
+CRT braces against B's forearms, turns and pulls his body down and backward.
+The mechanical neck latch releases with ONE click.
+CRT's head separates intact into B's hands. Reveal a clean metal neck socket, no tissue.
+B stops, surprised. Screen stays active.
+
+SHOT 4 | 00:16 TO 00:21
+Hard cut, wide including B and scooter.
+CRT's headless mechanical body runs two steps back to the scooter and grips the handlebar.
+Before mounting, it pauses and pats the empty neck socket.
+Behind it, B holds the only CRT head at chest height. Screen crackles.
+
+SHOT 5 | 00:21 TO 00:25
+Hard cut, medium on B holding the television.
+B looks from the screen to the headless body. A watches from the pillar.
+CRT's intact short antenna droops slightly at its hinge.
+A small embarrassed electronic chirp comes from the television.
+
+SHOT 6 | 00:25 TO 00:30
+Hard cut, frontal medium-wide.
+The body walks back to B, extending its empty RIGHT palm, asking for its head back.
+B looks from the waiting palm to the television.
+Hold the final two seconds: outstretched hand, confused thug, embarrassed static.
+B keeps holding the head. No reattachment, final strike or black frame.
+
+[CAMERA]
+Modern 2D anime: expressive ink, fluid motion, crisp cel shadows, painted Jakarta backgrounds. Burgundy, warm concrete and cool grey.
+28-35mm action wides, 50mm reactions. Keep contact and head removal readable.
+Hard cuts only at listed boundaries. Consistent screen direction. No orbit or slow motion.
+
+[CONTINUITY]
+One CRT head, one matching mechanical body, two thugs, one scooter.
+Head separates in shot 3 and stays in B's hands.
+Body remains active without its head. All separation is mechanical and bloodless.
+A stays by the same pillar after the kick. Scooter remains parked.
+Preserve designs and clothing.
+
+[AUDIO]
+Footfalls, jacket tension, elbow impact, kick thud, pillar contact, mechanical latch, static, one electronic chirp and distant Jakarta traffic.
+Sync impacts. Continuous ambience across cuts.
+No dialogue, narration, music, score or tonal pads.
+
+[AVOID]
+VHS look, glossy 3D, human CRT face, extra fighters, duplicate head, organic neck, blood, weapons, exploding screen, text, subtitles or logos.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/baskojpeg/status/2114162853469106416" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114162393014304769/img/P8UVFB5AvFKoLbaU.jpg" alt="Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-25 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/baskojpeg" rel="nofollow noreferrer" referrerpolicy="no-referrer">@baskojpeg</a>
+- 来源: <a href="https://x.com/baskojpeg/status/2114162856350589256" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/baskojpeg/status/2114162853469106416" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-night-city-selfie-walk"></a>
+### 139. 城市夜游自拍
+
+城市夜游自拍，来自 @msjiaozhu 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+10秒夜晚城市自拍视频，9:16竖版，真实抖音/小红书夜游vlog质感。一个明确成年的东亚女生【参考图】边走边用前置手机拍自己，画面下方始终能隐约看到伸出的自拍手臂作为锚点。她长发被夜风吹动，穿普通浅色针织外套和碎花连衣裙，清爽漂亮，日常出门感。场景是夜晚建筑雨棚下的人行道，停着的车、玻璃墙反光、远处楼灯和路灯形成散景，所有车牌和招牌不可读。镜头编码：Z4中近景逐渐靠近到Z3近景，Y5轻微俯视，X1正面自拍，手机前置广角轻微边缘畸变，手持微震，画面轻微倾斜。0-2秒：镜头从略低和轻微晃动开始，快速抬起找到她的脸，她正在笑，头发扫过脸颊，前2秒立刻有自拍手臂+夜风头发hook；2-5秒：她一边走一边看向镜头，嘴角上扬，背景车灯拖影，暗部有噪点和H.264压缩块；5-7秒：手机抬成更高角度，她侧头看向街边，再看回镜头，眼神短暂锁定0.5秒；7-9秒：她靠近镜头小跑半步，笑得更开，画面短暂虚焦；9-10秒：焦点恢复，停在她开心回看镜头的表情。声音为轻快中文流行节拍、脚步声、风声、远处车流。禁止文字字幕LOGO水印，禁止清晰车牌和路人脸，禁止过度美颜、棚拍灯光、低俗身体特写、未成年感、脸部漂移。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/msjiaozhu/status/2114211409378865439" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114211364151640064/img/fwlkKpBW8AeSLmVP.jpg" alt="城市夜游自拍" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-25 (UTC)
+- 提示词语言: 中文
+- 作者: <a href="https://x.com/msjiaozhu" rel="nofollow noreferrer" referrerpolicy="no-referrer">@msjiaozhu</a>
+- 来源: <a href="https://x.com/msjiaozhu/status/2114211413602324707" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/msjiaozhu/status/2114211409378865439" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="lightning-and-fire-rooftop-duel"></a>
+### 140. 屋顶雷电与烈焰对决
+
+屋顶雷电与烈焰对决，来自 @tirtaVEX 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+【视觉风格】
+超写实电影级真人质感，恢宏的元素特效；一次连续生成。夜晚的城市屋顶，高对比度，轮廓光，雨滴在短暂慢动作中飞溅。镜头运动富有戏剧张力且控制精准；氛围从紧张推进至爆发，最终归于充满敬意的寂静：两位势均力敌的战士以平局收场。
+【角色与场景】
+女战士：体态矫健优雅，目光锐利，绿色双眸。身体上分布着发出蓝光的纹路，戴黑色皮手套；手持一对缠绕蓝色闪电的短匕首。
+男战士：肌肉极其发达，留短胡须，右臂有部落图腾纹身。穿工装裤；双前臂佩戴炽热的金属护臂，双拳燃烧着火焰。
+场景：宽阔湿润的混凝土屋顶，褪色的直升机停机坪标线、通风管道，背景是灯火通明的城市楼群。所有镜头中的面部特征、服装、伤痕和装备均保持一致；爆炸后的混凝土裂缝持续保留。
+【分镜列表】
+镜头1｜00:00–00:05 — 全景，摇臂镜头穿过雨幕下降，移向停机坪；两人相向而立，武器与双拳上的能量缓缓亮起。音效：雷鸣、瓢泼大雨。
+镜头2｜00:05–00:10 — 中远景，以快速而精准的环绕镜头跟随一组连贯交锋：两人疾冲靠近，匕首格挡戴有护臂的重拳，电火花与烈焰迸射。音效：金属撞击声、能量爆鸣。
+镜头3｜00:10–00:15 — 横向跟拍地面攻击与闪避：男战士猛击混凝土地面，火焰冲击波贴地横扫；女战士翻腾跃过火浪，落地后面向男战士。翻腾时短暂变速进入慢动作，雨滴仿佛悬停空中，随后恢复正常速度。音效：沉重轰击声，声音短暂压低，随后响起蒸汽嘶鸣。
+镜头4｜00:15–00:20 — 镜头富有戏剧性地向前推进，捕捉最终碰撞：两人同时向前冲，火焰重拳与雷电匕首在中央相撞，形成白光穹顶，混凝土地面出现环形裂缝；反冲力将两人震倒，彼此相对跪地。音效：震耳欲聋的爆炸声与低频轰鸣。
+镜头5｜00:20–00:25 — 低机位双人中景，随着烟雾散开，摄影机缓缓向前移动；女战士的一把匕首停在男战士颈侧附近，两人的另一只手在下方相互扣锁。音效：雨势渐弱，远处传来雷声。
+镜头6｜00:25–00:30 — 固定双人近景，始终保持在轴线同一侧：女战士露出淡淡的微笑。两人同时解除威胁，依然相对跪地，彼此致敬；双方的能量同时熄灭。
+【规则】
+必须依次呈现：相向对峙、正面交锋、地面攻击与翻腾闪避、最终攻击、平局僵持、彼此放开。没有赢家。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/tirtaVEX/status/2114267036046221716" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114264218623201280/img/l_eOnAv03F4Np42m.jpg" alt="屋顶雷电与烈焰对决" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-25 (UTC)
+- 提示词语言: 中文
+- 作者: <a href="https://x.com/tirtaVEX" rel="nofollow noreferrer" referrerpolicy="no-referrer">@tirtaVEX</a>
+- 来源: <a href="https://x.com/tirtaVEX/status/2114267036046221716" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="battle-beneath-an-alien-ring"></a>
+### 141. 外星巨环下的战场
+
+外星巨环下的战场，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Dozens of armored soldiers fight across an enormous desert battlefield beneath a gigantic alien ring megastructure. Every visible character is moving: infantry sprint between craters, two soldiers drag a wounded teammate toward cover, another group fires toward airborne enemies while robed figures run through the chaos. Suddenly the massive blue vortex beneath the megastructure activates and begins pulling soldiers, vehicles, sand and debris upward. Several characters struggle against the force, grabbing each other and nearby rocks. One soldier loses his footing and another catches his arm before he is pulled away. The camera moves rapidly through the battlefield between running characters, then rotates upward following debris toward the gigantic structure. Huge scale, continuous background action, realistic physical reactions, moving clothing and armor, explosions, atmospheric distortion, epic cinematic sci-fi warfare.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2114331347871469773" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114330414286286849/img/lioLXOsCpuaAn5Xr.jpg" alt="外星巨环下的战场" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-25 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2114331350807302426" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2114331347871469773" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="luxury-skincare-asmr-sequence"></a>
+### 142. 奢华护肤 ASMR 片段
+
+奢华护肤 ASMR 片段，来自 @yourPlugAI 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+[ENGINE DIRECTIVE]
+Generate a continuous 30-second hyper-realistic luxury beauty ASMR sequence at 60fps in 16:9 widescreen format using Kling 4.0. Style: High-end commercial macro video, 8K resolution, photorealistic, pristine studio lighting, crisp micro-depth of field. Maintain 100% strict visual consistency across the entire shot with provided reference sheets: "Elena", "L'ÉLIXIR NUIT", and "Minimalist Marble Spa Suite". Zero motion blur artifacts, high tactile accuracy, smooth camera transitions, seamless timeline execution without cuts.
+
+[AUDIO DIRECTIVE]
+- MUSIC: None. Pure organic binaural ASMR soundscape.
+- SOUND DESIGN: Heavy glass-on-marble placement, sharp fingernail glass taps, magnetic lid snap, foil seal peel-pop, soft creamy spatula glide, skin-on-skin massage swipes, skin press suction-pat, final magnetic closure snap.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:04 | MARBLE PLACEMENT & GLASS TAPPING
+- VISUAL: Extreme close-up 45-degree macro shot on the Carrara marble counter. Elena’s manicured hand smoothly sets the heavy "L'ÉLIXIR NUIT" frosted glass jar down, then gently taps her index nail three times on the glass side.
+- ACTION: Crisp placement, followed by precise rhythmic nail taps against the cold frosted glass surface.
+- SOUND: Heavy glass-on-marble THUD, followed by three ultra-sharp, resonant fingernail GLASS TAPS.
+
+00:04 - 00:08 | MAGNETIC LID SNAP & ELEVATION
+- VISUAL: Smooth camera glide into a tight macro eye-level shot focused on the silver metallic lid interface.
+- ACTION: Elena lifts the square magnetic lid slightly, letting the magnetic pull snap it back down once before fully twisting and lifting the polished chrome lid straight up out of frame.
+- SOUND: Crisp metallic magnetic SNAP-CLICK, smooth threads twisting sound, soft air release.
+
+00:08 - 00:12 | HERMETIC FOIL PEEL
+- VISUAL: Camera pans smoothly upward to an overhead 45-degree top-down macro shot centered on the inner pull-tab.
+- ACTION: Elena’s thumb and index finger grip the foil seal tab, slowly peeling back the silver protective foil seal in one continuous smooth motion, exposing the whipped ivory cream surface.
+- SOUND: High-pitch foil seal BREAK-CRINKLE, followed by a soft pneumatic vacuum POP.
+
+00:12 - 00:16 | SPATULA SCOOP & TEXTURE LIFT
+- VISUAL: Macro tracking camera glides horizontally across the open jar mouth.
+- ACTION: Elena glides the sleek metallic spatula through the top layer of cream, lifting a thick, velvety dollop of whipped cream and holding it steady under warm key light.
+- SOUND: Soft creamy glide audio, subtle metallic spatula chime.
+
+00:16 - 00:20 | DIRECT CHEEK PLACEMENT
+- VISUAL: Camera smoothly tracks upward and tilts into a medium close-up macro framing Elena’s right cheekbone and glowing skin texture.
+- ACTION: Elena uses her fingertip to transfer the rich cream dollop directly onto her high cheekbone.
+- SOUND: Soft, subtle skin contact PAT sound, creamy texture placement.
+
+00:20 - 00:24 | GLIDING MELT & TACTILE PRESS
+- VISUAL: Tight tracking shot following the circular motion of her fingers across her cheek, transitioning to a palm press.
+- ACTION: Elena massages the cream into her skin using upward circular motions as it melts into a dewy barrier layer. She then gently presses the palm of her hand against her cheek and pulls back slowly to showcase elasticity.
+- SOUND: Deep skin-on-skin gliding SWIPE audio, wet hydration texture sound, skin suction-pat, quiet relaxing breath exhale.
+
+00:24 - 00:30 | MAGNETIC CLOSURE & HERO VANITY POSE
+- VISUAL: Smooth camera pull-back into a wide hero shot framing Elena setting the jar on the marble counter, looking into the vanity mirror with a subtle, serene smile.
+- ACTION: Elena brings the magnetic silver lid back over the glass jar, letting it snap firmly closed, and rests her hands on the counter beside the product. FADE TO BLACK at 00:30.
+- SOUND: Satisfying metallic magnetic lid SNAP, soft marble contact, ambient studio silence.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/yourPlugAI/status/2114574940166840517" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114574288065871872/img/imygn9L7eNGbdjXh.jpg" alt="奢华护肤 ASMR 片段" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-26 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
+- 来源: <a href="https://x.com/yourPlugAI/status/2114574940166840517" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="the-tiny-cloud-creature"></a>
+### 143. 迷你云朵生物
+
+迷你云朵生物，来自 @Strength04_X 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30-second ultra-realistic cinematic fantasy video featuring a completely original miniature cloud creature in a charming countryside bedroom.
+
+Scene 1 (0–7 seconds): A tiny floating cloud creature with fluffy white fur, pale blue eyes, tiny dangling feet, and miniature translucent wings drifts above a wooden bedside table. Soft morning sunlight enters through linen curtains while dust particles shimmer in the air.
+
+Scene 2 (7–14 seconds): A young woman wearing a peach-colored cardigan and a cream skirt enters the room. The little cloud follows her curiously, hovering above her head. Suddenly, it sneezes and releases a tiny shower of sparkling raindrops onto her hair.
+
+Scene 3 (14–23 seconds): The woman looks surprised before smiling and holding out her hands. The cloud becomes excited and accidentally creates a miniature rainbow inside the room. Tiny floating droplets turn into glowing bubbles that gently drift around the furniture.
+
+Scene 4 (23–30 seconds): The cloud settles onto the woman's head like a fluffy hat. It produces one final tiny raindrop that lands on its own nose. The creature crosses its eyes trying to look at the drop, then giggles silently as a miniature rainbow appears above it.
+
+Visual style: Original imaginary creature, realistic fluffy cloud texture, expressive blue eyes, physically believable water droplets, soft volumetric sunlight, realistic reflections, pastel color palette, detailed fabric textures, cinematic close-ups, natural character animation, smooth camera movements.
+
+Duration: 30 seconds. Aspect ratio: 16:9. 4K cinematic quality. Preserve the same creature and woman across all scenes. No text, subtitles, logos, or watermark. Use original designs only.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Strength04_X/status/2114623188202402063" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114622261684772864/img/29T-04STguwptZ2a.jpg" alt="迷你云朵生物" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-26 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Strength04_X" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Strength04_X</a>
+- 来源: <a href="https://x.com/Strength04_X/status/2114623188202402063" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="cat-rides-the-robot-vacuum"></a>
+### 144. 猫咪骑上扫地机器人
+
+猫咪骑上扫地机器人，来自 @aiIgnatius 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: Photorealistic, 8K telephoto wildlife look, living room as savannah, hushed original narrator voice.0-3s: Wide of shag carpet at golden hour through the blinds as a robot vacuum glides across. Narrator: “On the vast shag-pile plains, the Roomba begins its daily migration.”3-6s: Macro of the spinning brush swallowing a dust bunny.6-9s: Telephoto on a cat behind a couch leg, pupils dilating. Narrator: “But it is not alone. An apex predator, weighing eleven pounds.”9-12s: Low-angle slow-mo, the cat’s haunches wiggling, tail twitching.12-15s: The pounce, the cat landing squarely on top of the Roomba.15-18s: The cat rides it with total dignity. Narrator: “Remarkably, the cat has not yet realised it is not in control.”18-21s: Wide as the cat glides past a stunned golden retriever.21-24s: The Roomba hits a wall and spins, flinging the cat off. It lands on its feet and immediately starts grooming. Narrator: “Dignity is restored. Grooming is deployed.”24-27s: The Roomba beeps and returns to its dock with a sad little tune.27-30s: Close-up of the cat watching the dock. Narrator: “Tomorrow, the hunt begins again.”
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/aiIgnatius/status/2114669067189584367" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114668907223031808/img/kPooHLcSS2gLGuDp.jpg" alt="猫咪骑上扫地机器人" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-26 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/aiIgnatius" rel="nofollow noreferrer" referrerpolicy="no-referrer">@aiIgnatius</a>
+- 来源: <a href="https://x.com/aiIgnatius/status/2114669067189584367" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="skateboarder-in-the-moonlit-forest"></a>
+### 145. 月夜森林中的滑板少女
+
+月夜森林中的滑板少女，来自 @MahiraEhan 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Nighttime medium shot of a girl skateboarding swiftly through a dark, cold forest, her breath visible in the frosty air. The camera follows close behind, capturing her focused expression as she sings softly and sorrowfully, "Am I dead? Am I dreaming? I can't feel anything—I can't feel a thing." Pale moonlight filters through bare branches, casting cool blue shadows. She comes to a gentle stop on a leaf-strewn path, picks up her skateboard, and steps deeper into the dense woods. She whispers, "I must remain unseen," as the camera slowly dollies forward, enhancing the eerie, quiet ambiance. Audio: raw on-set sound only — natural dialogue, ambient room tone, and diegetic sound effects.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/MahiraEhan/status/2114671326413701226" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114670563952082944/img/vVUPFCujqv5YLnzy.jpg" alt="月夜森林中的滑板少女" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-26 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/MahiraEhan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MahiraEhan</a>
+- 来源: <a href="https://x.com/MahiraEhan/status/2114671326413701226" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="rocket-powered-perfume-bottle"></a>
+### 146. 火箭动力香水瓶
+
+火箭动力香水瓶，来自 @AIWithRay 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Cinematic, photoreal night scene on a black stage inside a giant hangar. A towering concrete loop ramp/road with glowing red edge lights and a white center stripe dominates the background. In front of it stands a premium transparent glass perfume bottle, unlabeled, no logo, filled with pale golden fragrance, featuring elegant beveled edges, a polished metallic cap, realistic glass refraction, crisp reflections, and subtle condensation droplets. The bottle engages four small rocket nozzles under its base; soft white exhaust with bright orange cores appears. The bottle glides forward, then blasts up the glowing ramp, hugging the curve, leaving faint light trails and red neon reflections across its glass surface. At the apex it shoots off the ramp and transitions to a sleek electric-thruster flight, like a futuristic luxury flying car, then ends in a close hero shot of the perfume bottle hovering and roaring upward vertically with four bright jets, volumetric spotlights and fog below, sparks and vapor interaction, dramatic rim light, golden highlights, crisp reflections, shallow depth of field, 4K, high-end luxury perfume and car commercial look. No text, no brand, no label. Duration 9–10 seconds. Aspect ratio 9:16. Negative cues: no logos, no text, no labels, no hands, no spillage, no deformation, no duplicate bottles, no cartoon look, no melting glass, no detached cap, no liquid leakage, no extreme motion-blur smears. Beat sheet (timing guide) 0–2s: Low-angle push-in on the massive loop ramp; perfume bottle centered, engines arming beneath the base with subtle heat shimmer and glowing orange cores. 2–6s: Dynamic follow-cam as the bottle rockets up the ramp; speed ramping, neon edge lights streaking, dramatic red reflections sliding across the glass. 6–8s: Bottle leaves the ramp, switches to electric thrusters; quick cinematic orbit as it hovers midair, revealing the golden fragrance and metallic cap. 8–10s: Tight hero shot of the perfume bottle ascending vertically with four bright jets, swirling fog, volumetric spotlights, realistic vapor, and luxurious golden reflections. End with the bottle sharply focused and centered against the dark hangar.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/AIWithRay/status/2114672427964010805" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114671558106968064/img/rUS8Pm8hx1ebSeab.jpg" alt="火箭动力香水瓶" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-26 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/AIWithRay" rel="nofollow noreferrer" referrerpolicy="no-referrer">@AIWithRay</a>
+- 来源: <a href="https://x.com/AIWithRay/status/2114672427964010805" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="janes-wasteland-freerunning"></a>
+### 147. 简的废土跑酷
+
+简的废土跑酷，来自 @DjajaYerry75 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+JANE — WASTELAND FREERUNNING
+
+[DURATION & RATIO]
+Total duration: 30 seconds
+Aspect ratio: 16:9
+Resolution: 1080p
+Style: Photorealistic live-action cinematic parkour
+[CHARACTER & ENVIRONMENT]
+The protagonist is Jane from the attached Wasteland Explorer character sheet. Preserve her exact facial identity, green eyes, brunette vintage victory-roll hairstyle, physique, weathered Fallout-style outfit, backpack, utility belts, wrist device, and rugged boots.
+Use the attached wasteland environment sheet as the location reference. The setting is a vast post-apocalyptic city of collapsed highways, ruined skyscrapers, crumbling rooftops, rusted industrial structures, abandoned vehicles, broken concrete, and dust-covered alleys. Muted charcoal, rust brown, faded steel, and dusty amber sunlight.
+16 rapid cinematic cuts. Jane performs elite freerunning through the ruins, maintaining continuous momentum and realistic biomechanics.
+[CUT 01 | 00:00–00:01.60]
+Low rear follow shot. Jane instantly accelerates and executes a kong vault over a broken concrete barrier. Grit scatters from her takeoff and landing.
+
+[CUT 02 | .60–00:03.40]
+Front low-angle tracking shot. She performs a wall-run and tic-tac against a fractured wall, jumping onto the opposite rooftop. Loose masonry crumbles beneath her push-off.
+[CUT 03 | .40–00:05.20]
+Horizontal tracking shot. Jane precision-jumps onto a narrow concrete ledge, performs a cat leap to a higher wall, catches its edge, and climbs up as small stones tumble below.
+
+[CUT 04 | .20–00:07.00]
+Rooftop follow shot. She dash-vaults a rusted ventilation unit, then performs a running Webster across a narrow gap, landing with bent knees and immediately sprinting onward.
+
+[CUT 05 | .00–00:08.80]
+Overhead moving camera. Jane drops into a dive roll across dusty rubble, rises without stopping, then speed-vaults over a rusted handrail. Metal rattles from physical contact.
+
+[CUT 06 | .80–00:10.60]
+Front-facing handheld retreat. She performs an underbar through a collapsed structure, then transitions directly into a sideflip over concrete debris. Fabric and backpack straps react naturally to motion.
+[CUT 07 | .60–00:12.40]
+Drone shot from diagonally behind and above. Jane uses a controlled palm spin around a sturdy pillar, kong-vaults a broken barrier, and accelerates toward staggered rooftop platforms.
+[CUT 08 | .40–00:14.20]
+Low lateral tracking shot. Jane executes three rapid precision jumps across uneven concrete platforms. Loose gravel falls from each takeoff point as she changes direction.
+
+[CUT 09 | .20–00:16.00]
+Three-quarter front tracking shot. She performs a wall spin around a damaged concrete corner and lands on a narrow elevated walkway. Dust drifts through warm sunlight.
+[CUT 10 | .00–00:17.80]
+Side-follow shot with strong parallax. Jane performs a lazy vault over a corroded railing, then precision-jumps onto a neighboring ledge. The railing vibrates briefly after contact.
+[CUT 11 | .80–00:19.60]
+High-angle descending camera. She drops from the ledge, executes a compact aerial rotation, and lands in a controlled dive roll. Dust and grit scatter as she rises into a sprint through a ruined alley.
+
+[CUT 12 | .60–00:21.40]
+Fast front three-quarter tracking shot. Jane speed-vaults a broken concrete barrier, transitions into an aerial cartwheel over scattered debris, and lands running toward an industrial rooftop.
+[CUT 13 | .40–00:23.20]
+Drone shot descending from behind. Jane traverses a narrow rusted rail with controlled balance, jumps to a lower platform, and performs a corkscrew-style aerial rotation over a clear landing zone.
+[CUT 14 | .20–00:25.00]
+Low-angle tracking shot. Jane sprints up a sloped concrete slab, plants one foot against a sturdy wall, rebounds into a backflip, and lands on a broad platform. A collapsed highway gap appears ahead.
+
+[CUT 15 | .00–00:27.50]
+Climactic side-follow shot transitioning into a controlled camera orbit. Jane takes three powerful strides and launches across the major rooftop gap, executing a high corkscrew aerial. Brief selective speed ramp at the apex. She lands firmly on the opposite rooftop; dust and loose gravel burst outward from the impact.
+[CUT 16 | .50–00:30.00]
+Low front tracking shot transitions into a wide rear view. Jane converts her landing into a sprint, vaults one final piece of rubble, and runs deeper into the ruined city. The camera swings behind her, revealing collapsed highways and skeletal skyscrapers. End with Jane still running at full speed.
+[CHOREOGRAPHY & PHYSICAL VFX]
+Chain every movement through momentum: takeoff, flight, contact, recoil, landing, recovery, acceleration. Use realistic center-of-gravity shifts, planted feet, accurate grips, and believable airborne trajectories.
+
+Dust, grit, gravel, rust flakes, falling masonry, vibrating rails, and flexing sheet metal must originate from actual contact or disturbed structures. Environmental damage accumulates and never resets between shots. Debris follows gravity. Preserve realistic physical weight.
+Dynamic tracking, low-angle follow shots, aerial camera movement, strong parallax, natural motion blur at high speed, and subtle impact camera shake. Keep stunt movements readable and maintain consistent spatial direction.
+Audio: diegetic ambience only—wind through ruins, boots on concrete, gravel impacts, metal rattles, fabric movement, and distant structural creaks. No background music.
+
+[STRICT NEGATIVES]
+No character identity or outfit changes. No hairstyle changes, face distortion, duplicate bodies, extra limbs, clipping, warped anatomy, teleportation, levitation, impossible mid-air direction changes, weightless landings, or unexplained destruction. No magic aura, energy beams, shockwave rings, spatial rifts, or artificial afterimage duplicates. No passing through solid objects or electrical wires. No anime, video-game rendering, or obvious CGI.
+Final result: A relentless, physically grounded 30-second wasteland parkour showcase with escalating acrobatics, environmental cause-and-effect, cinematic camera choreography, and a spectacular rooftop-gap finale.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/DjajaYerry75/status/2114992691801215463" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114986927648800768/img/wAessijXTQB1FB8I.jpg" alt="简的废土跑酷" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/DjajaYerry75" rel="nofollow noreferrer" referrerpolicy="no-referrer">@DjajaYerry75</a>
+- 来源: <a href="https://x.com/DjajaYerry75/status/2114992691801215463" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="exploration-ship-in-a-charged-storm"></a>
+### 148. 带电星云中的探索飞船
+
+带电星云中的探索飞船，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+An exploration ship maneuvers through a vast cloud of charged gas and floating debris. Inside the cockpit, the pilot moves the controls while the captain braces against the console and an alien crew member monitors the storm. The camera moves from the crew toward the forward window, cinematic tension, realistic motion.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2115004379686199661" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115004099125026816/img/o0v-KGv5QWpBaeHV.jpg" alt="带电星云中的探索飞船" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2115004381942718696" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2115004379686199661" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-autumn-lookbook"></a>
+### 149. Kling 4.0 与 Seedance 2.5：秋日穿搭
+
+Kling 4.0 与 Seedance 2.5：秋日穿搭，来自 @YUNTJP 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+一人の女性キャラクターでルックブック風動画。
+
+参照画像の役割：
+<<<image_1>>>主体のキャラクターの顔を参照してください。顔以外の要素（衣裳、背景、ライティング、）は除外します。
+
+<<<image_2>>>主体キャラクターの体つきの参照用です。体つき以外の要素（衣裳、背景、ライティング、）は除外します。
+
+以下の画像は衣装用の参照画像です。
+<<<image_3>>>
+ <<<image_4>>>
+ <<<image_5>>> 
+<<<image_6>>>
+シーンの詳細に準拠したファッション例です。あくまでも衣装の参照用でありそれ以外の要素は参照除外です。
+
+シーン詳細：
+4種類のファッションをYouTubeのルックブックのように
+一つ一つのファッションタイプ、コーディネイトを見せて、そのファッショに合うようなウォーキングやポーズを決める。
+1種類のファッションにつき3－4秒程度使い、
+衣装が切り替わる時はハードカットしてロケーションも変えて同じように繰り返す。それを4種類分。
+
+冒頭と終わりはclose-upショットで愛嬌ある微笑みを入れる。
+
+PhotoReal、人物の描写、肌の質感、物理法則は現実的に正確にすること。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/YUNTJP/status/2115053099337560449" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115047262816788480/img/zfHpC5_qzt6l6jcZ.jpg" alt="Kling 4.0 与 Seedance 2.5：秋日穿搭" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/YUNTJP" rel="nofollow noreferrer" referrerpolicy="no-referrer">@YUNTJP</a>
+- 来源: <a href="https://x.com/YUNTJP/status/2115053099337560449" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city"></a>
+### 150. Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市
+
+Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: abstract expressionist painting in motion. Thick, energetic brushstrokes, drips, splatters, and smeared color that pulse to the music. Each location has its own palette. Nothing is fully realistic: people and buildings are suggested with loose strokes.
+0-3s: Location 1, a smoky jazz club painted in deep blues and blacks. A saxophonist plays, and one bright yellow paint-stroke note escapes the horn and floats out the door.
+3-8s: Location 2, a rainy night street in gray and violet smears. The note bounces off puddles, and every splash leaves a burst of yellow. Painted strangers look up as it passes.
+8-12s: Location 3, a subway car in rushing streaks of green and silver. The note gets trapped against the window, flickering and fading as the train roars.
+12-16s: Location 4, a rooftop at night. The doors open and the note escapes up the stairs, then explodes into the sky in a huge firework of splattered gold, lighting up the painted skyline.
+16-18s: Button: back in the club, the saxophonist peers into his horn, shrugs, and plays a new note, which starts to sneak out the door too.
+Camera: one continuous flowing camera that follows the note through each location, with brushstrokes smearing into the next scene as transitions.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2115066849746456932" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2115066828359598080/pu/img/4vOPc7QI1EkZ3RA4.jpg" alt="Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2115066851235406075" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2115066849746456932" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="an-armored-hunter-cooks-dinner"></a>
+### 151. 铠甲猎人的汉堡晚餐
+
+铠甲猎人的汉堡晚餐，来自 @tokyo_Valentine 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 15-second cinematic cooking sequence, 16:9 landscape, using the two supplied reference images.
+
+REFERENCE CONSISTENCY
+Reference Image 1 defines the single character: preserve the exact black-and-red armor, helmet, mechanical dreadlock tubes, visible eyes, armored hands, proportions, materials, and surface details. The character wears the gas mask while cooking. Only the gas mask is removed before eating; the helmet, tubes, and body armor remain unchanged. Keep all weapons secured and inactive.
+Reference Image 2 defines the kitchen: preserve its black marble island, dark wood cabinetry, warm amber lighting, pendant lamps, appliances, and spatial layout.
+
+Treat both reference sheets as design references. Render a full-screen cinematic scene with one character, not the diagrams, multiple views, labels, or panels.
+
+CONCEPT AND VISUAL STYLE
+A formidable armored character expertly prepares an irresistibly appetizing Japanese hamburger steak topped with a sunny-side-up egg and glossy brown demi-glace sauce, then removes the gas mask and enjoys the meal alone.
+
+Use realistic cinematic materials, warm highlights on black metal, delicate steam, a deeply browned meat crust, glossy sauce, and a rich golden egg yolk. Serve one hamburger steak and one fried egg on a white ceramic plate.
+DIRECTING
+Use action-film camera language: fast low-angle tracking, precise whip pans, short orbital moves, motivated push-ins, and action-matched cuts. Let the camera follow the hands, utensils, and food. Finish each fast move with a clear, readable composition.
+
+Use a brisk cooking montage during the first eight seconds, followed by controlled camera movement for mask removal and eating. Compress actual cooking time through editorial cuts. The hamburger steak is fully cooked before plating; the egg white is set while the yolk remains runny.
+
+The timestamps below describe consecutive one-second action beats. Preserve the order and allocate enough time for the physical mask removal and the final bite.
+SECOND-BY-SECOND SEQUENCE
+
+00:00–00:01
+An armored hand lowers a thick hamburger steak into a hot skillet with a spatula. It immediately sizzles. Begin at skillet-rim height with a fast lateral dolly toward the point of contact. Tiny oil droplets and steam catch the warm kitchen light.
+
+00:01–00:02
+CUT FORWARD IN COOKING TIME. The character smoothly flips the steak once with the spatula, revealing a beautifully browned crust. The camera follows the turn in a tight upward arc, then settles as the steak lands firmly in the pan.
+
+00:02–00:03
+CUT to both armored hands cracking one egg over a second skillet. A quick whip pan follows the forearm and resolves into a steady close-up as the shell opens and the egg drops into the pan. Keep the yolk whole.
+
+00:03–00:04
+Continue the egg shot. The camera makes a short, low macro slide beside the pan as the egg white begins sizzling around the domed golden yolk. Emphasize delicate bubbles and the clean, glossy yolk surface.
+00:04–00:05
+CUT FORWARD IN COOKING TIME to the browned hamburger steak. The character pours a small stream of thick demi-glace sauce around it. A fast push-in follows the stream down to the bubbling sauce, ending on the glistening meat.
+
+00:05–00:06
+The character lifts the cooked steak with a spatula and transfers it onto the white plate immediately beside the skillet. The camera tracks the short movement horizontally, keeping the steak sharp as sauce clings to its surface.
+00:06–00:07
+CUT to the cooked sunny-side-up egg being lifted from the second skillet. The camera follows the spatula in a tight descending movement as the character gently slides the egg onto the center of the steak. The yolk remains intact.
+
+00:07–00:08
+The character slides the completed plate a short distance into its dining position on the island. A brisk 30-degree camera orbit reveals the imposing masked character behind the steaming food. End with the golden yolk prominent in the foreground.
+00:08–00:09
+CUT to the character seated alone at the island. Both hands release the gas mask’s side catches. Begin a controlled push-in from a three-quarter angle. Clearly show the hands gripping the mask while it still covers the face.
+
+00:09–00:10
+Continue without cutting. The character physically pulls the gas mask forward, away from the face, then lowers it. Reveal the mouth naturally while preserving the same visible eye region and skin tone. The helmet and mechanical dreadlock tubes remain completely unchanged.
+00:10–00:11
+Continue the same action. The character places the removed mask on the countertop to the right of the plate. The camera tilts down with the hand, clearly showing the mask touch the surface and remain there as a solid object.
+
+00:11–00:12
+CUT to a low close-up of the plate. Using a fork and table knife, the character cuts through the egg and cooked hamburger steak. The camera makes a short push-in as golden yolk flows over the browned meat and blends with the glossy sauce. Show a moist, fully cooked interior.
+00:12–00:13
+Continue the food shot. The fork lifts one small bite coated with yolk and sauce. The camera rises smoothly with the fork, maintaining sharp focus on the appetizing bite and its delicate steam.
+
+00:13–00:14
+CUT to a three-quarter facial close-up. The character brings the fork to the exposed mouth, takes the bite, and begins chewing naturally. Use a gentle forward camera drift. The gas mask remains on the countertop.
+00:14–00:15
+Continue without cutting. The character’s eyes soften with quiet satisfaction and the shoulders relax slightly. Make a small, smooth dolly backward to include the steaming plate and warm kitchen surroundings. End on the character peacefully enjoying the meal alone.
+
+SOUND
+No background music, narration, or dialogue.
+Use synchronized cooking and environmental sounds: strong sizzling, an egg cracking, sauce bubbling, subtle armor movement, spatula contact, mask catches clicking, the mask touching the countertop, and quiet cutlery sounds. Let the intense cooking sounds transition into calm kitchen ambience during the final seconds.
+CONTINUITY AND QUALITY
+Exactly one character, one hamburger steak, and one fried egg.
+Maintain consistent hands, utensils, armor, kitchen geometry, and food placement.
+The gas mask stays on during cooking, is physically removed at 00:09–00:10, and remains beside the plate afterward.
+Use ordinary kitchen utensils for cooking.
+Keep food and hand movements readable despite the energetic camera.
+Avoid duplicated fingers, floating utensils, teleporting ingredients, changing faces, dissolving masks, extra people, explosive flames, excessive camera shake, subtitles, captions, and reference-sheet text.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/tokyo_Valentine/status/2115085471005159653" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115083824946425856/img/b_WPm2jExecxn43N.jpg" alt="铠甲猎人的汉堡晚餐" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/tokyo_Valentine" rel="nofollow noreferrer" referrerpolicy="no-referrer">@tokyo_Valentine</a>
+- 来源: <a href="https://x.com/tokyo_Valentine/status/2115085474973073710" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/tokyo_Valentine/status/2115085471005159653" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-birthday-cake-made-with-love"></a>
+### 152. 充满爱意的生日蛋糕
+
+充满爱意的生日蛋糕，来自 @aiwithaly 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+10 seconds | 16:9 | Cinematic 3D Anime | High-Quality Animation | Heartwarming Family Story.
+
+A young East Asian man named Ming tries to bake a birthday cake for his beloved mother, but everything goes hilariously wrong. Flour explodes across his face, his mixer breaks, and his cake burns in the oven. Disappointed but determined, he buys a simple cupcake and visits his mother. When she notices the flour smudge on his nose, she smiles with pure affection and embraces him warmly. He hugs her back, realizing that love matters more than a perfect gift.
+
+Visual Style: Beautiful cinematic 3D anime, expressive facial animation, warm golden lighting, detailed environments, smooth camera movements, realistic object physics, soft depth of field, and consistent character designs.
+
+Audio: Playful piano, comedic kitchen sound effects, gentle orchestral strings, a joyful laugh, and an emotional musical ending. No dialogue, narration, subtitles, or on-screen text.
+
+Negative Prompt: No character redesign, inconsistent clothing, distorted hands, extra fingers, duplicated characters, unnatural movement, flickering, random cuts, unwanted text, logos, or watermarks.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/aiwithaly/status/2115085490475217187" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115085276452429824/img/85t8AxOQ0dRWbS3u.jpg" alt="充满爱意的生日蛋糕" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/aiwithaly" rel="nofollow noreferrer" referrerpolicy="no-referrer">@aiwithaly</a>
+- 来源: <a href="https://x.com/aiwithaly/status/2115085490475217187" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-the-longship-in-the-storm"></a>
+### 153. Kling 4.0 与 Seedance 2.5：风暴中的维京长船
+
+Kling 4.0 与 Seedance 2.5：风暴中的维京长船，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a historical adventure film sequence in which a Nordic Viking ocean-going longship crosses a violent ocean storm. Captain Eirik stands on the raised platform at the bow, solely responsible for observing the sea, assessing danger, and commanding the rowing cadence. His daughter Ingrid remains on the starboard side of the central mast. After lightning ignites the mainsail control rope, she cuts the rope and helps the longship break through an enormous wave.
+From the first frame, all twelve people must already be aboard the ship and actively rowing. Do not begin with an empty ship or an unoccupied environmental establishing shot.
+All reference images are used only to maintain consistency in the characters, ship, costumes, and props. Do not use the full-ship blocking master. Do not use any reference image as the first frame, last frame, or an intermediate keyframe.
+[Reference Asset Responsibilities]
+@Image1 defines the large Viking ocean-going longship: its hull structure, high bow, high stern, broad deck, central mast, enormous square sail, five rowing benches, ten oar ports, dark oak construction, and coarse rope materials.
+@Image2 defines the appearance, clothing, and fixed group identity of the ten rowers. Do not use the original background or character positions from the image.
+@Image3 defines Eirik’s facial features, short ash-blond hair, dense greying beard, broad physique, black-brown fur mantle, and dark charcoal clothing.
+@Image4 defines Ingrid’s facial features, grey-green eyes, freckles, long auburn braid, dark oxblood cape, indigo coarse-wool clothing, and leather belt.
+@Image5 defines the size and design of Ingrid’s short-handled axe, including its short wooden handle and dark forged-iron head. The axe belongs only to Ingrid.
+[Fixed Spatial Layout and Crew Positions]
+There is exactly one large Viking longship and exactly twelve people throughout the sequence: Eirik, Ingrid, and ten rowers.
+Eirik always stands at the center of the raised command platform at the bow. He only observes the sea and commands the crew. He never touches the rudder, tiller, oars, or sail ropes, performs no steering action, and never leaves the bow platform.
+Ingrid always stands in the sail-control area on the starboard side of the central mast. At the beginning, she controls the starboard mainsail rope with both hands. The short-handled axe is secured at her right hip.
+Five transverse rowing benches remain fixed between the mast and the stern, arranged in sequence from the bench nearest the mast to the bench nearest the stern.
+Each bench holds exactly two rowers: one on the port side and one on the starboard side. Across all five benches, there are five port rowers and five starboard rowers. Each rower remains seated at the same position, faces the stern, and controls one specific wooden oar with both hands.
+No rower leaves their seat, changes sides, moves toward the bow, operates the rudder, or becomes an additional protagonist.
+Close-ups may show only some of the characters, but the number and spatial relationship of all twelve people must remain unchanged. Every return to a wide or medium-wide shot must clearly re-establish that the ship is crewed: Eirik is visible at the bow, Ingrid is visible beside the mast, and all ten rowers and ten moving oars are visible across the middle and rear sections of the deck.
+[Rowing Rhythm and Collective Shouts]
+The ten rowers continuously perform an organized rowing cycle:
+They inhale together while leaning forward during the recovery phase.
+They pause briefly as the oar blades enter the water.
+As they pull backward and the oars meet maximum water resistance, all ten rowers produce one low, brief, wordless exertion shout.
+As the oars leave the water and return forward, the shouting stops, leaving only rapid breathing.
+The collective shout must arise naturally from the physical effort of pulling the oars. It is not a random battle cry. The shout occurs on the same beat as the oar blades biting into the sea, the arms tightening, the torsos leaning backward, and the ship surging forward.
+The ten rowers reach the peak of their power and produce their exertion shouts at approximately the same moment, while their body movements retain slight natural timing differences to avoid mechanical duplication. The front row may enter the power phase a fraction earlier than the rear row, after which the entire ship settles into a unified cadence.
+After Eirik gives a clear command, all ten rowers immediately answer on their next power stroke with one louder, shorter, wordless collective roar. They then return to their regular breathing and exertion rhythm.
+[30-Second Shot and Story Rhythm]
+0–4 seconds | Shot One: A Fully Crewed Longship in the Storm
+The opening frame immediately shows the complete longship sailing through the storm with all twelve people already aboard.
+Use a slightly elevated three-quarter medium-wide view from the port stern, positioned several metres above the sea. The camera can look down onto the deck and simultaneously show the bow, mast, five rowing benches, and oars on both sides. The longship occupies most of the frame, and the characters must not appear too small to recognize.
+Eirik is already standing on the bow platform. Ingrid is already positioned on the starboard side of the mast. The ten rowers are already seated across five benches and rowing continuously. Ten wooden oars extend from both sides of the hull, already engaged in either the power or recovery phase from the first frame.
+Dense blue-grey sea fog surrounds the lower hull and distant water, but the deck remains sufficiently clear. The fog must not completely conceal the characters. Heavy, rolling, lead-grey storm clouds completely cover the sky, while distant lightning moves within the cloud layers.
+During the first powerful pull, the rowers produce a low collective exertion roar. The bow crashes through the water, throwing spray toward the camera. Use the wave spray briefly obscuring the image as the transition point.
+4–7 seconds | Shot Two: Close-Ups of Rowing Force
+Cut to a low-angle close-up of the oar blades striking the blue-black sea. Five port-side oars bite into the water in sequence, throwing spray backward along the side of the hull.
+Cut to a close-up of the rowers’ hands. Soaked fingers tighten around rough wooden oar shafts, veins rise across the backs of their hands, and leather bracers scrape against the wood.
+Cut to close-ups of two rowers’ faces. Rain runs down their foreheads and beards. At the moment their bodies lean backward and their chests and abdomens engage, they open their mouths and release a brief exertion shout. During recovery, they immediately close their mouths and inhale.
+End with a detail shot of boots braced against the wet deck. The ship rolls violently, and the soles slide briefly before finding support again.
+7–11 seconds | Shot Three: Eirik Gives the Command
+Use a medium-wide deck shot from the port stern. The camera begins beside the fifth rowing bench and makes a short forward push with the rise and fall of the ship. It passes all five rows of continuously rowing crew members, then Ingrid beside the central mast, and finally reaches Eirik on the raised bow platform.
+The camera rolls to port with the deck, and the operator corrects the composition half a beat later. Rain and sea fog continuously move sideways through the frame. Only blurred wave walls and storm clouds are visible in the background.
+Eirik lowers his center of gravity. One hand grips the bow rail while the other presses downward with force in time with the oars. His gaze first scans the water ahead, then checks the mast, Ingrid, and all ten rowers.
+Eirik commands in English against the wind and waves:
+{Keep the stroke!}
+After the command, the ten rowers answer on their next power stroke with one louder, shorter, wordless collective roar. All ten oars enter the water more deeply, and the longship visibly surges forward.
+The rowers then return to their established rhythm: inhaling during recovery and producing a low shout during each power stroke.
+11–14 seconds | Shot Four: Lightning Strikes the Sail Rope
+Use an extreme close-up of the starboard mainsail control rope. The wet, coarse fibres are pulled tight under enormous tension, while droplets roll along the vibrating rope.
+Lightning suddenly strikes the rope and the lower-right corner of the sail. Cold white electrical light cuts through the dense fog and briefly reveals the entire ship, the rain curtain, and the internal layers of the storm clouds. The lightning impact and hull vibration knock the camera abruptly sideways before it quickly finds the rope again.
+Orange sparks erupt across the rope. Fire spreads along the wet fibres. The lower-right corner of the sail begins to burn and thrash violently as the wind presses the ship into a dangerous starboard list.
+Cut to a tight close-up of Ingrid. The thunder makes her blink rapidly. Her gaze moves from the flames to the strained knot and then to the rising black wall of water ahead. Her breathing suddenly shortens, and her fingers tighten visibly around the rope.
+The ten rowers continue moving in the background. Their shouts are briefly swallowed by the thunder before becoming audible again.
+14–18 seconds | Shot Five: Father-Daughter Conflict
+Use a deep telephoto composition from the port side. Ingrid stands in the foreground beside the mast. Eirik remains in the distant bow area. A black wall of water, higher than the bow, forms through the dense fog ahead.
+The burning sail corner remains visible above them. The ten rowers continue pulling in the background. Their collective exertion shouts alternate with the roar of the sea.
+After seeing the wave wall, Eirik’s commanding hand pauses for half a beat and his jaw tightens. He immediately extends one arm toward the burning rope. He does not leave the bow and does not move toward any steering equipment.
+Eirik commands in English:
+{Cut the line!}
+Before he finishes speaking, Ingrid is already looking toward the sail. She still wants to save it, and her grip on the rope does not release.
+Breathing rapidly, Ingrid replies in English:
+{We’ll lose the sail!}
+18–21 seconds | Shot Six: The Decision
+Cut to a close-up of Eirik’s face under driving rain. The wind briefly tears open the fog behind him, revealing the approaching wall of water.
+Eirik’s eyes first scan the ten oars that are still pulling, then lock onto Ingrid. A brief flash of concern for his daughter and the entire crew appears in his gaze, but his body remains stable.
+Lowering his voice, Eirik replies in English:
+{We still have oars.}
+As the line ends, the ten rowers complete one heavy pull, and their collective exertion roar rises from behind him.
+Cut to a close-up of two oars biting into the sea simultaneously, then return to Ingrid. Her gaze moves from the oars to her father and finally to the burning rope.
+She releases the sail rope, takes one short breath, plants her feet firmly on the deck, and grips the axe handle at her right hip. Use an extreme close-up as she draws the short-handled axe and rainwater runs from the edge of the dark blade.
+21–25 seconds | Shot Seven: Cutting the Rope with a Single Blow
+Use a low-angle medium close-up. Ingrid holds the rope below the burning section with her left hand while her body leans toward starboard with the ship. The camera tilts with her but keeps the axe blade and rope clearly visible.
+She delivers only one short, heavy, decisive horizontal strike.
+At the moment the axe hits the rope, the camera receives one brief physical jolt. Use a match cut to an extreme close-up of the rope fibres snapping, followed immediately by a medium-wide shot from the starboard side.
+The burning sail corner loses tension and whips violently over the starboard side into the sea. The dark orange flames are immediately extinguished on contact with the water, releasing white steam and a large burst of spray.
+At the same moment, a wave breaks over the gunwale and drenches Ingrid, the benches, and the rowers. Several rowers instinctively hunch their shoulders, but all remain seated and maintain the rowing cadence.
+The sail goes slack, and the longship begins to recover from its dangerous starboard list. The mast and hull remain intact.
+25–28 seconds | Shot Eight: Breaking Over the Wave Wall
+Cut to an extreme exterior wide shot close to the sea surface. The large longship climbs directly up the enormous wall of water emerging from the dense fog. The bow rises high as all ten oars continue driving on both sides of the hull.
+Storm clouds extend from the horizon to the top of the frame. Cold white lightning repeatedly glows inside the heavy cloud layers. Dense rain falls continuously, while sea fog, rain curtains, and wind-driven spray merge into one violent atmosphere.
+During their most powerful stroke, all ten rowers release the strongest collective exertion roar of the sequence. Their voices combine with the impact of the oars and the groaning hull as the ship climbs toward the crest.
+The camera rises sharply with the bow, causing the horizon to slide downward and leave the frame. After crossing the crest, the camera experiences a brief moment of weightlessness before falling heavily with the hull. Water strikes the camera head-on, leaving several droplets briefly visible on the lens.
+28–30 seconds | Shot Nine: Recognition Within the Storm
+Use a medium close-up from the port side of the bow. Eirik stands in the foreground in profile. Ingrid remains beside the mast in the midground, while the rowers and oars continue moving behind them.
+The sky remains covered by storm clouds, and heavy rain and dense fog continue surrounding the longship. No clear sky, sunlight, or warm sunset appears.
+Only after confirming that the longship has crossed the wave crest does Eirik turn toward Ingrid. He does not smile. Only the tension in his jaw softens slightly.
+Eirik says in English:
+{Next watch, you take the bow.}
+Ingrid does not move toward the bow. She looks down at the severed rope and then meets her father’s gaze. Her chest rises and falls rapidly from exertion and tension. She slowly exhales and answers with one restrained but unmistakable nod.
+The rowers continue pulling at the established cadence behind them, producing quieter collective exertion shouts at the peak of each stroke. End with the ship, characters, oars, driving rain, and waves still in motion.
+[Character Actions and Emotional Performance]
+Eirik’s objective is to keep the ten rowers on rhythm and force Ingrid to sacrifice the sail before the wave wall reaches them. His tension is visible through a lowered center of gravity, a tightening jaw, rapidly assessing eyes, and increasingly concise commands. He does not express it through exaggerated roaring.
+His eyes continuously scan the sea, mast, his daughter, and the rows of oars. His gaze always reaches a target half a beat before his head turns. When the fire and wave wall appear together, his commanding hand pauses for half a beat. This is the only visible fracture in his control. He then immediately resumes clear command.
+Ingrid’s state progresses from focused control of the sail rope, to refusing to lose the sail, to accepting the sacrifice and taking decisive action. Her hesitation is visible through the hand that refuses to release the rope, repeated glances toward the sail, and shortened breathing.
+When she hears, “We still have oars,” she first notices the continuously moving oars and then makes her decision. Once the decision is formed, her shoulders lower, her feet become firmly planted, and her gaze locks onto the rope’s point of tension. After cutting the rope, she continues resisting the ship’s movement and does not celebrate immediately.
+The ten rowers remain under sustained physical strain. Wet hair clings to their foreheads, jaws tighten, and neck and arm muscles engage with every pull. The regular shouts must arise naturally from chest and abdominal effort. During recovery, they inhale rapidly.
+When the thunder strikes, the rowers nearest the mast hunch their shoulders first, while the others look up a fraction later. No one stops rowing. All ten voices synchronize clearly only when responding to Eirik’s command and during the final push over the wave crest.
+[Immersive Ship and Camera Movement]
+Every camera aboard the ship moves in synchronization with the longship’s roll, pitch, vertical heave, and wave impacts.
+When the hull enters a trough, the camera falls heavily with the deck. When the bow climbs a wave, the camera tilts gradually upward. When a wave strikes the gunwale, the frame receives one weighty lateral impact. When the ship crosses a crest, the camera rises rapidly, experiences brief weightlessness, and then drops.
+The camera has realistic mass and inertia. When the ship tilts suddenly, the frame follows half a beat later. The camera operator then makes small opposing corrections through footwork and body weight. The horizon continuously tilts and recovers instead of remaining mechanically level.
+Medium deck shots use the strongest immersive movement. Character close-ups reduce the camera’s displacement and instead communicate ship movement through the characters’ shoulders, wet hair, the mast, and the moving horizon. The camera works to hold the characters’ faces but retains slight lag and visible reframing.
+Every camera movement must originate from waves, the hull, the operator’s footing, or a physical action impact. Maintain low-frequency, heavy, directional movement with believable physical weight.
+[Storm and Cinematic Image Quality]
+Heavy storm clouds cover the sky throughout the entire sequence. The cloud layers are lead grey, deep blue grey, and charcoal black, rising from the low sea fog to the top of the frame. No blue sky, clear weather, sunlight, or warm sunset appears.
+Dense sea fog persists throughout. Fog moves around the lower hull, sea surface, and distant wave walls, continuously torn apart and reshaped by the wind. Long-distance visibility is extremely poor, and the horizon remains hidden for most of the sequence. The deck and its characters remain readable, and the fog must never completely conceal the crew.
+Rain is dense, continuous, and driven in a clear direction. Water repeatedly strikes the characters’ faces, sail, and deck, running across fur, wool, leather, and wood. Waves frequently break over the gunwale and realistically drench the crew and camera position.
+Use a palette dominated by steel blue, lead grey, deep navy, wet charcoal black, and silver-grey highlights. Skin tones remain cool and desaturated while retaining natural blood circulation. The dark orange flames on the rope are the only prominent warm colour.
+Emulate 35mm motion-picture negative: natural fine grain, rich blacks that preserve texture, silver-grey highlights, subtle halation around lightning and fire, realistic motion blur, and slight lens breathing.
+The sequence has a rough, heavy, realistic historical adventure-film aesthetic. Wet wood, saturated wool, aged leather, coarse rope, forged iron, and sailcloth all possess credible texture and physical weight.
+[Sound and Dialogue]
+The environment includes continuous high wind, dense rain, roaring waves, water striking the hull, spray washing across the deck, wet timber groaning, sailcloth snapping, coarse ropes straining, ten oarlocks scraping, oar blades entering the sea, and the rowers’ heavy breathing.
+<During every major power stroke, all ten rowers produce one low, brief, wordless exertion shout.>
+<After Eirik gives a rowing command, all ten rowers respond during the next power stroke with one louder, shorter collective roar.>
+The exertion shouts must synchronize with the peak of each power stroke. During the recovery phase, the rowers do not continue shouting. Only inhalation, heavy breathing, and oarlock friction remain.
+Eirik speaks in English:
+{Keep the stroke!}
+{Cut the line!}
+{We still have oars.}
+{Next watch, you take the bow.}
+Ingrid speaks in English:
+{We’ll lose the sail!}
+Eirik has a low, rough, controlled baritone. His sentences are brief, and his voice becomes quieter as the pressure increases. Ingrid’s voice is clear and lower-pitched, with breathing affected by physical exertion and the storm.
+The rowers have no individual dialogue. They produce only wordless exertion shouts and collective responses. During spoken dialogue, the storm and rowing sounds remain present but become slightly quieter so that every line remains intelligible.
+Use low strings, sparse Nordic frame drums, and sustained low brass. The music must not overpower the storm, rowing, collective shouts, or dialogue. Display no subtitles, titles, or written text.
+[Consistency]
+The opening frame must show all twelve people aboard the ship and all ten oars in continuous motion. Do not generate an empty-ship opening.
+Keep exactly twelve people throughout. Do not add a helmsman, extra crew members, or duplicate characters.
+Eirik always remains at the bow and only commands. He never steers, rows, or uses the axe.
+Ingrid always remains in the starboard sail-control area beside the central mast. The short-handled axe belongs only to her, and she swings it only once.
+The ten rowers remain fixed across five benches: five on the port side and five on the starboard side. Each rower controls the same oar throughout.
+Keep the rowers’ exertion shouts synchronized with the peak of each power stroke. After Eirik gives a command, the rowers must produce one clearly audible collective response.
+Fire appears only on the starboard mainsail control rope and the lower-right corner of the sail. After the rope is severed, it remains severed, and seawater extinguishes the flames. The mast and hull remain intact.
+Dense fog, gloom, driving rain, heavy storm clouds, waves washing over the ship, and immersive camera movement synchronized with the longship remain present throughout. The sky does not clear before the end.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2115126692184486204" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115126653269729280/img/xfsJrt2SAN5aTUD2.jpg" alt="Kling 4.0 与 Seedance 2.5：风暴中的维京长船" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2115126706935902551" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2115126692184486204" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set"></a>
+### 154. Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场
+
+Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30-second, 16:9 landscape travel vlog set on the streets of New York. All audible dialogue must be in English.
+Character and environment
+Use Image 2 as the reference for the adult female protagonist. Preserve her face, long wavy hair, black sunglasses, long black coat, black outfit, and tall black boots. The reference shows multiple views of the same person; only one protagonist appears in the video.
+The story takes place in Manhattan. Use Image 1 as a reference for the architecture, street depth, older building façades, and storefront awnings. Do not copy its elevated camera angle. Show contemporary New York in natural daylight, with yellow taxis, pedestrians, and street-level shops.
+A small film crew is shooting an action scene beside the sidewalk. Cameras, lighting stands, crew members, and a monitor occupy a designated curbside filming area. The protagonist initially overlooks this equipment. A crew member mistakes her for an actor wearing a black coat and directs her to a position on set. She assumes she is simply being asked to clear the walkway, cooperates, and accidentally enters the shot.
+Camera style
+The entire video consists of footage recorded by the protagonist using her phone’s front-facing camera. She holds the same phone horizontally in her right hand throughout, approximately an arm’s length from her face and slightly above chest height.
+Frame her from the head to the chest or waist, using a wide view that preserves the street and background action. Her right forearm occasionally enters the bottom of the frame; the phone itself remains outside the image.
+When addressing viewers, she looks into the phone lens. When speaking to crew members, she turns toward them before naturally looking back at the lens. Avoid an uninterrupted, mechanical stare into the camera.
+Maintain authentic handheld selfie footage: walking bounce, small framing changes from arm fatigue, a brief tilt when something unexpected happens, and deliberate corrections as she reframes herself. Keep the background recognizable without strong portrait-mode blur. Never switch to third-person coverage, aerial footage, or cinematic reverse angles.
+0–5 seconds | Enjoying a New York morning
+The protagonist is already visible in the first selfie frame, walking lightly along a Manhattan sidewalk. Her hair and open coat move naturally with her steps.
+She looks into the lens with a small smile and says casually:
+“New York, no plans. Just enjoying the day.”
+She briefly glances toward a storefront, then returns her attention to the lens. Ordinary traffic and footsteps fill the background.
+5–10 seconds | Mistaken for an actor
+A clear, businesslike crew member’s voice calls from offscreen left:
+“Black coat! Over here, please!”
+She turns toward the voice, slows down, and points to herself with her free left hand:
+“Me?”
+The crew member enters the left edge of the frame, wearing a headset and a crew badge. He points toward a position near the curb and nods.
+Assuming she is blocking the walkway, she politely takes two steps sideways. The phone rotates slightly with her body, revealing camera equipment and lighting stands behind her.
+She continues holding up her phone, still unaware that she has been mistaken for an actor.
+10–16 seconds | Accidentally entering the action scene
+Hard cut forward a few seconds, maintaining the same selfie perspective. She now stands on the indicated spot, her face on the left side of the frame, with the filming area clearly visible to her right and behind her.
+Two adult stunt performers run past approximately three meters behind her. The leading performer stops and turns. The pursuer throws a staged punch with visible clearance; the other performer dodges sideways, followed by a brief arm grab and escape. Their movements have a rehearsed rhythm. Neither touches the protagonist.
+The sudden running footsteps make her shoulders flinch, interrupting her attempt to speak. She looks behind her, then back into the phone lens and says quietly, with genuine uncertainty:
+“Wait… am I in the movie?”
+Her phone-holding hand dips briefly, tilting the image. She then tries to fit both her face and the action behind her back into the frame.
+Her left hand rises halfway, as though she wants to ask where she should stand but does not know whom to ask. She neither screams nor joins the fight.
+16–24 seconds | “Cut!” and the misunderstanding
+A loud male voice calls from offscreen:
+“Cut!”
+The two performers stop in succession, relax, and return toward their starting positions. Do not make everyone freeze simultaneously.
+An assistant director wearing a headset and carrying a folded call sheet approaches briskly from the right background. He stops approximately one meter beside her.
+She rotates her phone-holding arm to include both of them naturally in the same selfie frame.
+Looking mildly puzzled, he asks:
+“You’re our actor, right?”
+She turns toward him, gently shakes her head, and points toward her phone with her left hand:
+“No, just filming my vlog.”
+Realizing his mistake, the assistant director relaxes his shoulders, smiles apologetically, and gestures toward the clear sidewalk:
+“My mistake. Sorry!”
+Only after hearing the apology does she relax, nod, and let out a brief laugh. The exchange flows naturally, with small reaction pauses and no overlapping dialogue.
+24–30 seconds | Leaving the set and sharing her reaction
+Hard cut to her walking along the same sidewalk again, having left the filming position. The crew remains visible behind her, resetting the scene.
+She exhales, looks into the lens with some lingering disbelief, then begins to laugh:
+“I came for a walk. Apparently, I’m an action star now.”
+Deliver the first sentence as an earnest recap. Let the self-deprecating amusement emerge during the second.
+Leave approximately one second at the end as she lightly shakes her head and keeps walking. End directly.
+Performance and sound
+Give the protagonist one consistent, natural, clear adult female English voice with a medium-low register and conversational delivery. She begins relaxed; after accidentally entering the scene, her speech becomes shorter and quieter. Once the misunderstanding is resolved, her delivery includes an exhale and spontaneous amusement.
+Avoid announcer-style delivery, continuous recitation, or forced comic acting.
+Her sunglasses remain on her face throughout. Express emotion through her mouth, chin, head turns, shoulders, and pauses rather than close-ups of eyes hidden behind the lenses.
+The crew member and assistant director have distinct adult male voices with natural American accents. Each line is spoken only by its assigned character. The offscreen “Cut!” must not be spoken by the protagonist. Add no other intelligible dialogue.
+Preserve New York traffic, footsteps, wind, clothing movement, running performers, and subdued crew ambience. Keep dialogue intelligible. No music, narration, subtitles, or text overlays.
+The chase and fight must remain recognizable as a staged film production: no weapons, blood, wounds, explosions, or actual injuries. The protagonist accidentally enters the shot and becomes involved in an identity mix-up; she is not attacked.
+Use real-time motion throughout and only the two specified hard cuts. Maintain continuity of identity, wardrobe, phone-holding hand, and street geography.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2115171733154197958" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115171697737519104/img/Q0B5ILK5FSGG1dhI.jpg" alt="Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2115171746299125899" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2115171733154197958" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-core-day-gym-vlog"></a>
+### 155. Kling 4.0 与 Seedance 2.5：核心训练日记
+
+Kling 4.0 与 Seedance 2.5：核心训练日记，来自 @YourAlphaMom 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+**CAMERA:**
+DV 16mm tape camcorder handheld feel. POV of MILA holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+**STYLE:**
+Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
+
+**Character**
+
+MILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, glowing skin with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach and lean arms and legs.
+
+She wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.
+
+**Setting**
+
+A gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.
+
+**Storyboard (15s, 6 shots)**
+
+1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. MILA: “Core day. Pray for me.”
+
+2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. MILA (strained): “Why am I shaking already?”
+
+3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. MILA: “This looked way easier online.”
+
+4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.
+
+5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. MILA (breathless): “Yep—my abs just quit.”
+
+6. *(~3s, arm’s-length selfie finish)* Still lying on the mat, she lifts the camera above her face (camera no visible), grinning tiredly. MILA: “Same time tomorrow? No promises.”
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/YourAlphaMom/status/2115191029641175400" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115188477402750976/img/dxVUBfdntgho_TOi.jpg" alt="Kling 4.0 与 Seedance 2.5：核心训练日记" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-27 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/YourAlphaMom" rel="nofollow noreferrer" referrerpolicy="no-referrer">@YourAlphaMom</a>
+- 来源: <a href="https://x.com/YourAlphaMom/status/2115191029641175400" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-spark-across-the-dark"></a>
+### 156. 黑夜中的星光火花
+
+黑夜中的星光火花，来自 @art_muse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A 30-second romantic multi-shot film in the style of a classical 19th-century oil painting: visible brushstrokes, rich impasto texture, Romanticism era, soft chiaroscuro lighting, deep midnight blues and warm golds, painterly canvas texture throughout, dreamy ethereal glow. Vertical 9:16.
+
+0–5s: Wide establishing shot of a moonlit old European street at night, two stone balconies facing each other across the street, a sky full of glittering stars, warm candlelight in the windows. Slow gentle push-in.
+
+5–10s: Medium shot of a young woman in a flowing ivory gown with long dark wavy hair on the left balcony, gazing across the street with longing, a soft night breeze moving her hair and dress.
+
+10–15s: Close-up as she softly blows a kiss from her palm. The kiss turns into sparkling golden stardust that drifts across the night sky, glowing particles swirling. The camera follows the stardust.
+
+15–20s: The stardust reaches a young man in a dark Victorian coat on the opposite balcony. He catches it in his hands, it lights his face, he smiles and releases a small paper boat made of silver light into the sky.
+
+20–26s: Both lovers float gently upward among the stars and meet in the middle of the night sky, holding hands, surrounded by swirling gold and silver stardust. Slow orbit shot around them, romantic and weightless.
+
+26–30s: Pull back as the stardust swirls across a starry oil-painted sky and slowly fades.
+
+Keep the same two characters, faces and costumes consistent in every shot. Gentle, slow camera movement only.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/art_muse/status/2115398078379245710" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115398035488329728/img/0tfJRWAzvzlimw9O.jpg" alt="黑夜中的星光火花" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/art_muse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@art_muse</a>
+- 来源: <a href="https://x.com/art_muse/status/2115398082779115973" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/art_muse/status/2115398078379245710" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest"></a>
+### 157. Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林
+
+Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: handmade stop-motion puppets, stitched fabric clothing, glass-bead eyes, visible wire joints, fingerprints on clay. Crooked gothic town of spindly leaning houses, spiral hills, striped lampposts, a giant chalky moon on a painted backdrop. Desaturated grays and bone white with pops of pumpkin orange. Choppy movement at 12 frames per second.
+0-3s: A thin, wide-eyed girl puppet with stringy black yarn hair walks into the woods holding a lantern made from a tiny glass bottle.
+3-8s: Twisted wire trees creak and reach toward her, closing in. She shuts her eyes and holds out the lantern like a shield.
+8-12s: Nothing grabs her. She opens one eye: the branches are frosted and shivering, reaching only for the lantern's warmth.
+12-16s: She lights tiny lanterns from her flame and hangs one on each branch. The forest glows orange as the trees relax.
+16-18s: Button: one small tree tugs her sleeve, asking for a second lantern.
+Camera: slow sideways tracking shot, ending on a wide view of the glowing forest.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2115429310618034502" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2115429294247702528/pu/img/wylDfDYGGR287tmF.jpg" alt="Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2115429311922541050" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2115429310618034502" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="ghost-horses-and-the-pumpkin-carriage-roller-coaster"></a>
+### 158. 幽灵马与南瓜车过山车
+
+幽灵马与南瓜车过山车，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+【Generation Goal】
+Generate a 17-second cinematic Halloween intercity roller-coaster sequence. Two ghost horses pull eight separate pumpkin carriages out of a real-world city at midnight. The train plunges, spirals around the city, passes through the city exit, leaps across a broken track, and lands on a newly formed ghostfire railway before entering Halloween City Beyond the Moon and continuing toward a distant Gothic castle.
+The pacing should rise and fall dramatically: the opening is graceful but fast, followed by continuous acceleration; the broken-track jump creates a brief moment of weightless silence; after the living skull creates a new track, the action erupts again. Preserve pronounced vehicle vibration, banking through turns, weightless floating, landing impacts, and physical camera inertia.
+【Fixed Long Train and Characters】
+At the very front of the train are exactly two wingless ghost horses running side by side, followed by eight separate pumpkin carriages:
+Witch’s driving carriage: an elderly witch and the only living skull.
+Grim Reaper carriage: a black-robed Grim Reaper holding a long-handled scythe.
+Skeleton carriage: one complete skeleton striking its ribs with bone mallets.
+Vampire carriage: a pale vampire holding a red glass goblet.
+Werewolf carriage: a tall, black-and-brown werewolf.
+Ghost carriage: three translucent ghosts.
+Black cats and jack-o’-lantern carriage: two black cats and a row of glowing jack-o’-lanterns.
+Bat tail carriage: a black iron bat-shaped tail fin and a colony of upside-down bats.
+The eight carriages are connected by black iron chains and articulated brass joints. Each carriage is a separate, complete, giant carved pumpkin with believable weight. During turns, plunges, airborne moments, and landings, the motion transfers sequentially from the first carriage to the eighth.
+【Core Character Appearance】
+The witch is approximately sixty-five years old, tall and slender, with a long narrow face, prominent cheekbones, and skin showing natural wrinkles, pores, and wind-chapped texture. Gray-white curls escape from beneath a patched black pointed hat. Her left eye is dark brown, while her right eye is covered by a faint milky cataract. She wears a worn black leather long coat whose dark pumpkin-orange lining is repeatedly lifted by the wind. Her hands are stained with soot and decorated with old brass rings. While driving, her center of gravity remains low and stable; her movements are brief and precise, and her eyes turn before her head. The closer the danger comes, the quieter she becomes.
+The living skull is secured to the dashboard of the first carriage by a short black iron chain. Its bone surface is aged ivory, with a diagonal crack across the frontal bone and a dark-gold canine tooth on the left side. Cyan-green ghostfire burns inside its eye sockets, and its lower jaw can open and close independently. During turns, centrifugal force throws the skull outward and pulls the chain taut. At the broken track, it deliberately turns forward and breathes the ghostfire that generates the new railway.
+【City and Spatial Axis】
+The real-world midnight city consists of rain-soaked skyscrapers, wet narrow streets, elevated traffic, and a gigantic skull clock tower. Toward the city outskirts, the skyline gradually lowers into cemetery terraces and scattered spires before opening into a vast cloud valley.
+From the city exit onward, the train’s forward axis remains unmistakably clear. The buildings on both sides gradually recede. Directly ahead, in sequence, are the continuous railway, the break at the city’s edge, the dark cloud valley, the enormous full moon, Halloween City Beyond the Moon, and the Gothic castle on the mountaintop.
+The distant castle is already visible in the train’s direction of travel from the city-exit shot onward and gradually grows larger as the train approaches. Every subsequent shot advances along this same spatial axis.
+Halloween City Beyond the Moon contains jack-o’-lantern streets, cemetery bone bridges, a skull clock tower, ghost airships, and a Gothic castle on the mountaintop. The castle features staggered spires of different heights, gargoyle-lined eaves, and orange glowing windows.
+【Visual Texture】
+A 35mm release-print texture with fine uneven grain, medium-low microcontrast, subtle color breathing, and natural motion blur. The palette is approximately 60% midnight blue and coal gray, 30% pumpkin orange, and 10% cyan-green ghostfire.
+Post-rain reflections are confined to the street surfaces and glass façades. Pumpkin skin, bones, leather, and stone architecture remain dry and rough. Third-person shots use the rule of thirds to convey the scale of both the train and the city. First-person shots use an onboard ultra-wide field of view fixed at passenger eye level inside the first carriage.
+【Precise Timeline】
+0:00–0:02 | Shot 1 | Third-Person Moonlit City Panorama
+The opening does not pass over a rooftop vantage point.
+The camera is positioned high above the side of a broad urban avenue, looking diagonally down into the city canyon between two rows of skyscrapers. The enormous full moon occupies the upper-right third of the frame. The skull clock tower stands in the middle ground, while the wet avenue and moving traffic extend into the distance.
+The complete pumpkin carriage train enters at high speed from the left side of the frame, following a graceful descending arc across the urban canyon and passing in front of the moon. Both ghost horses and all eight pumpkin carriages are clearly visible at the same time. The orange carriage lights form eight continuous but individually distinguishable points against the blue-gray city.
+After crossing the avenue, the railway naturally curves downward between the skyscrapers. The camera first tracks parallel to the train, then tilts downward along the descending arc and accelerates. No building blocks the train’s path.
+<Hoofbeats, wheel thunder, and city wind are present from the very first frame>
+(The pipe organ, low strings, and urgent percussion enter immediately)
+End state: the complete train has entered a downward plunge along the city’s central axis.
+0:02–0:04 | Shot 2 | First-Person City Plunge
+The camera is fixed at passenger eye level inside the first carriage. The witch’s left shoulder, gray-white hair, both hands holding the reins, and the living skull occupy the foreground. The two ghost horses and the descending railway are centered ahead.
+The camera rapidly pitches downward with the track, producing short impacts at the rail joints and banking in sync with the carriage when entering the turn. The skyscraper façades rush upward along both sides of the frame, while the street and elevated traffic below rapidly grow larger.
+The skull is thrown toward the right side. Its short chain instantly pulls taut, and the ghostfire in its eye sockets trails briefly through the rushing air.
+End state: the train levels out at high speed close to street level.
+0:04–0:06 | Shot 3 | Tracking Close-Up of the Witch and Skull
+The camera is positioned at the front-left side of the first carriage, retreating at the same speed as the train and sharing the fine vibration produced by the wheels crossing the rail joints.
+The witch braces both feet against the front wall of the carriage. She yanks the reins with one hand and pushes down a brass brake lever with the other. She first looks toward the clock tower ahead, then glances at the swinging skull; her head turns a fraction later. The background towers create rapid horizontal parallax.
+Facing into the wind, the witch briefly smiles and shouts in natural American English:
+Witch: {Hold on to your heads!}
+As she finishes the word “heads,” the skull stops rattling for half a beat and turns toward her before erupting into a wordless, bone-dry cackle. The witch immediately pushes the brake lever down again.
+<The music naturally lowers during the line, while the wind and wheel sounds remain present>
+End state: the first carriage banks left as it enters the spiral around the clock tower.
+0:06–0:08 | Shot 4 | Third-Person Clock-Tower Spiral and Character Ensemble
+The camera tracks from a medium-long position on the train’s right side, matching its speed and continuously banking with the railway.
+The complete long train performs a high-speed spiral around the gigantic skull clock tower. All eight pumpkin carriages form a clearly visible long arc around the exterior of the tower. The front carriages are already turning while the tail carriage remains on the previous section of track.
+The Grim Reaper remains seated upright while the tip of the scythe scrapes the track and produces cyan-green sparks. The skeleton continues striking its ribs. A red droplet from the vampire’s goblet briefly floats in midair. The werewolf throws back its head and howls. The three ghosts pass through the carriage wall. The two black cats lower their bodies, and the bat colony spreads outward from the tail carriage.
+The clock tower remains on the inside of the curve, while the city exit stays in the train’s forward direction.
+End state: the train springs out of the clock-tower spiral and enters an elevated straightaway leading toward the outskirts.
+0:08–0:10 | Shot 5 | Continuous Third-Person City-Exit Shot
+This is one uninterrupted rear-high tracking shot that establishes the complete spatial relationship.
+The camera is positioned above and behind the eighth tail carriage. Both ghost horses and all eight pumpkin carriages remain visible in the frame. The train travels along a straight elevated railway and passes between the final two skyscrapers. The two buildings recede separately toward the left and right edges of the frame, forming a broad city exit.
+The view ahead remains open. After crossing a low cemetery terrace, the railway runs directly toward the break at the city’s edge. Straight ahead are only the dark cloud valley, the enormous full moon, the silhouette of Halloween City Beyond the Moon, and the distant Gothic castle. The railway centerline, the broken edge, the moon, and the castle remain aligned along the same forward axis.
+The camera passes through the city exit with the train while the buildings continue receding behind it. The sky ahead remains unobstructed, and the castle stays continuously visible from this shot onward.
+<The city echoes gradually fade as the high-altitude wind grows stronger> End state: the complete train has left the dense skyscraper district, and the broken track is clearly visible straight ahead.
+0:10–0:12 | Shot 6 | First-Person Broken-Track Leap
+Match-cut along the railway centerline from the previous shot to passenger eye level inside the first carriage. The broken railway, full moon, Halloween City Beyond the Moon, and the castle retain exactly the same positions in the frame; the spatial direction does not change.
+The two ghost horses leap directly from the broken edge. The camera rapidly pitches upward with the carriage before entering a brief period of weightlessness, and all previous vibration suddenly disappears. The witch’s coat, the reins, and the living skull float upward at the same time. The real-world city rapidly falls away along both sides and below the frame.
+The sound suddenly drops out, leaving only the high-altitude wind, the eight chains pulling taut in sequence, and one short intake of breath from the witch. The score contracts into a single sustained high note.
+End state: the complete train hangs above the cloud valley, continuing along the same axis toward the moon and castle.
+0:12–0:15 | Shot 7 | Third-Person Ghostfire Track Creation and Landing Impact
+The camera cuts to a distant view on the train’s right side and flies parallel to the complete long train. The real-world city remains behind and to the left, while Halloween City Beyond the Moon and the Gothic castle remain ahead and to the right, preserving the established spatial relationship.
+The witch maintains her driving posture. With her right hand, she grips the short chain attached to the living skull and tilts the skull forward. The ghostfire in its eye sockets first contracts before a concentrated stream of blue-green flame erupts from its open jaw.
+The flame splits into two parallel steel rails ahead of the ghost horses. Glowing jack-o’-lantern support nodes ignite sequentially from near to far, while bone-white crossbeams form between them. The new track follows the original forward axis across the cloud valley and leads directly toward the moonlit Halloween city.
+The two ghost horses land on the new railway first, followed sequentially by all eight pumpkin carriages. The camera drops violently with the initial impact, then produces progressively weaker vertical aftershocks through the eight separate landings. Bats and ghosts fly alongside both sides of the railway.
+<The skull produces a deep, bone-dry roar as it breathes fire>
+<The eight carriages produce eight front-to-back low-frequency landing impacts>
+(The pipe organ and low strings return in full on the first landing)
+End state: the complete train is stable on the new railway. The castle has grown noticeably larger but remains far away.
+0:15–0:17 | Shot 8 | Third-Person Rear-High Pursuit and Halloween City Reveal
+The camera is positioned above and behind the train, following at a slightly slower speed and continuously pitching and banking with the slope of the railway.
+The new track follows a high-speed arc beneath the lower edge of the enormous full moon before plunging toward Halloween City Beyond the Moon. The clouds split open below, sequentially revealing jack-o’-lantern streets, cemetery bone bridges, and the skull clock tower. The Gothic castle, continuously visible since Shot 5, remains centered on the forward axis and naturally grows larger as the distance closes.
+The train passes through a jack-o’-lantern city gate with a wide-open mouth. The districts it passes illuminate with orange lights in sequence from near to far. The camera briefly moves closer to the tail carriage to emphasize the chain vibration and carriage swing, then rapidly pulls back to reveal the complete long train, Halloween City, and the mountaintop castle once again.
+The final frame keeps the train traveling at high speed toward the castle, with the next steep descent already visible ahead. The train does not stop, land, or arrive at the castle.
+(The pipe-organ melody continues rising and remains unresolved at the 17-second endpoint)
+【Camera-Movement Lock】
+The first-person camera is fixed at passenger eye level inside the first carriage. Its vibration comes from wheel joints, chassis torsion, directional changes, and landing impacts. It pitches downward during plunges, banks with the carriage through turns, briefly stabilizes while airborne, and produces one primary impact followed by diminishing aftershocks upon landing.
+The third-person camera maintains nearly the same speed as the train. It falls slightly behind during hard turns and catches up again after the train exits the curve. The movement conveys mass and inertia and does not use random handheld shaking.
+Every shot maintains the same forward direction. Shots 5 through 8 share one continuous spatial axis: the city exit, broken track, cloud valley, full moon, Halloween City Beyond the Moon, and Gothic castle remain ahead of the train as the distance steadily decreases.
+【Sound and Continuity】
+The entire sequence contains only one on-screen spoken line from the witch:
+{Hold on to your heads!}
+The Grim Reaper does not speak. The skeleton only produces bone percussion. The vampire does not speak. The werewolf only howls. The ghosts produce only wordless whispers. The black cats make only brief cries. The living skull produces only wordless cackling, jaw clicks, and fire-breathing sounds.
+Throughout the entire sequence, there are always exactly two wingless ghost horses, eight pumpkin carriages, one witch, one living skull, one Grim Reaper, one complete skeleton, one vampire, one werewolf, three ghosts, and two black cats.
+The living skull remains fixed inside the first carriage throughout. The eight pumpkin carriages remain connected from front to back, with their number, order, and character assignments unchanged. Shots 1, 5, 7, and 8 display the complete long train.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2115435993704853526" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115435961475837952/img/siV7hZH6ynBgo9Xa.jpg" alt="幽灵马与南瓜车过山车" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2115436072486531080" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2115435993704853526" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-2-6-underwater-profile"></a>
+### 159. Kling 4.0 与 2.6：水下侧脸对比
+
+Kling 4.0 与 2.6：水下侧脸对比，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Close-up underwater profile shot: A young woman with glowing skin and vivid red lips. Realistic skin texture, pores visible, micro-expressions, subtle blemishes. Sunlight pierces the turquoise water, creating sparkling highlights and casting dynamic shadows. A single bubble rises near her face, adding motion to the scene. She turns her head slightly and blinks. Camera pulls back very slowly, smooth motion, shot with 85mm lens, shallow depth of field, emphasis on water bubbles and surface water motion physics and golden hour lighting.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2115443305244946606" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115443276551774208/img/hKcSIXYN8ZvI4X7r.jpg" alt="Kling 4.0 与 2.6：水下侧脸对比" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2115443305244946606" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-omni-vs-1-6-hallway-to-sun-porch"></a>
+### 160. Kling 4.0 Omni 与 1.6：走向海景阳光房对比
+
+Kling 4.0 Omni 与 1.6：走向海景阳光房对比，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+She smiles as she turns her head slowly to look at something just off camera, then starts to walk down the hall behind her into a relaxed and comfortable sun porch facing a beach at golden hour, highly detailed, shot with an Arri Alexa
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2115443340883951720" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115443318540947456/img/SdgEINK5LWD7uw11.jpg" alt="Kling 4.0 Omni 与 1.6：走向海景阳光房对比" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2115443340883951720" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-1-6-underwater-camera-descent"></a>
+### 161. Kling 4.0 与 1.6：水下镜头下潜对比
+
+Kling 4.0 与 1.6：水下镜头下潜对比，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Photorealistic, cinematic Camera spirals quickly downward through aqua green ocean water, camera cranes down as underwater waves churn and rush over the endless sunken railings that appear to lead to a sunken city below, as rays of sunlight filter through the surface from above, enhancing the dreamlike ambiance, then light disappears as the view goes deeper into the dark depths of the ocean. Highly detailed, shot with Sony VFX
+
+Negative prompt: Artifacts, text, logo, people, modern technology, uneven exposure, animals, fish
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2115443382445387842" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115443353949208576/img/rXfp3rmZPwxGZyOR.jpg" alt="Kling 4.0 与 1.6：水下镜头下潜对比" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2115443382445387842" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-omni-vs-3-0-omni-corridor-glance"></a>
+### 162. Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比
+
+Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Realistic Anime-style close-up. A young woman with a messy black bob and a backpack strap over one shoulder glances back over her shoulder in a long fluorescent-lit corridor. She holds the look for a beat, her lips parting slightly as if about to speak, then turns her head forward again. Loose strands of hair settle back against her cheek after the turn. The fluorescent lights above cast a cool teal-green wash. A blurred figure walks in the far background. Static camera, shallow depth of field isolating the subject, cool desaturated palette with slight cyan push, anime-cinematic rendering
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2115443417849516282" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115443395791634432/img/l7mE45A_0PNUkBwm.jpg" alt="Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2115443417849516282" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-generous-nobleman-and-the-publicity-bill"></a>
+### 163. 慷慨贵族与宣传账单
+
+慷慨贵族与宣传账单，来自 @airina_xyz 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+PROJECT: A GENEROUS NOBLEMAN
+FORMAT: 30 seconds, vertical 9:16, seven shots with natural hard cuts.
+
+CREATIVE INTENT:
+A dry, character-driven comedy scene from a fictitious 1977 Eastern European medieval fantasy film. The joke emerges from the nobleman's vanity and hypocrisy, not physical slapstick.
+
+CHARACTERS:
+LORD BARTHOLOMEW: A corpulent, self-important, middle-aged nobleman with a bulbous red nose, meticulously curled moustache, receding dark hair, extravagant mustard-gold brocade clothing and numerous heavy rings. Utterly convinced of his own virtue. Speaks in a pompous British accent.
+
+THE CLERK: A thin, elderly man with a long face, drooping eyes, grey hair and a modest brown wool robe. Polite, intelligent, understated and quietly incredulous. Speaks in a reserved British accent.
+
+VISUAL LANGUAGE:
+Authentic 1977 East European live-action fantasy cinema. Handmade period costumes, practical theatrical makeup, candlelit medieval production design, slightly faded 35mm Eastmancolor, soft optical diffusion and subtle analog film grain.
+
+LOCATION:
+One medieval administrative chamber with dark timber walls, a large oak desk, stacked parchment, a brass inkwell and a leaded-glass window. Warm daylight enters from the left. The nobleman stands on the right side of the desk; the clerk sits on the left. Maintain the same positions and 180-degree camera axis throughout.
+
+SHOT 1 — 0:00–0:04
+MEDIUM CLOSE-UP: The nobleman suddenly straightens his velvet coat and declares with tremendous pride:
+"I have decided to become generous."
+He raises his eyebrows as if announcing an historic event.
+
+SHOT 2 — 0:04–0:09
+MEDIUM SHOT: The clerk looks up from his parchment, genuinely encouraged.
+"Shall I order bread for the villagers, my lord?"
+A small, hopeful smile.
+
+SHOT 3 — 0:09–0:13
+CLOSE-UP: The nobleman's smile vanishes for half a second.
+"No. Summon the royal painter."
+He waves his jeweled hand dismissively.
+
+SHOT 4 — 0:13–0:18
+CLOSE-UP: The clerk hesitates, quill suspended above the paper.
+"To paint the bread?"
+His expression is politely bewildered.
+
+SHOT 5 — 0:18–0:23
+MEDIUM CLOSE-UP: The nobleman places a hand dramatically over his heart.
+"To paint me giving it away!"
+He turns slightly into the window light, already imagining his magnificent portrait.
+
+SHOT 6 — 0:23–0:27
+TIGHT CLOSE-UP: The clerk slowly lowers the quill.
+"And the actual bread?"
+He waits, sincerely expecting an answer.
+
+SHOT 7 — 0:27–0:30
+CLOSE-UP: The nobleman looks genuinely offended.
+"Bread is terribly expensive."
+He gives one small, satisfied nod. Hard cut to the clerk's silent, exhausted expression for the final beat.
+
+PERFORMANCE:
+Underplayed, precise and psychologically motivated. Small eyebrow movements, brief hesitations, eye contact and realistic conversational pauses. Characters listen and react to each other. Facial identity, wardrobe and props remain stable throughout.
+
+CAMERA:
+Mostly stationary 40mm and 65mm compositions with natural lens depth. Very slight handheld camera breathing. No elaborate camera moves. Clean continuity editing.
+
+AUDIO:
+Authentic room tone, distant footsteps, rustling parchment, creaking oak furniture and subtle clothing sounds. Dialogue is clearly synchronized and naturally paced. No music, no subtitles, no laugh track.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/airina_xyz/status/2115476974185697526" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115476939750428672/img/yFUmkZ-8V3OVu7oh.jpg" alt="慷慨贵族与宣传账单" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/airina_xyz" rel="nofollow noreferrer" referrerpolicy="no-referrer">@airina_xyz</a>
+- 来源: <a href="https://x.com/airina_xyz/status/2115476986751860751" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/airina_xyz/status/2115476974185697526" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="hamster-rock-star-storyboard"></a>
+### 164. 仓鼠摇滚明星分镜短片
+
+仓鼠摇滚明星分镜短片，来自 @EndFolding79421 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+The supplied three-panel storyboard showing the hamster playing guitar, the two shocked cats watching from the bed, and the hamster eating a sunflower seed.Use this single storyboard as the visual reference for the entire video. Each panel represents a different scene in chronological order, from top to bottom.Preserve the exact appearances of the hamster, both cats, miniature electric guitar, hamster cage, bedroom, and lighting throughout.Photorealistic live-action animal comedy, professional 35mm cinematic appearance, natural indoor lighting, realistic fur, detailed textures, believable animal movements, and clean image quality. No cartoon appearance or excessive saturation.00:00–00:05 — THE ROCK STARBegin with the TOP PANEL of the storyboard.Inside its hamster cage in a cozy bedroom, a tiny golden hamster stands on its hind legs, enthusiastically playing a miniature black electric guitar.Its tiny paws rapidly move across the strings, perfectly synchronized with the fast heavy-metal guitar riffs in the supplied audio.The hamster rocks its little body back and forth, furiously headbanging while playing.The camera slowly pushes closer to the hamster.00:05–00:09 — THE SHOCKED AUDIENCE Cut to the MIDDLE PANEL of the storyboard.Two cats sit together on the bed, staring toward the hamster cage.Both cats have wide, astonished eyes and slightly open mouths.The orange cat slowly turns its head toward the gray-and-white cat in complete disbelief.The gray-and-white cat remains frozen, staring at the hamster's outrageous performance.The heavy-metal music continues uninterrupted.00:09–00:13 — THE GRAND FINALECut back to the TOP PANEL.The hamster performs its final furious guitar solo, rapidly strumming and rocking its tiny body with incredible enthusiasm.Its movements follow the rhythm of the supplied music. As the final guitar notes ring out, the hamster finishes with one dramatic flourish.00:13–00:16 — COMIC RELIEFCut to the BOTTOM PANEL of the storyboard.The music has ended.The miniature guitar rests against the wooden hamster house.The hamster sits peacefully inside its cage, holding a sunflower seed between its tiny paws. It quietly nibbles the sunflower seed, its cheeks moving naturally as it eats.The camera remains completely stationary.Only the faint natural sounds of the hamster eating are heard.The hamster looks innocently toward the viewer and continues chewing as though absolutely nothing unusual happened.IMPORTANT:The three storyboard panels are separate sequential scenes, NOT a split-screen composition.Generate a full-frame 9:16 vertical video, using the individual storyboard panels to guide each shot.Maintain exact character consistency and the same bedroom environment throughout.Synchronize the guitar performance with the supplied music
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/EndFolding79421/status/2115559321916375478" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115559000557096960/img/uMl4PKm5uSWBqr9z.jpg" alt="仓鼠摇滚明星分镜短片" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-28 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/EndFolding79421" rel="nofollow noreferrer" referrerpolicy="no-referrer">@EndFolding79421</a>
+- 来源: <a href="https://x.com/EndFolding79421/status/2115559321916375478" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-christmas-dress-code-mix-up"></a>
+### 165. 圣诞派对着装大乌龙
+
+圣诞派对着装大乌龙，来自 @bmx_ai13 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+SCENE CONTEXT
+30 second widescreen 1990s Christmas romcom comedy. Christmas Eve daytime, a cream and gold mansion foyer. A gorgeous woman in an inflatable dinosaur costume opens the door for her boyfriend and finds his gorgeous parents in equally absurd costumes. The boyfriend arrives last in a tuxedo. He gave everyone a different dress code.
+
+ACTIVE REFERENCES
+CLAIRE: mid 20s, strikingly beautiful supermodel face, glossy brunette blowout, glam makeup with red lips, wearing a full body green inflatable T-rex costume with tiny arms and a Santa hat on the dinosaur head, her face visible through the open neck. Bright voice.
+MARGARET: 50s, stunning 90s supermodel glamour, sculpted cheekbones, voluminous blonde blowout, wearing a full body green Christmas tree costume covered in blinking multicolor bulbs and baubles, a gold star on her head. Silky voice.
+HAROLD: 50s, chiseled silver fox, sharp jaw, styled silver hair, wearing a full body red lobster costume with giant padded claws and a black satin bow tie at the neck. Deep dry voice.
+JAKE: late 20s, handsome, swept back blond 90s hair, sharp black tuxedo, holding red roses. Cheerful voice.
+
+LOCATION MAP
+Foreground: marble floor.
+Midground: tall white double doors with a wreath, garland pillars with warm fairy lights, poinsettias, lit candles.
+Background through the doors: snowy courtyard, snow falling at 3 km/h.
+
+FORMAT MODE
+Timed multishot, cuts only at the specified points, the camera does not cut on its own.
+
+OPTICS
+Each segment holds its stated FOV, no drift mid-segment. Soft vintage prime look, creamy fairy light bokeh.
+
+CAMERA
+Eye level operator inside the foyer facing the doors, locked off comic framing, quick reaction cuts.
+
+ACTION
+0.0s to 3.0s, WS 63 degrees: Claire waddles toward the doors in the swaying T-rex costume, practicing a roar with her tiny arms up. Doorbell chimes.
+3.0s HARD CUT
+
+3.0s to 5.0s, MS 47 degrees from behind Claire: she flings the doors open and shouts "RAWR! Merry Christmas, baby!"
+5.0s HARD CUT
+
+5.0s to 8.0s, WS 47 degrees reverse: Margaret the Christmas tree and Harold the lobster stand side by side on the snowy step, perfectly calm, bulbs blinking.
+8.0s HARD CUT
+
+8.0s to 10.0s, CU 29 degrees: Claire's smile freezes, her tiny T-rex arms stuck mid wave.
+10.0s HARD CUT
+
+10.0s to 13.0s, MCU 29 degrees: Margaret smiles elegantly, says "You must be Claire." Claire off screen: "And you must be a tree."
+13.0s HARD CUT
+
+13.0s to 16.0s, MS 47 degrees: Harold extends a giant lobster claw for a handshake. Claire strains her tiny T-rex arms forward. They fall short by a hand's width. Both keep straining in silence.
+16.0s HARD CUT
+
+16.0s to 19.0s, MCU 29 degrees: Harold taps his bow tie with his claw, says "Jake said black tie." Margaret: "He told me costume party." Claire: "He told me dress fun."
+19.0s HARD CUT
+
+19.0s to 22.0s, WS 63 degrees: Jake steps up behind his parents in the sharp tuxedo with roses, stops dead, says "Why is everyone dressed like that? I said formal dinner."
+22.0s HARD CUT
+
+22.0s to 25.0s, MS 47 degrees from behind Jake: the dinosaur, the tree and the lobster turn their heads toward him in perfect unison. All of Margaret's bulbs switch to solid red.
+25.0s HARD CUT
+
+25.0s to 27.0s, CU 29 degrees: Claire stares at Jake, says flatly "Rawr." Her costume slowly deflates with a long wheeze around her.
+27.0s HARD CUT
+
+27.0s to 30.0s, WS 63 degrees: Harold pinches Jake's ear with his lobster claw and drags him inside past Claire. Jake yelps "Ow ow ow!" Margaret follows, bulbs blinking happily again.
+
+PERFORMANCE
+Comedy through total seriousness: the parents treat their costumes as completely normal. Glamorous faces stay perfectly composed while the costumes are ridiculous. Claire's eyes widen in small steps, lips pressed together. Real skin texture, wet catch lights.
+
+PHYSICS
+Inflatable costume sways and bounces with each step and sags softly when deflating. Lobster claws are heavy and padded. Snowflakes land and melt on hair and costumes.
+
+LIGHTING
+Warm 3200K tungsten interior from lamps, candles and fairy lights. Cool 5600K snow daylight through the doors as rim light. Margaret's costume bulbs cast colored light on nearby faces.
+
+AUDIO
+Diegetic only: doorbell chime, costume fan motor hum, plastic squeak, wind and snow hiss at the open door, bulbs clicking, deflating wheeze, spoken dialogue. No music.
+
+STYLE
+Photoreal 1990s holiday romcom on 35mm film, fine grain, soft halation.
+
+OUTPUT SETTINGS
+16:9 widescreen, real time, 24fps.
+
+POSITIVE LOCKS
+Same four people, same costumes and same foyer in every cut. Faces stay beautiful and fully visible. Clean frames with no on-screen text, no subtitles, no captions, no logos, no watermarks.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/bmx_ai13/status/2115657376309354759" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115542571221164032/img/0PvJL9VEKWm4dLLh.jpg" alt="圣诞派对着装大乌龙" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- 来源: <a href="https://x.com/bmx_ai13/status/2115657377542521030" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/bmx_ai13/status/2115657376309354759" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="three-mischievous-witches"></a>
+### 166. 三位调皮女巫
+
+三位调皮女巫，来自 @ShamiWeb3 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A 30-second, 16:9 animated short in retro 80s/90s hand-drawn cel anime style, with bold black ink outlines, flat cel shading, soft gradient skies and subtle film grain. The palette is twilight blues and purples against warm amber window glow, with red and orange accents. The setting is a rain-slick old-town street at night with glowing street lamps. The mood is dark-comic and mischievous. Camera moves are smooth and cinematic, and the cuts are fast.
+CHARACTERS (keep consistent in every shot, using the reference images)
+
+Blonde witch (Image 3): platinum-blonde hair with bangs, blue eyes, round tinted glasses, a cream and gold satin dress. Her voice is cool, breathy and sarcastic.
+Redhead witch (Image 1): wavy copper hair, freckles, green eyes, a green fur-trimmed coat. Her voice is low and scheming, with a wicked laugh.
+Black-haired witch, the driver (Image 2): long black hair with blunt bangs, violet eyes, red lips, a silver choker, a black lace outfit. Her voice is husky and playful.
+
+AUDIO
+Music is a jazzy, mischievous retro score with upright bass, muted trumpet and vibraphone. It turns into a tense chase with drums and strings, then a soaring magical orchestral theme in the flight, and settles into a warm acoustic guitar and music box melody at the cabin. Ambience includes light rain, tires on wet cobblestone, crackling torches, wind and crickets. Dialogue is short and natural, with no narrator.
+
+SHOT 1: The ride. Wide side view of a red vintage Beetle gliding down a wet night street. Cut inside to the three witches: the blonde adjusts her glasses, the redhead sits in the middle, the driver grips the wheel.
+Audio: jazz groove fades in, rain and tire hiss. The blonde sighs, “Such a dull evening.”
+
+SHOT 2: The spell. Through the windshield, a couple kisses under a lamppost. Close-up of the redhead’s envious glare as she flicks her fingers and pink magic sparkles swirl.
+Audio: the music drops to a low string drone, then a harp glissando. She mutters, “Hmph... how sweet.”
+
+SHOT 3: The pig prank. The woman’s head turns into a pig’s head and she screams while the man recoils. Cut back to the car, where all three witches burst into laughter.
+Audio: a cartoon “pop,” a squeal, then a comic trombone slide and their wicked cackling. The man gasps, “What?!”
+
+SHOT 4: The old lady. The Beetle stops at a crosswalk as an old woman with a basket crosses. Close-up of her smiling and tipping her scarf, then the driver leans out the window and sticks her tongue out.
+Audio: a warm clarinet phrase and a cheeky slide whistle. The old woman says, “Bless you, girls!”
+
+SHOT 5: The queue. Wide shot of the car parked outside a glowing grocery shop with a long line of people. The three witches strut past the crowd, heads high, and stand shoulder to shoulder in a low-angle shot.
+Audio: a swaggering bassline with heel clicks and the crowd murmuring. The redhead says smoothly, “Excuse us.”
+
+SHOT 6: The closed shop. Through the shop window, shelves of grocery bags glow warm while the crowd stares. Close-up of the door sign reading “CLOSED.” The witches then stand smiling with arms full of overflowing grocery bags.
+Audio: a timpani hit as the sign swings, then a smug, triumphant jingle. The blonde purrs, “Fresh. Perfect.”
+
+SHOT 7: The mob. An angry mob with torches and pitchforks charges down the street. The witches glance sideways, then run, the redhead wrapped in a glowing green magic aura.
+Audio: the music cuts to a fast chase with war drums and stomping boots. The mob shouts, “Get them!” The redhead calls out, “Hold on to your bags!”
+
+SHOT 8: Lift-off. The witches leap onto straw brooms in a burst of green sparks and rise above the shouting crowd.
+Audio: a bright “whoomph,” a powerful whoosh, and the orchestra swelling into the flight theme.
+
+SHOT 9: The flight. Aerial wide shot of the three witches flying over the glowing town toward purple mountains at dusk, ending on tiny silhouettes against the sky.
+Audio: full orchestra with harp and choir pads, wind rushing, and the witches laughing with joy.
+
+SHOT 10: The cabin. They land by a stone cabin and picnic table at golden sunset. The driver pours tea from a white teapot and the blonde sips with her eyes closed. Close-up of all three clinking their teacups together, and their eyes flash golden through their glasses.
+Audio: the acoustic guitar theme enters with crickets, a pouring sound and a porcelain clink. They say together, “Cheers.”
+
+SHOT 11: Final shot. Wide shot of the lone cabin on a hilltop as dusk turns into a starry night, then fade to black.
+Audio: the music box melody slows and ends on a single chime as the sound fades out with the picture.
+
+NEGATIVE PROMPT
+Photorealism, 3D render, extra fingers, distorted faces, inconsistent hair or outfit colors, any non-English text or speech, watermark, blur, low quality, harsh audio, lip-sync errors, narrator voice-over.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/ShamiWeb3/status/2115663136086962217" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115609620341551104/img/uZAGfDZ9FD5ERfCd.jpg" alt="三位调皮女巫" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/ShamiWeb3" rel="nofollow noreferrer" referrerpolicy="no-referrer">@ShamiWeb3</a>
+- 来源: <a href="https://x.com/ShamiWeb3/status/2115663194593304960" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/ShamiWeb3/status/2115663136086962217" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-pumpkin-monster-goes-trick-or-treating"></a>
+### 167. 南瓜小怪物的不给糖就捣蛋之旅
+
+南瓜小怪物的不给糖就捣蛋之旅，来自 @RizwanAly07 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+SCENE 1 (0–5s): The Halloween Arrival
+Cinematic 9:16 vertical video, 4k. A cute little green baby monster with soft fluffy fur, wearing a giant carved orange pumpkin helmet with a warm inner glow, walks up to a rustic wooden Halloween doorway holding a small woven candy basket. Its enormous expressive glossy eyes sparkle with excitement as it knocks on the door. Warm glowing lanterns and jack-o'-lanterns illuminate the entrance. Volumetric lighting, Pixar-style 3D animation, smooth tracking shot, highly detailed textures, magical atmosphere.
+
+SCENE 2 (5–12s): The Unexpected Guests
+Cinematic 9:16 vertical video, 4k. The little green pumpkin monster encounters adorable trick-or-treaters: tiny cute clowns, fluffy ghosts, and friendly spooky characters. They gather around with colorful candy baskets, giggling. Cinematic close-up, shallow depth of field, expressive facial emotions, warm orange and cool blue moonlight contrast, magical floating glowing particles, Pixar-style 3D animation, gentle dolly camera movement, smooth character animation.
+
+SCENE 3 (12–25s): The Ghost Family
+Cinematic 9:16 vertical video, 4k. The little green pumpkin monster visits a beautifully decorated wooden house, meeting a friendly family of tiny white ghost characters wearing soft pink scarves. They offer colorful lollipops and Halloween sweets. The monster tilts its head in cute surprise, then happily accepts. Soft moonlight, magical glowing particles, volumetric fog, highly detailed fabric stitching, Pixar-style 3D animation, seamless transition, warm and charming atmosphere.
+
+SCENE 4 (25–45s): The Mysterious Vampire Cat
+Cinematic 9:16 vertical video, 4k. The little green pumpkin monster approaches a spooky wooden mansion, encountering a mischievous anthropomorphic cat dressed as a vampire in an elegant dark velvet cape and vintage clothing. The cat holds a shiny red apple and a mysterious goblet. Playful humorous rivalry, expressive gestures, funny reactions. Warm candlelight from inside contrasting with deep blue night outside. Cinematic lighting, ray tracing, highly detailed fur and fabric textures, smooth animated film quality.
+
+SCENE 5 (45–60s): The Bat Surprise
+Cinematic 9:16 vertical video, 4k. The little green pumpkin monster continues trick-or-treating. A tiny cute vampire bat suddenly appears upside down near the doorway. The monster looks up with wide, exaggerated, funny surprised eyes. The bat flutters its wings playfully. Extreme close-up on the monster's adorable face, dynamic low-angle camera shot, soft fluffy fur detail, glossy reflective eyes, Pixar-style 3D animation, seamless motion, comedic timing.
+
+SCENE 6 (60–69s): The Sweet Ending
+Cinematic 9:16 vertical video, 4k. The little green pumpkin monster proudly holds a woven basket overflowing with colorful Halloween candy. It smiles mischievously beneath the glowing pumpkin helmet. The tiny vampire bat watches from above. Camera slowly pulls back (dolly out) revealing a magical Halloween village, glowing jack-o'-lanterns, warm lanterns, autumn decorations, starry blue sky. Masterpiece, 8k resolution, cinematic wide shot, satisfying ending, volumetric lighting, professional animated-film quality.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/RizwanAly07/status/2115710188162531472" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115710143849762816/img/FOX1BHtq7G_z4U72.jpg" alt="南瓜小怪物的不给糖就捣蛋之旅" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/RizwanAly07" rel="nofollow noreferrer" referrerpolicy="no-referrer">@RizwanAly07</a>
+- 来源: <a href="https://x.com/RizwanAly07/status/2115710188162531472" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-broomstick-comedy-on-halloween"></a>
+### 168. 万圣节飞天扫帚喜剧
+
+万圣节飞天扫帚喜剧，来自 @MissDelulu9 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create an exactly 10-second, ultra-realistic 9:16 vertical comedy video featuring Mr. Bean, preserving his recognizable face, facial features, body proportions, classic brown tweed jacket, white shirt, red tie, and dark trousers.
+
+Scene & Camera: A deserted suburban road at night, with Halloween pumpkins, spooky roadside decorations, and light drifting fog. Use one continuous wide shot from a camera positioned far away on the road. The camera smoothly pans to follow Mr. Bean's movement.
+
+Action Sequence:
+
+0–2 seconds: Mr. Bean stands at the far end of the road, holding a broom. He looks around suspiciously, then runs forward to build momentum.
+
+2–4 seconds: He jumps onto the broom, sits on it awkwardly, and magically takes off flying above the road, looking straight ahead with a serious, determined expression.
+
+4–6 seconds: Mr. Bean flies rapidly toward and past the camera. He turns his face toward the camera, raises one hand, flashes a V sign, and smiles proudly while riding the broom.
+
+6–8 seconds: Distracted by his pose, he fails to notice a large roadside sign on the sidewalk and crashes into it with a loud comedic THUD. His head bumps the sign, he tumbles onto the ground, and the sign falls over beside him. The broom drops to the ground too.
+
+8–10 seconds: Mr. Bean lies stunned for a moment, holds his forehead in pain, makes a confused, embarrassed expression, and struggles to get back up.
+
+Visual Style: Photorealistic live-action appearance, classic Mr. Bean physical comedy, believable flying motion, realistic impact physics, expressive facial reactions, cinematic night lighting, and smooth camera panning.
+
+Audio: Natural running footsteps, magical broom whoosh, rushing air, a loud comedic crash, the sign clattering to the ground, and Mr. Bean's subtle pain reaction. No dialogue, no narration, no music, no on-screen text, and no watermark.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/MissDelulu9/status/2115717158516953475" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115717118813696000/img/AY2vCwX2jNsQg95V.jpg" alt="万圣节飞天扫帚喜剧" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/MissDelulu9" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MissDelulu9</a>
+- 来源: <a href="https://x.com/MissDelulu9/status/2115717158516953475" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="explorers-beside-a-six-legged-herd"></a>
+### 169. 探索者与六足巨兽群
+
+探索者与六足巨兽群，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Three explorers walk through tall grass on an alien plain as a herd of enormous six-legged creatures passes nearby. The animals lower their long necks to feed while smaller creatures fly around them. One explorer raises a scanner and another follows the herd. Cinematic tracking shot, realistic creature animation, sense of wonder.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2115723996452835527" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115722762241081344/img/PDTCGIhP--ReKRbL.jpg" alt="探索者与六足巨兽群" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2115723998700949688" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2115723996452835527" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="jaguar-chase-through-the-rainforest"></a>
+### 170. 雨林中的美洲豹追逐
+
+雨林中的美洲豹追逐，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30-second, 16:9 photorealistic adventure thriller. Use Image 1 for the jaguar, Image 2 for the rainforest, Image 3 for the waterfall pool, and Image 4 for the backpacker. Preserve identity, clothing, markings, and backpack throughout.
+
+**0–5s**
+Medium tracking shot: the backpacker walks through dense rainforest. A rustle stops him. Cut to his tense face, then over his shoulder as he parts the leaves. A jaguar suddenly lunges.
+
+**5–9s**
+Low lateral wide shot: the jaguar knocks him backward, his backpack striking the muddy ground. Leaves scatter. He shields his head, rolls aside, and scrambles upright while the jaguar turns. Realistic impact, no blood.
+
+**9–15s**
+Ground-level tracking captures pounding boots and flying mud. Cut wider: he races screen-right, the jaguar close behind. He stumbles over a root, braces against a trunk, and keeps running, backpack bouncing against secured straps.
+
+**15–19s**
+Close-up: gasping, he spots an opening. Cut aerial-wide to reveal the trail ending at a rocky bank beside the waterfall pool. The jaguar follows him toward a ledge one meter above the water.
+
+**19–22s**
+Lateral wide shot: trapped, he glances back and jumps. Show takeoff through feet-first entry continuously. His backpack remains attached. Water erupts; the jaguar brakes at the edge.
+
+**22–26s**
+Water-level medium shot: he surfaces and swims away with strenuous strokes, the backpack dragging through the water. He looks back at the jaguar watching from shore.
+
+**26–30s**
+His wet shoulders fill the foreground. Beyond him, the jaguar pauses, turns, and disappears into the forest. He keeps paddling as the waterfall roars.
+
+Natural filtered light, cinematic contrast, varied framing, readable handheld movement, hard cuts, normal speed. Maintain chase direction and geography. Preserve mud after falling and wet clothing after immersion. No dialogue or text. Emphasize foliage, impacts, running, gasping, and rushing water.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2115760864238469589" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115760816859537408/img/afSgxIuJ-K6jCkAd.jpg" alt="雨林中的美洲豹追逐" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2115760876804604363" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2115760864238469589" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo"></a>
+### 171. Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人
+
+Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: needle-felted wool animation, fuzzy fibers visible on every surface, soft rounded shapes, tiny handmade details, cozy warm lighting, slightly bouncy stop-motion movement at 12 frames per second.
+0-3s (HOOK): A tiny white felt ghost peeks out from behind a fuzzy orange pumpkin, trembling.
+3-6s: Bigger felt ghosts float past, shouting a booming "BOO!" at a felt crow, which flaps away. The little ghost practices and lets out a tiny squeak.
+6-10s: A felt mouse wanders by. The little ghost takes a deep breath, floats up, and squeaks again. The mouse just stares, then pats its head kindly.
+10-13s: Feeling brave, the ghost spins in a circle, puffs up as big as it can, and lets out a real, loud "BOO!" Every pumpkin in the patch lights up.
+13-15s (BUTTON): The ghost scares itself and dives back behind the pumpkin.
+Camera: low, close-up tabletop view, with a quick push-in on the big "BOO."
+Music: playful plucked strings and a bouncy tuba, light and silly with a spooky twist.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2115791622701035597" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2115791609774104576/pu/img/eyGHEIH7X6xCL_O0.jpg" alt="Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2115791624106049891" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2115791622701035597" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-clay-ghost-learns-to-say-boo"></a>
+### 172. 黏土小幽灵学会吓人
+
+黏土小幽灵学会吓人，来自 @JasonHeatony7 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: classic claymation stop-motion, smooth plasticine figures with visible thumbprints and sculpting marks, glossy clay highlights, miniature handmade autumn set with clay leaves and a painted backdrop of a moonlit sky, warm golden lantern light with soft purple shadows, slightly choppy stop-motion movement at 12 frames per second.
+0-3s (HOOK): A tiny round white clay ghost with big googly eyes peeks out from behind a chunky clay pumpkin, its little body squishing and wobbling nervously.
+3-6s: Bigger clay ghosts float past on visible thin wires, booming "BOO!" at a clay bat hanging from a twisted branch, which squeaks and flaps away. The little ghost tries and lets out a tiny "meep."
+6-10s: A plump clay frog hops by with a squishy plop. The little ghost takes a deep breath, its body inflating slightly, rises up, and squeaks again. The frog blinks slowly, then gives it a sticky little pat on the head.
+10-13s: Feeling brave, the ghost spins, stretches tall like rubbery clay, and lets out a real, loud "BOO!" Every clay jack-o'-lantern in the patch bursts alight with flickering candle glow.
+13-15s (BUTTON): The ghost startles itself, squishes flat like a pancake, and slides back behind the pumpkin with a soft splat.
+Camera: low, close-up tabletop view, with a quick push-in on the big "BOO."
+Audio: squishy clay sounds, a soft frog croak, crunchy clay leaves, and a tiny echoing "meep." Music is a bouncy bassoon and a plucky ukulele, light and silly with a spooky theremin twist.
+No subtitles.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/JasonHeatony7/status/2115812533533581757" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115812177206562816/img/8CnQZkpfgmNEnj4H.jpg" alt="黏土小幽灵学会吓人" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/JasonHeatony7" rel="nofollow noreferrer" referrerpolicy="no-referrer">@JasonHeatony7</a>
+- 来源: <a href="https://x.com/JasonHeatony7/status/2115812533533581757" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="final-round-in-an-underground-boxing-club"></a>
+### 173. 地下拳馆的最后一回合
+
+地下拳馆的最后一回合，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+SCENE CONTEXT
+A 15-second live-action, realist boxing film sequence set inside a cramped, aging underground boxing club. Two injured heavyweight professional boxers are fighting through the final round.
+The fight begins in the middle of a fast exchange from the very first frame. Although both fighters are heavyweights with thick, powerful physiques, they move with professional reaction speed, elastic footwork, and explosive short-range acceleration. Their movements are compact, agile, continuous, and responsive—never stiff, posed, or mechanically alternating.
+The Black boxer ultimately notices the White boxer’s slow guard recovery and lands a final right cross on his jaw. The White boxer loses his balance and drops to one knee. The Black boxer wins as the spectators surrounding the ring erupt in cheers.
+EXACT CHARACTERS
+Exactly two fighters appear inside the boxing ring throughout the video. Their facial identity, skin tone, physique, hairstyle, facial hair, tattoos, gloves, and trunks remain consistent in every shot.
+FIGHTER A — BLACK BOXER
+A Black male heavyweight boxer in his late thirties, with deep brown skin, a large and powerful build, broad shoulders, a thick back, muscular arms and chest, and the realistic heavy midsection of a professional heavyweight. He has a shaved head, very short black facial stubble, a wide jaw, and a broad nose.
+Large black-and-grey tattoos cover both shoulders and arms, with a row of Roman numerals high on the right side of his chest. He wears black satin boxing trunks with angular gold panels, black leather boxing gloves with gold trim, and professional black-and-gold boxing boots. There is no writing or branding on his clothing.
+His left eye is badly swollen and purple, partially closed, with a small cut above the left eyebrow. There are minor abrasions across the bridge of his nose and lower lip. These injuries remain identical from the first frame to the last.
+He is a calm, economical counterpuncher. His knees remain elastic and his center of gravity stays low and stable. He uses short lateral steps, subtle head movement, rolls, lead-hand parries, and small-angle pivots to evade attacks. He makes no unnecessary movements and never leans dramatically backward. After every defensive action, he immediately regains balance. His objective is to draw the White boxer into repeated attacks, then exploit the moment when the White boxer’s right hand becomes slow to return.
+FIGHTER B — WHITE BOXER
+A White male heavyweight boxer in his mid-thirties, with fair skin, a thick and powerful physique, broad shoulders, strong arms, and a realistic heavyweight balance of muscle and body fat. He has a short copper-red buzz cut, a thick copper-red beard, and pale eyes.
+A large black snake tattoo covers his right upper arm and shoulder. A black roaring bear tattoo covers the left side of his chest, with one black swallow tattoo on each side of his lower abdomen. He wears white satin boxing trunks with gold trim and side panels, white-and-gold leather boxing gloves, and professional white-and-gold boxing boots. There is no writing or branding on his clothing.
+Both eyes are surrounded by deep purple bruising. The right eye is more heavily swollen, with a small cut near the right eyebrow and a minor abrasion across the bridge of his nose. These injuries remain identical from the first frame to the last.
+He is an aggressive pressure fighter. He continuously closes distance with fast jabs, compact straight punches, and body hooks. His footwork is not heavy or linear: the lead foot touches down lightly, the rear foot follows quickly, and his knees remain active so he can change his attacking angle at any moment. His objective is to stop the Black boxer before his stamina is completely exhausted. As the fight progresses, he takes greater risks and increases his pace, eventually exposing his jaw.
+LOCATION
+An old underground boxing club beneath a city building. The ceiling is low, with exposed silver-grey industrial pipes and electrical cables. The dark, worn walls are covered with overlapping vintage boxing posters with faded colors and curled edges. Old heavy bags, speed bags, and training equipment hang around the edges of the room.
+The boxing ring occupies the center of the room. It has heavily worn black, white, and dark-red ropes and aging corner posts. The ring floor is covered in faded dark-blue, coarse canvas, with a worn circular emblem of two boxing gloves in the center and no readable text. Shoe marks, sweat stains, dust, and small folds are visible across the canvas.
+A single large rectangular warm-white overhead light hangs directly above the ring. It illuminates the fighters vertically while leaving the walls and spectators darker. A restrained amount of dust and sweat haze floats through the light.
+Approximately 40 to 60 adult spectators stand tightly around the ring, against the walls, and inside the narrow walkways. All spectators are generated from text. Their appearances and clothing are naturally varied. Some lean toward the ropes, some mimic punches, some shout, and others strike the barrier. Their reactions and timing are never synchronized.
+VISUAL REALISM
+Authentic live-action photography with unretouched adult male skin. Faces clearly show visible pores, facial stubble, fine lines, pigmentation, the edges of bruises, broken capillaries, localized redness, and uneven skin tone.
+Sweat gathers around the hairline, eyebrows, sides of the nose, upper lip, neck, shoulders, and chest, forming sweat beads of different sizes and irregular wet patches. Most skin remains naturally semi-matte, with localized highlights only where the skin is genuinely wet.
+Hard side-top lighting grazes the faces and bodies, revealing pores, facial hair, sweat, injuries, muscle movement, and realistic abdominal fat. Only a small amount of ambient bounce light fills the shadows. There is no frontal beauty lighting.
+The boxing gloves are heavy, worn leather with visible creases, stitching, scratches, and localized compression during contact. The trunks have realistic satin weight, folds, and slightly cling to sweat-damp skin. The ring canvas depresses slightly beneath planted feet and beneath the kneeling fighter.
+Natural, neutral skin tones, realistic highlight roll-off, moderate micro-contrast, and subtle fine film grain. The image retains real-world texture without commercial beauty retouching.
+FORMAT MODE
+Horizontal 21:9, total duration 15 seconds, five principal shots connected through clean hard cuts and action-matched editing.
+24 fps with a 180-degree shutter appearance and natural motion blur. The first 12 seconds play in real time. Only the final punch enters approximately 50% slow motion, lasting no longer than 0.8 seconds before immediately returning to real time.
+Use 28mm and 35mm lenses at approximately T4 to T5.6 for the main action, keeping the gloves, torsos, hips, knees, and footwork simultaneously readable. Use a 50mm medium close shot for the final punch. Do not use an extreme facial close-up.
+FIGHT MOVEMENT SYSTEM
+Both fighters maintain elastic knees and active footwork. Their forefeet grip the canvas while their heels lift naturally and slightly. Movement consists of short slides, half-step retreats, lateral steps, and lead-foot pivots. The upper and lower body work together; the fighters never move like rigid bodies sliding across the floor.
+Every punch contains three clearly readable states:
+The glove launches from the facial guard.
+The punch lands, meets a defensive guard, or is evaded.
+The glove immediately retracts along its original path to protect the face.
+Straight punches are driven by the feet pressing into the canvas, followed by hip rotation, torso transmission, and shoulder extension. Hooks maintain anatomically correct elbow flexion, with power coming from the hips and torso. The wrist remains aligned with the forearm, and the hands remain fully enclosed inside the gloves.
+A fighter may only throw a heavy punch while properly planted or completing a physically valid step. The feet remain in contact with the canvas, and the center of gravity stays inside the fighter’s base of support. Pivots are supported by the ball of the lead foot; the body never rotates without a physical anchor.
+As one fighter initiates a punch, the opponent already begins reacting to the movement of the shoulders and hips. Neither fighter waits for the other to complete an entire combination before responding.
+The action is fast, but each beat contains only one clearly defined combination. Both fighters retain control of their balance. There are no large jumps, acrobatic movements, or unsupported rotations.
+SHOTS AND ACTIONS
+SHOT 1 — 0.00–3.50s | FAST OPENING EXCHANGE
+28mm medium-wide shot. The camera tracks laterally from the side of the ring.
+The White boxer is already pressing forward, using light lead-foot probes as he throws a left jab, right cross, and left hook to the body. Each punch launches quickly and immediately retracts. The gloves cut through the air with three short, dry, consecutive sounds: “Whoosh! Whoosh! Whoosh!”
+The Black boxer begins moving his head before the jab reaches him. His right glove parries the White boxer’s left jab, his head slips outside the right cross, and his right elbow lowers to block the body hook. He immediately pivots approximately thirty degrees on his lead foot while maintaining balance.
+Both fighters’ gloves, hips, and feet remain fully visible. Their movements are fast and agile. The camera only rises and falls subtly with the operator’s footsteps.
+SHOT 2 — 3.50–6.80s | FAST BLACK COUNTERATTACK
+35mm medium two-shot. The camera tracks parallel to the fighters.
+Using the angle created by his pivot, the Black boxer rapidly throws a left jab followed by a right cross. The two gloves cut through the air with two distinct sounds coming from different directions: “Whoosh! Whoosh!”
+The White boxer blocks the jab with his right glove, slips left past the right cross, and immediately brings his rear foot beneath him instead of standing still behind a rigid guard. He answers with a compact left hook.
+The Black boxer rolls beneath the hook. The glove sweeps just above his head with a wider, lower-pitched “Fwoosh—whoosh” air sound.
+After completing the roll, the Black boxer immediately returns to an upright guard. There is no unnecessary pause and no static face-to-face staring.
+SHOT 3 — 6.80–10.20s | AGILE CLOSE-RANGE REPOSITIONING
+35mm low-positioned medium-wide shot. The camera moves through a restrained sixty-degree arc close to the canvas.
+The White boxer closes distance again with two fast jabs. The Black boxer uses small lead-hand parries while taking short lateral steps to his right. Each White jab produces its own precise, synchronized air sound: “Whoosh, whoosh.”
+The Black boxer suddenly stops retreating and drives a short left hook into the White boxer’s right ribs. The glove lands with a low, compressed body-impact thud. The White boxer’s abdomen tightens, his breath is interrupted, and his right elbow immediately drops to protect his body.
+The White boxer does not freeze. Carrying the brief stiffness from the body shot, he steps laterally, rotates his hips, and throws a short right hook. The Black boxer catches it on his left glove near his temple, allowing his shoulder and torso to rotate slightly with the impact to absorb the force.
+The camera continuously shows the coordinated motion of their feet, hips, torsos, and gloves. There is no static eye-contact close-up.
+SHOT 4 — 10.20–13.10s | FINISHING COUNTERPUNCH
+50mm medium close shot. The White boxer occupies the near side of the frame, while the Black boxer’s upper body, right shoulder, and complete right arm remain clearly visible.
+Breathing raggedly, the White boxer takes another risk and throws a left jab followed by a right cross. The gloves cut rapidly through the air with two consecutive sounds: “Whoosh! Whoosh!” The Black boxer parries the jab outward with his lead hand and makes a small slip outside the right cross.
+When the White boxer’s right cross misses, fatigue pulls his shoulder downward. His right glove returns half a beat too slowly, briefly exposing his jaw.
+The Black boxer does not pause or perform a dramatic wind-up. His rear foot drives into the canvas, his hips and right shoulder rotate together, and a straight right hand launches directly from his normal facial guard. As the glove accelerates, it creates the clearest and strongest air sound in the film: “Whoosh—!”
+When the glove is approximately fifteen centimeters from the White boxer’s jaw, the footage enters approximately 50% slow motion.
+The right hand lands precisely at the junction between the White boxer’s left cheekbone and jaw. The leather glove compresses first, followed by restrained, physically accurate soft-tissue displacement in the cheek. The White boxer’s head rotates briefly in the direction of the punch, and a small amount of sweat leaves his eyebrow and hair.
+At the moment of impact, the extended “Whoosh—” immediately ends and is replaced by a short, heavy leather impact.
+SHOT 5 — 13.10–15.00s | KNOCKDOWN AND CROWD ERUPTION
+Immediately return to real-time speed and hard-cut to a 24mm wide shot.
+The White boxer’s upper body is already off balance. He staggers backward one step. His left foot briefly finds support, but his right leg can no longer carry his weight. His right knee lands on the blue canvas, depressing it slightly. His left glove then touches the floor for support as his head drops and his chest heaves.
+The Black boxer immediately retracts his right hand, maintains his guard, and steps backward twice. Only after confirming that the White boxer is down does he raise his right fist and release a short, hoarse victory roar.
+The camera pulls back and rises slightly. In the foreground, the White boxer is down on one knee. In the midground, the victorious Black boxer raises his fist. In the background, spectators tightly surrounding the ring rise, wave their fists, strike the ropes, and shout wildly.
+CAMERA PHYSICALITY
+The camera is based on stable tracking and retains the weight and inertia of a real shoulder-mounted cinema camera.
+As the fighters move, the camera produces only low-amplitude motion synchronized with the operator’s footsteps. When a glove passes rapidly across the camera’s viewing direction, the camera makes a very brief follow movement.
+Only after a glove physically contacts a body, defensive guard, or face does the camera produce a small one-to-two-frame impact jolt, immediately returning to stability.
+The camera never moves faster than the fighters or teleports into a new position. It does not cross to the opposite side of the action axis during a combination. Screen direction, left-right character placement, and movement continuity remain consistent.
+AUDIO
+Native stereo location sound. No dialogue and no commentary.
+Every fast jab and straight punch produces a short, sharp but physically realistic air-displacement sound: “Whoosh! Whoosh!” The sound is precisely synchronized with the acceleration phase of the glove and stops immediately when the glove stops or begins retracting.
+Hooks create a slightly wider and lower-pitched curved air sound: “Fwoosh—whoosh.” The final right hand produces a stronger, closer, more concentrated “Whoosh—!”
+These sounds come from boxing gloves rapidly displacing air. They are not cartoon effects, sword sounds, or electronic sound effects. No air-whoosh sound occurs when no punch is being thrown.
+Glove striking defensive guard: a thick leather slap.
+Glove striking the body: a low, compressed thud.
+Glove striking the face: a short, solid, weighted impact.
+Footwork: boxing boots sliding across coarse canvas, pushing off, and pivoting.
+Bodies: asynchronous heavy breathing, nasal exhales, and involuntary short exhales during impact.
+Environment: vibrating ropes, compressed canvas, nearby spectators shouting, and short underground-room reverberation.
+During the final slow-motion punch, the crowd sound briefly becomes low and distant, preserving the stretched “Whoosh—,” heavy breathing, and glove contact. When the White boxer’s knee hits the canvas, full location sound returns and the spectators immediately produce the loudest roar of the entire sequence.
+POSITIVE CONSTRAINTS
+Maintain each fighter’s skin tone, physique, hairstyle, facial hair, tattoo placement, injuries, and black-and-gold or white-and-gold clothing throughout the entire video.
+Fast boxing movement comes from elastic knees, short sliding steps, hip rotation, shoulder transmission, and immediate glove retraction.
+Every attack contains three readable states: launch, contact or evasion, and retraction.
+Both fighters begin reacting to the opponent’s movement early. They never take turns mechanically throwing punches.
+There is no static face-to-face staring or eye-contact close-up anywhere in the video.
+Punch air sounds remain precisely synchronized with glove speed. No punch means no air-whoosh sound.
+Skin remains unretouched, retaining visible pores, facial stubble, sweat, bruising, and realistic injuries.
+No subtitles. No background music.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2115821028161237502" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115820991255564288/img/HwzBIoIlmu-ZYm9m.jpg" alt="地下拳馆的最后一回合" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2115821056053391623" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2115821028161237502" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="halloween-costume-gym-vlog"></a>
+### 174. 万圣节服装健身日记
+
+万圣节服装健身日记，来自 @voyzai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+CAMERA:
+DV 16mm tape camcorder handheld feel. POV of MILA holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+LOOK:
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones. Warm orange accents from Halloween string lights.
+
+STYLE:
+Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it, with her devil costume constantly getting in the way. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
+
+CHARACTER:
+MILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, glowing skin with a light sweat sheen, glossy red lips, expressive eyes, soft glam makeup with a touch of red glitter at the outer corners, delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach and lean arms and legs.
+
+She wears a Halloween devil costume made for the gym: a bright red sports bra with thin straps and a deep scoop neckline showing cleavage, matching red ultra-short fitted athletic shorts, a headband with small glossy red devil horns, and a long thin red devil tail with an arrow-shaped tip attached to the back of her shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent. Her face, body and costume stay identical in every shot.
+
+SETTING:
+A gym mat area in the evening, lightly decorated for Halloween. LAYOUT (fixed for all shots): a black mat lies on the floor; the propped camera always sits on the floor at the foot end of the mat, looking along it toward the head end. Seen from the camera, the mirror wall runs along the LEFT side of the frame, with orange string lights along its top edge. A carved jack-o'-lantern and her water bottle sit on the floor at the head end of the mat, in the background behind her. Other gym equipment is visible in the far background. Soft overhead lighting.
+
+STORYBOARD (6 shots):
+
+1. (~4s, propped camera at the foot end, medium shot) Mila is already lying on her back on the mat, head toward the jack-o'-lantern, propped up on her elbows. She pushes her crooked devil horns back into place, sighs dramatically and says to the camera. MILA: "Core day. Even the devil needs prayers."
+
+2. (~4s, propped camera low on the floor at the foot end, rear view from behind her) She holds a plank face-down, facing away toward the jack-o'-lantern. Her red shorts and the red devil tail hanging from them are clearly visible, the tail swinging as her body trembles. She looks back over her shoulder at the camera, face strained. MILA (through gritted teeth): "Why is my tail heavier than me?"
+
+3. (~4s, propped camera at the foot end, medium shot) Back on her back, head toward the jack-o'-lantern, she does one slow crunch; the horns headband slips down onto her forehead. She lies back, shoves the horns back up, breathing hard. MILA: "These horns were not made for crunches."
+
+4. (~2s, macro insert, shallow DOF) Close-up on her hands gripping the edges of the black mat beside her hips during a leg raise, abs visibly working, the arrow tip of the red devil tail poking out from under her and twitching on the mat beside her hand. No dialogue — ambient gym sound only.
+
+5. (~3s, propped camera at the foot end, medium shot) She lets her raised legs drop onto the mat, winces and pulls the squashed red tail out from under her back, laughing at herself. MILA (breathless): "Yep—my abs just went to hell."
+
+6. (~3s, arm's-length selfie finish) She has picked up the camera and holds it above her face (camera not visible). Still lying on her back, horns crooked, sweaty and grinning tiredly, orange Halloween lights glowing behind her, she gives a little wink. MILA: "Same time tomorrow? Devil's promise."
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/voyzai/status/2115841360062230914" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115841235994791936/img/Yc-SitWWdk4nb5zb.jpg" alt="万圣节服装健身日记" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/voyzai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@voyzai</a>
+- 来源: <a href="https://x.com/voyzai/status/2115842017762689421" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/voyzai/status/2115841360062230914" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="coastal-moonfall-english-prompt"></a>
+### 175. 月球逼近海滨城市：英文提示词
+
+月球逼近海滨城市：英文提示词，来自 @FlyAIgh 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A coastal city at dusk. Realistic disaster-film look, 16:9 widescreen framing, a huge sense of scale. 25 seconds in total, five shots. No main characters, only a few small passers-by in the distance.
+
+Shot 1 (0 to 5s, wide, slow push-in): a seafront boulevard at dusk, palm trees moving in the sea breeze, the sea still calm. On the horizon the moon is three times its usual size and still slowly growing. The camera pushes forward slowly from low on the boulevard. A few passers-by stop and look up at the moon.
+
+Shot 2 (5 to 10s, close, hard cut): a parked car at the roadside. A raindrop on its roof starts to float upward, then gravel, leaves and drink cans leave the ground one after another and drift slowly skyward. A lamppost gives off a metallic hum.
+
+Shot 3 (10 to 15s, extreme wide, hard cut): the moon now fills half the sky, its craters and rifts sharp. The sea is pulled up by the moon's gravity, the whole surface bulging upward into a leaning wall of water at the edge of the city, ships lifted into the air.
+
+Shot 4 (15 to 21s, tracking, hard cut): weightlessness grows stronger. Cars on the street leave the ground one after another and tumble upward, billboards tear off the rooftops, palm trees are pulled out by the roots. The camera moves like a drone, threading between the floating cars and rising higher and higher.
+
+Shot 5 (21 to 25s, looking up, hard cut): the camera stops among the floating debris and looks straight up. The craters fill the frame and keep coming closer, the ridges in the shadows clearly visible, until the lunar surface fills the frame completely.
+
+Sound: waves and wind at the start. When weightlessness begins, a rising low hum drowns out everything. Metal creaks as the cars leave the ground. At the end only a huge low rumble, then sudden silence. No background music.
+
+No subtitles, no watermark.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/FlyAIgh/status/2115849735928250564" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115848772873801729/img/v--YfZz9GB-jApLE.jpg" alt="月球逼近海滨城市：英文提示词" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/FlyAIgh" rel="nofollow noreferrer" referrerpolicy="no-referrer">@FlyAIgh</a>
+- 来源: <a href="https://x.com/FlyAIgh/status/2115849741925781584" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/FlyAIgh/status/2115849735928250564" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="the-elevator-floor-illusion"></a>
+### 176. 电梯地板错觉
+
+电梯地板错觉，来自 @Zyvex_0x 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 15-second vertical 9:16 video. Real raw smartphone footage of a real prank inside an elevator of an ordinary residential apartment building. No text, no captions, no logos, no watermark, no music. It must look exactly like a real viral prank clip filmed on a phone by friends, not a movie, not CGI, not acted.
+
+CAMERA
+A smartphone is hidden high in the top front corner of the elevator cabin, just under the ceiling, right above the door on the LEFT side. It looks steeply down and diagonally into the cabin toward the back wall. The lens is a wide phone lens with mild natural barrel distortion at the edges, no fisheye. The camera is completely fixed for the whole video: no shake, no zoom, no pan. From this angle the viewer sees almost the whole floor, the mirror back wall with the handrail, the right side wall, and on the left edge of the frame the open doorway and a strip of the landing outside. The man is visible head to sneakers at every moment, seen from above and slightly from behind when he faces the back wall.
+
+IMAGE QUALITY
+Real smartphone video indoors: cool white light from a flat LED ceiling panel mixed with warmer light from the stairwell outside, slightly saturated colours like a typical viral clip, light digital noise in the darker corners, natural sharpness, the landing outside a bit overexposed. Natural motion blur only on the fastest moments (the jump, the release, the fall) and the image is sharp again right after. Skin, fabric and steel look real. No smearing, no ghosting, no melting shapes, no plastic skin, no beauty filter, no cinematic lighting, no slow motion.
+
+LOCATION
+A narrow passenger elevator in a modern residential apartment block, about 1.1 metres wide and 1.4 metres deep. The back wall is one large mirror in a brushed steel frame. A round horizontal brushed steel handrail runs across the full width of the back wall, at about hip height, mounted on two short brackets, about 5 cm away from the mirror. The left and right side walls are brushed stainless steel panels with fine vertical grain, a few scratches and fingerprints. On the right wall near the door: a steel button panel with round buttons and a small white paper notice taped above it. The ceiling is a flat white LED light panel. The steel sliding doors are fully open the whole video and never move. Outside the doors: an apartment building landing with light grey stone tiles, a white wall, a brown apartment door with a metal number plate, a radiator under a window with daylight. Nobody is on the landing.
+
+THE MIRROR
+The back mirror reflects the man and the cabin naturally, from the opposite side, matching his movements exactly. The camera itself is never visible in the mirror. The reflection never moves on its own.
+
+THE FLOOR ILLUSION (make it terrifying)
+The entire cabin floor, wall to wall and right up to the door threshold, is covered by one flat printed vinyl floor sticker. The print is a sharp, ultra realistic photo shot straight down an endless elevator shaft in an old high-rise: two rusty steel guide rails and thick greasy black cables running down into pitch black darkness, stained wet concrete walls with cracks, rows of closed shaft doors of lower floors getting smaller and smaller, metal crossbeams, a few dim orange work lights far below fading into darkness, dust in the air. The perspective goes down at least 30 floors, so the drop looks bottomless and deadly. At the very bottom, tiny and far away, a broken elevator car roof is barely visible in the dark. From the camera angle and from the doorway it looks completely real: as if there is no floor and stepping in means falling to death. The print is matte, does not glow, has no reflections. The sticker lies perfectly flat and its edges are tight against the walls and invisible until 00:11. Under it is a plain dark grey rubber elevator floor with small square anti-slip texture.
+
+CHARACTER
+One man, about 28 years old, clearly an adult. Stocky, strong, a little heavy, broad shoulders, thick arms. Short curly dark brown hair, a short dark beard, light olive skin, a small tattoo on his left forearm. He wears an oversized washed black cotton t-shirt, grey cotton jogger shorts above the knee, white socks and white sneakers, a small dark grey crossbody bag on a strap across his chest. Wireless earbuds in his ears. He looks like an ordinary guy coming home, not a model, not an actor. Real skin texture, real pores, natural face. His face, hair, beard, tattoo, clothes and bag stay exactly the same in every frame.
+
+ACTING STYLE
+He does not act. Every reaction is real, instant, instinctive and clumsy, like a real person who truly believes there is a deadly drop under his feet. Nothing is choreographed, graceful or symmetrical. Real body weight: he jumps heavily, hangs with straining arms, falls hard. Loud real breathing. He never looks at the camera until the last two seconds.
+
+TIMELINE (the most important part, follow every detail)
+
+00:00.0 - 00:00.3
+The video starts with him already entering the elevator: he is mid-stride in the open doorway, his body already leaning into the cabin, walking fast and relaxed, looking at the mirror ahead, bag bouncing on his chest. His LEFT foot stands on the steel door threshold strip. His RIGHT foot is already swinging forward inside the cabin, in the air about 20 cm above the floor sticker, about to step down, but it never touches the floor.
+
+00:00.3 - 00:00.5
+Right before his RIGHT foot lands, his eyes drop and he sees the bottomless shaft directly under it. His whole body jolts in shock, both arms fly up, eyes huge, and he lets out a loud piercing scream: "AAAH!" His RIGHT foot stays in the air and jerks up toward his chest instead of stepping down.
+
+00:00.5 - 00:00.9
+Still screaming, with the RIGHT knee already pulled up, he pushes off hard from the threshold with his LEFT foot and throws himself forward into the cabin toward the back wall, both arms reaching for the handrail, both feet in the air, knees pulling up, flying over the "shaft". His sneakers never touch the elevator floor at any moment.
+
+00:00.9 - 00:01.3
+Mid-air he slams into the back wall: both hands grab the handrail from above, fingers wrapped tight around it, his chest almost touching the mirror. His knees yank up to his chest and both sneakers slam against the bottom of the mirror and the lower steel frame below the rail.
+
+00:01.3 - 00:02.0
+He settles into a tight terrified crouch hanging on the rail: facing the mirror, back to the camera, elbows bent and raised high, both hands gripping the rail, head pulled into his shoulders, knees tucked against his chest, sneakers pressed flat against the bottom of the mirror and the left and right corners. His butt sticks out over the "shaft". His whole weight is held by his arms on the rail and his feet on the wall. In the mirror we see his face: pale, eyes wide, mouth open.
+
+00:02.0 - 00:04.0
+He hangs there like a frozen scared spider, shaking. His arms tremble, his legs tremble. He keeps looking down over his shoulder at the shaft, then back at the mirror, breathing in short loud gasps. He whimpers in a high cracking voice: "No no no no no!" His sneakers squeak as they slip a little on the mirror and he pushes them back.
+
+00:04.0 - 00:04.8
+A quick cut: the camera shows a straight-down view of the sticker filling the whole frame, the endless dark shaft looking totally real, as if we are falling with him. Then cut back to the same corner camera.
+
+00:04.8 - 00:06.5
+Back in the corner view, he is still hanging, now in full panic: he shifts his grip one hand at a time, his body twisting left and right, his t-shirt riding up, the bag swinging under him. He looks toward the open door to his left, realizing it is the only way out.
+
+00:06.5 - 00:08.0
+He tries to climb toward the door: he slides his hands along the rail to the LEFT end, then pushes his LEFT sneaker against the left side wall next to the door frame and his RIGHT sneaker against the back corner, legs spreading wide into a shaky split over the shaft, crotch low, knees bent, thighs shaking. He is almost there, his left foot touching the door frame. He grunts loudly with effort.
+
+00:08.0 - 00:08.5
+He lets go of the rail with his RIGHT hand and swings it back and to the left, reaching for the door frame behind him. His body twists open, his weight shifts backward. His left hand is now the only grip.
+
+00:08.5 - 00:08.9
+His left hand slips off the rail. Both feet slip off the walls. He tips backward into the air with arms flailing and legs kicking up.
+
+00:08.9 - 00:09.4
+He falls backward and lands hard on his back on the floor with a heavy thud, head toward the door and the camera, legs flying straight up in the air, sneakers pointing at the ceiling. He screams loudly the whole fall: "AAAAAH!" His mouth is wide open, eyes squeezed shut.
+
+00:09.4 - 00:10.2
+His legs bounce and drop. He lies on his back, arms spread, still screaming, then the scream breaks into gasping. His body is curled, knees up, hands clawing at the floor, waiting to fall into the shaft.
+
+00:10.2 - 00:11.0
+Nothing happens. He freezes. He opens his eyes, rolls a little onto his side, and slaps the floor with his right palm twice, feeling it. It is solid. His face turns from terror to confusion.
+
+00:11.0 - 00:11.6
+He spots the edge of the sticker where it meets the right wall. His fingers scratch at it, catch the corner and lift it. The vinyl peels up with a sharp ripping sound, showing the plain grey rubber floor underneath.
+
+00:11.6 - 00:12.6
+He scrambles onto his knees and rips the sticker up with both hands in one big angry pull, tearing it off the floor, the whole shaft image bending and crumpling in his hands, the normal grey elevator floor appearing under him.
+
+00:12.6 - 00:13.2
+He jumps to his feet and throws the crumpled sticker out of the open doors onto the landing tiles.
+
+00:13.2 - 00:15.0
+He spins around, looks straight up into the camera in the corner, and screams at it in pure rage, red faced, arms spread wide, stomping one foot: "WHO DID THIS?! ARE YOU SERIOUS?!" Loud laughter from his friends echoes from the stairwell off screen. The video ends on him still yelling at the camera.
+
+BODY AND PHYSICS RULES
+He always has exactly two arms, two legs and two hands with five fingers each. Joints bend only in natural directions. At every moment his weight is supported by something real: his feet on the floor, his hands on the rail together with his feet on the walls, or his body on the floor. He never floats, never hovers, never sticks to a wall without holding the rail, never turns upside down, never walks on walls or the ceiling. His hands never merge with the rail, the bag or the sticker. The rail never bends or moves. The floor is always solid and flat, he never sinks or falls through it. Clothes and bag move with gravity and inertia. Before the fall at 00:08.9 his feet never touch the cabin floor: he jumps directly from the door threshold onto the handrail.
+
+OBJECTS
+One handrail on the back wall. One mirror. One button panel. One paper notice. One crossbody bag, always on its strap across his chest. One floor sticker: flat until 00:11, then peeled and ripped up in one piece and thrown out at 00:13. No other objects appear, nothing duplicates, vanishes or changes shape. No readable text anywhere.
+
+CONTINUITY
+Same man, same face, same clothes, same lighting, same corner camera angle for the whole video, except the single short straight-down shaft shot at 00:04.0 - 00:04.8. The doors stay open. Only one person is ever visible. The camera is never seen in the mirror. The background never warps.
+
+SOUND
+Real phone audio, slightly echoey in the small steel cabin: fast footsteps, the elevator ventilation hum, his sharp gasp, his loud scream as he jumps from the doorway, sneaker squeaks on the mirror, his whimpering "no no no", grunts and heavy breathing, a long loud scream during the fall, a heavy thud on landing, the loud ripping of vinyl, his furious yelling at the camera, and friends bursting out laughing in the stairwell.
+
+FINAL FEEL
+A raw, real, hilarious prank clip that looks completely genuine: a real guy, real panic, real fall, real anger. Not acted, not polished, not CGI.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Zyvex_0x/status/2115884074225017101" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115883976371863552/img/Z1DVDsM-DX-Onlnj.jpg" alt="电梯地板错觉" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-29 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Zyvex_0x" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Zyvex_0x</a>
+- 来源: <a href="https://x.com/Zyvex_0x/status/2115884074225017101" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="alien-marketplace-walk"></a>
+### 177. 外星市场漫游
+
+外星市场漫游，来自 @Alin_Reaper05 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A human traveler walks through a crowded alien marketplace filled with species of different shapes and sizes. A six-limbed merchant unfolds colorful fabrics, a robotic vendor prepares food and small creatures scurry between the stalls. The camera weaves through the moving crowd, cinematic space opera, rich realistic detail.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Alin_Reaper05/status/2116029596868972882" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116028320500363264/img/8ZXL30LsTZD1BMMo.jpg" alt="外星市场漫游" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Alin_Reaper05" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Alin_Reaper05</a>
+- 来源: <a href="https://x.com/Alin_Reaper05/status/2116029599104561566" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/Alin_Reaper05/status/2116029596868972882" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-continuous-rooftop-parkour-run"></a>
+### 178. 连续屋顶跑酷
+
+连续屋顶跑酷，来自 @PixVerse 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+A 15-second live-action cinematic urban parkour short film, 16:9, 24 fps, realistic 4K film quality. Blue hour after rainfall, set inside an enclosed rooftop mechanical courtyard on a modern city high-rise. Wet concrete surfaces, mechanical rooms, ventilation pipes, maintenance stairs, sloped ramps, billboard support frames, multilevel service platforms, and an internal rooftop partition wall form a three-dimensional parkour route.
+The entire rooftop is one continuous, solid architectural structure surrounded by a sturdy two-meter-high protective perimeter wall. Every parkour action takes place in the central rooftop area, at least three meters away from the exterior edge. There are no gaps between buildings, no rooftop-to-rooftop jumps, no movement near exposed edges, and no jumping toward the street below.
+The distant skyline and city lights appear only as background scenery above the protective walls, creating urban scale without placing a visible abyss beneath the character.
+【Core Contrast】
+The protagonist appears to be a very small blonde girl in bright clothing, yet she runs with extraordinary speed, calm judgment, exceptional coordination, explosive power, and route awareness far beyond what her appearance suggests.
+The contrast must be expressed through observable behavior: her short legs generate an exceptionally fast and precise cadence; her small hands identify support points before her body reaches each obstacle; her eyes always locate the next landing point before her head moves; transitions between movements contain almost no hesitation.
+She is not a magical character or a superhero. Every action obeys realistic gravity, body weight, joint movement, physical contact, momentum, and impact.
+【Character Lock】
+The protagonist appears approximately five years old: a blonde girl of European descent with realistic young-child height and body proportions, a round youthful face, pale golden slightly curly hair tied into two loose pigtails, and thin red round-frame glasses. Her transparent lenses reveal clear blue-gray eyes with natural blinking, subtle eye movements, moisture, and living catchlights.
+She wears a bright yellow lightweight windbreaker, turquoise athletic shorts, rainbow-striped leggings, purple-red running shoes, and a small orange sports backpack. Her vivid children’s clothing strongly contrasts with the cool gray urban rooftop.
+Her round glasses, pigtails, clothing colors, and backpack position remain completely consistent throughout every third-person shot. The glasses may slide slightly down her nose after a hard landing; she quickly pushes them back into place with a small nose scrunch, never slowing down, looking at the camera, or striking a heroic pose.
+Objective: cross the mechanical courtyard, vault over the central partition wall, and strike the red finish button before the rooftop timer turns red.
+【Safe Spatial Layout】
+The route contains several internal rooftop elevations:
+The starting point is a maintenance platform approximately 0.8 meters above the main rooftop, connected to it by four wide stairs.
+A ventilation pipe approximately 0.6 meters high stands in the center of the main rooftop.
+Beside the rooftop mechanical room is a service platform approximately 0.9 meters above the main roof.
+A wide sloped ramp behind the platform returns to the main rooftop level.
+The primary obstacle is a 1.1-meter-high internal concrete partition wall located in the middle of the rooftop.
+Behind the partition wall is a continuous rooftop landing area approximately five meters wide and more than eight meters deep.
+The finish button is installed on the exterior wall of a mechanical room inside the rooftop courtyard.
+The partition wall is only an internal functional divider. It is not an exterior building wall, parapet, perimeter wall, or rooftop edge. Continuous concrete rooftop flooring must always be visible on both sides of the wall.
+【Camera Rules】
+Use six clearly paced shots, alternating between a close rear-following shot, first-person POV, third-person side view, front-following shot, and low-angle tracking shot.
+Use 17–24mm wide-angle lenses with approximately 4%–6% subtle barrel distortion, slight perspective stretching, and natural lens breathing near the edges. Keep the subject near the central image area so her face, glasses, and limbs remain undistorted.
+Fast movement includes restrained camera shake, realistic motion blur, and subtle rolling-shutter behavior. Cuts occur on foot impacts, hand contacts, structural occlusions, or fast whip-pans.
+【Absolute First-Person POV Rules】
+Every first-person shot must present a clean, unobstructed, authentic POV.
+The image must never show the round glasses, eyeglass rims, lens reflections, eyeglass shadows, nose bridge, cheeks, eyelashes, hair, or any part of the girl’s face.
+First-person shots may show only her hands, forearms, and occasionally her knees or shoe tips. The image must not look as if it is being viewed through glasses, and no glasses-shaped border may appear around the frame.
+When the video cuts back to third person, the round glasses must still be correctly positioned on her face, preserving character continuity.
+【Shot One | 0–2 Seconds | Close Rear Follow】
+A 17mm low-angle tracking shot follows at the girl’s waist height. She is already sprinting across a maintenance platform approximately 0.8 meters above the main rooftop.
+Her small legs generate an extremely rapid cadence as her bright yellow jacket, blonde pigtails, and orange backpack whip with the movement. The camera remains slightly behind and to one side. City lights form a distant skyline above the high perimeter protection wall.
+Four wide concrete stairs connect the platform to the main rooftop. She does not jump from the platform edge. Instead, she runs rapidly down the staircase: her first stride covers two steps, her second lands on the next step, and her final stride enters the continuous main rooftop.
+Her shoes make clear contact with each step, and her body lowers progressively with the staircase. The camera descends with her. Each footfall produces a short visual impact, and she accelerates immediately after reaching the main rooftop without pausing.
+The music begins with a delicate music-box motif. Her four stair impacts synchronize with four progressively stronger electronic percussion hits.
+【Shot Two | 2–4 Seconds | First-Person POV】
+Cut to a clean first-person POV at the authentic eye level of a small child. The image has only restrained vertical movement produced by running.
+Do not show glasses, eyeglass frames, lens edges, the nose bridge, eyelashes, cheeks, hair, or any facial feature.
+A ventilation pipe approximately 0.6 meters high stands ahead. Continuous rooftop flooring is clearly visible beyond it. Two small hands enter from the bottom of the frame and press accurately against the top of the pipe. Her body uses its forward momentum to perform a compact straddle vault.
+Her gaze targets the hand-contact point first, then immediately moves toward the safe landing area beyond the pipe. Her shoes and knees may briefly enter the bottom of the frame as both feet land on the same rooftop level.
+A sharp industrial percussion hit accompanies her hands contacting the metal. A brief whoosh follows her body over the pipe. The complete breakbeat enters when her feet strike the rooftop.
+【Shot Three | 4–6.3 Seconds | Third-Person Lateral Rise】
+A 24mm third-person side-tracking shot. The girl sprints toward the exterior wall of a rooftop mechanical room. A fixed equipment base approximately 0.4 meters high stands beside the wall, leading to a service platform approximately 0.9 meters above the main rooftop.
+Her left foot lands on the equipment base, and her right foot immediately plants against the mechanical-room wall. She performs a diagonal upward tic-tac. Both hands accurately catch the edge of the service platform, her right knee reaches the surface first, and her body rapidly moves onto the platform.
+The upward force comes primarily from her legs. Her hands guide the movement rather than pulling her upward. She does not hang, pause, or rise without physical support.
+The camera rises approximately 0.9 meters with her and tilts upward slightly. The equipment base, wall-contact point, and upper landing surface remain visible at the same time. After she reaches the platform, her glasses slide slightly down her nose; one quick nose scrunch pushes them back into position.
+Stepping onto the base, planting against the wall, and entering the platform correspond to three progressively stronger industrial beats.
+【Shot Four | 6.3–8.3 Seconds | Front Follow Into Low Slide】
+An 18mm low frontal tracking shot moves backward as the girl sprints toward the camera across the service platform. A wide sloped ramp ahead reconnects the platform to the lower main rooftop.
+She runs down the ramp instead of jumping from the platform edge. The camera lowers with her, keeping her face and complete body readable.
+At the bottom of the ramp, a billboard support frame crosses the route. Her eyes identify the opening beneath the structure, her shoulders drop, and her body changes from an upright sprint into a low sliding posture.
+One hand briefly brushes the wet concrete to control direction. Her shoes create believable friction against the surface, and water droplets pass the edge of the lens. The camera moves backward close to the ground while the support columns create rapid foreground occlusions.
+The music reduces its low frequencies as she enters the ramp. The bass slams back into the track as she slides beneath the support frame.
+【Shot Five | 8.3–11.6 Seconds | Main Third-Person Wall Vault】
+This is the central action of the sequence: vaulting over an internal rooftop partition wall. She is not vaulting over an exterior building wall, crossing between buildings, or jumping from the rooftop.
+A 24mm third-person front-side wide shot simultaneously shows the complete partition wall, the approach area, the girl’s full body, and the wide rooftop landing area behind the wall. The wall is approximately 1.1 meters high and 0.3 meters thick. The flooring on both sides is at exactly the same elevation.
+The composition must clearly prove that both sides of the partition wall contain continuous, solid rooftop flooring. There is no cliff, building gap, staircase, or vertical drop behind the wall.
+The girl receives approximately four meters of running distance. Her small legs accelerate with an exceptionally fast cadence while her eyes lock onto the top of the wall and the landing point behind it.
+On the final step, she drives against the ground and places both hands on the top of the wall. Her shoulders move beyond the support point, her knees tuck tightly toward her chest, and both legs sweep compactly around the side of her body in a professional speed vault.
+The camera tracks rapidly parallel to the wall. As her body clears the top, it rises approximately 0.5 meters so that the landing area behind the wall remains continuously visible. She follows a short, low trajectory and lands approximately one meter beyond the wall.
+Her knees and hips compress on impact while her body retains forward momentum. She does not fall downward. She immediately takes two additional steps and accelerates again.
+The kick drum drops out briefly before takeoff, leaving only the music-box motif and her breathing. Her hands contacting the wall trigger a metallic accent. The first frame of both feet landing triggers the strongest musical drop in the entire sequence.
+【Shot Six | 11.6–15 Seconds | Low Third-Person Into Close Follow】
+A 16mm low-angle camera is positioned behind the partition wall, facing the landing zone. The girl’s feet enter the frame and strike the rooftop. Her knees and hips compress, and her body continues into a rapid shoulder roll.
+The camera immediately circles to her rear-side position and becomes a close tracking shot. Two rows of enormous ventilation units lead toward a red finish button mounted on the mechanical-room wall.
+She uses extremely short steps to change direction rapidly between the machines, alternating left and right foot placement while keeping her body close to the equipment. Her tiny, brightly colored figure strongly contrasts with the enormous industrial structures.
+For the final three meters, she accelerates at full speed, her eyes locking onto the red button before her head turns. Her right hand strikes the button just before the timer changes to red.
+The button produces a sharp bell sound. She does not celebrate. She braces her hands against her knees and breathes rapidly. Her round glasses slide down after the final impact; she pushes them back up with one finger and looks toward the stopped timer. Cut immediately to black.
+【Character Performance】
+Her speed must come from extremely high cadence, short ground-contact time, rapid weight transfer, and seamless action transitions—not rigid acceleration, time-lapse movement, or footage played at increased speed.
+Her eyes move before her head, continuously scanning grip points, the top of the wall, landing surfaces, and exits. In third-person shots, natural micro-saccades, realistic blinking, moisture, and living catchlights remain visible through her glasses.
+Her tactics change for each obstacle:
+She uses rapid foot placement on the stairs and never jumps from the platform.
+She uses hand support to vault the ventilation pipe.
+She uses the equipment base and wall for a tic-tac ascent.
+She uses the connected ramp to descend.
+She lowers her posture to slide beneath the billboard frame.
+She uses a speed vault to cross the internal partition wall.
+She uses a shoulder roll to dissipate landing impact.
+She does not display emotions for the camera, smile toward the viewer, stop, or pose. Her concentration is expressed through continuously locating the next landing point and immediately solving each physical obstacle.
+【Background Music】
+Original 160 BPM industrial breakbeat and drum-and-bass score built around the contrast of a bright music-box melody and heavy urban low frequencies.
+The delicate celesta motif represents the girl’s small, colorful appearance. Tight kick drums, short snares, rapid chopped breaks, metallic industrial percussion, gritty Reese bass, and deep sub-bass express her extraordinary speed.
+Rhythmic synchronization:
+0–2 seconds: music-box opening; four stair contacts synchronize with four progressively stronger beats.
+2–4 seconds: the complete drum pattern enters during the ventilation-pipe vault.
+4–6.3 seconds: stepping onto the base, planting against the wall, and entering the platform correspond to three ascending accents.
+6.3–8.3 seconds: low frequencies reduce during the ramp descent; the bass returns as she slides beneath the structure.
+8.3–11.6 seconds: percussion density increases during the wall-vault approach; the beat briefly drops out before takeoff; successful landing triggers the strongest musical drop.
+11.6–15 seconds: the full high-speed rhythm continues. Her final three steps correspond to three escalating beats. The button bell, a short bass stab, and the cut to black occur simultaneously.
+The action sounds must remain audible through the music. Briefly duck the score during foot impacts, hand contacts, wall plants, slides, wall-vault landings, and the button bell. No lyrics, vocals, or rap.
+【Realistic Film Quality】
+Live-action cinematic realism with authentic child skin texture, fine facial hair, naturally flushed cheeks, moist eyes, and physically accurate reflections in the lenses. Realistic strands of blonde hair, fabric folds, shoe compression, splashing water, wet concrete, rusted metal, and condensation.
+Blue-hour ambient light contrasts with warm city illumination. Subtle film grain, natural depth of field, and realistic motion blur. No excessive sharpening, plastic skin, or video-game rendering.
+【Strict Prohibitions】
+No rooftop-to-rooftop jumps, jumping from the building, jumping from an exterior rooftop edge, jumping toward the street, free fall, crossing gaps between buildings, hanging from a rooftop edge, missteps, falling, or a camera falling from the roof.
+Do not transform the internal partition wall into an exterior building wall, parapet, perimeter wall, or cliff edge. Continuous, wide, same-level rooftop flooring must remain visible on both sides of the partition wall.
+First-person footage must never show glasses, eyeglass frames, lens edges, lens reflections, the nose bridge, cheeks, eyelashes, hair, or any facial outline. The first-person image must never resemble a view through glasses.
+No flying, weightless floating, double jumps, midair direction changes, superhero movements, impactless landings, foot sliding, action resets, or character teleportation.
+Do not transform the girl into a teenager or adult. No adult body proportions, mature facial features, adult makeup, or adult-styled clothing.
+No disappearing or deformed glasses, hairstyle changes, clothing-color changes, backpack position changes, additional limbs, malformed fingers, reversed joints, bodies passing through equipment, heavy fisheye distortion, stretched facial features, melting architecture, slow motion, dialogue, subtitles, text, watermarks, or brand logos.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/PixVerse/status/2116123017269092633" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116122975640674304/img/A7QJlXzcexXpH-kK.jpg" alt="连续屋顶跑酷" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/PixVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@PixVerse</a>
+- 来源: <a href="https://x.com/PixVerse/status/2116123043949162826" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/PixVerse/status/2116123017269092633" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="the-knight-and-the-haunted-castle"></a>
+### 179. 骑士与闹鬼古堡
+
+骑士与闹鬼古堡，来自 @amynys 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a 30-second cinematic gothic horror video in 9:16 vertical format. Compose every shot for a tall portrait frame, keeping the characters and important action clearly visible.
+
+Use Image 1 as the visual reference for the armored knight and black horse. Use Image 2 as the visual reference for the woman, her dark red outfit, and the gothic castle. Preserve their recognizable appearance and wardrobe throughout. No text or logos.
+
+0–4 seconds: The knight rides slowly toward the castle through drifting ground fog. Moonlight catches his black armor and the horse’s breath. Distant windows glow faintly.
+
+4–8 seconds: The horse stops abruptly at the castle entrance. Its ears flick toward the dark windows. The knight looks up as a candle appears in an upper window.
+
+8–12 seconds: Inside, the woman stands motionless by the window, watching. Candle flames bend sharply toward her, though the windows are closed.
+
+12–15 seconds: Close on the knight as he senses someone behind him. He turns; the horse recoils. Cut to black just before the reveal.
+
+15–19 seconds: The knight turns toward the castle entrance. The woman is now standing inside the open doorway, perfectly still. The horse backs away into the fog.
+
+19–23 seconds: The knight approaches cautiously. Candlelight reveals that the woman’s shadow stretches in the wrong direction, climbing the stone wall behind her.
+
+23–26 seconds: She raises her eyes to meet his. Every candle goes out at once. Hold in near darkness, with only moonlight outlining her face.
+
+26–28 seconds: A brief flash of cold light reveals the doorway empty. The knight stands alone; the horse is gone.
+
+28–30 seconds: Close on the knight’s polished armor. In its reflection, the woman is standing directly behind him. Cut to black.
+
+Use slow, controlled camera movement, deep blue moonlight, restrained candlelight, thick fog, and realistic gothic textures. Build creeping dread through precise pauses rather than overt action. Include low ominous ambience, distant wind, leather and armor creaks, horse breathing, and near-silence before the final reveal. No dialogue. Maintain consistent character designs, lighting, and screen direction.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/amynys/status/2116145594318438720" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115950258756706304/img/m53h--UMt5F06wJY.jpg" alt="骑士与闹鬼古堡" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/amynys" rel="nofollow noreferrer" referrerpolicy="no-referrer">@amynys</a>
+- 来源: <a href="https://x.com/amynys/status/2116145595618566149" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/amynys/status/2116145594318438720" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint"></a>
+### 180. Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺
+
+Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺，来自 @openclipsai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Cinematic action one-shot, 15 seconds, 16:9, photorealistic. One continuous fast tracking shot following one woman, no cuts. The camera is always moving with her: low angles, close at her shoulder, swinging around her on every stunt. Crisp, sharp image, every movement clearly readable.
+
+CHARACTER: a young woman in her late twenties, sharp navy suit, white sneakers, hair in a high ponytail, a leather laptop bag across her body. Focused, determined, a tiny smile.
+
+0-1s: extreme close-up of an office wall clock as the minute hand slams to 5:00 with a loud click. The camera whips down to her desk as she slams her laptop shut and launches out of her chair.
+1-4s: she sprints down the office aisle, vaults over a desk with one hand, papers exploding into the air around her. The camera races low beside her.
+4-7s: she bursts through the open stairwell door, jumps onto the metal banister and slides down a full flight, the camera swinging around her as she lands and keeps running.
+7-10s: she bursts out onto a golden hour street, sprints straight toward a parked yellow taxi and slides across its hood on her hip, landing on the other side mid-run.
+10-13s: she charges through the wide open doors of a corner cocktail bar. Behind the long wooden counter, a bartender slides an orange spritz down the bar. She runs alongside the counter, grabs the glass mid-slide without breaking stride, and spins onto a bar stool. Not a drop spills.
+13-15s END STATE: she lifts the glass toward the camera in a cheers, takes a sip and throws her head back laughing, golden sunset light flaring through the window behind her, ice clinking. Hold.
+
+Every move has real weight: her feet push off surfaces, papers scatter from the desk, the banister flexes, the taxi hood dips slightly as she slides over it, the glass glides smoothly on polished wood.
+
+Light: warm golden office, golden hour street, cozy amber bar with sunset flare.
+
+Sound: a loud clock click, a slammed laptop, fast footsteps, papers flying, metal screeching on the banister, a thump on the taxi hood, a glass gliding on wood, ice clinking, her laugh. No music, no dialogue.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/openclipsai/status/2116145309357142072" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116145095963480064/img/xWBaX7IYQbd6lVsY.jpg" alt="Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- 来源: <a href="https://x.com/openclipsai/status/2116145694264180982" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/openclipsai/status/2116145309357142072" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-carriage-through-the-golden-city"></a>
+### 181. 马车穿过金色城市
+
+马车穿过金色城市，来自 @churvikv 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Textured golden art style, gold foil and glitter texture preserved throughout, no style change. Camera starts at ground level showing a horse-drawn carriage moving along a wet cobblestone embankment, then smoothly rises upward in a crane shot, revealing the carriage from above as it travels along the river. The golden city with gothic spires unfolds below. Horse hooves create ripples in golden reflections on wet stones. Carriage lanterns glow warmly. Golden particles float in the air. Street lamps illuminate the path. Final aerial view shows the carriage as a small moving element in the grand golden cityscape. Cinematic camera movement, 10 seconds.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/churvikv/status/2116177920976691286" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116176696147628034/img/is2xbRDBIEeTdg78.jpg" alt="马车穿过金色城市" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/churvikv" rel="nofollow noreferrer" referrerpolicy="no-referrer">@churvikv</a>
+- 来源: <a href="https://x.com/churvikv/status/2116177920976691286" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-and-seedance-versions-rainy-rooftop-ballet"></a>
+### 182. Kling 与 Seedance 版本对比：雨夜屋顶芭蕾
+
+Kling 与 Seedance 版本对比：雨夜屋顶芭蕾，来自 @openclipsai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Cinematic one-shot, 10 seconds, 16:9, photorealistic. One continuous slow orbiting camera move around one dancer, no cuts. Crisp, sharp image.
+
+CHARACTER: a young ballerina in her twenties, hair in a tight bun, a flowing white chiffon dress to the knee, pale pink pointe shoes. Calm, focused, graceful.
+
+SETTING: a flat rooftop at night in heavy rain, the wet concrete reflecting the warm city lights and neon signs of the skyline behind her.
+
+0-2s: she stands still on the rooftop in fifth position, eyes closed, rain falling around her. The camera begins a slow orbit from her front.2-5s: she rises onto pointe and spins into a fast pirouette, her dress flaring out, rain droplets flying off the chiffon in a spiral of light.
+
+5-8s: she leaps into a grand jeté across a shallow puddle, legs fully extended in the air, and lands softly, the puddle splashing up around her pointe shoes in slow, heavy drops.
+
+8-10s END STATE: she finishes in an arabesque, one leg extended behind her, arms reaching toward the skyline, completely still while the rain keeps falling and the camera completes its orbit to her profile. Hold. 
+
+Every movement has real weight: her body moves with real momentum on each jump, the chiffon dress swings and flares with every turn, water splashes with real physics.
+
+Light: cold blue rain, warm amber city glow, sharp highlights on every raindrop.
+
+Sound: heavy rain on concrete, distant city traffic, the soft scuff of pointe shoes, a splash as she lands, wind. No music, no dialogue.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/openclipsai/status/2116190896060502059" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116176918290563072/img/F8K_bo4PYyJcLbCk.jpg" alt="Kling 与 Seedance 版本对比：雨夜屋顶芭蕾" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- 来源: <a href="https://x.com/openclipsai/status/2116210866886492458" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/openclipsai/status/2116190896060502059" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="foggy-forest-pursuit"></a>
+### 183. 迷雾森林追逐
+
+迷雾森林追逐，来自 @EndFolding79421 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+integrated_multimodal_description: [Shot 1] Live-action 1981 35mm slasher look, night pine woods, wet leaves, fog, weak moonlight, visible film grain, muted greens, crushed blacks. A young woman in a worn flannel and jeans sprints toward camera down a narrow dirt path, breathing hard, looking back. The camera tracks backward in front of her with large amplitude at fast speed and shakes slightly. [Shot 2] At 00:05.00, the camera trucks right with small amplitude at fast speed as a tall slasher in dark work clothes and a crude cloth mask bursts from the trees behind her, weapon raised, closing the gap. [Shot 3] At 00:10.00, the camera pushes in with small amplitude at fast speed on her face as she stumbles, recovers, and keeps running; the slasher stays behind her in the dark trees through 12.00 seconds.overall_soundscape: Night insects, crunching leaves, snapping twigs, her panicked breathing and footsteps, heavier footsteps behind her. No dialogue.non_diegetic_music: Low analog slasher strings and sparse stingers.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/EndFolding79421/status/2116238431307157751" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116236875992006656/img/i-JoRElK9zJAh1bB.jpg" alt="迷雾森林追逐" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-30 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/EndFolding79421" rel="nofollow noreferrer" referrerpolicy="no-referrer">@EndFolding79421</a>
+- 来源: <a href="https://x.com/EndFolding79421/status/2116238431307157751" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="water-powered-bathroom-battle"></a>
+### 184. 水系战士浴室激战
+
+水系战士浴室激战，来自 @itxabdullaa 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Ultra-photorealistic Hollywood dark-fantasy action, ARRI Alexa 65 aesthetic.
+
+HERO: Use @image1 as exact female identity reference. Preserve face, hair and physique. Secure white towel throughout.
+
+ENEMIES: Exactly six aggressive katana-wielding thugs based on @image2.
+
+LOCATION: Luxury marble bathroom, glass shower and bathtub filled with water and rose petals.
+
+ACTION:
+
+0–5s: Six thugs storm in simultaneously. Hero dodges multiple sword attacks, ducks and pivots beside the bathtub. Japanese battle shouts.
+
+5–10s: Hero performs a backbend, spinning kick and elbow strike. Bathtub water rises and follows her movements.
+
+10–15s: Two enemies attack together. Hero briefly dissolves into shadow and reappears nearby. Their swords miss and they collide. Hero counterattacks.
+
+15–20s: Water spirals around Hero's arm, forming a flowing liquid Indonesian golok silhouette. Never solid. She repels one attacker and sends another through the glass shower. Realistic splashes and shattered glass.
+
+20–25s: Remaining thugs attack together. Hero performs a wall-assisted jump, three-hit aerial combination and throws an attacker into bathroom fixtures.
+
+25–30s: An injured thug activates a red communication device: 「標的を確認した。」
+Indonesian subtitle: Target terkonfirmasi.
+
+Hero freezes airborne water and petals, turns toward him and says: 「相手を間違えたな。」
+Indonesian subtitle: Kalian salah memilih lawan.
+
+Heavy footsteps approach. Hero turns toward the entrance. End mid-action.
+
+VISUAL & AUDIO: Dynamic tracking, continuous realistic combat, expressive reactions, synchronized Japanese dialogue, sword impacts, glass breaking and water sounds.
+
+CONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and bathroom layout. Bathtub water decreases during manipulation. Hydro Cleaver remains liquid. No extra characters, duplicated bodies, solid water weapons, robotic movements, pauses, victory pose or fade-out.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/itxabdullaa/status/2116502720823865475" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116502665157083136/img/xsyhWu_UsM6tXIpb.jpg" alt="水系战士浴室激战" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/itxabdullaa" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxabdullaa</a>
+- 来源: <a href="https://x.com/itxabdullaa/status/2116502720823865475" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="voxel-monsters-go-trick-or-treating"></a>
+### 185. 方块怪物讨糖果
+
+方块怪物讨糖果，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Format: 1:1, 15 seconds. Style: blocky voxel video game world, where everything is built from cubes: square trees, cube-shaped clouds, pixelated textures, flat lighting with glowing orange torches. Original blocky monsters, not based on any existing game.
+0-3s (HOOK): Night falls in a blocky village. The square sun drops behind cube hills and torches flicker on. A blocky farmer with a square head quickly carves a cube pumpkin into a jack-o'-lantern and places it by his door.
+3-6s: Out of the dark forest, original blocky monsters wobble out: a tall bat-winged block creature, a stack of glowing green cube slimes, and a skeleton made of white square bones.
+6-10s: The monsters march toward the village. The farmer hides behind his door, peeking out.
+10-13s: The monsters stop at his doorstep. They each hold up a blocky candy bucket, waiting.
+13-15s (BUTTON): The farmer opens the door and drops a cube-shaped candy into each bucket. The monsters happily wobble off to the next house.
+Camera: wide side view of the village, then a slow push-in to the doorstep.
+Music: cheerful 8-bit chiptune with a spooky minor-key twist.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2116515855534088702" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116515831358083072/pu/img/ydkyHTEAG0p1-Xhz.jpg" alt="方块怪物讨糖果" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2116515858079953349" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2116515855534088702" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="golden-hour-pickup-truck-lookbook"></a>
+### 186. 金色时分的皮卡穿搭短片
+
+金色时分的皮卡穿搭短片，来自 @jhosephebtc 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: Cinematic Narrative Storytelling, vlog editorial hybrid with dynamic handheld FPV flow.
+Subjects: The subject from @imagem1, wearing the ecru crochet halter top, yellow floral high-waisted flared trousers, patterned bucket hat, and beaded bracelets, barefoot., Preserve the subject’s facial identity and body proportions throughout; exclude face drift and anatomical deformation.
+Environment: Rural roadside beside an olive-green and cream vintage pickup truck with an open door draped with a colorful zigzag blanket, bathed in golden hour sunlight with soft tree bokeh.
+Mood: Editorial lifestyle with contained joy, spontaneous smiles, and warm intimate glances.
+
+Continuity: Preserved subject wardrobe, truck placement, late afternoon lighting, and physical geography across all cuts.
+Constraints: No dialogue, no voiceover, no text overlays, no anatomical distortion, no music.
+Vathography: Layered depth mapping. Foreground truck door frame and chrome highlights at 0.5m, subject at 1.2m, truck interior at 1.8m, and sunlit background trees falling off into soft bokeh from 4m onward.
+
+Shot 1 (0 to 1.88 seconds)
+Purpose: Hook viewer with intimate facial expression and spontaneous warmth.
+Framing: Close-up on the subject's face, warm directional backlight.
+Action: The subject tilts their head slightly, locking eyes with the lens as lips part into a soft smile.
+Acting: Direct magnetic eye contact, subtle brow lift, relaxed natural breathing.
+Camera: FPV Tracking rapidly pushes in toward eye level, stabilizing gently on facial features.
+Constraints: Keep exact facial structure and hat texture intact.
+Transition: Quick cut on subject's slight head tilt to medium profile angle.
+Sound effects: Soft breeze rustling roadside leaves.
+
+Shot 2 (1.88 to 3.75 seconds)
+Purpose: Reveal wardrobe styling and truck interaction.
+Framing: Medium shot angled along the truck door threshold.
+Action: The subject adjusts the brim of the bucket hat with delicate fingertips while shifting weight.
+Acting: Contained smile, eyes flicking downward before returning affectionately to lens.
+Camera: FPV Tracking arcs low-to-high along the open door edge.
+Constraints: Maintain fabric texture of crochet top and floral trousers.
+Transition: Hard cut on hand movement settling on hat brim.
+Sound effects: Subtle fabric rustle and distant foliage whisper.
+
+Shot 3 (3.75 to 5.63 seconds)
+Purpose: Emphasize tactile textures of the zigzag blanket and vehicle chrome.
+Framing: Medium close-up focused on subject torso and door frame.
+Action: The subject rests one forearm along the truck frame, leaning gently forward.
+Acting: Confident editorial posture, calm eye contact, lips gently closed.
+Camera: FPV Tracking banks rapidly past the draped blanket toward the subject's torso.
+Constraints: No artificial camera shake, fluid motion path.
+Transition: Whip cut matching rightward camera momentum.
+Sound effects: Faint metallic door creak under gentle arm weight.
+
+Shot 4 (5.63 to 7.5 seconds)
+Purpose: Capture candid laughter and sun flare reflection.
+Framing: Close-up framing face and shoulders against cream truck cab.
+Action: The subject breaks into an uninhibited, spontaneous grin with head tilted back.
+Acting: Genuine laughter, crinkled eye corners, glowing sunlit cheeks.
+Camera: FPV Tracking dips and lifts rapidly in handheld pursuit rhythm.
+Constraints: Natural tooth alignment, no morphing.
+Transition: Direct cut on subject's outward breath.
+Sound effects: Quiet exhale synchronized with breeze.
+
+Shot 5 (7.5 to 9.38 seconds)
+Purpose: Ground the lifestyle setting via barefoot interaction with asphalt.
+Framing: Low-angle medium shot framing bare feet and flared trousers.
+Action: Bare feet flex subtly on warm pavement as heels lift in relaxed rhythm.
+Acting: Carefree, grounded body language.
+Camera: FPV Tracking glides near ground level, tilting upward toward the hemline.
+Constraints: Keep road surface and vehicle tires consistent.
+Transition: Quick cut on foot stepping back down.
+Sound effects: Gentle scrape of bare skin on sun-warmed asphalt.
+
+Shot 6 (9.38 to 11.25 seconds)
+Purpose: Re-engage direct intimate connection.
+Framing: Tight close-up focusing on eyes and lips.
+Action: The subject lowers their chin slightly, peering playfully from beneath the hat brim.
+Acting: Intimate half-smile, magnetic gaze locking onto the lens.
+Camera: FPV Tracking darts forward, executing a micro-refraction before holding focus.
+Constraints: Stable lighting contrast and skin highlights.
+Transition: Cut on eye blink.
+Sound effects: Faint whisper of wind through hair.
+
+Shot 7 (11.25 to 13.13 seconds)
+Purpose: Showcase full ensemble and spatial context.
+Framing: Full medium shot centered in the truck cabin doorway.
+Action: The subject raises both arms overhead, touching the door frame interior.
+Acting: Relaxed editorial pose, elongated torso, poised smile.
+Camera: FPV Tracking accelerates backward, expanding the frame.
+Constraints: Keep truck interior upholstery identical.
+Transition: Dynamic cut on arms reaching peak position.
+Sound effects: Muffled resonance of truck cab metal.
+
+Shot 8 (13.13 to 15 seconds)
+Purpose: Highlight crochet texture and golden hour skin tones.
+Framing: Medium close-up of chest and shoulder profile.
+Action: The subject turns torso toward the light, dropping one hand gracefully to the waist.
+Acting: Sophisticated editorial gaze into middle distance.
+Camera: FPV Tracking circles smoothly across subject's front quadrant.
+Constraints: Accurate knit pattern and strap placement.
+Transition: Cut as subject head turns back forward.
+Sound effects: Soft fabric sliding across skin.
+
+Shot 9 (15 to 16.88 seconds)
+Purpose: Inject energetic candid movement.
+Framing: Medium shot from passenger side perspective looking across.
+Action: The subject leans out of the doorway, laughing and swaying slightly.
+Acting: Playful spontaneity, relaxed shoulders, open expression.
+Camera: FPV Tracking rushes through the cab window opening.
+Constraints: Preserved truck cab dimensions and dashboard elements.
+Transition: Fast cut matching subject's forward sway.
+Sound effects: Gentle metallic vibration of the vintage frame.
+
+Shot 10 (16.88 to 18.75 seconds)
+Purpose: Macro focus on handcrafted accessories and hat brim.
+Framing: Tight macro shot of fingertips adjusting floral hat edge.
+Action: Fingers lightly pinch the stitched brim fabric, rotating slightly.
+Acting: Deliberate, graceful hand coordination.
+Camera: FPV Tracking zooms in tight along the arm's trajectory.
+Constraints: Natural hand anatomy, exact bracelet beads.
+Transition: Cut on hand releasing brim.
+Sound effects: Micro-friction of woven cotton fabric.
+
+Shot 11 (18.75 to 20.63 seconds)
+Purpose: Dynamic visual perspective of yellow floral trousers.
+Framing: Diagonal low-to-high medium shot.
+Action: The subject shifts weight between legs, causing pant leg fabric to drape elegantly.
+Acting: Poised, statuesque hip alignment and serene expression.
+Camera: FPV Tracking banks steeply upward from asphalt to waist.
+Constraints: Consistent print and flare silhouette.
+Transition: Snap cut on hip shift settling.
+Sound effects: Soft foot pivot on pavement.
+
+Shot 12 (20.63 to 22.5 seconds)
+Purpose: Intimate over-the-shoulder connection.
+Framing: Close-up over truck door frame toward subject's face.
+Action: The subject peeks over the window edge, catching the lens with an affectionate glance.
+Acting: Tender, knowing smirk, soft eye squint.
+Camera: FPV Tracking loops over chrome mirror and door rim.
+Constraints: Chrome reflection stability.
+Transition: Hard cut on subtle smile widening.
+Sound effects: Ambient tree canopy rustle.
+
+Shot 13 (22.5 to 24.38 seconds)
+Purpose: Reveal overall silhouette against late afternoon sun.
+Framing: Wide medium shot backlit by warm rim lighting.
+Action: The subject steps one foot back onto the truck floorboard, extending posture.
+Acting: Confident fashion posture, chin lifted, peaceful smile.
+Camera: FPV Tracking pulls out diagonally, introducing golden lens flare.
+Constraints: Flare must not wash out wardrobe contrast.
+Transition: Cut on foot contact with metal cab floor.
+Sound effects: Muted clink of foot meeting metal floorboard.
+
+Shot 14 (24.38 to 26.25 seconds)
+Purpose: Rapid kinetic push-in to spontaneous joy.
+Framing: Medium close-up transitioning rapidly to close-up.
+Action: The subject laughs softly, shaking their head with genuine ease.
+Acting: Spontaneous joy, relaxed jaw, shining eyes.
+Camera: FPV Tracking dives quickly toward subject's face.
+Constraints: Keep facial bone structure intact during rapid motion.
+Transition: Quick cut at closest proximity point.
+Sound effects: Soft breathy laugh exhale.
+
+Shot 15 (26.25 to 28.13 seconds)
+Purpose: Gentle deceleration and contemplative editorial pose.
+Framing: Medium close-up centered on subject framed by green door frame.
+Action: The subject lowers arms, resting thumbs lightly at trouser waistband.
+Acting: Serene, composed editorial stare directly into lens.
+Camera: FPV Tracking decelerates, executing a slow stabilizing float.
+Constraints: Precise finger articulation, no drifting features.
+Transition: Cut on deep chest breath.
+Sound effects: Subtle evening breeze rising.
+
+Shot 16 (28.13 to 30 seconds)
+Purpose: Final inviting emotional payoff.
+Framing: Close-up on radiant smiling face.
+Action: The subject offers a lingering, intimate smile before looking softly off-camera.
+Acting: Contained warmth, genuine happiness, natural blink.
+Camera: FPV Tracking holds steady, then gently sweeps rightward to resolve.
+Constraints: Maintain photographic fidelity and natural skin texture.
+Sound effects: Whispering leaves and calm sunset ambience fading out.
+
+Final director notes: The film must inhabit a sun-drenched, carefree 1970s editorial register with modern handheld immediacy. The tactile richness of the crochet weave, yellow floral drape, and olive-and-cream metal must pop in every frame under natural warm light. Shot 16 provides the emotional anchor, leaving the audience with an authentic feeling of golden-hour nostalgia and effortless intimacy.
+
+Audio: Diegetic sound effects: Tie every cue to a visible physical action or a real environmental source. No soundtrack. Use only synchronized diegetic sound effects and ambience supported by the scene.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/jhosephebtc/status/2116517013086421216" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116516821977145344/img/lAoRAucUdxh_Jvqa.jpg" alt="金色时分的皮卡穿搭短片" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/jhosephebtc" rel="nofollow noreferrer" referrerpolicy="no-referrer">@jhosephebtc</a>
+- 来源: <a href="https://x.com/jhosephebtc/status/2116517016827736303" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/jhosephebtc/status/2116517013086421216" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-lemon-filled-sicilian-village-stroll"></a>
+### 187. 西西里小巷里的柠檬漫步
+
+西西里小巷里的柠檬漫步，来自 @jhosephebtc 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: Cinematic Narrative Storytelling with dynamic vlog realism and high-energy home-video vitality.
+Subjects: The subject from @imagem1, maintaining facial identity, dark wavy hair, gold wire sunglasses, delicate pendant necklace, and red linen ruffled wrap dress., Preserve the subject’s facial identity and body proportions throughout; exclude face drift and anatomical deformation.
+Environment: Sunny Sicilian village alleyway with warm ocher plaster walls, rustic limestone facades, and stone cobblestones drenched in golden Mediterranean sunlight.
+Mood: Happy; overflowing with spontaneous joy, radiant smiles, and warm exuberant body language.
+
+Continuity: Exact wardrobe, accessories, hair, props (fresh yellow lemons), and warm lighting continuity across all cuts.
+Constraints: No gendered terms. Never touch or lean on walls. No music or dialogue. Strictly utilize FPV Tracking movement only.
+Vathography: Foreground framing elements create parallax; subject occupies the central depth plane with sharp volumetric separation against soft, warm background village walls.
+
+Shot 1 (0 to 1.5 seconds)
+Purpose: Hook viewer with an intimate, radiant smile in motion.
+Framing: Close-up, eye-level, 35mm perspective.
+Action: The subject strides forward into sunlight, holding a bright lemon in one hand.
+Acting: A spontaneous Duchenne smile blooms across the subject's face, gaze locking magnetically onto the lens.
+Camera: Dynamic FPV Tracking moves backward rapidly, matching the subject's forward pace.
+Constraints: Maintain steady distance; keep face tack-sharp.
+Transition: Whip cut on subject's slight turn to incoming wider tracking frame.
+Sound effects: Soft step on stone, crisp rustle of linen fabric.
+
+Shot 2 (1.5 to 3 seconds)
+Purpose: Reveal environment and full silhouette in motion.
+Framing: Medium shot, slight low-angle.
+Action: The subject walks along the cobblestones, tossing and catching a lemon with light fingers.
+Acting: Buoyant, joyful posture; head tilted slightly back with a delighted grin.
+Camera: Low-slung FPV Tracking glides ahead in rapid pursuit, tilting upward subtly.
+Constraints: No physical contact with walls; keep movement centered.
+Transition: Match-cut on lemon toss to close detail.
+Sound effects: Rhythmic shoe taps on cobblestones, soft air displacement from lemon toss.
+
+Shot 3 (3 to 4.5 seconds)
+Purpose: Highlight tactile texture of fruit and linen.
+Framing: Extreme close-up on hands and mid-torso.
+Action: The subject rolls two yellow lemons between nimble fingers against the red dress.
+Acting: Relaxed, joyful finger articulation showcasing carefree confidence.
+Camera: FPV Tracking sweeps closely across the subject's hands, banking right.
+Constraints: Prevent motion blur on the lemons; keep wardrobe texture sharp.
+Transition: Fast spatial cut on camera bank into an over-the-shoulder frame.
+Sound effects: Subtle citrus skin squeak against fingertips, breeze fluttering ruffled sleeve.
+
+Shot 4 (4.5 to 6 seconds)
+Purpose: Capture over-the-shoulder perspective exploring the sunlit path.
+Framing: Medium close-up, high over-the-shoulder angle.
+Action: The subject strides ahead toward a sun-drenched stone archway.
+Acting: Light, brisk pace; shoulders open, joyful head turn catching backlight.
+Camera: High FPV Tracking follows closely behind, swooping gently over the subject's shoulder.
+Constraints: Maintain fluid motion path without wobbling.
+Transition: Direct cut as subject pivots around.
+Sound effects: Gentle breeze murmuring through alleyway, light footsteps.
+
+Shot 5 (6 to 7.5 seconds)
+Purpose: Intimate frontal face reveal with spontaneous laughter.
+Framing: Tight close-up, eye-level.
+Action: The subject spins back toward the lens mid-stride.
+Acting: Bright eyes crinkling behind sunglasses, lips parting in a brief, genuine laugh.
+Camera: FPV Tracking pulls back quickly, banking laterally to cushion the turn.
+Constraints: Keep facial features stable and clear despite sudden turn.
+Transition: Fast whip cut matching lateral camera movement.
+Sound effects: Rapid fabric swoosh, soft breath of laughter.
+
+Shot 6 (7.5 to 9 seconds)
+Purpose: Showcase vibrant color contrast and open body posture.
+Framing: Medium wide shot, eye-level.
+Action: The subject steps into open golden sunlight with arms casually outstretched.
+Acting: Expansive, exuberant posture; radiant grin beaming skyward.
+Camera: Fast FPV Tracking circles semi-orbitally around the subject.
+Constraints: Keep subject well clear of background architecture.
+Transition: Cut on circular momentum into medium framing.
+Sound effects: Ambient village echo, rustling ruffled linen hem.
+
+Shot 7 (9 to 10.5 seconds)
+Purpose: Re-engage close emotional connection with the camera.
+Framing: Close-up, slightly high angle.
+Action: The subject lifts sunglasses slightly with one hand, flashing direct eye contact.
+Acting: Playful, inviting eye contact, warm smile tugging at lip corners.
+Camera: FPV Tracking darts closer, stabilizing into a swift forward push.
+Constraints: Sunglasses stay balanced; eyes fully visible.
+Transition: Cut on sunglasses adjustment to a lower perspective.
+Sound effects: Subtle click of wire frames, quiet intake of breath.
+
+Shot 8 (10.5 to 12 seconds)
+Purpose: Dynamic dynamic stride along cobblestone alley.
+Framing: Medium shot, low-angle.
+Action: The subject walks briskly away from camera, swinging arms naturally.
+Acting: Lively, bouncy stride full of carefree energy.
+Camera: Low FPV Tracking chases closely behind the moving hemline.
+Constraints: Stable tracking along uneven stone ground.
+Transition: Cut on footstep impact into reverse angle.
+Sound effects: Firm, distinct heel taps echoing off rustic stone.
+
+Shot 9 (12 to 13.5 seconds)
+Purpose: Catch a candid backward glance over the shoulder.
+Framing: Medium close-up, dynamic eye-level.
+Action: The subject glances back over one shoulder toward the camera while advancing.
+Acting: Playful knowing smirk, eyes sparkling with pure exuberance.
+Camera: FPV Tracking overtakes and matches subject speed alongside the shoulder.
+Constraints: Clean profile without facial warping.
+Transition: Fast whip cut matching camera acceleration.
+Sound effects: Whispering summer wind, soft garment friction.
+
+Shot 10 (13.5 to 15 seconds)
+Purpose: Accentuate bright Mediterranean colors and tactile fruit.
+Framing: Close-up insert tilted toward hands and chest.
+Action: The subject brings one lemon near the neckline, rotating it in the sun.
+Acting: Graceful, fluid wrist motion, expressing casual appreciation of the day.
+Camera: FPV Tracking arcs tightly around the hands, highlighting specular light on fruit.
+Constraints: Hands and fruit remain completely in focus.
+Transition: Cut on wrist turn to frontal close-up.
+Sound effects: Faint friction of linen, soft breeze.
+
+Shot 11 (15 to 16.5 seconds)
+Purpose: Capture spontaneous, contained joy in a brief pause.
+Framing: Close-up, eye-level.
+Action: The subject pauses momentarily mid-alley, turning to face the lens.
+Acting: Radiant, authentic beam; eyelids soft and cheeks lifted in pure joy.
+Camera: FPV Tracking glides smoothly to an intimate halt just inches away.
+Constraints: Preserve natural skin texture and lighting tone.
+Transition: Hard cut on subject's outward arm movement.
+Sound effects: Gentle sigh of ambient breeze, settling footsteps.
+
+Shot 12 (16.5 to 18 seconds)
+Purpose: Convey lively full-body celebration.
+Framing: Medium shot, slightly low.
+Action: The subject takes a joyful skip-step forward, dress fluttering.
+Acting: Carefree, exuberant body language, chest lifted proudly.
+Camera: FPV Tracking rushes backward, keeping subject framed dynamically.
+Constraints: Subject remains centered during rapid footwork.
+Transition: Cut on landing step to high angle.
+Sound effects: Quick double tap of shoes, ruffled skirt fluttering.
+
+Shot 13 (18 to 19.5 seconds)
+Purpose: Atmospheric, dynamic top-down tracking.
+Framing: Medium high-angle.
+Action: The subject walks beneath sunlit lemon tree branches hanging over a courtyard.
+Acting: Upward glance, open beaming expression.
+Camera: FPV Tracking swoops down from above, following subject's path.
+Constraints: Keep camera operator reflection invisible in sunglasses.
+Transition: Cut on subject's forward head tilt.
+Sound effects: Distant rustle of foliage, clear stone footfalls.
+
+Shot 14 (19.5 to 21 seconds)
+Purpose: Re-establish close intimate connection.
+Framing: Close-up, eye-level.
+Action: The subject turns back toward the camera with a bright nod.
+Acting: Intimate, welcoming smile; warm ocular engagement.
+Camera: FPV Tracking glides rapidly alongside subject's cheek.
+Constraints: Facial proportions rock-solid.
+Transition: Whip cut on head turn to three-quarter view.
+Sound effects: Soft linen rustle, warm exhalation.
+
+Shot 15 (21 to 22.5 seconds)
+Purpose: Build toward an energetic finale.
+Framing: Medium shot, eye-level.
+Action: The subject extends an arm toward the lens in a playful beckoning gesture.
+Acting: Magnetic, delighted expression, fingers lightly splayed.
+Camera: FPV Tracking matches the gesture, surging smoothly forward.
+Constraints: Hand stays in frame without clipping.
+Transition: Smooth cut on forward camera thrust to final hero frame.
+Sound effects: Swift sleeve flutter, rhythmic footsteps.
+
+Shot 16 (22.5 to 24 seconds)
+Purpose: Conclude with a memorable, euphoric portrait in motion.
+Framing: Medium close-up, golden hour backlight.
+Action: The subject strolls forward, holding both lemons, giving a final radiant smile.
+Acting: Deep authentic Duchenne smile, posture relaxed yet beaming with fulfillment.
+Camera: FPV Tracking decelerates gently as subject fills the frame, settling gracefully.
+Constraints: Maintain facial fidelity; no wall contact; clean, photographic resolution.
+Sound effects: Fading footstep on stone, soft summer breeze settling.
+
+Final director notes: Maintain a warm, candid Sicilian lifestyle aesthetic anchored by authentic Italian sun. The red linen dress must pop intensely against the textured ocher stone, and the subject's spontaneous smile must remain the core emotional heartbeat of every cut. Ensure every camera movement feels like an agile, responsive pursuit without losing photographic realism or facial consistency.
+
+Audio: Diegetic sound effects: Tie every cue to a visible physical action or a real environmental source. No soundtrack. Use only synchronized diegetic sound effects and ambience supported by the scene.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/jhosephebtc/status/2116517445921833441" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116517283862310912/img/vwJhmQw_tJBqaDn7.jpg" alt="西西里小巷里的柠檬漫步" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/jhosephebtc" rel="nofollow noreferrer" referrerpolicy="no-referrer">@jhosephebtc</a>
+- 来源: <a href="https://x.com/jhosephebtc/status/2116517451395375367" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/jhosephebtc/status/2116517445921833441" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-girl-reveals-her-halloween-secret"></a>
+### 188. 女孩的万圣节秘密
+
+女孩的万圣节秘密，来自 @toku8ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+女の子がモンスターと出会うが、最終的に彼女自身も可愛いドラキュラのモンスターだったというストーリー。最後は「ハッピーハロウィン」というロゴとともに、ハロウィンを祝ってほしい。
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/toku8ai/status/2116545073878061420" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116544299429138432/img/C9H_T7ugJHtlb82a.jpg" alt="女孩的万圣节秘密" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 日语
+- 作者: <a href="https://x.com/toku8ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@toku8ai</a>
+- 来源: <a href="https://x.com/toku8ai/status/2116545073878061420" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow"></a>
+### 189. Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦
+
+Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Format: 16:9, 15 seconds, photorealistic, a huge cornfield under a stormy orange sunset, wind rippling through the stalks, dozens of scarecrows on wooden posts, crows circling.
+0-3s (HOOK): A crow lands on a scarecrow's shoulder and pecks at its straw hat. The scarecrow's head slowly turns to look at the crow.
+3-6s: The crow freezes, then flaps away. Across the field, every scarecrow climbs down from its post at once.
+6-11s: A massive chase. Dozens of scarecrows run through the corn after the crow, straw flying, cornstalks bending, the camera racing low between the rows.
+11-13s: The crow escapes into the sky. The scarecrows stop at the edge of the field, out of breath, straw falling out of their sleeves.
+13-15s (BUTTON): The crow returns and lands on a fence post, now wearing a tiny straw hat and a little patched vest. The scarecrows stare. One slowly nods in approval.
+Camera: low tracking shot racing through the corn rows, then a wide overhead shot of the whole field.
+Music: driving, tense orchestral strings and pounding drums, ending on a single plucked note.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2116561295180771481" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116561272279912448/pu/img/0Q1E6OYtnu8telQB.jpg" alt="Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2116561296485138837" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2116561295180771481" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-code-prompt-visual-experiment"></a>
+### 190. 代码提示词视觉实验
+
+代码提示词视觉实验，来自 @0thernes_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+fn fib(n) { if (n < 2) { return n; } return fib(n - 1) + fib(n - 2); } let primes = []; let n = 2; while (len(primes) < 10) { let is_prime = 1; let d = 2; while (d * d <= n && is_prime) { if (n % d == 0) { is_prime = 0; } d += 1; } if (is_prime) { push(primes, n); } n += 1;
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/0thernes_ai/status/2116566254740029832" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116565293753655296/img/VbfNcYeaOFXGJ3sD.jpg" alt="代码提示词视觉实验" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/0thernes_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@0thernes_ai</a>
+- 来源: <a href="https://x.com/0thernes_ai/status/2116566254740029832" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="painted-door-opening-in-a-five-style-kling-4-0-film"></a>
+### 191. Kling 4.0 五种动画风格短片中的绘画风开门
+
+Kling 4.0 五种动画风格短片中的绘画风开门，来自 @HBCoop_ 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Locked-off camera, no camera movement at all. Hand-painted 2.5D animation, visible brushwork held in every frame.
+
+From inside a dark hallway, the heavy panelled door swings open on its hinges on the left of the doorway. Its free edge with the brass handle travels toward us and round to the left, in the first second and a half, until the door stands wide open at the left of the frame. The hinges stay fixed and the door stays rigid. The blade of moonlight on the floor widens as the door opens.
+
+As the door clears, a woman in a long oxblood leather coat and a wide-brimmed black hat steps up from the wet cobbled street onto the doorstep, into the doorway, the orange jack-o'-lantern pail swinging by its black handle in the hand on the right of the frame. She stops, facing us, with a soft closed-mouth smile. A black raven flies in from the left, lands on the stone gatepost and folds its wings.
+
+Normal real-time speed, no slow motion.
+
+Sound: old door hinges creak, boots on wet cobbles, one raven caw, distant wind. No speech, no music.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/HBCoop_/status/2116621025836454048" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116620978021376000/img/e37d079hEs96RDzC.jpg" alt="Kling 4.0 五种动画风格短片中的绘画风开门" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/HBCoop_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@HBCoop_</a>
+- 来源: <a href="https://x.com/HBCoop_/status/2116621038180339741" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/HBCoop_/status/2116621025836454048" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog"></a>
+### 192. Kling 4.0 与 Seedance 2.5：哑铃健身日记
+
+Kling 4.0 与 Seedance 2.5：哑铃健身日记，来自 @YourAlphaMom 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+**CAMERA:**
+DV 16mm tape camcorder handheld feel. MILA from  image1 films the opening and closing selfies herself; her gym friend films the dumbbell exercises handheld. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder and camera operator never appear on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+**STYLE:**
+Playful, self-deprecating gym-vlog tone — genuine effort mixed with humor. Quick, casual cuts between excerpts from an ongoing workout. Exercise shots begin and end mid-set, with continuous rhythmic repetitions at normal speed. She talks while moving, without stopping to pose. Time passes between clips; equipment setup and camera handoffs happen off-screen.
+
+**Character**
+
+MILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, natural skin texture with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach, lean arms and slender legs.
+
+She wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.
+
+**Setting**
+
+A gym dumbbell area in the evening — weight racks, benches, soft overhead lighting. Two other gym-goers exercise casually in the background, away from MILA. An angled mirror naturally reflects her back, blue shorts and legs in wider shots. She uses the same matching pair of small black hex dumbbells throughout.
+
+**Storyboard (15s, 6 shots)**
+
+1. *(0–2.5s, moving arm’s-length selfie)* Already walking past the weight rack, MILA smiles toward the lens and briefly glances at the equipment. Her face and blue sports bra are visible; the framing bobs with her footsteps. MILA: “Arm day. This should be quick.”
+
+2. *(2.5–5s, handheld medium shot)* Cut into an ongoing set of standing alternating dumbbell curls. One arm rises as the other lowers; she keeps the rhythm while speaking. The camera drifts slightly with the operator’s movement. MILA: “These felt lighter yesterday.”
+
+3. *(5–7.5s, handheld wider three-quarter shot)* Another excerpt: MILA is already doing lateral raises, repeatedly lifting and lowering both dumbbells without holding a pose. Her rear view is visible in the mirror. MILA (breathless): “I picked the light ones!”
+
+4. *(7.5–9.5s, handheld close-up insert)* Her hand and forearm grip a dumbbell through the continuing repetitions. The camera briefly loses focus as the weight moves, then catches it again. No dialogue — breathing and distant gym sounds.
+
+5. *(9.5–12s, handheld medium-wide shot)* MILA walks briskly past the camera toward the rack, carrying both dumbbells beside her thighs. The operator turns to follow her as she laughs. MILA: “Yep — my arms just quit.”
+
+6. *(12–15s, arm’s-length selfie after the set)* A clear jump cut: the dumbbells have been returned, and MILA is already holding the camera herself. Walking out of the weights area, she shakes out her free hand and grins. MILA: “Same time tomorrow? No promises.”
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/YourAlphaMom/status/2116635769729323171" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116633411846578176/img/DU4_fprNuRUtuX1E.jpg" alt="Kling 4.0 与 Seedance 2.5：哑铃健身日记" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-10-31 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/YourAlphaMom" rel="nofollow noreferrer" referrerpolicy="no-referrer">@YourAlphaMom</a>
+- 来源: <a href="https://x.com/YourAlphaMom/status/2116635769729323171" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="pink-bathroom-skincare-commercial"></a>
+### 193. 粉色浴室护肤广告
+
+粉色浴室护肤广告，来自 @Diplomeme 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Create a video ad from image1, image2 30-second vertical 9:16 premium skincare commercial for brand name REVISION SKINCARE – SOOTHING FACIAL RINSE. Use the provided female portrait as strict identity authority: one actress only, same warm brown skin, long straight black hair, almond eyes, glossy lips, gold hoop earrings, elegant smile, slim build, and consistent face across all four versions. Use the provided bottle image as strict packaging authority for shape only: opaque glossy black bottle, rounded rectangular body, sloping shoulders, short black neck, large cylindrical ribbed black screw cap, original silver-bordered label. Preserve exact bottle geometry, proportions, cap and packaging.
+
+The reference video controls only pacing, bathroom setting, ad grammar, and final group tableau. Do not copy its original brand, exact wording, or layout. Core idea: one woman in a bright pink bathroom moves through four skincare moments - refreshing skin after cleansing, removing remaining impurities, soothing and refreshing the complexion, and completing her everyday toner routine - then ends with a polished product hero shot and a four-version finale, all played by the same face with different styling.
+
+Overall visual: a single pink bathroom set with glossy tiles, white counter, round mirror, soft blinds, and high-key diffused beauty light. Clean, bright, soft, slightly glossy, with subtle film grain and minimal camera movement. Use mostly static shots with tiny push-ins, neat product inserts, and one water-bubble hero shot. Music: light airy pop with soft whooshes, cotton-pad swipes, and faint water shimmer. No random readable text. The only brand text is brand name.
+
+0.0-2.8s: Intro. Persona 1 appears in sporty mint/teal activewear, hair clipped back, minimal makeup. She tidies her hair, turns to camera, and says softly: “My skin deserves a gentle refresh.” Keep the bathroom calm, pink, and bright.
+
+2.8-5.6s: Product reveal. The bottle slides into center on the counter, front-on then at a slight 3/4 angle. Show the opaque glossy black bottle, rounded rectangular body, ribbed black screw cap, original silver-bordered label, and clean brand name. Hold the shot steady and elegant.
+
+5.6-8.4s: Persona 2 appears in evening-glam styling, a black satin or off-shoulder top with slightly stronger eye makeup. She applies the toner to a cotton pad and gently wipes her face, then looks back with relief and says: “A refreshing finish, without the harsh feel.”
+
+8.4-11.2s: Persona 3 appears in a white robe, with naturally fresh skin and soft natural makeup. She gently pats her cheek after applying the toner and says: “My skin feels calm and refreshed.”
+
+11.2-14.0s: Persona 4 appears in a soft pink towel wrap or cream lounge top, very natural makeup, serene smile. She makes one final gentle application with a cotton pad and says: “A gentle step in my everyday routine.”
+
+14.0-16.8s: Quick matched cuts show the same actress as all four versions inside the same pink bathroom. Keep the face identical across looks, only wardrobe and makeup changing. Use bold white uppercase overlays: “ALCOHOL-FREE TONER”, “GENTLE DAILY REFRESH”, “SOOTHING SKINCARE”, “FOR ALL SKIN TYPES”. The bottle stays on the counter as the visual anchor.
+
+16.8-22.6s: Water-bubble hero shot. The REVISION SKINCARE Soothing Facial Rinse bottle becomes the central object inside a glossy clear water sphere with tiny ripples and reflections. Keep the bottle pristine, upright, legible, and unwarped. Preserve the original black packaging and silver-bordered label.
+
+22.6-30.0s: Final group tableau. All four versions of the same woman stand together in the pink bathroom, smiling calmly around the product on the counter. End on a clean premium packshot with the black bottle foregrounded and a minimal end card: “REVISION SKINCARE – SOOTHING FACIAL RINSE” and “Alcohol-free toner for all skin types.” Hold steady for the final beat.
+
+Continuity rules: same face across all four looks, no face drift, same pink bathroom throughout, no change to bottle geometry, original black cap and label preserved, no extra brand names, no pink bottle, no pump dispenser, no black dramatic lighting, no clutter, no realism-breaking skin retouching, no excessive camera motion, no product redesign.
+
+Negative prompt: other brands, wrong packaging, micellar cleansing water wording, body oil wording, extra bottle shapes, pump dispenser, screw cap removed, cap missing, random text, messy bathroom, dark moody lighting, overblown sparkle, cartoon style, broken hands, warped fingers, label errors, duplicated unwanted characters.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/Diplomeme/status/2116791374829998231" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116785495137280000/img/df-B7j3Ue76KLYpP.jpg" alt="粉色浴室护肤广告" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-01 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- 来源: <a href="https://x.com/Diplomeme/status/2116791374829998231" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon"></a>
+### 194. Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇
+
+Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇，来自 @SocialSight 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Style: warm storybook painting with soft brush texture, glowing golden light against deep navy night, cozy rounded rooftops, chimney smoke curling into stars.
+0-3s (HOOK): The night sky is completely empty, no moon. In a tiny bakery window, a round baker in a flour-dusted apron pulls a giant glowing dough ball out of a brick oven.
+3-6s: Bakers across the rooftop town hand the warm moon from chimney to chimney, passing it up in a long chain of flour-covered hands.
+6-10s: At the highest tower, they load it into a huge wooden slingshot. The whole town gathers in the streets, holding lanterns and looking up.
+10-13s: The slingshot launches. The glowing moon arcs high into the sky and settles into place, lighting up the entire town in silver.
+13-15s (BUTTON): A small crumb falls from the new moon and lands on a child's nose. She tastes it and grins.
+Camera: starts inside the bakery, rises over the rooftops, ends on a wide view of the whole moonlit town.
+Music: gentle music-box melody with soft strings, building into a warm, sweeping finish.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/SocialSight/status/2116893786550710647" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2116893766539718656/pu/img/IOU46TFiuZayr8D0.jpg" alt="Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-01 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- 来源: <a href="https://x.com/SocialSight/status/2116893788081693071" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2116893786550710647" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="alien-shooter-at-a-neon-spaceport"></a>
+### 195. 霓虹太空港异星射击
+
+霓虹太空港异星射击，来自 @aymducking 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+15-second 16:9 1080p first-person gameplay recording of a competitive sci-fi alien-invasion shooter, squad vs. alien horde, captured from a PC screen. Next-gen graphics: rainy neon night, crisp PBR, wet reflective surfaces, high frame rate. The player’s purple armored gloves hold an original white-chrome plasma rifle with glowing hot-pink and teal energy coils, lower right of frame; rain beads and sizzles into steam on the hot coils. He wears a jetpack; teal thruster glow and rain-mist trails at frame edges when boosting. HUD off: only a small green crosshair. Snappy movement with peeks, strafes, jetpack boosts and precise flicks. One continuous fight, no cuts.
+
+Setting: neon-drenched futuristic cliffside spaceport above a dark canyon during a heavy rainstorm at night, original map. Black-glass hangars with magenta and cyan neon strips, landing pads with pulsing teal edge lights, cargo shuttles, hover-crates, fuel canisters, catwalks, a glass sky bridge, radar dishes, flickering holographic signs of abstract shapes. Purple storm clouds, lightning flashes, puddles mirroring neon, rain streaking through light beams, drifting fog.
+
+Enemies are original alien creatures: tall, slick, four-armed insectoid aliens with bioluminescent acid-green veins and glowing eyes, some with leathery wings. They spit green plasma bolts and leap or glide between platforms. When hit they burst into glowing green goo and sparks.
+
+[00:00–00:02] He strafes out from a hover-crate and drops an alien at the hangar entrance with a plasma burst; it ragdolls in a splash of glowing green goo that hisses on the wet ground.
+[00:02–00:04] Wide-swings around a shuttle as green plasma bolts streak past through the rain and two-taps an alien crawling behind its landing gear, neon sparks scattering.
+[00:04–00:06] Shoots a fuel canister beside an alien on a catwalk; a magenta fireball with an expanding cyan energy ring blasts it off, rain flash-evaporating into a steam cloud.
+[00:06–00:08] Jetpacks up to a higher pad through sheets of rain and swaps energy cells mid-air with a glowing steam puff, a lightning bolt lighting the sky behind.
+[00:08–00:10] Two winged aliens swoop up out of the canyon; he taps one mid-air, it shrieks, wings shredding into green embers, and spirals down into the canyon.
+[00:10–00:11] Throws a plasma grenade that sticks to a radar dish and detonates in a pink-white shockwave with electric arcs crackling across the wet metal, launching the second alien.
+[00:11–00:13] Two aliens charge across the glass sky bridge; he boosts sideways and taps both down as glass cracks and neon reflections shatter across it.
+[00:13–00:15] Wave cleared. Alone at the pad’s edge in the pouring rain, he looks down at the glowing canyon as lightning flashes, then inspects his rifle with a flip animation, coils pulsing and steaming.
+Style: authentic high-skill gameplay footage caught on stream, confident clean play, stable camera with natural bob, recoil and jetpack sway. Heavy VFX: volumetric neon light shafts through rain, rain droplets on the lens edges, lens flares, chromatic glow bloom, particle sparks, energy trails, heat distortion, glowing goo splatter, electric arcs, steam and fog. No text, logos, watermark or IP characters, creatures, weapons or maps.
+Audio: heavy rain and thunder, electric plasma bursts, wet sizzling impacts, alien shrieks and clicks, spitting plasma bolts, jetpack whooshes, footsteps splashing on metal and glass, deep explosion booms, crackling electricity, grenade beep, steam-hiss reload, short wave-cleared sting. No dialogue.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/aymducking/status/2117008459967193226" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117008430481219584/img/9_JKXzij2UvHd-P5.jpg" alt="霓虹太空港异星射击" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-01 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/aymducking" rel="nofollow noreferrer" referrerpolicy="no-referrer">@aymducking</a>
+- 来源: <a href="https://x.com/aymducking/status/2117008462701810159" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/aymducking/status/2117008459967193226" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-vs-veo-3-1-blazer-try-on-and-spin"></a>
+### 196. Kling 4.0 与 Veo 3.1：西装试穿与转身
+
+Kling 4.0 与 Veo 3.1：西装试穿与转身，来自 @kodavid 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Handheld UGC try-on clip in a sunlit loft studio. The woman swings the camel wool blazer off her shoulder, slips both arms into the sleeves one at a time, and tugs the lapels straight. Then she does one full slow spin on the spot so the pleated emerald satin skirt flares out and settles back down, and she ends facing the camera with a small smile. The wool creases at the elbows as she bends her arms, and the satin pleats catch the window light as they swing. The camera stays at the same shin-to-head framing the whole time. Realistic fabric physics, natural light, ambient room sound only, no music, no speech, no text on screen.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/kodavid/status/2117044142530306220" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117044107398770688/pu/img/R4Ix9x10GhHaw_71.jpg" alt="Kling 4.0 与 Veo 3.1：西装试穿与转身" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-02 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/kodavid" rel="nofollow noreferrer" referrerpolicy="no-referrer">@kodavid</a>
+- 来源: <a href="https://x.com/kodavid/status/2117193561351315710" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/kodavid/status/2117044142530306220" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="a-japanese-town-from-a-3d-previsualization"></a>
+### 197. 从三维预演到日本小镇
+
+从三维预演到日本小镇，来自 @boke_ai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Re-film 视频1 as live-action footage of one real Japanese suburban town, filmed by a fast FPV drone in one continuous shot with no cuts. Keep from 视频1 exactly: the camera position, height, lens, speed and every frame of the camera movement. Keep the outline, size and position of every building, road, utility pole and wire, and the small boxes moving on the road. Only replace the flat gray surfaces with real materials taken from the photos, overcast summer afternoon, white-gray sky. The drone races three meters above a wide four-lane main road with sagging black wires overhead; the roadside shops it passes are these, each exactly like its photo with the same signboard. In order: 0 to 1 second, the police box in 图片1 on the left and the glasses shop in 图片2 on the right. 0.7 to 2.3 seconds, the fitness studio in 图片3 on the left and the barber shop in 图片4 further away on the right. 1 to 3 seconds, the tonkatsu restaurant in 图片5 on the right and the cram school in 图片6 on the left. 1.5 to 3.5 seconds, the coin laundry in 图片7 on the right and the hair salon in 图片8 on the left. 2 to 4 seconds, the burger shop in 图片9 on the right. The moving boxes are ordinary small Japanese cars. No other text anywhere. Sound: wind rushing hard past the drone microphone, the whine of the propellers, cars passing.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/boke_ai/status/2117212525804900387" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117209547765075968/img/mMuclXtr5FxAxKRS.jpg" alt="从三维预演到日本小镇" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-02 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/boke_ai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@boke_ai</a>
+- 来源: <a href="https://x.com/boke_ai/status/2117212528522547350" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/boke_ai/status/2117212525804900387" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy"></a>
+### 198. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧
+
+Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧，来自 @openclipsai 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+Cinematic 16:9 live action, 10 seconds, night, played as deadpan comedy. The woman from the reference image, same face, same green-hazel eyes, now with a glossy hot pink pageboy bob with blunt bangs, wears an oversized black tailored blazer worn open over a black satin corset, thin black suspenders clipped to high-waisted wide black trousers, and chunky black boots. Small silver hoop earrings, dark red lipstick.
+
+0-3s: Front shot in an empty underground metro station, white tiled walls, cold fluorescent light. She stands on the tracks facing the camera, a tiny grey kitten held against her chest with her left arm. With total confidence she raises her right hand toward the camera, palm open, as if stopping something. Behind her back, a metro train bursts out of the dark tunnel and races toward her, headlights blazing, horn blaring. She does not turn around.
+
+3-5s: The train bumps into her from behind with a heavy thud and a huge cloud of grey dust fills the whole frame. The train screeches to a stop.
+
+5-8s: The dust slowly settles. She pushes herself up from the tracks, covered head to toe in grey dust and soot, her pink hair sticking up in every direction, blazer crooked, coughing once. The kitten is still safe in her arm, also dusty, blinking.
+
+8-10s: Medium close-up. She looks straight into the camera with a flat, unimpressed face, and a small puff of dust falls from her hair.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/openclipsai/status/2117243735952048304" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117243326889889792/img/IJcRSX4WAXVInGYN.jpg" alt="Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-02 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- 来源: <a href="https://x.com/openclipsai/status/2117243941045059656" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/openclipsai/status/2117243735952048304" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt"></a>
+### 199. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）
+
+Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词），来自 @FlyAIgh 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+References: images 1, 2 and 3 are the same woman, the woman in ivory: low bun, pearl earrings, an ivory satin slip dress to the floor, a sheer shawl of the same color over her shoulders. Images 4, 5 and 6 are the same woman, the woman in black: long black curls, a black tuxedo suit with burgundy satin lapels. Image 7 is the setting: a private dinner in an art gallery. Both women's faces, features, hair, clothes and accessories always match their own reference images, and the two faces must never blend. Realistic cinematic look, 16:9, an understated luxury dinner, low light, warm low lamps and candlelight, urban short-drama style. 15 seconds in total, four shots.
+
+Shot 1 (0 to 3s, wide): in the gallery from image 7, guests holding glasses talk quietly and move slowly, someone plays the cello in a corner, candles flicker on the tables. The camera descends slowly from ceiling height and pushes forward, starting on the whole room and ending beside the champagne tower. The woman in ivory stands alone by the tower with a glass of champagne.
+
+Shot 2 (3 to 6s, medium, hard cut): the woman in black walks in from the right of frame, grabs her wrist and leans in to say something. The woman in ivory turns to look at her, face to camera, her expression going from restrained to cold. Locked-off camera, both women in frame.
+
+Shot 3 (6 to 11s, side tracking, hard cut): the woman in ivory shakes off her hand and, in the same motion, pushes the champagne tower over, her sheer shawl lifting with the movement. Dozens of glasses fall tier by tier and shatter, champagne splashes everywhere, and the guests around scream and step back. The camera tracks fast from the side in the direction the tower falls, with a little handheld shake.
+
+Shot 4 (11 to 15s, close-up, hard cut): close-up of the woman in ivory, face to camera, a strand of hair falling loose from her bun, pearl earrings swaying slightly, chest rising and falling. Then cut to an over-the-shoulder shot from behind her: the woman in black stands opposite, her black suit splashed with champagne, freezes for a beat, then slowly starts to smile.
+
+No subtitles, no watermark, and apart from the guests, no main characters other than those in the reference images.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/FlyAIgh/status/2117267227854426327" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117266405846286336/img/CZFwcaFJtMwmjU7g.jpg" alt="Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-02 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/FlyAIgh" rel="nofollow noreferrer" referrerpolicy="no-referrer">@FlyAIgh</a>
+- 来源: <a href="https://x.com/FlyAIgh/status/2117267250428186922" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/FlyAIgh/status/2117267227854426327" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="the-prince-and-baba-cloantas-bell"></a>
+### 200. 王子与森林女巫的铃铛
+
+王子与森林女巫的铃铛，来自 @airina_xyz 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+KLING 4.0 — 20-SECOND ROMANIAN FOLKLORE DARK COMEDY, 16:9, FIVE SHOTS.
+
+VISUAL STYLE: Authentic 1977 Romanian-Czechoslovak live-action fairy-tale movie, imaginative handmade costumes, grotesque practical prosthetic makeup, soft 35mm film grain, faded analog color, atmospheric Carpathian woodland.
+
+CHARACTERS:
+BABA CLOANȚA: An ancient, hunched Romanian witch with a gigantic hooked nose, warts, enormous pointed ears, almost toothless mouth and glittering mischievous eyes. Multiple layers of ragged wool, old beads, dried herbs and tiny copper bells. Irritable, cunning, unexpectedly affectionate.
+
+THE PRINCE: A handsome but painfully nervous young man, age 25, wearing a faded blue medieval doublet, a velvet cap and an oversized sword. Frightened of practically everything.
+
+SETTING: Outside a ramshackle wooden witch's cottage deep in a misty Romanian forest. Twisted roots, mossy stones, bundles of dried herbs, a rough wooden counter.
+
+DIALOGUE: Romanian only, naturally spoken with authentic Romanian pronunciation.
+
+0:00–0:03 — MEDIUM CLOSE-UP: The prince rushes toward Baba Cloanța, breathless. He cries, "Mă urmărește un blestem!" His eyes dart around the trees.
+
+0:03–0:07 — CLOSE-UP: The witch grins and holds up a tiny antique brass bell on a red string. She says mysteriously, "Sună când ești în primejdie."
+
+0:07–0:11 — DETAIL SHOT: The prince takes the bell. Instantly it begins ringing violently in his hand. He looks at it, terrified.
+
+0:11–0:15 — MEDIUM TWO-SHOT: The prince frantically shakes the bell and asks, "E stricat?" Baba Cloanța tilts her enormous head and studies him.
+
+0:15–0:20 — EXTREME CLOSE-UP: The witch leans toward the prince until her grotesque face nearly fills the frame. She smiles with all three remaining teeth and whispers tenderly, "Nu, dragule. Sunt chiar aici." The prince slowly realizes what she means. His eyes widen. The bell rings faster. Cut to black at 20 seconds.
+
+PERFORMANCE: Distinctive practical-makeup facial expressions, convincing frightened reactions, excellent timing. The witch is genuinely amused, never cartoonishly frantic.
+
+CAMERA: Natural 1970s film coverage, restrained movements, expressive close-ups, clear continuity.
+
+AUDIO: Romanian dialogue, creaking woodland branches, distant crows, wind, footsteps, increasingly frantic small brass bell. No music, no narrator, no subtitles.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/airina_xyz/status/2117270309099454511" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117270257572397056/img/clIq_g-cO1kMF5Av.jpg" alt="王子与森林女巫的铃铛" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-02 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/airina_xyz" rel="nofollow noreferrer" referrerpolicy="no-referrer">@airina_xyz</a>
+- 来源: <a href="https://x.com/airina_xyz/status/2117270321573277946" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/airina_xyz/status/2117270309099454511" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
 <a id="more-collections"></a>
 
 ## 更多合集
@@ -6924,4 +12686,4 @@ Sound: silence and fridge hum, the door opening, muffled party music growing thr
 
 <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">在线作品库</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">投稿</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Star 收藏</a>
 
-此页面由仓库数据生成。更新日期：2026-10-22。
+此页面由仓库数据生成。更新日期：2026-11-03。

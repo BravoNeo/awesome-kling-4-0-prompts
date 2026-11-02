@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112651320209600627",
+  "slug": "a-cat-on-a-robot-vacuum-two-camera-views",
+  "title": {
+    "en": "A cat on a robot vacuum — two camera views",
+    "zh": "扫地机器人上的小猫：双视角"
+  },
+  "description": {
+    "en": "A cat on a robot vacuum — two camera views — original prompt by @yarakashiyama_.",
+    "zh": "扫地机器人上的小猫：双视角，来自 @yarakashiyama_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "yarakashiyama_",
+    "url": "https://x.com/yarakashiyama_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/yarakashiyama_/status/2112651319223926813",
+    "sourceTextOriginal": "掃除機と主。\nKling 4.0で作った15秒です。\n\n途中で掃除機が止まる失敗もあり、作り直し。\nそこで決めたのが\n\n「カメラの位置」と\n「動いた証拠」\n\n作り方とプロンプトの要点はつぎで↓ https://t.co/B5TXUL1RDe"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/yarakashiyama_/status/2112651320209600627",
+  "videoSourceUrl": "https://x.com/yarakashiyama_/status/2112651319223926813",
+  "conversationId": "2112651319223926813",
+  "originalLanguage": "ja",
+  "originalPrompt": "【外から撮る場面】\n参照画像の猫・掃除機・部屋を保つ。掃除機は最初のコマから最後まで、一定の速さで前進する。撮影カメラは掃除機の前方から後退しながら撮る。猫と掃除機の大きさを画面内でほぼ一定に保つ。床の継ぎ目が機体の下を通り、後ろの家具が遠ざかる。しっぽは1本で、掃除機の右側、この画面では左側に垂れている。\n\n【掃除機の目線の場面】\n参照画像の低いカメラ位置と、前向きの方向を保つ。カメラは一定の速さで前進する。見えるのは前方の床・部屋・右から入る1本のしっぽ。機体の天板や縁は映さない。床の継ぎ目が画面の下へ流れ、前方の戸口に近づく。しっぽはレンズへ近づくにつれて大きく見える。",
+  "originalPromptSha256": "20c5fd80bdde915e870a089ecd9b97b1173e4fb97472257af23df20fe0e69c95",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "A cat on a robot vacuum — two camera views",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112158361039114240",
+    "url": "https://video.twimg.com/amplify_video/2112158361039114240/vid/avc1/1920x1080/Gb4KJSC6U1tAbw88.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2112158361039114240/vid/avc1/1920x1080/Gb4KJSC6U1tAbw88.mp4?tag=29",
+    "sourceUrl": "https://x.com/yarakashiyama_/status/2112651319223926813",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112158361039114240/img/QKq49EnhPGnUWRDL.jpg",
+    "durationSecondsReported": 15.046,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-20T21:05:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

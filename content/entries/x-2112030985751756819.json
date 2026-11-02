@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112030985751756819",
+  "slug": "accidental-michelin",
+  "title": {
+    "en": "Accidental Michelin",
+    "zh": "意外的米其林天才"
+  },
+  "description": {
+    "en": "Accidental Michelin — original prompt by @yourPlugAI.",
+    "zh": "意外的米其林天才，来自 @yourPlugAI 的原始提示词。"
+  },
+  "author": {
+    "handle": "yourPlugAI",
+    "url": "https://x.com/yourPlugAI"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/yourPlugAI/status/2112030985751756819",
+    "sourceTextOriginal": "Accidental Michelin\n@Kling_ai \n\nAn ultra-serious, immaculate Master Chef & Director, trying to maintain total decorum during a high-stakes culinary exam, is pushed to his limits by a chaotic, panic-stricken prep cook whose clumsy mistake leads to a brilliant flavor pairing in the finale. 30s of pure k-drama. \n\n✨Generated with Kling 4.0 on Kling AI \n\n#ECPKling #KlingAI #Kling4 \n\nKling 4.0 Master Video Prompt (character sheets attached below👇🏾): \n\n[ENGINE DIRECTIVE]\n\nGenerate a continuous 30-second hyper-realistic live-action office/academic comedy sequence using Kling 4.0 at 120fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: \"Director Kang-jun\" (master chef in navy coat) and \"Hye-soo\" (clumsy student in flour-dusted apron). Setting strictly follows \"High-End Culinary Art Academy Lab\". Style: High-tension K-drama comedy, sharp whip-pans, snap-zooms, exaggerated physical freezes, dramatic shadow drops, synced comedic audio hits, dynamic subtitle overlays.\n\n[AUDIO DIRECTIVE]\n\nMUSIC: High-energy K-drama comedic track featuring rapid orchestral pizzicato strings, sudden brass drops, and frantic pots-and-pans percussion syncs.\n\nSOUND DESIGN: Loud metallic pots clanking, high-pitched sneaker slide screech, chef's clipboard SLAP, dramatic gong hit, liquid splash, sharp whip-pan WHOOSH, comedic record scratch.\n\n[TIMELINE BREAKDOWN]\n\n00:00 - 00:03 | EXTREME CLOSE-UP HOOK & FLYING SPICES (SCROLL-STOPPING HOOK)\nVISUAL: Extreme macro snap-zoom onto Director Kang-jun’s twitching eye and twitching jaw. Sudden whip-pan 180 degrees to Hye-soo slipping on a stray piece of butter on the floor in slow motion.\n\nACTION: Kang-jun stands rigidly with his clipboard, inspecting. Hye-soo trips over her own feet; her tray of spices and a squeeze bottle of dark reduction go flying into the air in hyper-slow motion toward an expensive, unfinished plating dish.\n\nDIALOGUE (HYE-SOO): Ah! Director!! Watch out!!\n\nSOUND: Comedic high-pitched screech, slow-motion bass drop, frantic brass swell, metallic clang.\n\n00:03 - 00:07 | SLIDING CATCH & CRASH ON MARBLE\n\nVISUAL: Fast tracking camera following Hye-soo sliding across the stainless-steel prep table.\nACTION: Hye-soo executes a desperate, clumsy slide across the counter, catching the falling sauce bottle mid-air, but landing face-first on a pastry board, sending a huge cloud of flour into the air. A spray of dark reduction splatters directly onto the center of Kang-jun’s pristine clipboard and sleeve.\n\nDIALOGUE (KANG-JUN): What... are you doing in my exam room?\n\nSOUND: Sliding THUD, loud flour POOF, sharp record scratch, dead silence beat.\n\n00:07 - 00:12 | SNAP-ZOOM REACTION & SHADOW DROP\n\nVISUAL: Rapid three-stage snap-zoom on Kang-jun’s deadpan, unblinking face under a sudden dramatic shadow drop as he looks down at his splattered sleeve.\n\nACTION: Kang-jun slowly adjusts his glasses with one finger, maintaining total silence. He reaches down, dips his finger into the chaotic splash of sauce that accidentally landed on his tasting spoon, and slowly tastes it. His eyes widen by a millimeter—the mistake created a spectacular, unplanned savory-sweet infusion.\nDIALOGUE (HYE-SOO - WHISPERING): Please, just don't fail me...\n\nSOUND: Sharp camera shutter CLICK-CLICK-CLICK, dramatic choir chant hit, sizzle of a pan.\n\n00:12 - 00:18 | THE WHIP-PAN INTERROGATION\n\nVISUAL: Whip-pan camera movement back and forth between Kang-jun leaning down over the table and Hye-soo lying flat on her belly, clutching the squeeze bottle.\n\nACTION: Kang-jun slams his hands on the counter, leaning inches from her flour-sputtered face. His expression is terrifyingly intense, but his eyes are fixed purely on the sauce.\n\nDIALOGUE (KANG-JUN): This sauce ratio... how did you think of this?\nDIALOGUE (HYE-SOO): Huh? It just... mixed when I fell...\n\nSOUND: Heavy counter SLAM, low bass rumble, high pizzicato tension strings.\n\n00:18 - 00:24 | EXAGGERATED FREEZE & CLASS STUN\n\nVISUAL: Dynamic low-angle wide shot. High-contrast lighting flashes as the entire background student team in the kitchen freezes in over-the-top shock.\n\nACTION: Kang-jun suddenly lifts the spoon and his clipboard into the air, turning sharply toward the evaluation board with an epic, serious posture, pointing dramatically at Hye-soo.\n\nDIALOGUE (KANG-JUN): She’s a genius. This student gets the highest score in history!\n\nSOUND: Triumphant K-drama orchestra hit, audience gasps, thunderous comedic sting.\n00:24 - 00:30 | ABSURD RESOLUTION & CHAOTIC FINISH\n\nVISUAL: Tracking hero shot moving backward as Kang-jun vigorously shakes Hye-soo's hand while she is still half-sprawled on the marble pastry table.\n\nACTION: Kang-jun aggressively shakes her flour-coated hand with a deadpan, intense expression. Hye-soo, still on her belly holding the bottle, nods along in complete confusion as a rain of flour dust falls around them.\n\nDIALOGUE (KANG-JUN): Starting tomorrow, you are my head research assistant.\n\nDIALOGUE (HYE-SOO): What?! I just got here yesterday!!\n\nSOUND: High-energy comedic K-drama theme song playout, party horn sound, fast fade to black."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/yourPlugAI/status/2112030985751756819",
+  "videoSourceUrl": "https://x.com/yourPlugAI/status/2112030985751756819",
+  "conversationId": "2112030985751756819",
+  "originalLanguage": "en",
+  "originalPrompt": "[ENGINE DIRECTIVE]\n\nGenerate a continuous 30-second hyper-realistic live-action office/academic comedy sequence using Kling 4.0 at 120fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: \"Director Kang-jun\" (master chef in navy coat) and \"Hye-soo\" (clumsy student in flour-dusted apron). Setting strictly follows \"High-End Culinary Art Academy Lab\". Style: High-tension K-drama comedy, sharp whip-pans, snap-zooms, exaggerated physical freezes, dramatic shadow drops, synced comedic audio hits, dynamic subtitle overlays.\n\n[AUDIO DIRECTIVE]\n\nMUSIC: High-energy K-drama comedic track featuring rapid orchestral pizzicato strings, sudden brass drops, and frantic pots-and-pans percussion syncs.\n\nSOUND DESIGN: Loud metallic pots clanking, high-pitched sneaker slide screech, chef's clipboard SLAP, dramatic gong hit, liquid splash, sharp whip-pan WHOOSH, comedic record scratch.\n\n[TIMELINE BREAKDOWN]\n\n00:00 - 00:03 | EXTREME CLOSE-UP HOOK & FLYING SPICES (SCROLL-STOPPING HOOK)\nVISUAL: Extreme macro snap-zoom onto Director Kang-jun’s twitching eye and twitching jaw. Sudden whip-pan 180 degrees to Hye-soo slipping on a stray piece of butter on the floor in slow motion.\n\nACTION: Kang-jun stands rigidly with his clipboard, inspecting. Hye-soo trips over her own feet; her tray of spices and a squeeze bottle of dark reduction go flying into the air in hyper-slow motion toward an expensive, unfinished plating dish.\n\nDIALOGUE (HYE-SOO): Ah! Director!! Watch out!!\n\nSOUND: Comedic high-pitched screech, slow-motion bass drop, frantic brass swell, metallic clang.\n\n00:03 - 00:07 | SLIDING CATCH & CRASH ON MARBLE\n\nVISUAL: Fast tracking camera following Hye-soo sliding across the stainless-steel prep table.\nACTION: Hye-soo executes a desperate, clumsy slide across the counter, catching the falling sauce bottle mid-air, but landing face-first on a pastry board, sending a huge cloud of flour into the air. A spray of dark reduction splatters directly onto the center of Kang-jun’s pristine clipboard and sleeve.\n\nDIALOGUE (KANG-JUN): What... are you doing in my exam room?\n\nSOUND: Sliding THUD, loud flour POOF, sharp record scratch, dead silence beat.\n\n00:07 - 00:12 | SNAP-ZOOM REACTION & SHADOW DROP\n\nVISUAL: Rapid three-stage snap-zoom on Kang-jun’s deadpan, unblinking face under a sudden dramatic shadow drop as he looks down at his splattered sleeve.\n\nACTION: Kang-jun slowly adjusts his glasses with one finger, maintaining total silence. He reaches down, dips his finger into the chaotic splash of sauce that accidentally landed on his tasting spoon, and slowly tastes it. His eyes widen by a millimeter—the mistake created a spectacular, unplanned savory-sweet infusion.\nDIALOGUE (HYE-SOO - WHISPERING): Please, just don't fail me...\n\nSOUND: Sharp camera shutter CLICK-CLICK-CLICK, dramatic choir chant hit, sizzle of a pan.\n\n00:12 - 00:18 | THE WHIP-PAN INTERROGATION\n\nVISUAL: Whip-pan camera movement back and forth between Kang-jun leaning down over the table and Hye-soo lying flat on her belly, clutching the squeeze bottle.\n\nACTION: Kang-jun slams his hands on the counter, leaning inches from her flour-sputtered face. His expression is terrifyingly intense, but his eyes are fixed purely on the sauce.\n\nDIALOGUE (KANG-JUN): This sauce ratio... how did you think of this?\nDIALOGUE (HYE-SOO): Huh? It just... mixed when I fell...\n\nSOUND: Heavy counter SLAM, low bass rumble, high pizzicato tension strings.\n\n00:18 - 00:24 | EXAGGERATED FREEZE & CLASS STUN\n\nVISUAL: Dynamic low-angle wide shot. High-contrast lighting flashes as the entire background student team in the kitchen freezes in over-the-top shock.\n\nACTION: Kang-jun suddenly lifts the spoon and his clipboard into the air, turning sharply toward the evaluation board with an epic, serious posture, pointing dramatically at Hye-soo.\n\nDIALOGUE (KANG-JUN): She’s a genius. This student gets the highest score in history!\n\nSOUND: Triumphant K-drama orchestra hit, audience gasps, thunderous comedic sting.\n00:24 - 00:30 | ABSURD RESOLUTION & CHAOTIC FINISH\n\nVISUAL: Tracking hero shot moving backward as Kang-jun vigorously shakes Hye-soo's hand while she is still half-sprawled on the marble pastry table.\n\nACTION: Kang-jun aggressively shakes her flour-coated hand with a deadpan, intense expression. Hye-soo, still on her belly holding the bottle, nods along in complete confusion as a rain of flour dust falls around them.\n\nDIALOGUE (KANG-JUN): Starting tomorrow, you are my head research assistant.\n\nDIALOGUE (HYE-SOO): What?! I just got here yesterday!!\n\nSOUND: High-energy comedic K-drama theme song playout, party horn sound, fast fade to black.",
+  "originalPromptSha256": "e1ededa2f29b7116ab12d723df69d8d13d15941f248043b177146641e250d69c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Accidental Michelin",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2112028260959731712",
+    "url": "https://video.twimg.com/amplify_video/2112028260959731712/vid/avc1/1920x1080/FMrU6GqxkxF_Vdke.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2112028260959731712/vid/avc1/1920x1080/FMrU6GqxkxF_Vdke.mp4?tag=29",
+    "sourceUrl": "https://x.com/yourPlugAI/status/2112030985751756819",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112028260959731712/img/-i1cQTW0f4aUnelv.jpg",
+    "durationSecondsReported": 30.139,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-19T04:00:01Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

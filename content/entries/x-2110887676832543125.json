@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110887676832543125",
+  "slug": "cafe-conversation-about-a-bakery",
+  "title": {
+    "en": "Café conversation about a bakery",
+    "zh": "咖啡馆里的面包店闲谈"
+  },
+  "description": {
+    "en": "Café conversation about a bakery — original prompt by @tanabe_fragm.",
+    "zh": "咖啡馆里的面包店闲谈，来自 @tanabe_fragm 的原始提示词。"
+  },
+  "author": {
+    "handle": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/tanabe_fragm/status/2110887676832543125",
+    "sourceTextOriginal": "Kling 4.0で、難易度が高い横顔リップシンクをテスト。\n\n結論、かなり良いですね❗️👍\n\nしかも生成コストはSeedance 2.0と比較すると3分の2くらい。\n10秒で約136円。\n※Proプランに課金した際の料金です\n\n実写でAI動画を作りたい人にとって、とても実用的なモデルだと感じました😃\n1080pで作っても、Seedance 2.0の720pよりも安いのも嬉しいポイントです。\n\nKling 4.0は、どちらかと言うとゆっくりした動きが得意。\nなので、低コストで実写風のCMや動きが少ないドラマを作りたい人には最高だと思います。\n\n全部Seedance 2.5で作れればいいんですが、高いですからね😅\n制作コストは抑えたいけどクオリティを確保したい場合、Kling 4.0はとても良い選択肢になりそう😊\n\n#klingai \n\nプロンプト\n---------------\nA fixed, locked-off medium two-shot in a bright café at midday, horizontal 16:9 cinematic framing. Two young Japanese women in their early twenties sit facing each other across a small wooden table. The camera is at table height beside the table, so both women are seen in three-quarter view from the waist up — Misaki on the left of frame, Yui on the right — with their faces large and clearly lit. A large window runs along the background; soft natural daylight falls on their faces from the side, not from behind. Two iced lattes sit on the table between them. Photorealistic, natural skin texture, gentle background blur.\n\nMisaki (left): 22, cheerful and talkative, black chin-length bob, white knit sweater, expressive hand gestures.\nYui (right): 23, gentle and easygoing, long brown hair, beige cardigan, laughs easily.\n\nThe camera does not move or cut. Exactly four lines of dialogue, in natural Tokyo-standard Japanese, in this order. While one speaks, the other listens with her mouth closed, reacting only with nods and smiles.\n\n0–4s: Misaki leans forward toward Yui, eyes bright, excited:「ねえ聞いて！ 昨日ね、駅前のパン屋さん、やっと行けたの」\n4–7s: Yui's eyes widen, surprised, quick:「え、まって、あの毎朝並んでるとこ？」\n7–11s: Misaki nods hard, hands miming something crispy, delighted:「そうそう！ メロンパン、ぱりっぱりで…もう最高だった」\n11–15s: Yui bursts out laughing and speaks through the laugh, playfully envious:「ずるい！ 今度ぜったい一緒に行こうね」\n\nPrecise lip sync: lips fully close on ま, ぱ, め, ば sounds; mouth shapes follow each vowel. No extra lines, no ad-libs, no narration. Audio is only the two voices and soft café ambience — no background music. No subtitles, no on-screen text. Single continuous horizontal shot, same framing from start to end."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/tanabe_fragm/status/2110887676832543125",
+  "videoSourceUrl": "https://x.com/tanabe_fragm/status/2110887676832543125",
+  "conversationId": "2110887676832543125",
+  "originalLanguage": "en",
+  "originalPrompt": "A fixed, locked-off medium two-shot in a bright café at midday, horizontal 16:9 cinematic framing. Two young Japanese women in their early twenties sit facing each other across a small wooden table. The camera is at table height beside the table, so both women are seen in three-quarter view from the waist up — Misaki on the left of frame, Yui on the right — with their faces large and clearly lit. A large window runs along the background; soft natural daylight falls on their faces from the side, not from behind. Two iced lattes sit on the table between them. Photorealistic, natural skin texture, gentle background blur.\n\nMisaki (left): 22, cheerful and talkative, black chin-length bob, white knit sweater, expressive hand gestures.\nYui (right): 23, gentle and easygoing, long brown hair, beige cardigan, laughs easily.\n\nThe camera does not move or cut. Exactly four lines of dialogue, in natural Tokyo-standard Japanese, in this order. While one speaks, the other listens with her mouth closed, reacting only with nods and smiles.\n\n0–4s: Misaki leans forward toward Yui, eyes bright, excited:「ねえ聞いて！ 昨日ね、駅前のパン屋さん、やっと行けたの」\n4–7s: Yui's eyes widen, surprised, quick:「え、まって、あの毎朝並んでるとこ？」\n7–11s: Misaki nods hard, hands miming something crispy, delighted:「そうそう！ メロンパン、ぱりっぱりで…もう最高だった」\n11–15s: Yui bursts out laughing and speaks through the laugh, playfully envious:「ずるい！ 今度ぜったい一緒に行こうね」\n\nPrecise lip sync: lips fully close on ま, ぱ, め, ば sounds; mouth shapes follow each vowel. No extra lines, no ad-libs, no narration. Audio is only the two voices and soft café ambience — no background music. No subtitles, no on-screen text. Single continuous horizontal shot, same framing from start to end.",
+  "originalPromptSha256": "aa119a0727f2881b75a37e11102ab191dec8878b69748e594acffdb29cdd9838",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Café conversation about a bakery",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110887184144506880",
+    "url": "https://video-s.twimg.com/amplify_video/2110887184144506880/vid/avc1/1920x1080/gqbYU3ANQEQiq7l5.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110887184144506880/vid/avc1/1920x1080/gqbYU3ANQEQiq7l5.mp4?tag=29",
+    "sourceUrl": "https://x.com/tanabe_fragm/status/2110887676832543125",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110887184144506880/img/GdJX1ccP4Jqu_kO1.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T00:16:55Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

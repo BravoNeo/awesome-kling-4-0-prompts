@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114623188202402063",
+  "slug": "the-tiny-cloud-creature",
+  "title": {
+    "en": "The tiny cloud creature",
+    "zh": "迷你云朵生物"
+  },
+  "description": {
+    "en": "The tiny cloud creature — original prompt by @Strength04_X.",
+    "zh": "迷你云朵生物，来自 @Strength04_X 的原始提示词。"
+  },
+  "author": {
+    "handle": "Strength04_X",
+    "url": "https://x.com/Strength04_X"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Strength04_X/status/2114623188202402063",
+    "sourceTextOriginal": "How am I supposed to move on after seeing this AI creature\n\nMade with Kling 4.0 \n\nPrompt : Create a 30-second ultra-realistic cinematic fantasy video featuring a completely original miniature cloud creature in a charming countryside bedroom.\n\nScene 1 (0–7 seconds): A tiny floating cloud creature with fluffy white fur, pale blue eyes, tiny dangling feet, and miniature translucent wings drifts above a wooden bedside table. Soft morning sunlight enters through linen curtains while dust particles shimmer in the air.\n\nScene 2 (7–14 seconds): A young woman wearing a peach-colored cardigan and a cream skirt enters the room. The little cloud follows her curiously, hovering above her head. Suddenly, it sneezes and releases a tiny shower of sparkling raindrops onto her hair.\n\nScene 3 (14–23 seconds): The woman looks surprised before smiling and holding out her hands. The cloud becomes excited and accidentally creates a miniature rainbow inside the room. Tiny floating droplets turn into glowing bubbles that gently drift around the furniture.\n\nScene 4 (23–30 seconds): The cloud settles onto the woman's head like a fluffy hat. It produces one final tiny raindrop that lands on its own nose. The creature crosses its eyes trying to look at the drop, then giggles silently as a miniature rainbow appears above it.\n\nVisual style: Original imaginary creature, realistic fluffy cloud texture, expressive blue eyes, physically believable water droplets, soft volumetric sunlight, realistic reflections, pastel color palette, detailed fabric textures, cinematic close-ups, natural character animation, smooth camera movements.\n\nDuration: 30 seconds. Aspect ratio: 16:9. 4K cinematic quality. Preserve the same creature and woman across all scenes. No text, subtitles, logos, or watermark. Use original designs only."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Strength04_X/status/2114623188202402063",
+  "videoSourceUrl": "https://x.com/Strength04_X/status/2114623188202402063",
+  "conversationId": "2114623188202402063",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30-second ultra-realistic cinematic fantasy video featuring a completely original miniature cloud creature in a charming countryside bedroom.\n\nScene 1 (0–7 seconds): A tiny floating cloud creature with fluffy white fur, pale blue eyes, tiny dangling feet, and miniature translucent wings drifts above a wooden bedside table. Soft morning sunlight enters through linen curtains while dust particles shimmer in the air.\n\nScene 2 (7–14 seconds): A young woman wearing a peach-colored cardigan and a cream skirt enters the room. The little cloud follows her curiously, hovering above her head. Suddenly, it sneezes and releases a tiny shower of sparkling raindrops onto her hair.\n\nScene 3 (14–23 seconds): The woman looks surprised before smiling and holding out her hands. The cloud becomes excited and accidentally creates a miniature rainbow inside the room. Tiny floating droplets turn into glowing bubbles that gently drift around the furniture.\n\nScene 4 (23–30 seconds): The cloud settles onto the woman's head like a fluffy hat. It produces one final tiny raindrop that lands on its own nose. The creature crosses its eyes trying to look at the drop, then giggles silently as a miniature rainbow appears above it.\n\nVisual style: Original imaginary creature, realistic fluffy cloud texture, expressive blue eyes, physically believable water droplets, soft volumetric sunlight, realistic reflections, pastel color palette, detailed fabric textures, cinematic close-ups, natural character animation, smooth camera movements.\n\nDuration: 30 seconds. Aspect ratio: 16:9. 4K cinematic quality. Preserve the same creature and woman across all scenes. No text, subtitles, logos, or watermark. Use original designs only.",
+  "originalPromptSha256": "965d1d0498f7b77c6c6bb777f6e35109c96285de8a1a371d2fdf2e988fed4c9d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "The tiny cloud creature",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2114622261684772864",
+    "url": "https://video.twimg.com/amplify_video/2114622261684772864/vid/avc1/1920x1080/v7ZYRIWHTtxCniOB.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2114622261684772864/vid/avc1/1920x1080/v7ZYRIWHTtxCniOB.mp4?tag=29",
+    "sourceUrl": "https://x.com/Strength04_X/status/2114623188202402063",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114622261684772864/img/29T-04STguwptZ2a.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-26T07:40:30Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

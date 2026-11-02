@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114162856350589256",
+  "slug": "kling-4-0-vs-wan-3-0-the-couriers-missing-television-head",
+  "title": {
+    "en": "Kling 4.0 vs Wan 3.0: the courier’s missing television head",
+    "zh": "Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Wan 3.0: the courier’s missing television head — original prompt by @baskojpeg.",
+    "zh": "Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋，来自 @baskojpeg 的原始提示词。"
+  },
+  "author": {
+    "handle": "baskojpeg",
+    "url": "https://x.com/baskojpeg"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/baskojpeg/status/2114162853469106416",
+    "sourceTextOriginal": "90s Anime, Round 2.\n\nKling 4.0 vs Wan 3.0. \nSame prompt, two very different takes.\n\nI’ve picked my winner. Which one wins for you?\n\nprompt in reply!\n\n@Kling_ai  • @Alibaba_Wan https://t.co/tXjuRKoVls"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/baskojpeg/status/2114162856350589256",
+  "videoSourceUrl": "https://x.com/baskojpeg/status/2114162853469106416",
+  "conversationId": "2114162853469106416",
+  "originalLanguage": "en",
+  "originalPrompt": "30-SECOND MODERN 2D ANIME ACTION COMEDY.. 16:9. SIX SHOTS.\nKEPALA KETINGGALAN. Native sound. No dialogue or music.\n\n[PURPOSE]\nA CRT courier fights two thugs, escapes, then realizes one still holds his detachable television head. Readable action, awkward visual punchline.\n\n[CHARACTERS]\nCRT: lean adult mechanical humanoid, charcoal CRT head, ivory bezel, curved static screen, short antenna. Burgundy jacket, black trousers, white sneakers. Mechanical neck coupling, no human face.\nA: broad adult Indonesian man, shaved head, black bomber, tan trousers.\nB: lean adult Indonesian man, short black hair, grey hoodie, dark trousers.\nThree fictional adults.\n\n[LOCATION]\nJakarta parking garage, late afternoon. Concrete pillars, yellow wheel stops, distant apartments.\nOne grey scooter on its stand beside a pillar. Exit ramp right. Clear floor, no traffic or pedestrians.\n\n[SCENE]\nCRT stands beside his scooter. A blocks ahead; B approaches from the side. Hands empty, head attached. No helmet or loose props.\n\n[SHOTS]\nSHOT 1 | 00:00 TO 00:04\nLow medium-wide, short lateral track right.\nA grabs CRT's jacket collar with his RIGHT hand.\nCRT traps that wrist with his LEFT hand and turns into the grip. B closes from the side. Jacket creak, shoe scrape.\n\nSHOT 2 | 00:04 TO 00:10\nHard cut, stable side full shot.\nCRT pulls A's wrist down and drives his RIGHT elbow into A's torso.\nA folds forward and releases the jacket.\nCRT steps clear, delivers ONE short side kick to A's middle and replants his foot.\nA stumbles against a pillar and remains seated there, recovering. Clear contact and recoil. No extra strikes.\n\nSHOT 3 | 00:10 TO 00:16\nHard cut, medium two-shot of CRT and B.\nB lunges and grabs both sides of CRT's television casing.\nCRT braces against B's forearms, turns and pulls his body down and backward.\nThe mechanical neck latch releases with ONE click.\nCRT's head separates intact into B's hands. Reveal a clean metal neck socket, no tissue.\nB stops, surprised. Screen stays active.\n\nSHOT 4 | 00:16 TO 00:21\nHard cut, wide including B and scooter.\nCRT's headless mechanical body runs two steps back to the scooter and grips the handlebar.\nBefore mounting, it pauses and pats the empty neck socket.\nBehind it, B holds the only CRT head at chest height. Screen crackles.\n\nSHOT 5 | 00:21 TO 00:25\nHard cut, medium on B holding the television.\nB looks from the screen to the headless body. A watches from the pillar.\nCRT's intact short antenna droops slightly at its hinge.\nA small embarrassed electronic chirp comes from the television.\n\nSHOT 6 | 00:25 TO 00:30\nHard cut, frontal medium-wide.\nThe body walks back to B, extending its empty RIGHT palm, asking for its head back.\nB looks from the waiting palm to the television.\nHold the final two seconds: outstretched hand, confused thug, embarrassed static.\nB keeps holding the head. No reattachment, final strike or black frame.\n\n[CAMERA]\nModern 2D anime: expressive ink, fluid motion, crisp cel shadows, painted Jakarta backgrounds. Burgundy, warm concrete and cool grey.\n28-35mm action wides, 50mm reactions. Keep contact and head removal readable.\nHard cuts only at listed boundaries. Consistent screen direction. No orbit or slow motion.\n\n[CONTINUITY]\nOne CRT head, one matching mechanical body, two thugs, one scooter.\nHead separates in shot 3 and stays in B's hands.\nBody remains active without its head. All separation is mechanical and bloodless.\nA stays by the same pillar after the kick. Scooter remains parked.\nPreserve designs and clothing.\n\n[AUDIO]\nFootfalls, jacket tension, elbow impact, kick thud, pillar contact, mechanical latch, static, one electronic chirp and distant Jakarta traffic.\nSync impacts. Continuous ambience across cuts.\nNo dialogue, narration, music, score or tonal pads.\n\n[AVOID]\nVHS look, glossy 3D, human CRT face, extra fighters, duplicate head, organic neck, blood, weapons, exploding screen, text, subtitles or logos.",
+  "originalPromptSha256": "c01eeba5ce84021a80e732104f89ab8920cc8a384f525aca93e6aa9d1bdf8a39",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Wan 3.0: the courier’s missing television head",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2114162393014304769",
+    "url": "https://video.twimg.com/amplify_video/2114162393014304769/vid/avc1/1440x2560/2yXQZFEczajipyux.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2114162393014304769/vid/avc1/1440x2560/2yXQZFEczajipyux.mp4?tag=29",
+    "sourceUrl": "https://x.com/baskojpeg/status/2114162853469106416",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114162393014304769/img/P8UVFB5AvFKoLbaU.jpg",
+    "durationSecondsReported": 31.083,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-25T01:11:18Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113350679133831357",
+  "slug": "kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly",
+  "title": {
+    "en": "Kling 4.0 vs Kling 3.0: a calf and a butterfly",
+    "zh": "Kling 4.0 与 Kling 3.0：小牛与蝴蝶"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Kling 3.0: a calf and a butterfly — original prompt by @openclipsai.",
+    "zh": "Kling 4.0 与 Kling 3.0：小牛与蝴蝶，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2113350420311478317",
+    "sourceTextOriginal": "Kling 4.0 vs Kling 3.0. Same prompt, same first frame, 15 seconds.\n\nA calf chases a butterfly and falls on its back.\n\nWatch the camera: Kling 4.0 follows the shot we asked for, from close-up to low in the flowers.\n\nWhich one turned out better? Comment below.\n\nFull prompt in the reply."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2113350679133831357",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2113350420311478317",
+  "conversationId": "2113350420311478317",
+  "originalLanguage": "en",
+  "originalPrompt": "The clip opens on the given first frame and animates it. ONE CONTINUOUS SHOT - no cuts, no scene changes. Keep the calf's design exactly as in the first frame: the same ginger-caramel fur, blonde fringe, pale horns, pink muzzle and teal-blue eyes.\n\nACTION: the calf notices the blue morpho butterfly and its eyes widen with curiosity. It trots after the butterfly through the wildflowers, then rears up on its hind legs and bats at it with its front hooves, wobbling with comic clumsiness. It lands, beams with a wide open-mouthed grin and its tongue lolling, and bounds toward camera through the meadow. The butterfly settles just above its head and the calf goes cross-eyed looking up at it, then flops onto its back in the flowers with its hooves in the air as the butterfly circles above.\n\nPixar-style 3D animation, soft volumetric fur with warm golden-hour rim light, shallow depth of field with creamy bokeh, gentle lens bloom, saturated storybook colours, buttery smooth character animation with squash-and-stretch weight.\n\nCAMERA: low ground-level angle tracking with the calf, a slow push-in to a tight close-up on its face at the peak of the reaction, then a wide follow as it bounds away, ending low among the flowers looking up at it.\n\nSOUND: soft meadow ambience, birdsong, light breeze through grass, hooves padding on turf, playful snorts and a delighted moo. No music, no narration.\n\nNo text, no watermark, no logos, no split screen.",
+  "originalPromptSha256": "33dbf8aad0c5a60e2cf8205de4aadc2d36f3f23118c4df6c014f9a6d49ed6dca",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Kling 3.0: a calf and a butterfly",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113350356465819648",
+    "url": "https://video.twimg.com/amplify_video/2113350356465819648/vid/avc1/1080x1080/yufZZ_7Naam9YIPE.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113350356465819648/vid/avc1/1080x1080/yufZZ_7Naam9YIPE.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2113350420311478317",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113350356465819648/img/ydftPGVZFlAKvn8S.jpg",
+    "durationSecondsReported": 15.36,
+    "aspectRatioReported": [
+      1,
+      1
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-22T19:22:59Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

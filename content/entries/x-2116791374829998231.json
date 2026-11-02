@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116791374829998231",
+  "slug": "pink-bathroom-skincare-commercial",
+  "title": {
+    "en": "Pink-bathroom skincare commercial",
+    "zh": "粉色浴室护肤广告"
+  },
+  "description": {
+    "en": "Pink-bathroom skincare commercial — original prompt by @Diplomeme.",
+    "zh": "粉色浴室护肤广告，来自 @Diplomeme 的原始提示词。"
+  },
+  "author": {
+    "handle": "Diplomeme",
+    "url": "https://x.com/Diplomeme"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Diplomeme/status/2116791374829998231",
+    "sourceTextOriginal": "Every skin deserve a chance to glow\n\nGenerated with Kling 4.0 \n\nTry it with prompt : Create a video ad from image1, image2 30-second vertical 9:16 premium skincare commercial for brand name REVISION SKINCARE – SOOTHING FACIAL RINSE. Use the provided female portrait as strict identity authority: one actress only, same warm brown skin, long straight black hair, almond eyes, glossy lips, gold hoop earrings, elegant smile, slim build, and consistent face across all four versions. Use the provided bottle image as strict packaging authority for shape only: opaque glossy black bottle, rounded rectangular body, sloping shoulders, short black neck, large cylindrical ribbed black screw cap, original silver-bordered label. Preserve exact bottle geometry, proportions, cap and packaging.\n\nThe reference video controls only pacing, bathroom setting, ad grammar, and final group tableau. Do not copy its original brand, exact wording, or layout. Core idea: one woman in a bright pink bathroom moves through four skincare moments - refreshing skin after cleansing, removing remaining impurities, soothing and refreshing the complexion, and completing her everyday toner routine - then ends with a polished product hero shot and a four-version finale, all played by the same face with different styling.\n\nOverall visual: a single pink bathroom set with glossy tiles, white counter, round mirror, soft blinds, and high-key diffused beauty light. Clean, bright, soft, slightly glossy, with subtle film grain and minimal camera movement. Use mostly static shots with tiny push-ins, neat product inserts, and one water-bubble hero shot. Music: light airy pop with soft whooshes, cotton-pad swipes, and faint water shimmer. No random readable text. The only brand text is brand name.\n\n0.0-2.8s: Intro. Persona 1 appears in sporty mint/teal activewear, hair clipped back, minimal makeup. She tidies her hair, turns to camera, and says softly: “My skin deserves a gentle refresh.” Keep the bathroom calm, pink, and bright.\n\n2.8-5.6s: Product reveal. The bottle slides into center on the counter, front-on then at a slight 3/4 angle. Show the opaque glossy black bottle, rounded rectangular body, ribbed black screw cap, original silver-bordered label, and clean brand name. Hold the shot steady and elegant.\n\n5.6-8.4s: Persona 2 appears in evening-glam styling, a black satin or off-shoulder top with slightly stronger eye makeup. She applies the toner to a cotton pad and gently wipes her face, then looks back with relief and says: “A refreshing finish, without the harsh feel.”\n\n8.4-11.2s: Persona 3 appears in a white robe, with naturally fresh skin and soft natural makeup. She gently pats her cheek after applying the toner and says: “My skin feels calm and refreshed.”\n\n11.2-14.0s: Persona 4 appears in a soft pink towel wrap or cream lounge top, very natural makeup, serene smile. She makes one final gentle application with a cotton pad and says: “A gentle step in my everyday routine.”\n\n14.0-16.8s: Quick matched cuts show the same actress as all four versions inside the same pink bathroom. Keep the face identical across looks, only wardrobe and makeup changing. Use bold white uppercase overlays: “ALCOHOL-FREE TONER”, “GENTLE DAILY REFRESH”, “SOOTHING SKINCARE”, “FOR ALL SKIN TYPES”. The bottle stays on the counter as the visual anchor.\n\n16.8-22.6s: Water-bubble hero shot. The REVISION SKINCARE Soothing Facial Rinse bottle becomes the central object inside a glossy clear water sphere with tiny ripples and reflections. Keep the bottle pristine, upright, legible, and unwarped. Preserve the original black packaging and silver-bordered label.\n\n22.6-30.0s: Final group tableau. All four versions of the same woman stand together in the pink bathroom, smiling calmly around the product on the counter. End on a clean premium packshot with the black bottle foregrounded and a minimal end card: “REVISION SKINCARE – SOOTHING FACIAL RINSE” and “Alcohol-free toner for all skin types.” Hold steady for the final beat.\n\nContinuity rules: same face across all four looks, no face drift, same pink bathroom throughout, no change to bottle geometry, original black cap and label preserved, no extra brand names, no pink bottle, no pump dispenser, no black dramatic lighting, no clutter, no realism-breaking skin retouching, no excessive camera motion, no product redesign.\n\nNegative prompt: other brands, wrong packaging, micellar cleansing water wording, body oil wording, extra bottle shapes, pump dispenser, screw cap removed, cap missing, random text, messy bathroom, dark moody lighting, overblown sparkle, cartoon style, broken hands, warped fingers, label errors, duplicated unwanted characters."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Diplomeme/status/2116791374829998231",
+  "videoSourceUrl": "https://x.com/Diplomeme/status/2116791374829998231",
+  "conversationId": "2116791374829998231",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a video ad from image1, image2 30-second vertical 9:16 premium skincare commercial for brand name REVISION SKINCARE – SOOTHING FACIAL RINSE. Use the provided female portrait as strict identity authority: one actress only, same warm brown skin, long straight black hair, almond eyes, glossy lips, gold hoop earrings, elegant smile, slim build, and consistent face across all four versions. Use the provided bottle image as strict packaging authority for shape only: opaque glossy black bottle, rounded rectangular body, sloping shoulders, short black neck, large cylindrical ribbed black screw cap, original silver-bordered label. Preserve exact bottle geometry, proportions, cap and packaging.\n\nThe reference video controls only pacing, bathroom setting, ad grammar, and final group tableau. Do not copy its original brand, exact wording, or layout. Core idea: one woman in a bright pink bathroom moves through four skincare moments - refreshing skin after cleansing, removing remaining impurities, soothing and refreshing the complexion, and completing her everyday toner routine - then ends with a polished product hero shot and a four-version finale, all played by the same face with different styling.\n\nOverall visual: a single pink bathroom set with glossy tiles, white counter, round mirror, soft blinds, and high-key diffused beauty light. Clean, bright, soft, slightly glossy, with subtle film grain and minimal camera movement. Use mostly static shots with tiny push-ins, neat product inserts, and one water-bubble hero shot. Music: light airy pop with soft whooshes, cotton-pad swipes, and faint water shimmer. No random readable text. The only brand text is brand name.\n\n0.0-2.8s: Intro. Persona 1 appears in sporty mint/teal activewear, hair clipped back, minimal makeup. She tidies her hair, turns to camera, and says softly: “My skin deserves a gentle refresh.” Keep the bathroom calm, pink, and bright.\n\n2.8-5.6s: Product reveal. The bottle slides into center on the counter, front-on then at a slight 3/4 angle. Show the opaque glossy black bottle, rounded rectangular body, ribbed black screw cap, original silver-bordered label, and clean brand name. Hold the shot steady and elegant.\n\n5.6-8.4s: Persona 2 appears in evening-glam styling, a black satin or off-shoulder top with slightly stronger eye makeup. She applies the toner to a cotton pad and gently wipes her face, then looks back with relief and says: “A refreshing finish, without the harsh feel.”\n\n8.4-11.2s: Persona 3 appears in a white robe, with naturally fresh skin and soft natural makeup. She gently pats her cheek after applying the toner and says: “My skin feels calm and refreshed.”\n\n11.2-14.0s: Persona 4 appears in a soft pink towel wrap or cream lounge top, very natural makeup, serene smile. She makes one final gentle application with a cotton pad and says: “A gentle step in my everyday routine.”\n\n14.0-16.8s: Quick matched cuts show the same actress as all four versions inside the same pink bathroom. Keep the face identical across looks, only wardrobe and makeup changing. Use bold white uppercase overlays: “ALCOHOL-FREE TONER”, “GENTLE DAILY REFRESH”, “SOOTHING SKINCARE”, “FOR ALL SKIN TYPES”. The bottle stays on the counter as the visual anchor.\n\n16.8-22.6s: Water-bubble hero shot. The REVISION SKINCARE Soothing Facial Rinse bottle becomes the central object inside a glossy clear water sphere with tiny ripples and reflections. Keep the bottle pristine, upright, legible, and unwarped. Preserve the original black packaging and silver-bordered label.\n\n22.6-30.0s: Final group tableau. All four versions of the same woman stand together in the pink bathroom, smiling calmly around the product on the counter. End on a clean premium packshot with the black bottle foregrounded and a minimal end card: “REVISION SKINCARE – SOOTHING FACIAL RINSE” and “Alcohol-free toner for all skin types.” Hold steady for the final beat.\n\nContinuity rules: same face across all four looks, no face drift, same pink bathroom throughout, no change to bottle geometry, original black cap and label preserved, no extra brand names, no pink bottle, no pump dispenser, no black dramatic lighting, no clutter, no realism-breaking skin retouching, no excessive camera motion, no product redesign.\n\nNegative prompt: other brands, wrong packaging, micellar cleansing water wording, body oil wording, extra bottle shapes, pump dispenser, screw cap removed, cap missing, random text, messy bathroom, dark moody lighting, overblown sparkle, cartoon style, broken hands, warped fingers, label errors, duplicated unwanted characters.",
+  "originalPromptSha256": "fb3a99774139bb2a8f45339d854dc0b35fea7ea7cb666f57e435f97db9baff81",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Pink-bathroom skincare commercial",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2116785495137280000",
+    "url": "https://video-s.twimg.com/amplify_video/2116785495137280000/vid/avc1/1080x1920/u3WXn5l-M76gl5i7.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2116785495137280000/vid/avc1/1080x1920/u3WXn5l-M76gl5i7.mp4?tag=29",
+    "sourceUrl": "https://x.com/Diplomeme/status/2116791374829998231",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116785495137280000/img/df-B7j3Ue76KLYpP.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-01T07:16:06Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

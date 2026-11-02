@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116517016827736303",
+  "slug": "golden-hour-pickup-truck-lookbook",
+  "title": {
+    "en": "Golden-hour pickup-truck lookbook",
+    "zh": "金色时分的皮卡穿搭短片"
+  },
+  "description": {
+    "en": "Golden-hour pickup-truck lookbook — original prompt by @jhosephebtc.",
+    "zh": "金色时分的皮卡穿搭短片，来自 @jhosephebtc 的原始提示词。"
+  },
+  "author": {
+    "handle": "jhosephebtc",
+    "url": "https://x.com/jhosephebtc"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/jhosephebtc/status/2116517013086421216",
+    "sourceTextOriginal": "The traditional production cycle for fashion lookbooks typically involves locations, casting, photographers, and days of post-production. This entire piece was planned and produced with a radically different pipeline.\n\nEvery shot you see was generated using Kling 4, driven entirely by automated storytelling prompts created by the Milor Visual AI agent. From fabric movement and organic micro-expressions to ambient lighting, the level of realism demonstrates how fast AI video is maturing for commercial apparel.\n\nThe full breakdown of the prompt and setup is detailed in the comments below.\n\nLearn more at https://t.co/QstnHCWpPF"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/jhosephebtc/status/2116517016827736303",
+  "videoSourceUrl": "https://x.com/jhosephebtc/status/2116517013086421216",
+  "conversationId": "2116517013086421216",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: Cinematic Narrative Storytelling, vlog editorial hybrid with dynamic handheld FPV flow.\nSubjects: The subject from @imagem1, wearing the ecru crochet halter top, yellow floral high-waisted flared trousers, patterned bucket hat, and beaded bracelets, barefoot., Preserve the subject’s facial identity and body proportions throughout; exclude face drift and anatomical deformation.\nEnvironment: Rural roadside beside an olive-green and cream vintage pickup truck with an open door draped with a colorful zigzag blanket, bathed in golden hour sunlight with soft tree bokeh.\nMood: Editorial lifestyle with contained joy, spontaneous smiles, and warm intimate glances.\n\nContinuity: Preserved subject wardrobe, truck placement, late afternoon lighting, and physical geography across all cuts.\nConstraints: No dialogue, no voiceover, no text overlays, no anatomical distortion, no music.\nVathography: Layered depth mapping. Foreground truck door frame and chrome highlights at 0.5m, subject at 1.2m, truck interior at 1.8m, and sunlit background trees falling off into soft bokeh from 4m onward.\n\nShot 1 (0 to 1.88 seconds)\nPurpose: Hook viewer with intimate facial expression and spontaneous warmth.\nFraming: Close-up on the subject's face, warm directional backlight.\nAction: The subject tilts their head slightly, locking eyes with the lens as lips part into a soft smile.\nActing: Direct magnetic eye contact, subtle brow lift, relaxed natural breathing.\nCamera: FPV Tracking rapidly pushes in toward eye level, stabilizing gently on facial features.\nConstraints: Keep exact facial structure and hat texture intact.\nTransition: Quick cut on subject's slight head tilt to medium profile angle.\nSound effects: Soft breeze rustling roadside leaves.\n\nShot 2 (1.88 to 3.75 seconds)\nPurpose: Reveal wardrobe styling and truck interaction.\nFraming: Medium shot angled along the truck door threshold.\nAction: The subject adjusts the brim of the bucket hat with delicate fingertips while shifting weight.\nActing: Contained smile, eyes flicking downward before returning affectionately to lens.\nCamera: FPV Tracking arcs low-to-high along the open door edge.\nConstraints: Maintain fabric texture of crochet top and floral trousers.\nTransition: Hard cut on hand movement settling on hat brim.\nSound effects: Subtle fabric rustle and distant foliage whisper.\n\nShot 3 (3.75 to 5.63 seconds)\nPurpose: Emphasize tactile textures of the zigzag blanket and vehicle chrome.\nFraming: Medium close-up focused on subject torso and door frame.\nAction: The subject rests one forearm along the truck frame, leaning gently forward.\nActing: Confident editorial posture, calm eye contact, lips gently closed.\nCamera: FPV Tracking banks rapidly past the draped blanket toward the subject's torso.\nConstraints: No artificial camera shake, fluid motion path.\nTransition: Whip cut matching rightward camera momentum.\nSound effects: Faint metallic door creak under gentle arm weight.\n\nShot 4 (5.63 to 7.5 seconds)\nPurpose: Capture candid laughter and sun flare reflection.\nFraming: Close-up framing face and shoulders against cream truck cab.\nAction: The subject breaks into an uninhibited, spontaneous grin with head tilted back.\nActing: Genuine laughter, crinkled eye corners, glowing sunlit cheeks.\nCamera: FPV Tracking dips and lifts rapidly in handheld pursuit rhythm.\nConstraints: Natural tooth alignment, no morphing.\nTransition: Direct cut on subject's outward breath.\nSound effects: Quiet exhale synchronized with breeze.\n\nShot 5 (7.5 to 9.38 seconds)\nPurpose: Ground the lifestyle setting via barefoot interaction with asphalt.\nFraming: Low-angle medium shot framing bare feet and flared trousers.\nAction: Bare feet flex subtly on warm pavement as heels lift in relaxed rhythm.\nActing: Carefree, grounded body language.\nCamera: FPV Tracking glides near ground level, tilting upward toward the hemline.\nConstraints: Keep road surface and vehicle tires consistent.\nTransition: Quick cut on foot stepping back down.\nSound effects: Gentle scrape of bare skin on sun-warmed asphalt.\n\nShot 6 (9.38 to 11.25 seconds)\nPurpose: Re-engage direct intimate connection.\nFraming: Tight close-up focusing on eyes and lips.\nAction: The subject lowers their chin slightly, peering playfully from beneath the hat brim.\nActing: Intimate half-smile, magnetic gaze locking onto the lens.\nCamera: FPV Tracking darts forward, executing a micro-refraction before holding focus.\nConstraints: Stable lighting contrast and skin highlights.\nTransition: Cut on eye blink.\nSound effects: Faint whisper of wind through hair.\n\nShot 7 (11.25 to 13.13 seconds)\nPurpose: Showcase full ensemble and spatial context.\nFraming: Full medium shot centered in the truck cabin doorway.\nAction: The subject raises both arms overhead, touching the door frame interior.\nActing: Relaxed editorial pose, elongated torso, poised smile.\nCamera: FPV Tracking accelerates backward, expanding the frame.\nConstraints: Keep truck interior upholstery identical.\nTransition: Dynamic cut on arms reaching peak position.\nSound effects: Muffled resonance of truck cab metal.\n\nShot 8 (13.13 to 15 seconds)\nPurpose: Highlight crochet texture and golden hour skin tones.\nFraming: Medium close-up of chest and shoulder profile.\nAction: The subject turns torso toward the light, dropping one hand gracefully to the waist.\nActing: Sophisticated editorial gaze into middle distance.\nCamera: FPV Tracking circles smoothly across subject's front quadrant.\nConstraints: Accurate knit pattern and strap placement.\nTransition: Cut as subject head turns back forward.\nSound effects: Soft fabric sliding across skin.\n\nShot 9 (15 to 16.88 seconds)\nPurpose: Inject energetic candid movement.\nFraming: Medium shot from passenger side perspective looking across.\nAction: The subject leans out of the doorway, laughing and swaying slightly.\nActing: Playful spontaneity, relaxed shoulders, open expression.\nCamera: FPV Tracking rushes through the cab window opening.\nConstraints: Preserved truck cab dimensions and dashboard elements.\nTransition: Fast cut matching subject's forward sway.\nSound effects: Gentle metallic vibration of the vintage frame.\n\nShot 10 (16.88 to 18.75 seconds)\nPurpose: Macro focus on handcrafted accessories and hat brim.\nFraming: Tight macro shot of fingertips adjusting floral hat edge.\nAction: Fingers lightly pinch the stitched brim fabric, rotating slightly.\nActing: Deliberate, graceful hand coordination.\nCamera: FPV Tracking zooms in tight along the arm's trajectory.\nConstraints: Natural hand anatomy, exact bracelet beads.\nTransition: Cut on hand releasing brim.\nSound effects: Micro-friction of woven cotton fabric.\n\nShot 11 (18.75 to 20.63 seconds)\nPurpose: Dynamic visual perspective of yellow floral trousers.\nFraming: Diagonal low-to-high medium shot.\nAction: The subject shifts weight between legs, causing pant leg fabric to drape elegantly.\nActing: Poised, statuesque hip alignment and serene expression.\nCamera: FPV Tracking banks steeply upward from asphalt to waist.\nConstraints: Consistent print and flare silhouette.\nTransition: Snap cut on hip shift settling.\nSound effects: Soft foot pivot on pavement.\n\nShot 12 (20.63 to 22.5 seconds)\nPurpose: Intimate over-the-shoulder connection.\nFraming: Close-up over truck door frame toward subject's face.\nAction: The subject peeks over the window edge, catching the lens with an affectionate glance.\nActing: Tender, knowing smirk, soft eye squint.\nCamera: FPV Tracking loops over chrome mirror and door rim.\nConstraints: Chrome reflection stability.\nTransition: Hard cut on subtle smile widening.\nSound effects: Ambient tree canopy rustle.\n\nShot 13 (22.5 to 24.38 seconds)\nPurpose: Reveal overall silhouette against late afternoon sun.\nFraming: Wide medium shot backlit by warm rim lighting.\nAction: The subject steps one foot back onto the truck floorboard, extending posture.\nActing: Confident fashion posture, chin lifted, peaceful smile.\nCamera: FPV Tracking pulls out diagonally, introducing golden lens flare.\nConstraints: Flare must not wash out wardrobe contrast.\nTransition: Cut on foot contact with metal cab floor.\nSound effects: Muted clink of foot meeting metal floorboard.\n\nShot 14 (24.38 to 26.25 seconds)\nPurpose: Rapid kinetic push-in to spontaneous joy.\nFraming: Medium close-up transitioning rapidly to close-up.\nAction: The subject laughs softly, shaking their head with genuine ease.\nActing: Spontaneous joy, relaxed jaw, shining eyes.\nCamera: FPV Tracking dives quickly toward subject's face.\nConstraints: Keep facial bone structure intact during rapid motion.\nTransition: Quick cut at closest proximity point.\nSound effects: Soft breathy laugh exhale.\n\nShot 15 (26.25 to 28.13 seconds)\nPurpose: Gentle deceleration and contemplative editorial pose.\nFraming: Medium close-up centered on subject framed by green door frame.\nAction: The subject lowers arms, resting thumbs lightly at trouser waistband.\nActing: Serene, composed editorial stare directly into lens.\nCamera: FPV Tracking decelerates, executing a slow stabilizing float.\nConstraints: Precise finger articulation, no drifting features.\nTransition: Cut on deep chest breath.\nSound effects: Subtle evening breeze rising.\n\nShot 16 (28.13 to 30 seconds)\nPurpose: Final inviting emotional payoff.\nFraming: Close-up on radiant smiling face.\nAction: The subject offers a lingering, intimate smile before looking softly off-camera.\nActing: Contained warmth, genuine happiness, natural blink.\nCamera: FPV Tracking holds steady, then gently sweeps rightward to resolve.\nConstraints: Maintain photographic fidelity and natural skin texture.\nSound effects: Whispering leaves and calm sunset ambience fading out.\n\nFinal director notes: The film must inhabit a sun-drenched, carefree 1970s editorial register with modern handheld immediacy. The tactile richness of the crochet weave, yellow floral drape, and olive-and-cream metal must pop in every frame under natural warm light. Shot 16 provides the emotional anchor, leaving the audience with an authentic feeling of golden-hour nostalgia and effortless intimacy.\n\nAudio: Diegetic sound effects: Tie every cue to a visible physical action or a real environmental source. No soundtrack. Use only synchronized diegetic sound effects and ambience supported by the scene.",
+  "originalPromptSha256": "0276f55266a872c278dfaf30fa6b46dae7c2270a868eedc602d4c58f6e96a49c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Golden-hour pickup-truck lookbook",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116516821977145344",
+    "url": "https://video.twimg.com/amplify_video/2116516821977145344/vid/avc1/720x1280/YDS6L6HBiFnFa6UU.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116516821977145344/vid/avc1/720x1280/YDS6L6HBiFnFa6UU.mp4?tag=29",
+    "sourceUrl": "https://x.com/jhosephebtc/status/2116517013086421216",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116516821977145344/img/lAoRAucUdxh_Jvqa.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T13:05:53Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

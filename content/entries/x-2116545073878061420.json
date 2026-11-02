@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116545073878061420",
+  "slug": "a-girl-reveals-her-halloween-secret",
+  "title": {
+    "en": "A girl reveals her Halloween secret",
+    "zh": "女孩的万圣节秘密"
+  },
+  "description": {
+    "en": "A girl reveals her Halloween secret — original prompt by @toku8ai.",
+    "zh": "女孩的万圣节秘密，来自 @toku8ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "toku8ai",
+    "url": "https://x.com/toku8ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/toku8ai/status/2116545073878061420",
+    "sourceTextOriginal": "ハッピーハロウィン🎃\nKling4で下記プロンプト一発でこのクオリテイは進化を感じる✨\n\nプロンプト：\n女の子がモンスターと出会うが、最終的に彼女自身も可愛いドラキュラのモンスターだったというストーリー。最後は「ハッピーハロウィン」というロゴとともに、ハロウィンを祝ってほしい。\n\n#Kling4 #KlingAI @Kling_ai"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/toku8ai/status/2116545073878061420",
+  "videoSourceUrl": "https://x.com/toku8ai/status/2116545073878061420",
+  "conversationId": "2116545073878061420",
+  "originalLanguage": "ja",
+  "originalPrompt": "女の子がモンスターと出会うが、最終的に彼女自身も可愛いドラキュラのモンスターだったというストーリー。最後は「ハッピーハロウィン」というロゴとともに、ハロウィンを祝ってほしい。",
+  "originalPromptSha256": "34f03481853abe87973b35a7840cce62ce2403632683aa38cdedd804fff8819d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A girl reveals her Halloween secret",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116544299429138432",
+    "url": "https://video-s.twimg.com/amplify_video/2116544299429138432/vid/avc1/940x940/8IRNj41umBhEXlQK.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2116544299429138432/vid/avc1/940x940/8IRNj41umBhEXlQK.mp4?tag=29",
+    "sourceUrl": "https://x.com/toku8ai/status/2116545073878061420",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116544299429138432/img/C9H_T7ugJHtlb82a.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      1,
+      1
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T14:57:23Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

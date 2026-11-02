@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113746281663238357",
+  "slug": "bat-swarm-over-a-gothic-belfry",
+  "title": {
+    "en": "Bat swarm over a gothic belfry",
+    "zh": "哥特钟楼上空的蝙蝠群"
+  },
+  "description": {
+    "en": "Bat swarm over a gothic belfry — original prompt by @Shinebynous.",
+    "zh": "哥特钟楼上空的蝙蝠群，来自 @Shinebynous 的原始提示词。"
+  },
+  "author": {
+    "handle": "Shinebynous",
+    "url": "https://x.com/Shinebynous"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Shinebynous/status/2113746281663238357",
+    "sourceTextOriginal": "Kling 4 text to video \n\nPrompt: \nA colossal bat swarm blotting the sky, leathery wings in inky ebony and subtle wine-red veins.Effect: Wingbeats weave \"SWARM,\" pulsing with ultrasonic waves.Location: A gothic belfry tower pierced by lightning during a tempest.Texture: Supple, fluttering, enveloping.Mood: Overwhelming, vampiric, eclipsing, halloween music\n\n@Kling_ai"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Shinebynous/status/2113746281663238357",
+  "videoSourceUrl": "https://x.com/Shinebynous/status/2113746281663238357",
+  "conversationId": "2113746281663238357",
+  "originalLanguage": "en",
+  "originalPrompt": "A colossal bat swarm blotting the sky, leathery wings in inky ebony and subtle wine-red veins.Effect: Wingbeats weave \"SWARM,\" pulsing with ultrasonic waves.Location: A gothic belfry tower pierced by lightning during a tempest.Texture: Supple, fluttering, enveloping.Mood: Overwhelming, vampiric, eclipsing, halloween music",
+  "originalPromptSha256": "31dd13529387944b49a29632a02471a868e0d6ba964467cbed62e760ce542832",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Bat swarm over a gothic belfry",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2113744473423233024",
+    "url": "https://video-s.twimg.com/amplify_video/2113744473423233024/vid/avc1/1920x1080/LwrgqldctQbzOdOI.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2113744473423233024/vid/avc1/1920x1080/LwrgqldctQbzOdOI.mp4?tag=29",
+    "sourceUrl": "https://x.com/Shinebynous/status/2113746281663238357",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113744473423233024/img/uj5lghb9YMk03JKf.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T21:35:59Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

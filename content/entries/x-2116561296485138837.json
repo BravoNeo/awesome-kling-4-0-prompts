@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116561296485138837",
+  "slug": "kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow — original prompt by @SocialSight.",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2116561295180771481",
+    "sourceTextOriginal": "We put a haunted cornfield in motion, comparing: Kling 4.0 vs. Seedance 2.5. Dozens of scarecrows chase one crow, built on SocialSight to test large-scale crowd motion and fast low-angle tracking shots.\n\nHappy Halloween from SocialSight! We hope you get all the full-size candy bars, and don’t forget to tag us in your Halloween creations. 🎃"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2116561296485138837",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2116561295180771481",
+  "conversationId": "2116561295180771481",
+  "originalLanguage": "en",
+  "originalPrompt": "Format: 16:9, 15 seconds, photorealistic, a huge cornfield under a stormy orange sunset, wind rippling through the stalks, dozens of scarecrows on wooden posts, crows circling.\n0-3s (HOOK): A crow lands on a scarecrow's shoulder and pecks at its straw hat. The scarecrow's head slowly turns to look at the crow.\n3-6s: The crow freezes, then flaps away. Across the field, every scarecrow climbs down from its post at once.\n6-11s: A massive chase. Dozens of scarecrows run through the corn after the crow, straw flying, cornstalks bending, the camera racing low between the rows.\n11-13s: The crow escapes into the sky. The scarecrows stop at the edge of the field, out of breath, straw falling out of their sleeves.\n13-15s (BUTTON): The crow returns and lands on a fence post, now wearing a tiny straw hat and a little patched vest. The scarecrows stare. One slowly nods in approval.\nCamera: low tracking shot racing through the corn rows, then a wide overhead shot of the whole field.\nMusic: driving, tense orchestral strings and pounding drums, ending on a single plucked note.",
+  "originalPromptSha256": "914fe67938453a566d49f09542717785d4b541db33cdbd3f6932879bacbe936f",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116561272279912448",
+    "url": "https://video-s.twimg.com/ext_tw_video/2116561272279912448/pu/vid/avc1/720x1280/eJMSM8rI9owJsYmu.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2116561272279912448/pu/vid/avc1/720x1280/eJMSM8rI9owJsYmu.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2116561295180771481",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2116561272279912448/pu/img/0Q1E6OYtnu8telQB.jpg",
+    "durationSecondsReported": 15.061,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T16:01:51Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

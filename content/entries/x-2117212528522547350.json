@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117212528522547350",
+  "slug": "a-japanese-town-from-a-3d-previsualization",
+  "title": {
+    "en": "A Japanese town from a 3D previsualization",
+    "zh": "从三维预演到日本小镇"
+  },
+  "description": {
+    "en": "A Japanese town from a 3D previsualization — original prompt by @boke_ai.",
+    "zh": "从三维预演到日本小镇，来自 @boke_ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "boke_ai",
+    "url": "https://x.com/boke_ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/boke_ai/status/2117212525804900387",
+    "sourceTextOriginal": "Blenderプリビズ×Kling4.0\n存在するけど存在しない住宅街「おぼろが丘」をドローン空撮\n\n本物の地図データを実写化する試みです\n\nBGM by @sawchang_dsm \n\n@Kling_ai  プロンプトはリプ▼ https://t.co/L1OlO3skxV"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/boke_ai/status/2117212528522547350",
+  "videoSourceUrl": "https://x.com/boke_ai/status/2117212525804900387",
+  "conversationId": "2117212525804900387",
+  "originalLanguage": "en",
+  "originalPrompt": "Re-film 视频1 as live-action footage of one real Japanese suburban town, filmed by a fast FPV drone in one continuous shot with no cuts. Keep from 视频1 exactly: the camera position, height, lens, speed and every frame of the camera movement. Keep the outline, size and position of every building, road, utility pole and wire, and the small boxes moving on the road. Only replace the flat gray surfaces with real materials taken from the photos, overcast summer afternoon, white-gray sky. The drone races three meters above a wide four-lane main road with sagging black wires overhead; the roadside shops it passes are these, each exactly like its photo with the same signboard. In order: 0 to 1 second, the police box in 图片1 on the left and the glasses shop in 图片2 on the right. 0.7 to 2.3 seconds, the fitness studio in 图片3 on the left and the barber shop in 图片4 further away on the right. 1 to 3 seconds, the tonkatsu restaurant in 图片5 on the right and the cram school in 图片6 on the left. 1.5 to 3.5 seconds, the coin laundry in 图片7 on the right and the hair salon in 图片8 on the left. 2 to 4 seconds, the burger shop in 图片9 on the right. The moving boxes are ordinary small Japanese cars. No other text anywhere. Sound: wind rushing hard past the drone microphone, the whine of the propellers, cars passing.",
+  "originalPromptSha256": "4f16a941599017ca74158e74a26b852f5702dc4fa2810da82285a1af0499a09e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "A Japanese town from a 3D previsualization",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2117209547765075968",
+    "url": "https://video.twimg.com/amplify_video/2117209547765075968/vid/avc1/1280x1440/EfJwXNkD_b1CJD5g.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117209547765075968/vid/avc1/1280x1440/EfJwXNkD_b1CJD5g.mp4?tag=29",
+    "sourceUrl": "https://x.com/boke_ai/status/2117212525804900387",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117209547765075968/img/mMuclXtr5FxAxKRS.jpg",
+    "durationSecondsReported": 21.291,
+    "aspectRatioReported": [
+      8,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-02T11:09:36Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

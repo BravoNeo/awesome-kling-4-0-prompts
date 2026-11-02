@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114669067189584367",
+  "slug": "cat-rides-the-robot-vacuum",
+  "title": {
+    "en": "Cat rides the robot vacuum",
+    "zh": "猫咪骑上扫地机器人"
+  },
+  "description": {
+    "en": "Cat rides the robot vacuum — original prompt by @aiIgnatius.",
+    "zh": "猫咪骑上扫地机器人，来自 @aiIgnatius 的原始提示词。"
+  },
+  "author": {
+    "handle": "aiIgnatius",
+    "url": "https://x.com/aiIgnatius"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/aiIgnatius/status/2114669067189584367",
+    "sourceTextOriginal": "The Apex Predator\n\nKling 4.0 Prompt Share:\n\nStyle: Photorealistic, 8K telephoto wildlife look, living room as savannah, hushed original narrator voice.0-3s: Wide of shag carpet at golden hour through the blinds as a robot vacuum glides across. Narrator: “On the vast shag-pile plains, the Roomba begins its daily migration.”3-6s: Macro of the spinning brush swallowing a dust bunny.6-9s: Telephoto on a cat behind a couch leg, pupils dilating. Narrator: “But it is not alone. An apex predator, weighing eleven pounds.”9-12s: Low-angle slow-mo, the cat’s haunches wiggling, tail twitching.12-15s: The pounce, the cat landing squarely on top of the Roomba.15-18s: The cat rides it with total dignity. Narrator: “Remarkably, the cat has not yet realised it is not in control.”18-21s: Wide as the cat glides past a stunned golden retriever.21-24s: The Roomba hits a wall and spins, flinging the cat off. It lands on its feet and immediately starts grooming. Narrator: “Dignity is restored. Grooming is deployed.”24-27s: The Roomba beeps and returns to its dock with a sad little tune.27-30s: Close-up of the cat watching the dock. Narrator: “Tomorrow, the hunt begins again.”"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/aiIgnatius/status/2114669067189584367",
+  "videoSourceUrl": "https://x.com/aiIgnatius/status/2114669067189584367",
+  "conversationId": "2114669067189584367",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: Photorealistic, 8K telephoto wildlife look, living room as savannah, hushed original narrator voice.0-3s: Wide of shag carpet at golden hour through the blinds as a robot vacuum glides across. Narrator: “On the vast shag-pile plains, the Roomba begins its daily migration.”3-6s: Macro of the spinning brush swallowing a dust bunny.6-9s: Telephoto on a cat behind a couch leg, pupils dilating. Narrator: “But it is not alone. An apex predator, weighing eleven pounds.”9-12s: Low-angle slow-mo, the cat’s haunches wiggling, tail twitching.12-15s: The pounce, the cat landing squarely on top of the Roomba.15-18s: The cat rides it with total dignity. Narrator: “Remarkably, the cat has not yet realised it is not in control.”18-21s: Wide as the cat glides past a stunned golden retriever.21-24s: The Roomba hits a wall and spins, flinging the cat off. It lands on its feet and immediately starts grooming. Narrator: “Dignity is restored. Grooming is deployed.”24-27s: The Roomba beeps and returns to its dock with a sad little tune.27-30s: Close-up of the cat watching the dock. Narrator: “Tomorrow, the hunt begins again.”",
+  "originalPromptSha256": "69da70dc0a79c6847f31aa07efd87d45c5ecf67f95de0d3ebc81d3e74ef678c8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Cat rides the robot vacuum",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2114668907223031808",
+    "url": "https://video-s.twimg.com/amplify_video/2114668907223031808/vid/avc1/720x1280/cuJoPPnd33ToqulR.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2114668907223031808/vid/avc1/720x1280/cuJoPPnd33ToqulR.mp4?tag=29",
+    "sourceUrl": "https://x.com/aiIgnatius/status/2114669067189584367",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114668907223031808/img/kPooHLcSS2gLGuDp.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-26T10:42:48Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

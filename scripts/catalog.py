@@ -144,7 +144,17 @@ def validate_entries(entries, taxonomy=None):
             if urlsplit(source).path.split('/')[1].lower() != e['author']['handle'].lower():
                 raise ValueError('Additional prompt sources must match the credited author')
         if evidence_id not in {video_id, e['conversationId']} and not quoted_by:
-            raise ValueError('Model evidence must be the video post or its thread root')
+            records_path = ROOT / 'docs/collection-2026-11-03-sources.json'
+            records = read_json(records_path) if records_path.exists() else []
+            if not any(r['entryId'] == e['id']
+                       and r['videoSourceUrl'] == e['videoSourceUrl']
+                       and r['modelSourceUrl'] == e['modelClaim']['sourceUrl']
+                       and r['modelSourceText'] == e['modelClaim']['sourceTextOriginal']
+                       and r['modelSourceAuthorHandle'].lower() == e['author']['handle'].lower()
+                       and r['modelSourceConversationId'] == e['conversationId']
+                       and r['videoConversationId'] == e['conversationId']
+                       for r in records):
+                raise ValueError('Model evidence requires an archived same-author, same-thread relationship')
         if e['video']['durationSecondsReported'] <= 0:
             raise ValueError('Invalid reported video duration')
         observed = ['widthObserved', 'heightObserved', 'durationSecondsObserved']

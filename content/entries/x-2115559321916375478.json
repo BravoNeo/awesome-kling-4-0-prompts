@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115559321916375478",
+  "slug": "hamster-rock-star-storyboard",
+  "title": {
+    "en": "Hamster rock-star storyboard",
+    "zh": "仓鼠摇滚明星分镜短片"
+  },
+  "description": {
+    "en": "Hamster rock-star storyboard — original prompt by @EndFolding79421.",
+    "zh": "仓鼠摇滚明星分镜短片，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+    "sourceTextOriginal": "Kling 4.0 \nPrompt and story board included just add in your own music.\n\nPrompt:\nThe supplied three-panel storyboard showing the hamster playing guitar, the two shocked cats watching from the bed, and the hamster eating a sunflower seed.Use this single storyboard as the visual reference for the entire video. Each panel represents a different scene in chronological order, from top to bottom.Preserve the exact appearances of the hamster, both cats, miniature electric guitar, hamster cage, bedroom, and lighting throughout.Photorealistic live-action animal comedy, professional 35mm cinematic appearance, natural indoor lighting, realistic fur, detailed textures, believable animal movements, and clean image quality. No cartoon appearance or excessive saturation.00:00–00:05 — THE ROCK STARBegin with the TOP PANEL of the storyboard.Inside its hamster cage in a cozy bedroom, a tiny golden hamster stands on its hind legs, enthusiastically playing a miniature black electric guitar.Its tiny paws rapidly move across the strings, perfectly synchronized with the fast heavy-metal guitar riffs in the supplied audio.The hamster rocks its little body back and forth, furiously headbanging while playing.The camera slowly pushes closer to the hamster.00:05–00:09 — THE SHOCKED AUDIENCE Cut to the MIDDLE PANEL of the storyboard.Two cats sit together on the bed, staring toward the hamster cage.Both cats have wide, astonished eyes and slightly open mouths.The orange cat slowly turns its head toward the gray-and-white cat in complete disbelief.The gray-and-white cat remains frozen, staring at the hamster's outrageous performance.The heavy-metal music continues uninterrupted.00:09–00:13 — THE GRAND FINALECut back to the TOP PANEL.The hamster performs its final furious guitar solo, rapidly strumming and rocking its tiny body with incredible enthusiasm.Its movements follow the rhythm of the supplied music. As the final guitar notes ring out, the hamster finishes with one dramatic flourish.00:13–00:16 — COMIC RELIEFCut to the BOTTOM PANEL of the storyboard.The music has ended.The miniature guitar rests against the wooden hamster house.The hamster sits peacefully inside its cage, holding a sunflower seed between its tiny paws. It quietly nibbles the sunflower seed, its cheeks moving naturally as it eats.The camera remains completely stationary.Only the faint natural sounds of the hamster eating are heard.The hamster looks innocently toward the viewer and continues chewing as though absolutely nothing unusual happened.IMPORTANT:The three storyboard panels are separate sequential scenes, NOT a split-screen composition.Generate a full-frame 9:16 vertical video, using the individual storyboard panels to guide each shot.Maintain exact character consistency and the same bedroom environment throughout.Synchronize the guitar performance with the supplied music"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+  "conversationId": "2115559321916375478",
+  "originalLanguage": "en",
+  "originalPrompt": "The supplied three-panel storyboard showing the hamster playing guitar, the two shocked cats watching from the bed, and the hamster eating a sunflower seed.Use this single storyboard as the visual reference for the entire video. Each panel represents a different scene in chronological order, from top to bottom.Preserve the exact appearances of the hamster, both cats, miniature electric guitar, hamster cage, bedroom, and lighting throughout.Photorealistic live-action animal comedy, professional 35mm cinematic appearance, natural indoor lighting, realistic fur, detailed textures, believable animal movements, and clean image quality. No cartoon appearance or excessive saturation.00:00–00:05 — THE ROCK STARBegin with the TOP PANEL of the storyboard.Inside its hamster cage in a cozy bedroom, a tiny golden hamster stands on its hind legs, enthusiastically playing a miniature black electric guitar.Its tiny paws rapidly move across the strings, perfectly synchronized with the fast heavy-metal guitar riffs in the supplied audio.The hamster rocks its little body back and forth, furiously headbanging while playing.The camera slowly pushes closer to the hamster.00:05–00:09 — THE SHOCKED AUDIENCE Cut to the MIDDLE PANEL of the storyboard.Two cats sit together on the bed, staring toward the hamster cage.Both cats have wide, astonished eyes and slightly open mouths.The orange cat slowly turns its head toward the gray-and-white cat in complete disbelief.The gray-and-white cat remains frozen, staring at the hamster's outrageous performance.The heavy-metal music continues uninterrupted.00:09–00:13 — THE GRAND FINALECut back to the TOP PANEL.The hamster performs its final furious guitar solo, rapidly strumming and rocking its tiny body with incredible enthusiasm.Its movements follow the rhythm of the supplied music. As the final guitar notes ring out, the hamster finishes with one dramatic flourish.00:13–00:16 — COMIC RELIEFCut to the BOTTOM PANEL of the storyboard.The music has ended.The miniature guitar rests against the wooden hamster house.The hamster sits peacefully inside its cage, holding a sunflower seed between its tiny paws. It quietly nibbles the sunflower seed, its cheeks moving naturally as it eats.The camera remains completely stationary.Only the faint natural sounds of the hamster eating are heard.The hamster looks innocently toward the viewer and continues chewing as though absolutely nothing unusual happened.IMPORTANT:The three storyboard panels are separate sequential scenes, NOT a split-screen composition.Generate a full-frame 9:16 vertical video, using the individual storyboard panels to guide each shot.Maintain exact character consistency and the same bedroom environment throughout.Synchronize the guitar performance with the supplied music",
+  "originalPromptSha256": "3e5a9456e4d22823e15086067c94806d80c4f6ab777f289732f8779f7d139a18",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Hamster rock-star storyboard",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115559000557096960",
+    "url": "https://video.twimg.com/amplify_video/2115559000557096960/vid/avc1/1080x1920/k5fAHbBrR0jhdPUr.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115559000557096960/vid/avc1/1080x1920/k5fAHbBrR0jhdPUr.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115559000557096960/img/uMl4PKm5uSWBqr9z.jpg",
+    "durationSecondsReported": 16.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T21:40:22Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

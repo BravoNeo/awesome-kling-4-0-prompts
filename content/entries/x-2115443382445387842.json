@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115443382445387842",
+  "slug": "kling-4-0-vs-1-6-underwater-camera-descent",
+  "title": {
+    "en": "Kling 4.0 vs 1.6: underwater camera descent",
+    "zh": "Kling 4.0 与 1.6：水下镜头下潜对比"
+  },
+  "description": {
+    "en": "Kling 4.0 vs 1.6: underwater camera descent — original prompt by @HBCoop_.",
+    "zh": "Kling 4.0 与 1.6：水下镜头下潜对比，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443382445387842",
+    "sourceTextOriginal": "Test 03: Kling 1.6 (Mar 2025) vs Kling 4.0, image-to-video, 10s\n\n4.0 follows the camera direction: it spirals down as written, and the light fades out by the end as the view goes deeper. The 1.6 version doesn't get to either.\n\nPrompt:\nPhotorealistic, cinematic Camera spirals quickly downward through aqua green ocean water, camera cranes down as underwater waves churn and rush over the endless sunken railings that appear to lead to a sunken city below, as rays of sunlight filter through the surface from above, enhancing the dreamlike ambiance, then light disappears as the view goes deeper into the dark depths of the ocean. Highly detailed, shot with Sony VFX\n\nNegative prompt: Artifacts, text, logo, people, modern technology, uneven exposure, animals, fish"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2115443382445387842",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2115443382445387842",
+  "conversationId": "2115443263427731827",
+  "originalLanguage": "en",
+  "originalPrompt": "Photorealistic, cinematic Camera spirals quickly downward through aqua green ocean water, camera cranes down as underwater waves churn and rush over the endless sunken railings that appear to lead to a sunken city below, as rays of sunlight filter through the surface from above, enhancing the dreamlike ambiance, then light disappears as the view goes deeper into the dark depths of the ocean. Highly detailed, shot with Sony VFX\n\nNegative prompt: Artifacts, text, logo, people, modern technology, uneven exposure, animals, fish",
+  "originalPromptSha256": "3d922c2b38e70dbaa7d6c11e97d581554e8572c0eb94d68918cf10b22a0be672",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs 1.6: underwater camera descent",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115443353949208576",
+    "url": "https://video.twimg.com/amplify_video/2115443353949208576/vid/avc1/1920x1080/hzMhOOrwijNVYQ8V.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115443353949208576/vid/avc1/1920x1080/hzMhOOrwijNVYQ8V.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443382445387842",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115443353949208576/img/rXfp3rmZPwxGZyOR.jpg",
+    "durationSecondsReported": 10.433,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T13:59:40Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

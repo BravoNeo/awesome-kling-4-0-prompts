@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114211413602324707",
+  "slug": "a-night-city-selfie-walk",
+  "title": {
+    "en": "A night-city selfie walk",
+    "zh": "城市夜游自拍"
+  },
+  "description": {
+    "en": "A night-city selfie walk — original prompt by @msjiaozhu.",
+    "zh": "城市夜游自拍，来自 @msjiaozhu 的原始提示词。"
+  },
+  "author": {
+    "handle": "msjiaozhu",
+    "url": "https://x.com/msjiaozhu"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/msjiaozhu/status/2114211409378865439",
+    "sourceTextOriginal": "我去这妥妥的打在我的心巴上啊！😍太自然了！\n\nKling 4.0 的人物塑造又精进了许多（虽然鼻子有点瑕疵）🤪\n\n提示词见评论👇 https://t.co/xRdeY5P5oO"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/msjiaozhu/status/2114211413602324707",
+  "videoSourceUrl": "https://x.com/msjiaozhu/status/2114211409378865439",
+  "conversationId": "2114211409378865439",
+  "originalLanguage": "zh",
+  "originalPrompt": "10秒夜晚城市自拍视频，9:16竖版，真实抖音/小红书夜游vlog质感。一个明确成年的东亚女生【参考图】边走边用前置手机拍自己，画面下方始终能隐约看到伸出的自拍手臂作为锚点。她长发被夜风吹动，穿普通浅色针织外套和碎花连衣裙，清爽漂亮，日常出门感。场景是夜晚建筑雨棚下的人行道，停着的车、玻璃墙反光、远处楼灯和路灯形成散景，所有车牌和招牌不可读。镜头编码：Z4中近景逐渐靠近到Z3近景，Y5轻微俯视，X1正面自拍，手机前置广角轻微边缘畸变，手持微震，画面轻微倾斜。0-2秒：镜头从略低和轻微晃动开始，快速抬起找到她的脸，她正在笑，头发扫过脸颊，前2秒立刻有自拍手臂+夜风头发hook；2-5秒：她一边走一边看向镜头，嘴角上扬，背景车灯拖影，暗部有噪点和H.264压缩块；5-7秒：手机抬成更高角度，她侧头看向街边，再看回镜头，眼神短暂锁定0.5秒；7-9秒：她靠近镜头小跑半步，笑得更开，画面短暂虚焦；9-10秒：焦点恢复，停在她开心回看镜头的表情。声音为轻快中文流行节拍、脚步声、风声、远处车流。禁止文字字幕LOGO水印，禁止清晰车牌和路人脸，禁止过度美颜、棚拍灯光、低俗身体特写、未成年感、脸部漂移。",
+  "originalPromptSha256": "b88bce455008278c70acbda631421866f09d1ae9a3af50f6edaefbb40836f20a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A night-city selfie walk",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2114211364151640064",
+    "url": "https://video.twimg.com/amplify_video/2114211364151640064/vid/avc1/720x1280/UDkssQUj1eaHAUSY.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2114211364151640064/vid/avc1/720x1280/UDkssQUj1eaHAUSY.mp4?tag=29",
+    "sourceUrl": "https://x.com/msjiaozhu/status/2114211409378865439",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114211364151640064/img/fwlkKpBW8AeSLmVP.jpg",
+    "durationSecondsReported": 13.133,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-25T04:24:14Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

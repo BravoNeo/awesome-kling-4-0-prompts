@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116145595618566149",
+  "slug": "the-knight-and-the-haunted-castle",
+  "title": {
+    "en": "The knight and the haunted castle",
+    "zh": "骑士与闹鬼古堡"
+  },
+  "description": {
+    "en": "The knight and the haunted castle — original prompt by @amynys.",
+    "zh": "骑士与闹鬼古堡，来自 @amynys 的原始提示词。"
+  },
+  "author": {
+    "handle": "amynys",
+    "url": "https://x.com/amynys"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/amynys/status/2116145594318438720",
+    "sourceTextOriginal": "The knight came for her… but she was already inside his armor 🗡️🌕🖤\n\nI used two character reference images to create this video using Kling 4.0 on @PixVerse \n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames). @PixVerseCreator #pixverse \n\nWould you open the castle doors, or ride away? Full prompt in the comments👇"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/amynys/status/2116145595618566149",
+  "videoSourceUrl": "https://x.com/amynys/status/2116145594318438720",
+  "conversationId": "2116145594318438720",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30-second cinematic gothic horror video in 9:16 vertical format. Compose every shot for a tall portrait frame, keeping the characters and important action clearly visible.\n\nUse Image 1 as the visual reference for the armored knight and black horse. Use Image 2 as the visual reference for the woman, her dark red outfit, and the gothic castle. Preserve their recognizable appearance and wardrobe throughout. No text or logos.\n\n0–4 seconds: The knight rides slowly toward the castle through drifting ground fog. Moonlight catches his black armor and the horse’s breath. Distant windows glow faintly.\n\n4–8 seconds: The horse stops abruptly at the castle entrance. Its ears flick toward the dark windows. The knight looks up as a candle appears in an upper window.\n\n8–12 seconds: Inside, the woman stands motionless by the window, watching. Candle flames bend sharply toward her, though the windows are closed.\n\n12–15 seconds: Close on the knight as he senses someone behind him. He turns; the horse recoils. Cut to black just before the reveal.\n\n15–19 seconds: The knight turns toward the castle entrance. The woman is now standing inside the open doorway, perfectly still. The horse backs away into the fog.\n\n19–23 seconds: The knight approaches cautiously. Candlelight reveals that the woman’s shadow stretches in the wrong direction, climbing the stone wall behind her.\n\n23–26 seconds: She raises her eyes to meet his. Every candle goes out at once. Hold in near darkness, with only moonlight outlining her face.\n\n26–28 seconds: A brief flash of cold light reveals the doorway empty. The knight stands alone; the horse is gone.\n\n28–30 seconds: Close on the knight’s polished armor. In its reflection, the woman is standing directly behind him. Cut to black.\n\nUse slow, controlled camera movement, deep blue moonlight, restrained candlelight, thick fog, and realistic gothic textures. Build creeping dread through precise pauses rather than overt action. Include low ominous ambience, distant wind, leather and armor creaks, horse breathing, and near-silence before the final reveal. No dialogue. Maintain consistent character designs, lighting, and screen direction.",
+  "originalPromptSha256": "a91904ed4ce2a2d962a2f1c280c9df28efc7c22bcf11f0abd716410a8b07d15e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "The knight and the haunted castle",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115950258756706304",
+    "url": "https://video.twimg.com/amplify_video/2115950258756706304/vid/avc1/1080x1920/GF7zQIJBZw4O1eOA.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115950258756706304/vid/avc1/1080x1920/GF7zQIJBZw4O1eOA.mp4?tag=29",
+    "sourceUrl": "https://x.com/amynys/status/2116145594318438720",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115950258756706304/img/m53h--UMt5F06wJY.jpg",
+    "durationSecondsReported": 30.116,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-30T12:30:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

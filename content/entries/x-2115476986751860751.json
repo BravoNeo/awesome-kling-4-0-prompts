@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115476986751860751",
+  "slug": "a-generous-nobleman-and-the-publicity-bill",
+  "title": {
+    "en": "A generous nobleman and the publicity bill",
+    "zh": "慷慨贵族与宣传账单"
+  },
+  "description": {
+    "en": "A generous nobleman and the publicity bill — original prompt by @airina_xyz.",
+    "zh": "慷慨贵族与宣传账单，来自 @airina_xyz 的原始提示词。"
+  },
+  "author": {
+    "handle": "airina_xyz",
+    "url": "https://x.com/airina_xyz"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/airina_xyz/status/2115476974185697526",
+    "sourceTextOriginal": "When the PR campaign costs more than the actual charity. 💰🥖😂\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\n@PixVerse #PixVerseUnlimited #KlingOnPixVerse\n\nPrompt in comments"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/airina_xyz/status/2115476986751860751",
+  "videoSourceUrl": "https://x.com/airina_xyz/status/2115476974185697526",
+  "conversationId": "2115476974185697526",
+  "originalLanguage": "en",
+  "originalPrompt": "PROJECT: A GENEROUS NOBLEMAN\nFORMAT: 30 seconds, vertical 9:16, seven shots with natural hard cuts.\n\nCREATIVE INTENT:\nA dry, character-driven comedy scene from a fictitious 1977 Eastern European medieval fantasy film. The joke emerges from the nobleman's vanity and hypocrisy, not physical slapstick.\n\nCHARACTERS:\nLORD BARTHOLOMEW: A corpulent, self-important, middle-aged nobleman with a bulbous red nose, meticulously curled moustache, receding dark hair, extravagant mustard-gold brocade clothing and numerous heavy rings. Utterly convinced of his own virtue. Speaks in a pompous British accent.\n\nTHE CLERK: A thin, elderly man with a long face, drooping eyes, grey hair and a modest brown wool robe. Polite, intelligent, understated and quietly incredulous. Speaks in a reserved British accent.\n\nVISUAL LANGUAGE:\nAuthentic 1977 East European live-action fantasy cinema. Handmade period costumes, practical theatrical makeup, candlelit medieval production design, slightly faded 35mm Eastmancolor, soft optical diffusion and subtle analog film grain.\n\nLOCATION:\nOne medieval administrative chamber with dark timber walls, a large oak desk, stacked parchment, a brass inkwell and a leaded-glass window. Warm daylight enters from the left. The nobleman stands on the right side of the desk; the clerk sits on the left. Maintain the same positions and 180-degree camera axis throughout.\n\nSHOT 1 — 0:00–0:04\nMEDIUM CLOSE-UP: The nobleman suddenly straightens his velvet coat and declares with tremendous pride:\n\"I have decided to become generous.\"\nHe raises his eyebrows as if announcing an historic event.\n\nSHOT 2 — 0:04–0:09\nMEDIUM SHOT: The clerk looks up from his parchment, genuinely encouraged.\n\"Shall I order bread for the villagers, my lord?\"\nA small, hopeful smile.\n\nSHOT 3 — 0:09–0:13\nCLOSE-UP: The nobleman's smile vanishes for half a second.\n\"No. Summon the royal painter.\"\nHe waves his jeweled hand dismissively.\n\nSHOT 4 — 0:13–0:18\nCLOSE-UP: The clerk hesitates, quill suspended above the paper.\n\"To paint the bread?\"\nHis expression is politely bewildered.\n\nSHOT 5 — 0:18–0:23\nMEDIUM CLOSE-UP: The nobleman places a hand dramatically over his heart.\n\"To paint me giving it away!\"\nHe turns slightly into the window light, already imagining his magnificent portrait.\n\nSHOT 6 — 0:23–0:27\nTIGHT CLOSE-UP: The clerk slowly lowers the quill.\n\"And the actual bread?\"\nHe waits, sincerely expecting an answer.\n\nSHOT 7 — 0:27–0:30\nCLOSE-UP: The nobleman looks genuinely offended.\n\"Bread is terribly expensive.\"\nHe gives one small, satisfied nod. Hard cut to the clerk's silent, exhausted expression for the final beat.\n\nPERFORMANCE:\nUnderplayed, precise and psychologically motivated. Small eyebrow movements, brief hesitations, eye contact and realistic conversational pauses. Characters listen and react to each other. Facial identity, wardrobe and props remain stable throughout.\n\nCAMERA:\nMostly stationary 40mm and 65mm compositions with natural lens depth. Very slight handheld camera breathing. No elaborate camera moves. Clean continuity editing.\n\nAUDIO:\nAuthentic room tone, distant footsteps, rustling parchment, creaking oak furniture and subtle clothing sounds. Dialogue is clearly synchronized and naturally paced. No music, no subtitles, no laugh track.",
+  "originalPromptSha256": "cc887a80c353af625f0307f846e69c0505d756ed7079bf1f6e5c2445ef76986b",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A generous nobleman and the publicity bill",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115476939750428672",
+    "url": "https://video.twimg.com/amplify_video/2115476939750428672/vid/avc1/1080x1920/13KhzhYdwnyT74SX.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115476939750428672/vid/avc1/1080x1920/13KhzhYdwnyT74SX.mp4?tag=16",
+    "sourceUrl": "https://x.com/airina_xyz/status/2115476974185697526",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115476939750428672/img/yFUmkZ-8V3OVu7oh.jpg",
+    "durationSecondsReported": 30.069,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T16:13:08Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

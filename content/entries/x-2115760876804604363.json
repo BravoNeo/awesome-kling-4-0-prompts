@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115760876804604363",
+  "slug": "jaguar-chase-through-the-rainforest",
+  "title": {
+    "en": "Jaguar chase through the rainforest",
+    "zh": "雨林中的美洲豹追逐"
+  },
+  "description": {
+    "en": "Jaguar chase through the rainforest — original prompt by @PixVerse.",
+    "zh": "雨林中的美洲豹追逐，来自 @PixVerse 的原始提示词。"
+  },
+  "author": {
+    "handle": "PixVerse",
+    "url": "https://x.com/PixVerse"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/PixVerse/status/2115760864238469589",
+    "sourceTextOriginal": "You don’t have to stitch short clips together for a longer scene.\n\nKling 4.0 on PixVerse makes the whole 30 seconds in one go, and multimodal references help keep the character the same throughout.\n\nSmoother flow, fewer fixes. Full Prompt below. https://t.co/HSARyyFTOu"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/PixVerse/status/2115760876804604363",
+  "videoSourceUrl": "https://x.com/PixVerse/status/2115760864238469589",
+  "conversationId": "2115760864238469589",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30-second, 16:9 photorealistic adventure thriller. Use Image 1 for the jaguar, Image 2 for the rainforest, Image 3 for the waterfall pool, and Image 4 for the backpacker. Preserve identity, clothing, markings, and backpack throughout.\n\n**0–5s**\nMedium tracking shot: the backpacker walks through dense rainforest. A rustle stops him. Cut to his tense face, then over his shoulder as he parts the leaves. A jaguar suddenly lunges.\n\n**5–9s**\nLow lateral wide shot: the jaguar knocks him backward, his backpack striking the muddy ground. Leaves scatter. He shields his head, rolls aside, and scrambles upright while the jaguar turns. Realistic impact, no blood.\n\n**9–15s**\nGround-level tracking captures pounding boots and flying mud. Cut wider: he races screen-right, the jaguar close behind. He stumbles over a root, braces against a trunk, and keeps running, backpack bouncing against secured straps.\n\n**15–19s**\nClose-up: gasping, he spots an opening. Cut aerial-wide to reveal the trail ending at a rocky bank beside the waterfall pool. The jaguar follows him toward a ledge one meter above the water.\n\n**19–22s**\nLateral wide shot: trapped, he glances back and jumps. Show takeoff through feet-first entry continuously. His backpack remains attached. Water erupts; the jaguar brakes at the edge.\n\n**22–26s**\nWater-level medium shot: he surfaces and swims away with strenuous strokes, the backpack dragging through the water. He looks back at the jaguar watching from shore.\n\n**26–30s**\nHis wet shoulders fill the foreground. Beyond him, the jaguar pauses, turns, and disappears into the forest. He keeps paddling as the waterfall roars.\n\nNatural filtered light, cinematic contrast, varied framing, readable handheld movement, hard cuts, normal speed. Maintain chase direction and geography. Preserve mud after falling and wet clothing after immersion. No dialogue or text. Emphasize foliage, impacts, running, gasping, and rushing water.",
+  "originalPromptSha256": "cda8e0c9814dd2fcc2efa49233e4805bc5d6a91c78d560bcf1b53f5ba36e4ed3",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Jaguar chase through the rainforest",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115760816859537408",
+    "url": "https://video-s.twimg.com/amplify_video/2115760816859537408/vid/avc1/1080x1438/DIcTg9uAXiyT8_8m.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115760816859537408/vid/avc1/1080x1438/DIcTg9uAXiyT8_8m.mp4?tag=16",
+    "sourceUrl": "https://x.com/PixVerse/status/2115760864238469589",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115760816859537408/img/afSgxIuJ-K6jCkAd.jpg",
+    "durationSecondsReported": 29.985,
+    "aspectRatioReported": [
+      640,
+      853
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T11:01:13Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

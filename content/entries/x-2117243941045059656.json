@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117243941045059656",
+  "slug": "kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy",
+  "title": {
+    "en": "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy",
+    "zh": "Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧"
+  },
+  "description": {
+    "en": "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy — original prompt by @openclipsai.",
+    "zh": "Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2117243735952048304",
+    "sourceTextOriginal": "The cheapest AI model just made the best video 🤯\n\nMiniMax H3 cost $0.40 and nailed the whole joke. Kling 4.0 cost $1.32, three times more.\n\nSame prompt, same face, four models:\nSeedance 2.5 · $1.15\nKling 4.0 · $1.32\nWan 3.0 · $0.84\nMiniMax H3 · $0.40\n\nDid the cheap one win? 👇\n\nMade with all four on OpenClips. Prompt in the comments."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2117243941045059656",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2117243735952048304",
+  "conversationId": "2117243735952048304",
+  "originalLanguage": "en",
+  "originalPrompt": "Cinematic 16:9 live action, 10 seconds, night, played as deadpan comedy. The woman from the reference image, same face, same green-hazel eyes, now with a glossy hot pink pageboy bob with blunt bangs, wears an oversized black tailored blazer worn open over a black satin corset, thin black suspenders clipped to high-waisted wide black trousers, and chunky black boots. Small silver hoop earrings, dark red lipstick.\n\n0-3s: Front shot in an empty underground metro station, white tiled walls, cold fluorescent light. She stands on the tracks facing the camera, a tiny grey kitten held against her chest with her left arm. With total confidence she raises her right hand toward the camera, palm open, as if stopping something. Behind her back, a metro train bursts out of the dark tunnel and races toward her, headlights blazing, horn blaring. She does not turn around.\n\n3-5s: The train bumps into her from behind with a heavy thud and a huge cloud of grey dust fills the whole frame. The train screeches to a stop.\n\n5-8s: The dust slowly settles. She pushes herself up from the tracks, covered head to toe in grey dust and soot, her pink hair sticking up in every direction, blazer crooked, coughing once. The kitten is still safe in her arm, also dusty, blinking.\n\n8-10s: Medium close-up. She looks straight into the camera with a flat, unimpressed face, and a small puff of dust falls from her hair.",
+  "originalPromptSha256": "6a8ff1fe7203cbd3888d06161cec82df7b2fce9d0096c30369dd816a786fa8ec",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2117243326889889792",
+    "url": "https://video.twimg.com/amplify_video/2117243326889889792/vid/avc1/1920x1080/hF8U5a_FE_pkZVH9.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117243326889889792/vid/avc1/1920x1080/hF8U5a_FE_pkZVH9.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2117243735952048304",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117243326889889792/img/IJcRSX4WAXVInGYN.jpg",
+    "durationSecondsReported": 10.09,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-02T13:13:37Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

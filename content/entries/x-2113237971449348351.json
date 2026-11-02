@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113237971449348351",
+  "slug": "a-still-figure-in-a-rushing-city",
+  "title": {
+    "en": "A still figure in a rushing city",
+    "zh": "静止人物与疾行城市"
+  },
+  "description": {
+    "en": "A still figure in a rushing city — original prompt by @AIwithSynthia.",
+    "zh": "静止人物与疾行城市，来自 @AIwithSynthia 的原始提示词。"
+  },
+  "author": {
+    "handle": "AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/AIwithSynthia/status/2113237971449348351",
+    "sourceTextOriginal": "Kling 4.0 on Higgsfield \n\n@higgsfield 🧩\n\nPrompt :\n\nCreate a hyper-realistic cinematic time-lapse featuring the woman as the central subject, standing completely motionless in her original pose.\n\nKeep her face, hairstyle, clothing, body position, and facial expression perfectly unchanged throughout the entire video, as if she is frozen in time.\n\nAnimate only the surrounding environment, with crowds walking rapidly in different directions, people passing behind and in front of her, and vehicles moving quickly through the background.\n\nGradually increase the speed of the surrounding activity, creating dramatic time-lapse motion with realistic directional blur and flowing movement trails.\n\nAllow natural shadows, sunlight, and background activity to shift subtly, emphasizing the passage of time while the woman remains perfectly still and sharply focused.\n\nMaintain realistic depth, natural movement, consistent scene geometry, and strong contrast between the frozen subject and the fast-moving environment.\n\nThe camera must remain completely fixed on a tripod, with no panning, tilting, zooming, or camera shake.\n\nToward the end, gradually return the surrounding movement to normal speed while the woman remains frozen in precisely the same position.\n\nNegative prompt: Subject movement, blinking, facial changes, body deformation, identity drift, camera movement, flickering, background warping, unnatural motion blur, duplicated limbs, text, logos, watermark."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/AIwithSynthia/status/2113237971449348351",
+  "videoSourceUrl": "https://x.com/AIwithSynthia/status/2113237971449348351",
+  "conversationId": "2113237971449348351",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a hyper-realistic cinematic time-lapse featuring the woman as the central subject, standing completely motionless in her original pose.\n\nKeep her face, hairstyle, clothing, body position, and facial expression perfectly unchanged throughout the entire video, as if she is frozen in time.\n\nAnimate only the surrounding environment, with crowds walking rapidly in different directions, people passing behind and in front of her, and vehicles moving quickly through the background.\n\nGradually increase the speed of the surrounding activity, creating dramatic time-lapse motion with realistic directional blur and flowing movement trails.\n\nAllow natural shadows, sunlight, and background activity to shift subtly, emphasizing the passage of time while the woman remains perfectly still and sharply focused.\n\nMaintain realistic depth, natural movement, consistent scene geometry, and strong contrast between the frozen subject and the fast-moving environment.\n\nThe camera must remain completely fixed on a tripod, with no panning, tilting, zooming, or camera shake.\n\nToward the end, gradually return the surrounding movement to normal speed while the woman remains frozen in precisely the same position.\n\nNegative prompt: Subject movement, blinking, facial changes, body deformation, identity drift, camera movement, flickering, background warping, unnatural motion blur, duplicated limbs, text, logos, watermark.",
+  "originalPromptSha256": "cfd0d05129c43cf0dd5e980f4fb42b40f0b5b2370792c660f1d52055b876e46a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A still figure in a rushing city",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113237843116244992",
+    "url": "https://video.twimg.com/amplify_video/2113237843116244992/vid/avc1/1920x1080/zgm_5gBhoXHVelsn.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113237843116244992/vid/avc1/1920x1080/zgm_5gBhoXHVelsn.mp4?tag=29",
+    "sourceUrl": "https://x.com/AIwithSynthia/status/2113237971449348351",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113237843116244992/img/UGbT620nOWLuDYgq.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-22T11:56:09Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

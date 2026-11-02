@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113662617705418865",
+  "slug": "kling-4-0-in-a-four-model-laughing-group-comparison",
+  "title": {
+    "en": "Kling 4.0 in a four-model laughing-group comparison",
+    "zh": "四模型酒吧欢笑对比中的 Kling 4.0"
+  },
+  "description": {
+    "en": "Kling 4.0 in a four-model laughing-group comparison — original prompt by @HBCoop_.",
+    "zh": "四模型酒吧欢笑对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662522230554777",
+    "sourceTextOriginal": "I gave FLUX 3 Max, MiniMax H3 Max Turbo, Kling 4.0 and Seedance 2.0 the same 4 photoreal stills and the same prompts: a face with a spoken line, a laughing group, hands with poker chips, and a burning street.\n\nFull prompts &amp; results below: https://t.co/0IaupwvndM"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2113662617705418865",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2113662617705418865",
+  "conversationId": "2113662522230554777",
+  "originalLanguage": "en",
+  "originalPrompt": "Handheld camera, warm bar light. The group bursts out laughing together; the platinum-haired woman throws her head back laughing, and two friends beside her clink their glasses. People lean in, shoulders shake with laughter. Busy bar chatter, laughter, glasses clinking.",
+  "originalPromptSha256": "fc452f35822c08c1b622b589038b43c6f96475a0cb6570d2c86e8aefce654690",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 in a four-model laughing-group comparison",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113662584545218560",
+    "url": "https://video.twimg.com/amplify_video/2113662584545218560/vid/avc1/1306x720/9EOAaEB95avOGeC8.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113662584545218560/vid/avc1/1306x720/9EOAaEB95avOGeC8.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662617705418865",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113662584545218560/img/DYQNBWaQnAuzmD4a.jpg",
+    "durationSecondsReported": 24.041,
+    "aspectRatioReported": [
+      960,
+      529
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T16:03:32Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

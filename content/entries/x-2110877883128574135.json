@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110877883128574135",
+  "slug": "do-not-press-the-button-3d-kinetic-typography",
+  "title": {
+    "en": "Do not press the button — 3D kinetic typography",
+    "zh": "绝对不要按：三维动态文字"
+  },
+  "description": {
+    "en": "Do not press the button — 3D kinetic typography — original prompt by @su_nagomi.",
+    "zh": "绝对不要按：三维动态文字，来自 @su_nagomi 的原始提示词。"
+  },
+  "author": {
+    "handle": "su_nagomi",
+    "url": "https://x.com/su_nagomi"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/su_nagomi/status/2110877880389624063",
+    "sourceTextOriginal": "「絶対に押すな」\nKling4.0が実装されたのでタイポグラフィーで日本語精度の検証！絵コンテを使えばほぼ文字化けはないですね！Seadance2.5とどちらがいいんだろう？\n動画プロンプトはリプ欄に👇\n#Kling @Kling_ai https://t.co/7xCzaqaWhx"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/su_nagomi/status/2110877883128574135",
+  "videoSourceUrl": "https://x.com/su_nagomi/status/2110877880389624063",
+  "conversationId": "2110877880389624063",
+  "originalLanguage": "ja",
+  "originalPrompt": "【30秒｜16:9｜3Dキネティックタイポグラフィ×ポップアート｜テーマ：絶対に押すな！｜BGM無し／SEあり／日本語文字を正確に表示】 【全体仕様】1920×1080、30fps、極太3Dゴシック体、赤・黄・ピンク・青・白の鮮やかな配色。文字は光沢のある立体樹脂素材。文字そのものが意思を持って動き、伸縮・衝突・回転・飛散・再結合する。カメラは高速ドリー、ウィップパン、マクロ、ローアングルを使い分ける。スタジオ照明と漫画的な集中線を組み合わせる。画面転換は文字の衝突や動きと同期。主役の赤いボタンは1個だけで、黒と黄色の警告ストライプ付き台座に固定。文字の形状・赤ボタンの構造・奥行き関係を全カットで統一。背景色は切り替えても空間配置の矛盾を起こさない。日本語は文字化け・不要文字・複製を禁止。音楽なし、コミカルなSEをアクションに完全同期。 CUT1【0:00–0:03】Visuals：真っ白なスタジオ空間。中央奥に巨大な赤い立体文字「絶対に押すな！」。中央手前に赤いボタン。Camera：50mm/f4、ゆっくりドリーイン。Lighting：白いソフトボックス光、床に柔らかな影。Motion：文字は静止。ただし「押」だけが一瞬小さく震える。SE：静寂→「ピッ」。Emotion：禁止されたものへの好奇心。Transition：ボタンへマッチカット。 CUT2【0:03–0:06】Visuals：ボタンのマクロショット。赤い表面に光が走る。奥の巨大文字「押」が左右を見回すように傾く。Camera：85mm Macro/f2.8、低い視点からボタンへ接近。Lighting：艶やかな白いハイライト。Motion：「押」の文字が元の配置からわずかに前へ傾く。SE：「ピッ、ピッ」、小さなゴムの軋み音。Transition：文字「押」へウィップパン。 CUT3【0:06–0:09】Visuals：「押」が文字列から抜け出し、ボタンへ向かって少しずつ前進。残った文字「す」「な」「！」が慌てたように震える。Camera：35mm/f4、斜め45度の立体構図、横方向トラッキング。Lighting：黄色のアクセント光。Motion：「押」が小さくジャンプしながらボタンへ近づき、「す」が横から阻止しようと傾く。SE：「ピョコ、ピョコ」「キュッ！」。Transition：「押」がジャンプした頂点で切り替え。 CUT4【0:09–0:12】Visuals：「押」がボタンの真上に浮く。一瞬、時間が止まる。次の瞬間、真下へ落下してボタンを押す。Camera：最初は真横のクローズアップ、押下時に広角28mmへ衝撃カット。Lighting：押下の瞬間に強烈な黄色の発光。Motion：「押」の着地→ボタン沈下→床面から衝撃波が広がる。SE：直前0.4秒無音→「ポチッ！」「ドカーン！」。Transition：衝撃波が画面を覆う。 CUT5【0:12–0:15】Visuals：背景が鮮烈な黄色へ変化。巨大な「えっ!?」が画面奥から飛び出し、周囲の文字を弾き飛ばす。Camera：24mm/f5.6、急激なドリーズーム。Lighting：明るいスタジオ光、文字の縁に白いリムライト。Motion：「えっ!?」が激しくバウンドし、スクワッシュ＆ストレッチで伸び縮み。SE：「バイーン！」「ポヨン！」。Transition：巨大文字がカメラ前を横切ってワイプ。 CUT6【0:15–0:19】Visuals：背景がビビッドピンクへ。文字たちがピンボールのように飛び回る。赤いボタンは床中央に固定されたまま。文字「押」が再びボタンへ突進して周囲の文字がパニックになる。Camera：35mm/f5.6、左右ウィップパンと素早い引き。Lighting：白いキーライト＋マゼンタのリムライト。Motion：文字が衝突・反発・回転。動く文字は手前と奥の2群に分け、視認性を保つ。SE：「ドン！」「バン！」「ビヨーン！」「カン！」。Transition：「押」がボタンに再衝突した衝撃で次へ。 CUT7【0:19–0:22】Visuals：背景が赤い警告空間へ。巨大な白い3D文字「押した…」が画面いっぱいに迫る。周囲を赤い警告灯が回る。Camera：45mm/f4、高速ドリーインから急停止。Lighting：赤い警告光と白い正面光。Motion：「押した…」が膨張し、重さに耐えられず下方向へ潰れる。SE：短いサイレン「ウーウー！」→重低音「ズシン！」。Transition：文字が画面を押し潰して青背景へ切り替え。 CUT8【0:22–0:25】Visuals：一転して静かな青背景。巨大な白い文字「だから言ったのに」が整列。床には疲れたように転がる「押」。Camera：50mm/f4、正面固定から軽いプッシュイン。Lighting：明るいクールホワイト。Motion：「だから言ったのに」が呆れたように左右へゆっくりウェーブ。「押」が小さく震える。SE：「ハァ〜……」「コロン」。Emotion：笑えるツッコミ。Transition：床から文字の破片が吸い上がる。 CUT9【0:25–0:28】Visuals：散らばった文字が渦を巻き、吸い寄せられて元の「絶対に押すな！」へ再結合。背景は白に戻る。Camera：35mm/f4、周囲をわずかに回り込みながら正面位置へ復帰。Lighting：清潔な白いスタジオ光。Motion：文字が一個ずつ元の場所に戻り、最後に「押」がはまる。SE：「シュルルル！」「カチカチカチ！」「ポン！」。Transition：完成と同時に静止。 CUT10【0:28–0:30】Visuals：CUT1と完全に同じ構図。元通りの「絶対に押すな！」と赤ボタン。安心した直後、「押」の文字だけが再びボタンに向かってわずかに傾く。Camera：50mm/f4、正面固定。Lighting：CUT1と一致。Motion：「押」の小さな傾き→ボタンが一度点滅。SE：短い沈黙→「ピッ」。Emotion：また押すのか！という予感。Transition：暗転なしでCUT1へ自然にループ。 【最重要の破綻防止】「押」は文字列から抜け出した同一個体として扱う。文字が増殖しない。ボタンは1個で位置固定。ボタンを押す瞬間は接触・沈下・反発の順序を守る。背景色変更は編集上のカット切り替えで行い、物理空間を不自然に変形させない。文字の輪郭・書体・厚みを統一。動きのピークは15〜22秒、ラストは静かに締める。最後の構図を冒頭と一致させる。。",
+  "originalPromptSha256": "db9bfb6dee1eaa75b8720683226d704a415b32997ab8b464bb8ff41edc6a0bb1",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Do not press the button — 3D kinetic typography",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2110875398464745472",
+    "url": "https://video-s.twimg.com/amplify_video/2110875398464745472/vid/avc1/1280x720/xx6SaNN2E-Li8hwc.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110875398464745472/vid/avc1/1280x720/xx6SaNN2E-Li8hwc.mp4?tag=29",
+    "sourceUrl": "https://x.com/su_nagomi/status/2110877880389624063",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110875398464745472/img/Qw6RLTgbYfVikdZ7.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T23:37:59Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

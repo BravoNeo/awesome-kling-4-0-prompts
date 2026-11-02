@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113727196858904605",
+  "slug": "last-delivery-before-the-shutter",
+  "title": {
+    "en": "Last delivery before the shutter",
+    "zh": "卷帘门落下前的最后一单"
+  },
+  "description": {
+    "en": "Last delivery before the shutter — original prompt by @bmx_ai13.",
+    "zh": "卷帘门落下前的最后一单，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2113727192639459801",
+    "sourceTextOriginal": "Last Delivery Before the Shutter. \n\n15 seconds. Zero cuts. One very determined dachshund. \n\nPrompt inspired by the great creator Umesh. \nMade with Kling 4.0 via @Kling_ai and it's insane"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2113727196858904605",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2113727192639459801",
+  "conversationId": "2113727192639459801",
+  "originalLanguage": "en",
+  "originalPrompt": "TITLE: LAST DELIVERY BEFORE THE SHUTTER\n\nFORMAT: 15 seconds exactly, 16:9, ultra photorealistic, 24fps, one single unbroken physical camera take from first frame to last. Zero cuts, zero hidden edits, zero transitions, zero teleportation, zero slow motion, zero static moments.\n\nCHARACTER: Mochi, an adult female long-haired miniature dachshund with a very long low body, short muscular legs, glossy chestnut coat soaked dark by rain, floppy ears, bright amber eyes and a white star on her chest. She wears a snug bright yellow waterproof courier vest with a small zipped delivery pouch on her back and a reflective strip along her spine. She runs, she does not ride anything. Every movement is real dog behavior, real canine gait, real weight and traction, no human gestures, no cartoon expressions.\n\nLOCATION: Crowded downtown street during a heavy evening rainstorm. Wet asphalt mirroring neon storefronts, red taxi tail lights, buses, umbrellas, gutters overflowing, wind pushing sheets of rain sideways.\n\nCAMERA: Handheld FPV style gimbal rig flying at dog height, aggressive banking, extreme foreground parallax, rain droplets hitting and streaking across the lens, constant acceleration, shallow depth of field with bokeh from headlights.\n\n0 to 3 seconds: Begin in violent motion. Mochi's front paws slap through a deep puddle as she leans hard around a wet street corner, ears flying back, claws scrabbling for grip on painted lane lines. The camera skims inches off the asphalt beside her paws, rolls up along her long body, and whips around her shoulder as a bus and taxis roar past in a blur of light.\n\n3 to 6 seconds: A taxi door suddenly swings open from the curb. Mochi skids, back legs sliding sideways, then ducks low and threads underneath the opening door with her belly almost touching the water. The camera executes a fast 270 degree orbit around her, scraping past the dripping door edge and a parked car mirror, then snaps back alongside her as she accelerates.\n\n6 to 9 seconds: TWIST ONE. A gust rips the pouch zipper open and the waterproof envelope flips out, spinning into the wind above the bike lane. Mochi stops for a split second, eyes locking on it, then launches into a full sprint after it as loose cardboard sheets tumble across the lane. She hops over a broken drainage grate, the camera plunging inches above her racing legs, then swinging upward as a passing bus throws a huge curtain of water across the street.\n\n9 to 12 seconds: TWIST TWO. Mochi bursts through the spray with the envelope now clamped carefully in her mouth, ears soaked flat. A startled pigeon flock explodes off a ledge across her path and she weaves through them low and fast. She scrambles up a low curb ramp toward a small glowing bakery where an elderly shopkeeper in a cardigan is pulling down the metal shutter against the storm. The camera sweeps around her, revealing the warm storefront reflected across the flooded pavement.\n\n12 to 15 seconds: TWIST THREE. Mochi drops into a long belly slide across the wet tiles, her long body skimming like a sled under the descending shutter edge, and pushes the envelope into the shopkeeper's hands just in time. He laughs in surprise, opens it, and pulls out a single small dog biscuit wrapped in paper, the delivery was addressed to her all along. He drops the biscuit, she catches it midair. The camera violently swings around his hands and her face, then rockets backward out into the rain as the shutter slams shut and rainwater explodes off the pavement, leaving the glowing gap of light under the shutter.\n\nPHYSICS AND REALISM: Authentic canine anatomy and gait, real paw slip and recovery on wet surfaces, water shaking off fur, believable rain interaction, natural human reactions from pedestrians stepping aside and pointing. No superhero movement, no impossible jumps, nothing exaggerated. Ordinary reality made unbelievably cinematic.\n\nAUDIO: Diegetic only. Heavy rain drumming on awnings and car roofs, paws slapping puddles, claws scraping asphalt, taxi door thunk, bus engine roar and hiss of the water curtain, pigeon wings flapping, short excited panting and one happy bark, shopkeeper's warm surprised laugh, rattling metal shutter crash. No music, no score.\n\nLAST FRAME: Wide pulled back view of the rain soaked street, the closed bakery shutter glowing with a thin line of warm light beneath it, Mochi's silhouette visible through the gap, rain streaking across the lens. No on screen text, no titles, no captions, no logos, no watermarks, no signage readable in frame.\n\nNEGATIVE: No cuts, no transitions, no slow motion, no freeze frames, no bicycle, no dog walking upright, no human like dog hands, no cartoon look, no distorted legs, no extra limbs, no morphing fur, no floating objects, no text.",
+  "originalPromptSha256": "c89a2f3218c9d2f5554e2b4694da3e7a9d3123f80d0a43856c913e35c1d9f1bf",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Last delivery before the shutter",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2113726736806588416",
+    "url": "https://video.twimg.com/amplify_video/2113726736806588416/vid/avc1/1280x720/aHn77eWcFL9uCXeT.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113726736806588416/vid/avc1/1280x720/aHn77eWcFL9uCXeT.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2113727192639459801",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113726736806588416/img/zYDzfZZG8_o2IRV1.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T20:20:08Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

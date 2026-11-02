@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115443305244946606",
+  "slug": "kling-4-0-vs-2-6-underwater-profile",
+  "title": {
+    "en": "Kling 4.0 vs 2.6: underwater profile",
+    "zh": "Kling 4.0 与 2.6：水下侧脸对比"
+  },
+  "description": {
+    "en": "Kling 4.0 vs 2.6: underwater profile — original prompt by @HBCoop_.",
+    "zh": "Kling 4.0 与 2.6：水下侧脸对比，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+    "sourceTextOriginal": "Test 01: Kling 2.6 (Dec 2025) vs Kling 4.0, image-to-video, 5s\n\n2.6 keeps her in profile and follows the \"turns her head slightly\" direction closely. 4.0 turns her toward the camera and adds more bubbles and light play.\n\nPrompt:\nClose-up underwater profile shot: A young woman with glowing skin and vivid red lips. Realistic skin texture, pores visible, micro-expressions, subtle blemishes. Sunlight pierces the turquoise water, creating sparkling highlights and casting dynamic shadows. A single bubble rises near her face, adding motion to the scene. She turns her head slightly and blinks. Camera pulls back very slowly, smooth motion, shot with 85mm lens, shallow depth of field, emphasis on water bubbles and surface water motion physics and golden hour lighting."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+  "conversationId": "2115443263427731827",
+  "originalLanguage": "en",
+  "originalPrompt": "Close-up underwater profile shot: A young woman with glowing skin and vivid red lips. Realistic skin texture, pores visible, micro-expressions, subtle blemishes. Sunlight pierces the turquoise water, creating sparkling highlights and casting dynamic shadows. A single bubble rises near her face, adding motion to the scene. She turns her head slightly and blinks. Camera pulls back very slowly, smooth motion, shot with 85mm lens, shallow depth of field, emphasis on water bubbles and surface water motion physics and golden hour lighting.",
+  "originalPromptSha256": "ad49573d5ba9397e1c201cc1f78cb2c203667a26ad5b94338c08f6a270e02668",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs 2.6: underwater profile",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115443276551774208",
+    "url": "https://video-s.twimg.com/amplify_video/2115443276551774208/vid/avc1/1920x1080/JQSv66K7HsxohCSo.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115443276551774208/vid/avc1/1920x1080/JQSv66K7HsxohCSo.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115443276551774208/img/hKcSIXYN8ZvI4X7r.jpg",
+    "durationSecondsReported": 10.083,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T13:59:21Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

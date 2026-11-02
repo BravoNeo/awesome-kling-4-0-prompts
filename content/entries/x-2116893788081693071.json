@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116893788081693071",
+  "slug": "kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: A town that bakes the moon",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: A town that bakes the moon — original prompt by @SocialSight.",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2116893786550710647",
+    "sourceTextOriginal": "A storybook painting in motion, comparing: Kling 4.0 vs. Seedance 2.5. A town that bakes a fresh moon every night, built on SocialSight to test world building and cozy animation styles.\n\nWhich storybook animation style do you prefer? https://t.co/rjTotJmAnj"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2116893788081693071",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2116893786550710647",
+  "conversationId": "2116893786550710647",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: warm storybook painting with soft brush texture, glowing golden light against deep navy night, cozy rounded rooftops, chimney smoke curling into stars.\n0-3s (HOOK): The night sky is completely empty, no moon. In a tiny bakery window, a round baker in a flour-dusted apron pulls a giant glowing dough ball out of a brick oven.\n3-6s: Bakers across the rooftop town hand the warm moon from chimney to chimney, passing it up in a long chain of flour-covered hands.\n6-10s: At the highest tower, they load it into a huge wooden slingshot. The whole town gathers in the streets, holding lanterns and looking up.\n10-13s: The slingshot launches. The glowing moon arcs high into the sky and settles into place, lighting up the entire town in silver.\n13-15s (BUTTON): A small crumb falls from the new moon and lands on a child's nose. She tastes it and grins.\nCamera: starts inside the bakery, rises over the rooftops, ends on a wide view of the whole moonlit town.\nMusic: gentle music-box melody with soft strings, building into a warm, sweeping finish.",
+  "originalPromptSha256": "124c23d9ed71dce2dd710391cb1c5ce4b9735e1648299348c446f12ee648921e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: A town that bakes the moon",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116893766539718656",
+    "url": "https://video-s.twimg.com/ext_tw_video/2116893766539718656/pu/vid/avc1/720x1280/xFhiyCeUwM4fsyud.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2116893766539718656/pu/vid/avc1/720x1280/xFhiyCeUwM4fsyud.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2116893786550710647",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2116893766539718656/pu/img/IOU46TFiuZayr8D0.jpg",
+    "durationSecondsReported": 16.033,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-01T14:03:03Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

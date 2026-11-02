@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117267250428186922",
+  "slug": "kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt",
+  "title": {
+    "en": "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt",
+    "zh": "Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）"
+  },
+  "description": {
+    "en": "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt — original prompt by @FlyAIgh.",
+    "zh": "Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词），来自 @FlyAIgh 的原始提示词。"
+  },
+  "author": {
+    "handle": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/FlyAIgh/status/2117267227854426327",
+    "sourceTextOriginal": "Same prompt, same seven reference images, four video models: Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3, 15 seconds each.\n\nThe scene is a short-drama beat at a private dinner in a gallery. A woman in ivory is grabbed by the wrist, pulls free and brings down a champagne tower, then comes a close-up of her and an over-the-shoulder shot of the woman in the black suit, now splashed with champagne. The prompt plans the cuts at 3, 6 and 11 seconds.\n\nAll four kept both faces and outfits from the references and got every beat in order. All four also turned the push into a sweep of her arm and shawl. The tower is where they split: Kling 4.0 blows it apart in about half a second, Seedance 2.5 and Wan 3.0 tip it over within one shot, and MiniMax H3 knocks the top tiers across the table.\n\nResolutions differ: Kling 4.0 at 720p, its lowest tier, MiniMax H3 at 768p, Seedance 2.5 and Wan 3.0 at 480p.\n\nEach clip with its own sound in the replies, with the cut times and what it costs on FlyAIgh. Both women are AI-generated characters, not real people."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/FlyAIgh/status/2117267250428186922",
+  "videoSourceUrl": "https://x.com/FlyAIgh/status/2117267227854426327",
+  "conversationId": "2117267227854426327",
+  "originalLanguage": "en",
+  "originalPrompt": "References: images 1, 2 and 3 are the same woman, the woman in ivory: low bun, pearl earrings, an ivory satin slip dress to the floor, a sheer shawl of the same color over her shoulders. Images 4, 5 and 6 are the same woman, the woman in black: long black curls, a black tuxedo suit with burgundy satin lapels. Image 7 is the setting: a private dinner in an art gallery. Both women's faces, features, hair, clothes and accessories always match their own reference images, and the two faces must never blend. Realistic cinematic look, 16:9, an understated luxury dinner, low light, warm low lamps and candlelight, urban short-drama style. 15 seconds in total, four shots.\n\nShot 1 (0 to 3s, wide): in the gallery from image 7, guests holding glasses talk quietly and move slowly, someone plays the cello in a corner, candles flicker on the tables. The camera descends slowly from ceiling height and pushes forward, starting on the whole room and ending beside the champagne tower. The woman in ivory stands alone by the tower with a glass of champagne.\n\nShot 2 (3 to 6s, medium, hard cut): the woman in black walks in from the right of frame, grabs her wrist and leans in to say something. The woman in ivory turns to look at her, face to camera, her expression going from restrained to cold. Locked-off camera, both women in frame.\n\nShot 3 (6 to 11s, side tracking, hard cut): the woman in ivory shakes off her hand and, in the same motion, pushes the champagne tower over, her sheer shawl lifting with the movement. Dozens of glasses fall tier by tier and shatter, champagne splashes everywhere, and the guests around scream and step back. The camera tracks fast from the side in the direction the tower falls, with a little handheld shake.\n\nShot 4 (11 to 15s, close-up, hard cut): close-up of the woman in ivory, face to camera, a strand of hair falling loose from her bun, pearl earrings swaying slightly, chest rising and falling. Then cut to an over-the-shoulder shot from behind her: the woman in black stands opposite, her black suit splashed with champagne, freezes for a beat, then slowly starts to smile.\n\nNo subtitles, no watermark, and apart from the guests, no main characters other than those in the reference images.",
+  "originalPromptSha256": "c4eb684c003b23fca44dfe82b1d4afa8185ecccca862836412c6aa907397ff76",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2117266405846286336",
+    "url": "https://video.twimg.com/amplify_video/2117266405846286336/vid/avc1/1920x1080/Q0uG--8TxnMXhBal.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117266405846286336/vid/avc1/1920x1080/Q0uG--8TxnMXhBal.mp4?tag=29",
+    "sourceUrl": "https://x.com/FlyAIgh/status/2117267227854426327",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117266405846286336/img/CZFwcaFJtMwmjU7g.jpg",
+    "durationSecondsReported": 15.0,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-02T14:46:58Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

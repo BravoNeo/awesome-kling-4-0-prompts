@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110893614671040886",
+  "slug": "a-winter-riverside-farewell",
+  "title": {
+    "en": "A winter riverside farewell",
+    "zh": "冬夜河畔的告别"
+  },
+  "description": {
+    "en": "A winter riverside farewell — original prompt by @tanabe_fragm.",
+    "zh": "冬夜河畔的告别，来自 @tanabe_fragm 的原始提示词。"
+  },
+  "author": {
+    "handle": "tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/tanabe_fragm/status/2110893614671040886",
+    "sourceTextOriginal": "Kling 4.0 で架空のドラマのワンシーンを生成。\n\nこれを見るとAIで縦型ショートドラマ作るなら、Kling 4.0が最善の選択肢のような...🤔\nSeedance 2.0よりも安くて、なおかつクオリティが高いように見えます😃\n\n私は、これまで実写のMeta広告を作るときはSeedance 2.0を使っていました。\nけど、これからはKling 4.0で作ります👍\n\n制作コストを削減できるのが何より嬉しい😊\n\n#klingai \n\nプロンプト\n--------------\nA vertical 9:16 Japanese short drama scene, cinematic and photorealistic, shot at night on a riverside walking path in early winter. Streetlights stand at even intervals along the path, their warm light reflected on the dark river. Cool night air, breath faintly visible. Shallow depth of field, soft bokeh from the streetlights, muted teal-and-amber color grade, subtle film grain.\n\nHaruka: Japanese woman, 24, shoulder-length black hair, long beige coat. Quiet voice, but firm.\nSouta: Japanese man, 25, short black hair, navy duffle coat. Usually gentle; now shaken.\n\nFour shots, in this order. Exactly four lines of dialogue in natural Tokyo-standard Japanese, spoken softly and slowly, with real pauses. No other lines.\n\nShot 1 (0–4s) — Frontal tracking shot, the camera moving backward ahead of them, bust shot of both. Haruka and Souta walk side by side toward the camera, a small gap between their shoulders. Haruka keeps looking straight ahead and says quietly:「ねえ…来月から、大阪なんだ」\n\nShot 2 (4–7s) — Tracking from behind at waist height, focus on the space between their two hands. Their hands swing as they walk, almost touching but never touching. Souta's voice, after a pause, low:「…なんで、今言うの」\n\nShot 3 (7–11s) — Side tracking shot, moving alongside them. Haruka stops walking. The camera keeps moving with Souta for two more steps, then stops. Focus racks from Souta in the foreground to Haruka standing behind, now one streetlight's distance away. Haruka, still and steady:「言ったら…止められると思ったから」\n\nShot 4 (11–15s) — Souta turns back toward her. Slow push-in on his face; streetlight falls across only half of it. He starts to speak, swallows it, then says in a hoarse voice:「…止めたら、いてくれんの？」 Hold on his face to the end.\n\nAudio is only their voices, footsteps, the river, and distant traffic — no background music. No subtitles, no on-screen text. Same two people, same clothes, same night riverside path in every shot."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/tanabe_fragm/status/2110893614671040886",
+  "videoSourceUrl": "https://x.com/tanabe_fragm/status/2110893614671040886",
+  "conversationId": "2110893614671040886",
+  "originalLanguage": "en",
+  "originalPrompt": "A vertical 9:16 Japanese short drama scene, cinematic and photorealistic, shot at night on a riverside walking path in early winter. Streetlights stand at even intervals along the path, their warm light reflected on the dark river. Cool night air, breath faintly visible. Shallow depth of field, soft bokeh from the streetlights, muted teal-and-amber color grade, subtle film grain.\n\nHaruka: Japanese woman, 24, shoulder-length black hair, long beige coat. Quiet voice, but firm.\nSouta: Japanese man, 25, short black hair, navy duffle coat. Usually gentle; now shaken.\n\nFour shots, in this order. Exactly four lines of dialogue in natural Tokyo-standard Japanese, spoken softly and slowly, with real pauses. No other lines.\n\nShot 1 (0–4s) — Frontal tracking shot, the camera moving backward ahead of them, bust shot of both. Haruka and Souta walk side by side toward the camera, a small gap between their shoulders. Haruka keeps looking straight ahead and says quietly:「ねえ…来月から、大阪なんだ」\n\nShot 2 (4–7s) — Tracking from behind at waist height, focus on the space between their two hands. Their hands swing as they walk, almost touching but never touching. Souta's voice, after a pause, low:「…なんで、今言うの」\n\nShot 3 (7–11s) — Side tracking shot, moving alongside them. Haruka stops walking. The camera keeps moving with Souta for two more steps, then stops. Focus racks from Souta in the foreground to Haruka standing behind, now one streetlight's distance away. Haruka, still and steady:「言ったら…止められると思ったから」\n\nShot 4 (11–15s) — Souta turns back toward her. Slow push-in on his face; streetlight falls across only half of it. He starts to speak, swallows it, then says in a hoarse voice:「…止めたら、いてくれんの？」 Hold on his face to the end.\n\nAudio is only their voices, footsteps, the river, and distant traffic — no background music. No subtitles, no on-screen text. Same two people, same clothes, same night riverside path in every shot.",
+  "originalPromptSha256": "6512d80fb5814cc42c8a83b82d28964c87b5a27d939195718cf6aae14a09aa35",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A winter riverside farewell",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110893349444153344",
+    "url": "https://video-s.twimg.com/amplify_video/2110893349444153344/vid/avc1/1080x1920/dSTwc-Y2f8LKrFX8.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110893349444153344/vid/avc1/1080x1920/dSTwc-Y2f8LKrFX8.mp4?tag=29",
+    "sourceUrl": "https://x.com/tanabe_fragm/status/2110893614671040886",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110893349444153344/img/nd1GNJFGnYrv5-RZ.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T00:40:30Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

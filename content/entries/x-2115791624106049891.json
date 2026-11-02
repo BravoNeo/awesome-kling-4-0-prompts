@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115791624106049891",
+  "slug": "kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo — original prompt by @SocialSight.",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2115791622701035597",
+    "sourceTextOriginal": "A needle-felted wool world in motion, comparing: Kling 4.0 vs. Seedance 2.5. A tiny felt ghost finds the courage to say boo, built on SocialSight to test handmade textures and character emotion. 🎃 https://t.co/Xqhs0hmigk"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2115791624106049891",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2115791622701035597",
+  "conversationId": "2115791622701035597",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: needle-felted wool animation, fuzzy fibers visible on every surface, soft rounded shapes, tiny handmade details, cozy warm lighting, slightly bouncy stop-motion movement at 12 frames per second.\n0-3s (HOOK): A tiny white felt ghost peeks out from behind a fuzzy orange pumpkin, trembling.\n3-6s: Bigger felt ghosts float past, shouting a booming \"BOO!\" at a felt crow, which flaps away. The little ghost practices and lets out a tiny squeak.\n6-10s: A felt mouse wanders by. The little ghost takes a deep breath, floats up, and squeaks again. The mouse just stares, then pats its head kindly.\n10-13s: Feeling brave, the ghost spins in a circle, puffs up as big as it can, and lets out a real, loud \"BOO!\" Every pumpkin in the patch lights up.\n13-15s (BUTTON): The ghost scares itself and dives back behind the pumpkin.\nCamera: low, close-up tabletop view, with a quick push-in on the big \"BOO.\"\nMusic: playful plucked strings and a bouncy tuba, light and silly with a spooky twist.",
+  "originalPromptSha256": "51986cccd4d4614c1ebdf761bbeb6060aca4510a5f8ddb78aec3f76e0fb9357c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115791609774104576",
+    "url": "https://video-s.twimg.com/ext_tw_video/2115791609774104576/pu/vid/avc1/720x1280/b97bUmSq9SifjUTY.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2115791609774104576/pu/vid/avc1/720x1280/b97bUmSq9SifjUTY.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2115791622701035597",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2115791609774104576/pu/img/eyGHEIH7X6xCL_O0.jpg",
+    "durationSecondsReported": 16.033,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T13:03:27Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

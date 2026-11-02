@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113662571362590905",
+  "slug": "kling-4-0-in-a-four-model-spoken-line-comparison",
+  "title": {
+    "en": "Kling 4.0 in a four-model spoken-line comparison",
+    "zh": "四模型人物台词对比中的 Kling 4.0"
+  },
+  "description": {
+    "en": "Kling 4.0 in a four-model spoken-line comparison — original prompt by @HBCoop_.",
+    "zh": "四模型人物台词对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662522230554777",
+    "sourceTextOriginal": "I gave FLUX 3 Max, MiniMax H3 Max Turbo, Kling 4.0 and Seedance 2.0 the same 4 photoreal stills and the same prompts: a face with a spoken line, a laughing group, hands with poker chips, and a burning street.\n\nFull prompts &amp; results below: https://t.co/0IaupwvndM"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2113662571362590905",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2113662571362590905",
+  "conversationId": "2113662522230554777",
+  "originalLanguage": "en",
+  "originalPrompt": "Slow push-in on the woman leaning against the wall. She holds the camera's gaze, exhales softly through her nose, and a small knowing smile forms at one corner of her mouth. She says quietly: \"I already said yes.\" Natural daylight, real skin texture, subtle handheld breathing in the camera. Quiet room tone.",
+  "originalPromptSha256": "5304f87a0a1be348142d473af83ee382985f9be0c903cc080f05d1c4722626b0",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 in a four-model spoken-line comparison",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113662547404742656",
+    "url": "https://video.twimg.com/amplify_video/2113662547404742656/vid/avc1/1306x720/M6HQ5VQzhIG6lmlj.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113662547404742656/vid/avc1/1306x720/M6HQ5VQzhIG6lmlj.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662571362590905",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113662547404742656/img/032SuX4ixY0-4uJ9.jpg",
+    "durationSecondsReported": 24.041,
+    "aspectRatioReported": [
+      960,
+      529
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T16:03:21Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

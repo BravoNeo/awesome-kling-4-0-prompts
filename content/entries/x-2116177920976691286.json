@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116177920976691286",
+  "slug": "a-carriage-through-the-golden-city",
+  "title": {
+    "en": "A carriage through the golden city",
+    "zh": "马车穿过金色城市"
+  },
+  "description": {
+    "en": "A carriage through the golden city — original prompt by @churvikv.",
+    "zh": "马车穿过金色城市，来自 @churvikv 的原始提示词。"
+  },
+  "author": {
+    "handle": "churvikv",
+    "url": "https://x.com/churvikv"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/churvikv/status/2116177920976691286",
+    "sourceTextOriginal": "A city bathed in amber light\n\nCreated in @ImagineArt_X\n🎥Model: Kling 4.0\n🏞  Model: GPT Image 2\n\nPrompt to video:\nTextured golden art style, gold foil and glitter texture preserved throughout, no style change. Camera starts at ground level showing a horse-drawn carriage moving along a wet cobblestone embankment, then smoothly rises upward in a crane shot, revealing the carriage from above as it travels along the river. The golden city with gothic spires unfolds below. Horse hooves create ripples in golden reflections on wet stones. Carriage lanterns glow warmly. Golden particles float in the air. Street lamps illuminate the path. Final aerial view shows the carriage as a small moving element in the grand golden cityscape. Cinematic camera movement, 10 seconds."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/churvikv/status/2116177920976691286",
+  "videoSourceUrl": "https://x.com/churvikv/status/2116177920976691286",
+  "conversationId": "2116177920976691286",
+  "originalLanguage": "en",
+  "originalPrompt": "Textured golden art style, gold foil and glitter texture preserved throughout, no style change. Camera starts at ground level showing a horse-drawn carriage moving along a wet cobblestone embankment, then smoothly rises upward in a crane shot, revealing the carriage from above as it travels along the river. The golden city with gothic spires unfolds below. Horse hooves create ripples in golden reflections on wet stones. Carriage lanterns glow warmly. Golden particles float in the air. Street lamps illuminate the path. Final aerial view shows the carriage as a small moving element in the grand golden cityscape. Cinematic camera movement, 10 seconds.",
+  "originalPromptSha256": "251d029964873306e4399c4e64e5f93d9f0f00e845ee117e17bf59278d1b6e79",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "A carriage through the golden city",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116176696147628034",
+    "url": "https://video.twimg.com/amplify_video/2116176696147628034/vid/avc1/1280x720/krx2aeNPcxxN5FXB.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116176696147628034/vid/avc1/1280x720/krx2aeNPcxxN5FXB.mp4?tag=29",
+    "sourceUrl": "https://x.com/churvikv/status/2116177920976691286",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116176696147628034/img/is2xbRDBIEeTdg78.jpg",
+    "durationSecondsReported": 10.077,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-30T14:38:27Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

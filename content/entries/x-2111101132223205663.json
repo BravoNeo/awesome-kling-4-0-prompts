@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111101132223205663",
+  "slug": "alchemist-summons-a-tiny-fire-spirit",
+  "title": {
+    "en": "Alchemist summons a tiny fire spirit",
+    "zh": "炼金术士召唤火焰精灵"
+  },
+  "description": {
+    "en": "Alchemist summons a tiny fire spirit — original prompt by @shikoba_86.",
+    "zh": "炼金术士召唤火焰精灵，来自 @shikoba_86 的原始提示词。"
+  },
+  "author": {
+    "handle": "shikoba_86",
+    "url": "https://x.com/shikoba_86"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/shikoba_86/status/2111101132223205663",
+    "sourceTextOriginal": "Kling 4.0 Prompt Share:\n\nA cramped alchemist's workshop at night, inside an old stone tower, lit only by candles. Rain on a small window.\nShot 1, wide: the alchemist stands at a cluttered wooden table full of glass jars and an open book.\nShot 2, medium: she slowly pours a glowing green liquid into a round glass vial.\nShot 3, close-up on the vial: the liquid flashes into golden light and a tiny fire spirit made of living flame rises out of it.\nShot 4, medium close-up: the spirit lands on her open palm, lighting her face orange. She whispers: \"Finally. After a hundred tries.\"\n\nCHARACTER LOCK: Alchemist: woman in her late 30s, long dark red hair tied back, ink-stained fingers, dark green apron over a cream linen shirt. Fire spirit: hand-sized figure of orange and gold flame with two bright white eyes. Same faces and outfits in every shot.\nLOCATION: worn stone walls, melted candle wax, scattered parchment, deep shadows in the corners. \nAUDIO: rain, crackling candles, glass clinking, a soft whoosh when the spirit appears, her whisper. No music.\nAVOID: no subtitles or on-screen text, no extra characters, no warped hands or glass."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/shikoba_86/status/2111101132223205663",
+  "videoSourceUrl": "https://x.com/shikoba_86/status/2111101132223205663",
+  "conversationId": "2111101132223205663",
+  "originalLanguage": "en",
+  "originalPrompt": "A cramped alchemist's workshop at night, inside an old stone tower, lit only by candles. Rain on a small window.\nShot 1, wide: the alchemist stands at a cluttered wooden table full of glass jars and an open book.\nShot 2, medium: she slowly pours a glowing green liquid into a round glass vial.\nShot 3, close-up on the vial: the liquid flashes into golden light and a tiny fire spirit made of living flame rises out of it.\nShot 4, medium close-up: the spirit lands on her open palm, lighting her face orange. She whispers: \"Finally. After a hundred tries.\"\n\nCHARACTER LOCK: Alchemist: woman in her late 30s, long dark red hair tied back, ink-stained fingers, dark green apron over a cream linen shirt. Fire spirit: hand-sized figure of orange and gold flame with two bright white eyes. Same faces and outfits in every shot.\nLOCATION: worn stone walls, melted candle wax, scattered parchment, deep shadows in the corners. \nAUDIO: rain, crackling candles, glass clinking, a soft whoosh when the spirit appears, her whisper. No music.\nAVOID: no subtitles or on-screen text, no extra characters, no warped hands or glass.",
+  "originalPromptSha256": "107b6fa15e41539db0e4a293d6cc7e456343dad6292d89bcfa1380ceebfb179c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "witches"
+    ]
+  },
+  "tags": [
+    "Alchemist summons a tiny fire spirit",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2111100882435653633",
+    "url": "https://video.twimg.com/amplify_video/2111100882435653633/vid/avc1/1920x1080/2fQSIAG2EuCVcNXF.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2111100882435653633/vid/avc1/1920x1080/2fQSIAG2EuCVcNXF.mp4?tag=29",
+    "sourceUrl": "https://x.com/shikoba_86/status/2111101132223205663",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111100882435653633/img/d6JIjNBlhGu_iKrZ.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T14:25:06Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

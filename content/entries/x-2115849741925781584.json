@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115849741925781584",
+  "slug": "coastal-moonfall-english-prompt",
+  "title": {
+    "en": "Coastal moonfall — English prompt",
+    "zh": "月球逼近海滨城市：英文提示词"
+  },
+  "description": {
+    "en": "Coastal moonfall — English prompt — original prompt by @FlyAIgh.",
+    "zh": "月球逼近海滨城市：英文提示词，来自 @FlyAIgh 的原始提示词。"
+  },
+  "author": {
+    "handle": "FlyAIgh",
+    "url": "https://x.com/FlyAIgh"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/FlyAIgh/status/2115849735928250564",
+    "sourceTextOriginal": "Kling 4.0 is now on FlyAIgh, listed as Kling V4.\n\nThis clip was made in Kling's own app the week before the launch. One text prompt, no reference image: 25 seconds, five shots, sound on, 720p, first result kept. The prompt asks for a coastal city at dusk while the moon falls toward it: the moon swelling on the horizon, small objects lifting off the street, the sea pulled up into a leaning wall of water, cars rising and tumbling, and a final shot looking up as the lunar surface fills the frame.\n\nThe cuts land at 5.0, 10.0, 14.0 and 21.1 seconds against a plan of 5, 10, 15 and 21. The moon over the skyline, the cars lifting off one by one with the camera rising between them, and the closing shot all follow the prompt. Two beats are missing. The sea stays flat, with no wall of water, and the debris in shot 2 only starts to rise at the very end of the shot.\n\nKling V4 on FlyAIgh: 3 to 30 seconds per clip, 720p or 1080p, stereo sound on every clip, first and last frame, or up to 10 reference images and 5 reference videos. Settings, cost and the full prompt in the replies."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/FlyAIgh/status/2115849741925781584",
+  "videoSourceUrl": "https://x.com/FlyAIgh/status/2115849735928250564",
+  "conversationId": "2115849735928250564",
+  "originalLanguage": "en",
+  "originalPrompt": "A coastal city at dusk. Realistic disaster-film look, 16:9 widescreen framing, a huge sense of scale. 25 seconds in total, five shots. No main characters, only a few small passers-by in the distance.\n\nShot 1 (0 to 5s, wide, slow push-in): a seafront boulevard at dusk, palm trees moving in the sea breeze, the sea still calm. On the horizon the moon is three times its usual size and still slowly growing. The camera pushes forward slowly from low on the boulevard. A few passers-by stop and look up at the moon.\n\nShot 2 (5 to 10s, close, hard cut): a parked car at the roadside. A raindrop on its roof starts to float upward, then gravel, leaves and drink cans leave the ground one after another and drift slowly skyward. A lamppost gives off a metallic hum.\n\nShot 3 (10 to 15s, extreme wide, hard cut): the moon now fills half the sky, its craters and rifts sharp. The sea is pulled up by the moon's gravity, the whole surface bulging upward into a leaning wall of water at the edge of the city, ships lifted into the air.\n\nShot 4 (15 to 21s, tracking, hard cut): weightlessness grows stronger. Cars on the street leave the ground one after another and tumble upward, billboards tear off the rooftops, palm trees are pulled out by the roots. The camera moves like a drone, threading between the floating cars and rising higher and higher.\n\nShot 5 (21 to 25s, looking up, hard cut): the camera stops among the floating debris and looks straight up. The craters fill the frame and keep coming closer, the ridges in the shadows clearly visible, until the lunar surface fills the frame completely.\n\nSound: waves and wind at the start. When weightlessness begins, a rising low hum drowns out everything. Metal creaks as the cars leave the ground. At the end only a huge low rumble, then sudden silence. No background music.\n\nNo subtitles, no watermark.",
+  "originalPromptSha256": "9159a0c439378009c3f92e8549a5284e928079853bbd4ecf21265f529417736a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Coastal moonfall — English prompt",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115848772873801729",
+    "url": "https://video.twimg.com/amplify_video/2115848772873801729/vid/avc1/1280x720/doqq89Y506Wvwl_L.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115848772873801729/vid/avc1/1280x720/doqq89Y506Wvwl_L.mp4?tag=29",
+    "sourceUrl": "https://x.com/FlyAIgh/status/2115849735928250564",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115848772873801729/img/v--YfZz9GB-jApLE.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T16:54:22Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}
