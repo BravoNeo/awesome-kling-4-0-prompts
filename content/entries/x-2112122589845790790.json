@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112122589845790790",
+  "slug": "a-god-hurls-a-mountain-boulder",
+  "title": {
+    "en": "A god hurls a mountain boulder",
+    "zh": "神明投掷山间巨石"
+  },
+  "description": {
+    "en": "A god hurls a mountain boulder — original prompt by @Alin_Reaper05.",
+    "zh": "神明投掷山间巨石，来自 @Alin_Reaper05 的原始提示词。"
+  },
+  "author": {
+    "handle": "Alin_Reaper05",
+    "url": "https://x.com/Alin_Reaper05"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2112122587333493236",
+    "sourceTextOriginal": "Hello there, everyone! Monday is here again 😒 Hope it’s kind to you. Lucky me, I only have one night shift left, and after that, I’ve got a few days off 😁 Here is another Kling 4.0 video. You can find the prompt below, as usual https://t.co/fA21fC85HB"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Alin_Reaper05/status/2112122589845790790",
+  "videoSourceUrl": "https://x.com/Alin_Reaper05/status/2112122587333493236",
+  "conversationId": "2112122587333493236",
+  "originalLanguage": "en",
+  "originalPrompt": "A god hand grabs a huge boulder from a mountain and throws it toward an enemy settlement, the camera follows the rock through the air before it crashes outside the city walls, villagers running in panic, dramatic but playful god-simulation presentation.",
+  "originalPromptSha256": "2fc556227ba8968b8b0abe8b6274c170ccfcc199deaae48bef2de8c5d7193c5c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "A god hurls a mountain boulder",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112121385690554368",
+    "url": "https://video.twimg.com/amplify_video/2112121385690554368/vid/avc1/1280x720/KqQZRXBtcjlVzzR-.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2112121385690554368/vid/avc1/1280x720/KqQZRXBtcjlVzzR-.mp4?tag=29",
+    "sourceUrl": "https://x.com/Alin_Reaper05/status/2112122587333493236",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112121385690554368/img/rS5O3OqvJ6JMJcPF.jpg",
+    "durationSecondsReported": 25.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-19T10:04:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

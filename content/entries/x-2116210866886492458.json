@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116210866886492458",
+  "slug": "kling-and-seedance-versions-rainy-rooftop-ballet",
+  "title": {
+    "en": "Kling and Seedance versions: rainy rooftop ballet",
+    "zh": "Kling 与 Seedance 版本对比：雨夜屋顶芭蕾"
+  },
+  "description": {
+    "en": "Kling and Seedance versions: rainy rooftop ballet — original prompt by @openclipsai.",
+    "zh": "Kling 与 Seedance 版本对比：雨夜屋顶芭蕾，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2116190896060502059",
+    "sourceTextOriginal": "Kling 4.0 costs twice as much as Kling 3.0. Is the new version actually worth it? 🩰\n\nWe gave the old and new versions of Kling and Seedance the exact same prompt: a ballerina on a rooftop in the rain, a pirouette, a leap over a puddle and an arabesque against the city lights.\n\nKling 4.0: $1.32\nKling 3.0: $0.63\nSeedance 2.5: $1.15\nSeedance 2.0: $0.76\n\nOld or new, which one would you pick? The full prompt is in the comments 👇\n\n*price per 10s clip at 720p on OpenClips MAX"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2116210866886492458",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2116190896060502059",
+  "conversationId": "2116190896060502059",
+  "originalLanguage": "en",
+  "originalPrompt": "Cinematic one-shot, 10 seconds, 16:9, photorealistic. One continuous slow orbiting camera move around one dancer, no cuts. Crisp, sharp image.\n\nCHARACTER: a young ballerina in her twenties, hair in a tight bun, a flowing white chiffon dress to the knee, pale pink pointe shoes. Calm, focused, graceful.\n\nSETTING: a flat rooftop at night in heavy rain, the wet concrete reflecting the warm city lights and neon signs of the skyline behind her.\n\n0-2s: she stands still on the rooftop in fifth position, eyes closed, rain falling around her. The camera begins a slow orbit from her front.2-5s: she rises onto pointe and spins into a fast pirouette, her dress flaring out, rain droplets flying off the chiffon in a spiral of light.\n\n5-8s: she leaps into a grand jeté across a shallow puddle, legs fully extended in the air, and lands softly, the puddle splashing up around her pointe shoes in slow, heavy drops.\n\n8-10s END STATE: she finishes in an arabesque, one leg extended behind her, arms reaching toward the skyline, completely still while the rain keeps falling and the camera completes its orbit to her profile. Hold. \n\nEvery movement has real weight: her body moves with real momentum on each jump, the chiffon dress swings and flares with every turn, water splashes with real physics.\n\nLight: cold blue rain, warm amber city glow, sharp highlights on every raindrop.\n\nSound: heavy rain on concrete, distant city traffic, the soft scuff of pointe shoes, a splash as she lands, wind. No music, no dialogue.",
+  "originalPromptSha256": "b4e18d1c2c897d2828c2cf643e9e9883c6e6abf04fa23d5fe109ce7d1f03c45a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Kling and Seedance versions: rainy rooftop ballet",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116176918290563072",
+    "url": "https://video.twimg.com/amplify_video/2116176918290563072/vid/avc1/1920x1080/9xknwhqGD2T5AH0q.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116176918290563072/vid/avc1/1920x1080/9xknwhqGD2T5AH0q.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2116190896060502059",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116176918290563072/img/F8K_bo4PYyJcLbCk.jpg",
+    "durationSecondsReported": 10.048,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-30T15:30:01Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

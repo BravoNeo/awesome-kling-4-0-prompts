@@ -145,7 +145,8 @@
       "type": "string",
       "enum": [
         "en",
-        "ja"
+        "ja",
+        "zh"
       ]
     },
     "originalPrompt": {
@@ -661,6 +662,9 @@
         "type": "string",
         "format": "uri"
       }
+    },
+    "showGuidance": {
+      "type": "boolean"
     }
   },
   "required": [

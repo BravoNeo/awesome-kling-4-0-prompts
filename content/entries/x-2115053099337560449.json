@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115053099337560449",
+  "slug": "kling-4-0-vs-seedance-2-5-autumn-lookbook",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: autumn lookbook",
+    "zh": "Kling 4.0 与 Seedance 2.5：秋日穿搭"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: autumn lookbook — original prompt by @YUNTJP.",
+    "zh": "Kling 4.0 与 Seedance 2.5：秋日穿搭，来自 @YUNTJP 的原始提示词。"
+  },
+  "author": {
+    "handle": "YUNTJP",
+    "url": "https://x.com/YUNTJP"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/YUNTJP/status/2115053099337560449",
+    "sourceTextOriginal": "Kling4.0 / Seedance2.5 比較動画\n秋Casual ルックブック風\n\nという感じの動画を比較してみました。\nプロンプトは同じです。\n\nKlingも動きが無いところはほぼ同じです。\nむしろその動きの起点となる瞬間はKlingの方が画像そのままでSeedance2.5の方は肌描写とかをより有機的に処理してる感じですね。これはSeedance2.5が出た時から顕著だったところであり、この部分を「良い」と感じる人も多いと思います。\n\nそして動くとやはり徐々にAI感が出てくるのがKlingの方ですね。\n笑顔も記号のような笑顔になります。\n一方Seedanceの方は笑顔の種類、グラデーションが広い印象です。\n\nなお、今回の生成では技術的にはキーフレームを使うというKlingが得意な方に寄せてますが、\n生成に選べる、\nフレームから or リファレンスから\nの選択はリファレンスから動画にしてます。\n\n理由はリファレンスから動画にすることでキーフレーム以外に参照用として画像を見せることができます。\n\nフレームから動画の方でキーフレームをたくさん使う方法はシーンの運び方として的確ですが、顔が正面を向いていない画像をキーフレームとする場合や遠くにいる画像をキーフレームとする場合はリファレンスが無いことが不安になりますよね。\nその場合はおすすめの方法になります。\n\nそしてその場合のキーフレームの役割、強度は\nどちらでやっても個人的には変わらないと感じてます。\n\n以下、プロンプトです。\nこのようにかなりシンプルでモデル任せな内容です。\n\n---------\n一人の女性キャラクターでルックブック風動画。\n\n参照画像の役割：\n<<<image_1>>>主体のキャラクターの顔を参照してください。顔以外の要素（衣裳、背景、ライティング、）は除外します。\n\n<<<image_2>>>主体キャラクターの体つきの参照用です。体つき以外の要素（衣裳、背景、ライティング、）は除外します。\n\n以下の画像は衣装用の参照画像です。\n<<<image_3>>>\n <<<image_4>>>\n <<<image_5>>> \n<<<image_6>>>\nシーンの詳細に準拠したファッション例です。あくまでも衣装の参照用でありそれ以外の要素は参照除外です。\n\nシーン詳細：\n4種類のファッションをYouTubeのルックブックのように\n一つ一つのファッションタイプ、コーディネイトを見せて、そのファッショに合うようなウォーキングやポーズを決める。\n1種類のファッションにつき3－4秒程度使い、\n衣装が切り替わる時はハードカットしてロケーションも変えて同じように繰り返す。それを4種類分。\n\n冒頭と終わりはclose-upショットで愛嬌ある微笑みを入れる。\n\nPhotoReal、人物の描写、肌の質感、物理法則は現実的に正確にすること。\n--------\n\n※なお、このプロンプトにはImage6にあたるファッションが見えるシーンが動画にはありません。\nX投稿の上での最適化として編集で削りました。"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/YUNTJP/status/2115053099337560449",
+  "videoSourceUrl": "https://x.com/YUNTJP/status/2115053099337560449",
+  "conversationId": "2115053099337560449",
+  "originalLanguage": "ja",
+  "originalPrompt": "一人の女性キャラクターでルックブック風動画。\n\n参照画像の役割：\n<<<image_1>>>主体のキャラクターの顔を参照してください。顔以外の要素（衣裳、背景、ライティング、）は除外します。\n\n<<<image_2>>>主体キャラクターの体つきの参照用です。体つき以外の要素（衣裳、背景、ライティング、）は除外します。\n\n以下の画像は衣装用の参照画像です。\n<<<image_3>>>\n <<<image_4>>>\n <<<image_5>>> \n<<<image_6>>>\nシーンの詳細に準拠したファッション例です。あくまでも衣装の参照用でありそれ以外の要素は参照除外です。\n\nシーン詳細：\n4種類のファッションをYouTubeのルックブックのように\n一つ一つのファッションタイプ、コーディネイトを見せて、そのファッショに合うようなウォーキングやポーズを決める。\n1種類のファッションにつき3－4秒程度使い、\n衣装が切り替わる時はハードカットしてロケーションも変えて同じように繰り返す。それを4種類分。\n\n冒頭と終わりはclose-upショットで愛嬌ある微笑みを入れる。\n\nPhotoReal、人物の描写、肌の質感、物理法則は現実的に正確にすること。",
+  "originalPromptSha256": "96e4675f6d10590b60c697dcb853ead6bf0a29b0af6b84ac0450eb1bfeae9c2d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: autumn lookbook",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115047262816788480",
+    "url": "https://video-s.twimg.com/amplify_video/2115047262816788480/vid/avc1/1440x1080/WPkchfLAq74X7yPf.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115047262816788480/vid/avc1/1440x1080/WPkchfLAq74X7yPf.mp4?tag=29",
+    "sourceUrl": "https://x.com/YUNTJP/status/2115053099337560449",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115047262816788480/img/zfHpC5_qzt6l6jcZ.jpg",
+    "durationSecondsReported": 16.768,
+    "aspectRatioReported": [
+      4,
+      3
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T12:08:49Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

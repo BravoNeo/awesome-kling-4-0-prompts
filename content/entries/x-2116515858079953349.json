@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116515858079953349",
+  "slug": "voxel-monsters-go-trick-or-treating",
+  "title": {
+    "en": "Voxel monsters go trick-or-treating",
+    "zh": "方块怪物讨糖果"
+  },
+  "description": {
+    "en": "Voxel monsters go trick-or-treating — original prompt by @SocialSight.",
+    "zh": "方块怪物讨糖果，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2116515858079953349",
+    "sourceTextOriginal": "Video 1: Trick or Treat (Made with Kling 4.0)\n\nPrompt: 👇 \n\nFormat: 1:1, 15 seconds. Style: blocky voxel video game world, where everything is built from cubes: square trees, cube-shaped clouds, pixelated textures, flat lighting with glowing orange torches. Original blocky monsters, not based on any existing game.\n0-3s (HOOK): Night falls in a blocky village. The square sun drops behind cube hills and torches flicker on. A blocky farmer with a square head quickly carves a cube pumpkin into a jack-o'-lantern and places it by his door.\n3-6s: Out of the dark forest, original blocky monsters wobble out: a tall bat-winged block creature, a stack of glowing green cube slimes, and a skeleton made of white square bones.\n6-10s: The monsters march toward the village. The farmer hides behind his door, peeking out.\n10-13s: The monsters stop at his doorstep. They each hold up a blocky candy bucket, waiting.\n13-15s (BUTTON): The farmer opens the door and drops a cube-shaped candy into each bucket. The monsters happily wobble off to the next house.\nCamera: wide side view of the village, then a slow push-in to the doorstep.\nMusic: cheerful 8-bit chiptune with a spooky minor-key twist."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2116515858079953349",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2116515855534088702",
+  "conversationId": "2116515855534088702",
+  "originalLanguage": "en",
+  "originalPrompt": "Format: 1:1, 15 seconds. Style: blocky voxel video game world, where everything is built from cubes: square trees, cube-shaped clouds, pixelated textures, flat lighting with glowing orange torches. Original blocky monsters, not based on any existing game.\n0-3s (HOOK): Night falls in a blocky village. The square sun drops behind cube hills and torches flicker on. A blocky farmer with a square head quickly carves a cube pumpkin into a jack-o'-lantern and places it by his door.\n3-6s: Out of the dark forest, original blocky monsters wobble out: a tall bat-winged block creature, a stack of glowing green cube slimes, and a skeleton made of white square bones.\n6-10s: The monsters march toward the village. The farmer hides behind his door, peeking out.\n10-13s: The monsters stop at his doorstep. They each hold up a blocky candy bucket, waiting.\n13-15s (BUTTON): The farmer opens the door and drops a cube-shaped candy into each bucket. The monsters happily wobble off to the next house.\nCamera: wide side view of the village, then a slow push-in to the doorstep.\nMusic: cheerful 8-bit chiptune with a spooky minor-key twist.",
+  "originalPromptSha256": "e91810825fb94b157ed57cc25a749317241f5a9b645f4d1a67902a39753b664f",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Voxel monsters go trick-or-treating",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116515831358083072",
+    "url": "https://video-s.twimg.com/ext_tw_video/2116515831358083072/pu/vid/avc1/720x720/FXfZAorbOrZpX4o5.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2116515831358083072/pu/vid/avc1/720x720/FXfZAorbOrZpX4o5.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2116515855534088702",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2116515831358083072/pu/img/ydkyHTEAG0p1-Xhz.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      1,
+      1
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T13:01:17Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

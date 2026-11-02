@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117008462701810159",
+  "slug": "alien-shooter-at-a-neon-spaceport",
+  "title": {
+    "en": "Alien shooter at a neon spaceport",
+    "zh": "霓虹太空港异星射击"
+  },
+  "description": {
+    "en": "Alien shooter at a neon spaceport — original prompt by @aymducking.",
+    "zh": "霓虹太空港异星射击，来自 @aymducking 的原始提示词。"
+  },
+  "author": {
+    "handle": "aymducking",
+    "url": "https://x.com/aymducking"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/aymducking/status/2117008459967193226",
+    "sourceTextOriginal": "I just upgraded my AAA game with more visual effects. \n\nMade this using Kling 4.0 in @FishCreativeHQ x @FishAudio \n\nPrompt 👇 https://t.co/oOpSE2D0ep"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/aymducking/status/2117008462701810159",
+  "videoSourceUrl": "https://x.com/aymducking/status/2117008459967193226",
+  "conversationId": "2117008459967193226",
+  "originalLanguage": "en",
+  "originalPrompt": "15-second 16:9 1080p first-person gameplay recording of a competitive sci-fi alien-invasion shooter, squad vs. alien horde, captured from a PC screen. Next-gen graphics: rainy neon night, crisp PBR, wet reflective surfaces, high frame rate. The player’s purple armored gloves hold an original white-chrome plasma rifle with glowing hot-pink and teal energy coils, lower right of frame; rain beads and sizzles into steam on the hot coils. He wears a jetpack; teal thruster glow and rain-mist trails at frame edges when boosting. HUD off: only a small green crosshair. Snappy movement with peeks, strafes, jetpack boosts and precise flicks. One continuous fight, no cuts.\n\nSetting: neon-drenched futuristic cliffside spaceport above a dark canyon during a heavy rainstorm at night, original map. Black-glass hangars with magenta and cyan neon strips, landing pads with pulsing teal edge lights, cargo shuttles, hover-crates, fuel canisters, catwalks, a glass sky bridge, radar dishes, flickering holographic signs of abstract shapes. Purple storm clouds, lightning flashes, puddles mirroring neon, rain streaking through light beams, drifting fog.\n\nEnemies are original alien creatures: tall, slick, four-armed insectoid aliens with bioluminescent acid-green veins and glowing eyes, some with leathery wings. They spit green plasma bolts and leap or glide between platforms. When hit they burst into glowing green goo and sparks.\n\n[00:00–00:02] He strafes out from a hover-crate and drops an alien at the hangar entrance with a plasma burst; it ragdolls in a splash of glowing green goo that hisses on the wet ground.\n[00:02–00:04] Wide-swings around a shuttle as green plasma bolts streak past through the rain and two-taps an alien crawling behind its landing gear, neon sparks scattering.\n[00:04–00:06] Shoots a fuel canister beside an alien on a catwalk; a magenta fireball with an expanding cyan energy ring blasts it off, rain flash-evaporating into a steam cloud.\n[00:06–00:08] Jetpacks up to a higher pad through sheets of rain and swaps energy cells mid-air with a glowing steam puff, a lightning bolt lighting the sky behind.\n[00:08–00:10] Two winged aliens swoop up out of the canyon; he taps one mid-air, it shrieks, wings shredding into green embers, and spirals down into the canyon.\n[00:10–00:11] Throws a plasma grenade that sticks to a radar dish and detonates in a pink-white shockwave with electric arcs crackling across the wet metal, launching the second alien.\n[00:11–00:13] Two aliens charge across the glass sky bridge; he boosts sideways and taps both down as glass cracks and neon reflections shatter across it.\n[00:13–00:15] Wave cleared. Alone at the pad’s edge in the pouring rain, he looks down at the glowing canyon as lightning flashes, then inspects his rifle with a flip animation, coils pulsing and steaming.\nStyle: authentic high-skill gameplay footage caught on stream, confident clean play, stable camera with natural bob, recoil and jetpack sway. Heavy VFX: volumetric neon light shafts through rain, rain droplets on the lens edges, lens flares, chromatic glow bloom, particle sparks, energy trails, heat distortion, glowing goo splatter, electric arcs, steam and fog. No text, logos, watermark or IP characters, creatures, weapons or maps.\nAudio: heavy rain and thunder, electric plasma bursts, wet sizzling impacts, alien shrieks and clicks, spitting plasma bolts, jetpack whooshes, footsteps splashing on metal and glass, deep explosion booms, crackling electricity, grenade beep, steam-hiss reload, short wave-cleared sting. No dialogue.",
+  "originalPromptSha256": "7beb39e0d5b49c5dfed49721b6b75674afa79f3a42b43fe808a2750a237dcb62",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Alien shooter at a neon spaceport",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2117008430481219584",
+    "url": "https://video.twimg.com/amplify_video/2117008430481219584/vid/avc1/1280x720/lZHj7GfZd8QZ7LOV.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117008430481219584/vid/avc1/1280x720/lZHj7GfZd8QZ7LOV.mp4?tag=29",
+    "sourceUrl": "https://x.com/aymducking/status/2117008459967193226",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117008430481219584/img/9_JKXzij2UvHd-P5.jpg",
+    "durationSecondsReported": 15.092,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-01T21:38:43Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

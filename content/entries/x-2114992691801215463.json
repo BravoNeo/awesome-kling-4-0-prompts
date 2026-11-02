@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114992691801215463",
+  "slug": "janes-wasteland-freerunning",
+  "title": {
+    "en": "Jane’s wasteland freerunning",
+    "zh": "简的废土跑酷"
+  },
+  "description": {
+    "en": "Jane’s wasteland freerunning — original prompt by @DjajaYerry75.",
+    "zh": "简的废土跑酷，来自 @DjajaYerry75 的原始提示词。"
+  },
+  "author": {
+    "handle": "DjajaYerry75",
+    "url": "https://x.com/DjajaYerry75"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/DjajaYerry75/status/2114992691801215463",
+    "sourceTextOriginal": "I2V with Kling 4.0 in @Kling_ai \n\nPrompt:\nJANE — WASTELAND FREERUNNING\n\n[DURATION & RATIO]\nTotal duration: 30 seconds\nAspect ratio: 16:9\nResolution: 1080p\nStyle: Photorealistic live-action cinematic parkour\n[CHARACTER & ENVIRONMENT]\nThe protagonist is Jane from the attached Wasteland Explorer character sheet. Preserve her exact facial identity, green eyes, brunette vintage victory-roll hairstyle, physique, weathered Fallout-style outfit, backpack, utility belts, wrist device, and rugged boots.\nUse the attached wasteland environment sheet as the location reference. The setting is a vast post-apocalyptic city of collapsed highways, ruined skyscrapers, crumbling rooftops, rusted industrial structures, abandoned vehicles, broken concrete, and dust-covered alleys. Muted charcoal, rust brown, faded steel, and dusty amber sunlight.\n16 rapid cinematic cuts. Jane performs elite freerunning through the ruins, maintaining continuous momentum and realistic biomechanics.\n[CUT 01 | 00:00–00:01.60]\nLow rear follow shot. Jane instantly accelerates and executes a kong vault over a broken concrete barrier. Grit scatters from her takeoff and landing.\n\n[CUT 02 | .60–00:03.40]\nFront low-angle tracking shot. She performs a wall-run and tic-tac against a fractured wall, jumping onto the opposite rooftop. Loose masonry crumbles beneath her push-off.\n[CUT 03 | .40–00:05.20]\nHorizontal tracking shot. Jane precision-jumps onto a narrow concrete ledge, performs a cat leap to a higher wall, catches its edge, and climbs up as small stones tumble below.\n\n[CUT 04 | .20–00:07.00]\nRooftop follow shot. She dash-vaults a rusted ventilation unit, then performs a running Webster across a narrow gap, landing with bent knees and immediately sprinting onward.\n\n[CUT 05 | .00–00:08.80]\nOverhead moving camera. Jane drops into a dive roll across dusty rubble, rises without stopping, then speed-vaults over a rusted handrail. Metal rattles from physical contact.\n\n[CUT 06 | .80–00:10.60]\nFront-facing handheld retreat. She performs an underbar through a collapsed structure, then transitions directly into a sideflip over concrete debris. Fabric and backpack straps react naturally to motion.\n[CUT 07 | .60–00:12.40]\nDrone shot from diagonally behind and above. Jane uses a controlled palm spin around a sturdy pillar, kong-vaults a broken barrier, and accelerates toward staggered rooftop platforms.\n[CUT 08 | .40–00:14.20]\nLow lateral tracking shot. Jane executes three rapid precision jumps across uneven concrete platforms. Loose gravel falls from each takeoff point as she changes direction.\n\n[CUT 09 | .20–00:16.00]\nThree-quarter front tracking shot. She performs a wall spin around a damaged concrete corner and lands on a narrow elevated walkway. Dust drifts through warm sunlight.\n[CUT 10 | .00–00:17.80]\nSide-follow shot with strong parallax. Jane performs a lazy vault over a corroded railing, then precision-jumps onto a neighboring ledge. The railing vibrates briefly after contact.\n[CUT 11 | .80–00:19.60]\nHigh-angle descending camera. She drops from the ledge, executes a compact aerial rotation, and lands in a controlled dive roll. Dust and grit scatter as she rises into a sprint through a ruined alley.\n\n[CUT 12 | .60–00:21.40]\nFast front three-quarter tracking shot. Jane speed-vaults a broken concrete barrier, transitions into an aerial cartwheel over scattered debris, and lands running toward an industrial rooftop.\n[CUT 13 | .40–00:23.20]\nDrone shot descending from behind. Jane traverses a narrow rusted rail with controlled balance, jumps to a lower platform, and performs a corkscrew-style aerial rotation over a clear landing zone.\n[CUT 14 | .20–00:25.00]\nLow-angle tracking shot. Jane sprints up a sloped concrete slab, plants one foot against a sturdy wall, rebounds into a backflip, and lands on a broad platform. A collapsed highway gap appears ahead.\n\n[CUT 15 | .00–00:27.50]\nClimactic side-follow shot transitioning into a controlled camera orbit. Jane takes three powerful strides and launches across the major rooftop gap, executing a high corkscrew aerial. Brief selective speed ramp at the apex. She lands firmly on the opposite rooftop; dust and loose gravel burst outward from the impact.\n[CUT 16 | .50–00:30.00]\nLow front tracking shot transitions into a wide rear view. Jane converts her landing into a sprint, vaults one final piece of rubble, and runs deeper into the ruined city. The camera swings behind her, revealing collapsed highways and skeletal skyscrapers. End with Jane still running at full speed.\n[CHOREOGRAPHY & PHYSICAL VFX]\nChain every movement through momentum: takeoff, flight, contact, recoil, landing, recovery, acceleration. Use realistic center-of-gravity shifts, planted feet, accurate grips, and believable airborne trajectories.\n\nDust, grit, gravel, rust flakes, falling masonry, vibrating rails, and flexing sheet metal must originate from actual contact or disturbed structures. Environmental damage accumulates and never resets between shots. Debris follows gravity. Preserve realistic physical weight.\nDynamic tracking, low-angle follow shots, aerial camera movement, strong parallax, natural motion blur at high speed, and subtle impact camera shake. Keep stunt movements readable and maintain consistent spatial direction.\nAudio: diegetic ambience only—wind through ruins, boots on concrete, gravel impacts, metal rattles, fabric movement, and distant structural creaks. No background music.\n\n[STRICT NEGATIVES]\nNo character identity or outfit changes. No hairstyle changes, face distortion, duplicate bodies, extra limbs, clipping, warped anatomy, teleportation, levitation, impossible mid-air direction changes, weightless landings, or unexplained destruction. No magic aura, energy beams, shockwave rings, spatial rifts, or artificial afterimage duplicates. No passing through solid objects or electrical wires. No anime, video-game rendering, or obvious CGI.\nFinal result: A relentless, physically grounded 30-second wasteland parkour showcase with escalating acrobatics, environmental cause-and-effect, cinematic camera choreography, and a spectacular rooftop-gap finale.\n\n#Fallout #Parkour #AIArt #AIVideo #PostApocalyptic"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/DjajaYerry75/status/2114992691801215463",
+  "videoSourceUrl": "https://x.com/DjajaYerry75/status/2114992691801215463",
+  "conversationId": "2114992691801215463",
+  "originalLanguage": "en",
+  "originalPrompt": "JANE — WASTELAND FREERUNNING\n\n[DURATION & RATIO]\nTotal duration: 30 seconds\nAspect ratio: 16:9\nResolution: 1080p\nStyle: Photorealistic live-action cinematic parkour\n[CHARACTER & ENVIRONMENT]\nThe protagonist is Jane from the attached Wasteland Explorer character sheet. Preserve her exact facial identity, green eyes, brunette vintage victory-roll hairstyle, physique, weathered Fallout-style outfit, backpack, utility belts, wrist device, and rugged boots.\nUse the attached wasteland environment sheet as the location reference. The setting is a vast post-apocalyptic city of collapsed highways, ruined skyscrapers, crumbling rooftops, rusted industrial structures, abandoned vehicles, broken concrete, and dust-covered alleys. Muted charcoal, rust brown, faded steel, and dusty amber sunlight.\n16 rapid cinematic cuts. Jane performs elite freerunning through the ruins, maintaining continuous momentum and realistic biomechanics.\n[CUT 01 | 00:00–00:01.60]\nLow rear follow shot. Jane instantly accelerates and executes a kong vault over a broken concrete barrier. Grit scatters from her takeoff and landing.\n\n[CUT 02 | .60–00:03.40]\nFront low-angle tracking shot. She performs a wall-run and tic-tac against a fractured wall, jumping onto the opposite rooftop. Loose masonry crumbles beneath her push-off.\n[CUT 03 | .40–00:05.20]\nHorizontal tracking shot. Jane precision-jumps onto a narrow concrete ledge, performs a cat leap to a higher wall, catches its edge, and climbs up as small stones tumble below.\n\n[CUT 04 | .20–00:07.00]\nRooftop follow shot. She dash-vaults a rusted ventilation unit, then performs a running Webster across a narrow gap, landing with bent knees and immediately sprinting onward.\n\n[CUT 05 | .00–00:08.80]\nOverhead moving camera. Jane drops into a dive roll across dusty rubble, rises without stopping, then speed-vaults over a rusted handrail. Metal rattles from physical contact.\n\n[CUT 06 | .80–00:10.60]\nFront-facing handheld retreat. She performs an underbar through a collapsed structure, then transitions directly into a sideflip over concrete debris. Fabric and backpack straps react naturally to motion.\n[CUT 07 | .60–00:12.40]\nDrone shot from diagonally behind and above. Jane uses a controlled palm spin around a sturdy pillar, kong-vaults a broken barrier, and accelerates toward staggered rooftop platforms.\n[CUT 08 | .40–00:14.20]\nLow lateral tracking shot. Jane executes three rapid precision jumps across uneven concrete platforms. Loose gravel falls from each takeoff point as she changes direction.\n\n[CUT 09 | .20–00:16.00]\nThree-quarter front tracking shot. She performs a wall spin around a damaged concrete corner and lands on a narrow elevated walkway. Dust drifts through warm sunlight.\n[CUT 10 | .00–00:17.80]\nSide-follow shot with strong parallax. Jane performs a lazy vault over a corroded railing, then precision-jumps onto a neighboring ledge. The railing vibrates briefly after contact.\n[CUT 11 | .80–00:19.60]\nHigh-angle descending camera. She drops from the ledge, executes a compact aerial rotation, and lands in a controlled dive roll. Dust and grit scatter as she rises into a sprint through a ruined alley.\n\n[CUT 12 | .60–00:21.40]\nFast front three-quarter tracking shot. Jane speed-vaults a broken concrete barrier, transitions into an aerial cartwheel over scattered debris, and lands running toward an industrial rooftop.\n[CUT 13 | .40–00:23.20]\nDrone shot descending from behind. Jane traverses a narrow rusted rail with controlled balance, jumps to a lower platform, and performs a corkscrew-style aerial rotation over a clear landing zone.\n[CUT 14 | .20–00:25.00]\nLow-angle tracking shot. Jane sprints up a sloped concrete slab, plants one foot against a sturdy wall, rebounds into a backflip, and lands on a broad platform. A collapsed highway gap appears ahead.\n\n[CUT 15 | .00–00:27.50]\nClimactic side-follow shot transitioning into a controlled camera orbit. Jane takes three powerful strides and launches across the major rooftop gap, executing a high corkscrew aerial. Brief selective speed ramp at the apex. She lands firmly on the opposite rooftop; dust and loose gravel burst outward from the impact.\n[CUT 16 | .50–00:30.00]\nLow front tracking shot transitions into a wide rear view. Jane converts her landing into a sprint, vaults one final piece of rubble, and runs deeper into the ruined city. The camera swings behind her, revealing collapsed highways and skeletal skyscrapers. End with Jane still running at full speed.\n[CHOREOGRAPHY & PHYSICAL VFX]\nChain every movement through momentum: takeoff, flight, contact, recoil, landing, recovery, acceleration. Use realistic center-of-gravity shifts, planted feet, accurate grips, and believable airborne trajectories.\n\nDust, grit, gravel, rust flakes, falling masonry, vibrating rails, and flexing sheet metal must originate from actual contact or disturbed structures. Environmental damage accumulates and never resets between shots. Debris follows gravity. Preserve realistic physical weight.\nDynamic tracking, low-angle follow shots, aerial camera movement, strong parallax, natural motion blur at high speed, and subtle impact camera shake. Keep stunt movements readable and maintain consistent spatial direction.\nAudio: diegetic ambience only—wind through ruins, boots on concrete, gravel impacts, metal rattles, fabric movement, and distant structural creaks. No background music.\n\n[STRICT NEGATIVES]\nNo character identity or outfit changes. No hairstyle changes, face distortion, duplicate bodies, extra limbs, clipping, warped anatomy, teleportation, levitation, impossible mid-air direction changes, weightless landings, or unexplained destruction. No magic aura, energy beams, shockwave rings, spatial rifts, or artificial afterimage duplicates. No passing through solid objects or electrical wires. No anime, video-game rendering, or obvious CGI.\nFinal result: A relentless, physically grounded 30-second wasteland parkour showcase with escalating acrobatics, environmental cause-and-effect, cinematic camera choreography, and a spectacular rooftop-gap finale.",
+  "originalPromptSha256": "e90d14bed07a5afa1d8444996e9e091d94ef344bdc68e345401d2f6f90d677ad",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Jane’s wasteland freerunning",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2114986927648800768",
+    "url": "https://video.twimg.com/amplify_video/2114986927648800768/vid/avc1/1920x1080/JrnySG28t7YyyhRf.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2114986927648800768/vid/avc1/1920x1080/JrnySG28t7YyyhRf.mp4?tag=29",
+    "sourceUrl": "https://x.com/DjajaYerry75/status/2114992691801215463",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114986927648800768/img/wAessijXTQB1FB8I.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T08:08:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

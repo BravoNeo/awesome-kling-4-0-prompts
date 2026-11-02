@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113234965236449310",
+  "slug": "kling-4-0-vs-seedance-2-5-closing-the-chandlery",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: closing the chandlery",
+    "zh": "Kling 4.0 与 Seedance 2.5：船具店打烊"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: closing the chandlery — original prompt by @sebatheepan.",
+    "zh": "Kling 4.0 与 Seedance 2.5：船具店打烊，来自 @sebatheepan 的原始提示词。"
+  },
+  "author": {
+    "handle": "sebatheepan",
+    "url": "https://x.com/sebatheepan"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/sebatheepan/status/2113234961620967557",
+    "sourceTextOriginal": "Kling 4.0 vs seedance 2.5\n\nTest 2  character consistency. same prompt same settings \n\nSix shots follow one invented woman from a chandlery counter to a wet quay  close, wide, silhouette, and one inverted reflection in a steel shutter.\n\nNo reference image: each model has to build her from the words alone. Does she stay one person?\n@Kling_ai"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/sebatheepan/status/2113234965236449310",
+  "videoSourceUrl": "https://x.com/sebatheepan/status/2113234961620967557",
+  "conversationId": "2113234961620967557",
+  "originalLanguage": "en",
+  "originalPrompt": "A chandlery closes for the night and the woman who runs it walks out along a wet quay alone.\n\nShot 1 - 0.0s to 5.0s - MS, eye level across a shop counter, locked-off.\n\nThe interior of a ship's chandlery at dusk: bare bulbs, coils of tarred rope hung in loops, brass shackles in a wooden tray. A woman in her late thirties works along the shelf at frame right, counting shackles into her palm. She has deep brown skin, cropped silver-grey hair, and a small scar through her left eyebrow. She wears a faded red canvas work jacket with a torn right cuff and a brass boat-hook clasp at the throat.\n\nAt 2.4s she taps the clasp twice against her palm, thinking, then returns to counting. Her face is turned three-quarters to camera and in focus.\n\nHard cut.\n\nShot 2 - 5.0s to 10.0s - CU, eye level, locked-off, her face filling the right two thirds.\n\nThe same woman: same deep brown skin, same cropped silver-grey hair, same small scar through the left eyebrow, same faded red canvas jacket at the frame's lower edge. She reads a paper ledger by lamplight, and the bulb's warm light sits on the left side of her face while the shop's shadow takes the right.\n\nAt 6.8s she frowns at a figure in the column, and at 8.1s she licks her thumb and turns the page. Her hands stay visible at the frame's bottom edge.\n\nHard cut.\n\nShot 3 - 10.0s to 15.0s - MWS, low angle in the shop doorway looking out, locked-off.\n\nThe same woman - same silver-grey hair, same scar through the left eyebrow, same red canvas jacket with the torn right cuff - pulls a steel roller shutter down in front of her. The shutter travels down in one continuous run and its slats catch the shop's bulb light in a single moving band.\n\nAt 13.0s she is visible only as a reflection in the shutter's grey paint, inverted and cut off at the chest, and the reflection is still wearing the same red jacket. The shutter lands at 14.2s and the reflection is gone.\n\nHard cut.\n\nShot 4 - 15.0s to 20.0s - MS, low angle from behind and slightly left, gimbal, over-shoulder.\n\nShe walks away from camera along a wet stone quay - the same cropped silver-grey hair, short at the nape, the same red canvas jacket across her shoulders, its torn right cuff catching the wind.\n\nRain falls in fine lines and the quay carries one long reflection of a harbour lamp. Her pace is even, one boot landing per second, and she does not turn.\n\nHard cut.\n\nShot 5 - 20.0s to 25.0s - MCU, eye level, handheld, moving ahead of her and walking backwards.\n\nShe stops at 21.0s and looks back over her left shoulder toward the town - the same face, the same silver-grey hair flattened by rain, the same small scar through the left eyebrow, the same red canvas jacket now soaked darker at the shoulders.\n\nAt 22.6s a passing boat's lamp sweeps across her from frame left to right, lighting her face in full and then leaving it in shadow. She exhales once and turns forward again.\n\nHard cut.\n\nShot 6 - 25.0s to 30.0s - EWS, high angle looking down from a warehouse roof, locked-off.\n\nThe quay runs diagonally across the frame as a wet dark line between the black channel and the shuttered shops. One small figure walks its length away from camera - silver-grey hair the only pale thing in the frame, the red jacket the only warm colour - reaching the far edge at 29.0s and going out of it.\n\nNothing else moves except the rain and the water.\n\nCamera law:\n\n40mm spherical throughout, with shallow focus on her face in shots one, two and five; the mount family is locked-off for shots one, two, three and six, gimbal over-shoulder for shot four and handheld for shot five; height sits at her eye level in every shot except the last, which looks down from above; 180 degree motion blur.\n\nAnti-default:\n\nThe shutter's reflection of her in shot three is inverted and cut off at the chest, and no shot is centred on her face.\n\nGrade and audio:\n\nEmber-night palette - wet stone grey, red jacket, one warm bulb - contrast soft lifted blacks. Key light is the bare shop bulb in shots one to three and a harbour lamp in shots four to six, halation blooming in the rain.\n\nAudio: rain on stone and tin as the bed under five diegetic events - shackles knocking in a tray, a ledger page turning, a steel shutter running down and landing, boots on wet stone, and one distant boat horn.\n\nConstraints:\n\nCount of people in frame: one.\n\nCount of shots in which her face is clearly visible: three.\n\nCount of wardrobe changes across the clip: zero.\n\nCount of logos, insignia or legible lettering: zero.\n\nNo music, no score, no bgm.\n\nNo subtitles.",
+  "originalPromptSha256": "3b91256875601210a36368a29730189cab9c20070378e0a0566753e4f7253bd0",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: closing the chandlery",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2113233723550539776",
+    "url": "https://video.twimg.com/amplify_video/2113233723550539776/vid/avc1/1706x1920/tp7uKb_ZGxGVtbY1.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113233723550539776/vid/avc1/1706x1920/tp7uKb_ZGxGVtbY1.mp4?tag=29",
+    "sourceUrl": "https://x.com/sebatheepan/status/2113234961620967557",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113233723550539776/img/u6lQK99KwTb65qp1.jpg",
+    "durationSecondsReported": 61.387,
+    "aspectRatioReported": [
+      853,
+      960
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-22T11:44:11Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

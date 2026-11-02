@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115717158516953475",
+  "slug": "a-broomstick-comedy-on-halloween",
+  "title": {
+    "en": "A broomstick comedy on Halloween",
+    "zh": "万圣节飞天扫帚喜剧"
+  },
+  "description": {
+    "en": "A broomstick comedy on Halloween — original prompt by @MissDelulu9.",
+    "zh": "万圣节飞天扫帚喜剧，来自 @MissDelulu9 的原始提示词。"
+  },
+  "author": {
+    "handle": "MissDelulu9",
+    "url": "https://x.com/MissDelulu9"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/MissDelulu9/status/2115717158516953475",
+    "sourceTextOriginal": "Mr. Bean being Mr. Bean 🫠\n\nCreated using Kling 4.0 via @atlas_cloud_ai\n\nPrompt:\n\nCreate an exactly 10-second, ultra-realistic 9:16 vertical comedy video featuring Mr. Bean, preserving his recognizable face, facial features, body proportions, classic brown tweed jacket, white shirt, red tie, and dark trousers.\n\nScene & Camera: A deserted suburban road at night, with Halloween pumpkins, spooky roadside decorations, and light drifting fog. Use one continuous wide shot from a camera positioned far away on the road. The camera smoothly pans to follow Mr. Bean's movement.\n\nAction Sequence:\n\n0–2 seconds: Mr. Bean stands at the far end of the road, holding a broom. He looks around suspiciously, then runs forward to build momentum.\n\n2–4 seconds: He jumps onto the broom, sits on it awkwardly, and magically takes off flying above the road, looking straight ahead with a serious, determined expression.\n\n4–6 seconds: Mr. Bean flies rapidly toward and past the camera. He turns his face toward the camera, raises one hand, flashes a V sign, and smiles proudly while riding the broom.\n\n6–8 seconds: Distracted by his pose, he fails to notice a large roadside sign on the sidewalk and crashes into it with a loud comedic THUD. His head bumps the sign, he tumbles onto the ground, and the sign falls over beside him. The broom drops to the ground too.\n\n8–10 seconds: Mr. Bean lies stunned for a moment, holds his forehead in pain, makes a confused, embarrassed expression, and struggles to get back up.\n\nVisual Style: Photorealistic live-action appearance, classic Mr. Bean physical comedy, believable flying motion, realistic impact physics, expressive facial reactions, cinematic night lighting, and smooth camera panning.\n\nAudio: Natural running footsteps, magical broom whoosh, rushing air, a loud comedic crash, the sign clattering to the ground, and Mr. Bean's subtle pain reaction. No dialogue, no narration, no music, no on-screen text, and no watermark."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/MissDelulu9/status/2115717158516953475",
+  "videoSourceUrl": "https://x.com/MissDelulu9/status/2115717158516953475",
+  "conversationId": "2115717158516953475",
+  "originalLanguage": "en",
+  "originalPrompt": "Create an exactly 10-second, ultra-realistic 9:16 vertical comedy video featuring Mr. Bean, preserving his recognizable face, facial features, body proportions, classic brown tweed jacket, white shirt, red tie, and dark trousers.\n\nScene & Camera: A deserted suburban road at night, with Halloween pumpkins, spooky roadside decorations, and light drifting fog. Use one continuous wide shot from a camera positioned far away on the road. The camera smoothly pans to follow Mr. Bean's movement.\n\nAction Sequence:\n\n0–2 seconds: Mr. Bean stands at the far end of the road, holding a broom. He looks around suspiciously, then runs forward to build momentum.\n\n2–4 seconds: He jumps onto the broom, sits on it awkwardly, and magically takes off flying above the road, looking straight ahead with a serious, determined expression.\n\n4–6 seconds: Mr. Bean flies rapidly toward and past the camera. He turns his face toward the camera, raises one hand, flashes a V sign, and smiles proudly while riding the broom.\n\n6–8 seconds: Distracted by his pose, he fails to notice a large roadside sign on the sidewalk and crashes into it with a loud comedic THUD. His head bumps the sign, he tumbles onto the ground, and the sign falls over beside him. The broom drops to the ground too.\n\n8–10 seconds: Mr. Bean lies stunned for a moment, holds his forehead in pain, makes a confused, embarrassed expression, and struggles to get back up.\n\nVisual Style: Photorealistic live-action appearance, classic Mr. Bean physical comedy, believable flying motion, realistic impact physics, expressive facial reactions, cinematic night lighting, and smooth camera panning.\n\nAudio: Natural running footsteps, magical broom whoosh, rushing air, a loud comedic crash, the sign clattering to the ground, and Mr. Bean's subtle pain reaction. No dialogue, no narration, no music, no on-screen text, and no watermark.",
+  "originalPromptSha256": "d6959048cebd455d10baf72d8924c68f6207d529bbb4c96a51af646ffbf6bbca",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A broomstick comedy on Halloween",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115717118813696000",
+    "url": "https://video.twimg.com/amplify_video/2115717118813696000/vid/avc1/720x1280/mAKbhIPuHYOZYO07.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115717118813696000/vid/avc1/720x1280/mAKbhIPuHYOZYO07.mp4?tag=29",
+    "sourceUrl": "https://x.com/MissDelulu9/status/2115717158516953475",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115717118813696000/img/AY2vCwX2jNsQg95V.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T08:07:33Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

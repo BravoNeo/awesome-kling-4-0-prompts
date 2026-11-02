@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116502720823865475",
+  "slug": "water-powered-bathroom-battle",
+  "title": {
+    "en": "Water-powered bathroom battle",
+    "zh": "水系战士浴室激战"
+  },
+  "description": {
+    "en": "Water-powered bathroom battle — original prompt by @itxabdullaa.",
+    "zh": "水系战士浴室激战，来自 @itxabdullaa 的原始提示词。"
+  },
+  "author": {
+    "handle": "itxabdullaa",
+    "url": "https://x.com/itxabdullaa"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itxabdullaa/status/2116502720823865475",
+    "sourceTextOriginal": "Six attackers. One warrior. One epic battle. ⚔️💧\n\nCreate without limits with Kling 4.0 on @PixVerse @PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\nPro members and above get Kling 4.0 access, while Ultra members enjoy unlimited zero-credit generation during the promotion.#PixVerseCPP\n\nPrompt:\nUltra-photorealistic Hollywood dark-fantasy action, ARRI Alexa 65 aesthetic.\n\nHERO: Use @image1 as exact female identity reference. Preserve face, hair and physique. Secure white towel throughout.\n\nENEMIES: Exactly six aggressive katana-wielding thugs based on @image2.\n\nLOCATION: Luxury marble bathroom, glass shower and bathtub filled with water and rose petals.\n\nACTION:\n\n0–5s: Six thugs storm in simultaneously. Hero dodges multiple sword attacks, ducks and pivots beside the bathtub. Japanese battle shouts.\n\n5–10s: Hero performs a backbend, spinning kick and elbow strike. Bathtub water rises and follows her movements.\n\n10–15s: Two enemies attack together. Hero briefly dissolves into shadow and reappears nearby. Their swords miss and they collide. Hero counterattacks.\n\n15–20s: Water spirals around Hero's arm, forming a flowing liquid Indonesian golok silhouette. Never solid. She repels one attacker and sends another through the glass shower. Realistic splashes and shattered glass.\n\n20–25s: Remaining thugs attack together. Hero performs a wall-assisted jump, three-hit aerial combination and throws an attacker into bathroom fixtures.\n\n25–30s: An injured thug activates a red communication device: 「標的を確認した。」\nIndonesian subtitle: Target terkonfirmasi.\n\nHero freezes airborne water and petals, turns toward him and says: 「相手を間違えたな。」\nIndonesian subtitle: Kalian salah memilih lawan.\n\nHeavy footsteps approach. Hero turns toward the entrance. End mid-action.\n\nVISUAL & AUDIO: Dynamic tracking, continuous realistic combat, expressive reactions, synchronized Japanese dialogue, sword impacts, glass breaking and water sounds.\n\nCONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and bathroom layout. Bathtub water decreases during manipulation. Hydro Cleaver remains liquid. No extra characters, duplicated bodies, solid water weapons, robotic movements, pauses, victory pose or fade-out."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/itxabdullaa/status/2116502720823865475",
+  "videoSourceUrl": "https://x.com/itxabdullaa/status/2116502720823865475",
+  "conversationId": "2116502720823865475",
+  "originalLanguage": "en",
+  "originalPrompt": "Ultra-photorealistic Hollywood dark-fantasy action, ARRI Alexa 65 aesthetic.\n\nHERO: Use @image1 as exact female identity reference. Preserve face, hair and physique. Secure white towel throughout.\n\nENEMIES: Exactly six aggressive katana-wielding thugs based on @image2.\n\nLOCATION: Luxury marble bathroom, glass shower and bathtub filled with water and rose petals.\n\nACTION:\n\n0–5s: Six thugs storm in simultaneously. Hero dodges multiple sword attacks, ducks and pivots beside the bathtub. Japanese battle shouts.\n\n5–10s: Hero performs a backbend, spinning kick and elbow strike. Bathtub water rises and follows her movements.\n\n10–15s: Two enemies attack together. Hero briefly dissolves into shadow and reappears nearby. Their swords miss and they collide. Hero counterattacks.\n\n15–20s: Water spirals around Hero's arm, forming a flowing liquid Indonesian golok silhouette. Never solid. She repels one attacker and sends another through the glass shower. Realistic splashes and shattered glass.\n\n20–25s: Remaining thugs attack together. Hero performs a wall-assisted jump, three-hit aerial combination and throws an attacker into bathroom fixtures.\n\n25–30s: An injured thug activates a red communication device: 「標的を確認した。」\nIndonesian subtitle: Target terkonfirmasi.\n\nHero freezes airborne water and petals, turns toward him and says: 「相手を間違えたな。」\nIndonesian subtitle: Kalian salah memilih lawan.\n\nHeavy footsteps approach. Hero turns toward the entrance. End mid-action.\n\nVISUAL & AUDIO: Dynamic tracking, continuous realistic combat, expressive reactions, synchronized Japanese dialogue, sword impacts, glass breaking and water sounds.\n\nCONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and bathroom layout. Bathtub water decreases during manipulation. Hydro Cleaver remains liquid. No extra characters, duplicated bodies, solid water weapons, robotic movements, pauses, victory pose or fade-out.",
+  "originalPromptSha256": "01906aec7d50cb19a96e0c3efe622df40268707f0bdbf5beeff2c1b2d2cdb652",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "martial-arts"
+    ]
+  },
+  "tags": [
+    "Water-powered bathroom battle",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116502665157083136",
+    "url": "https://video-s.twimg.com/amplify_video/2116502665157083136/vid/avc1/1080x720/bPkNnFIrrdUR09mh.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2116502665157083136/vid/avc1/1080x720/bPkNnFIrrdUR09mh.mp4?tag=29",
+    "sourceUrl": "https://x.com/itxabdullaa/status/2116502720823865475",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116502665157083136/img/xsyhWu_UsM6tXIpb.jpg",
+    "durationSecondsReported": 32.833,
+    "aspectRatioReported": [
+      3,
+      2
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T12:09:06Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

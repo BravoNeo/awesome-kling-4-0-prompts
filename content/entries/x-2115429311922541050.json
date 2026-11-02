@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115429311922541050",
+  "slug": "kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest — original prompt by @SocialSight.",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2115429310618034502",
+    "sourceTextOriginal": "Gothic stop-motion comparison: Kling 4.0 vs. Seedance 2.5.\n\nA Burtonesque storybook tale with a sweet twist, built on SocialSight to test handmade style and emotional storytelling. https://t.co/rByUUn59CA"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2115429311922541050",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2115429310618034502",
+  "conversationId": "2115429310618034502",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: handmade stop-motion puppets, stitched fabric clothing, glass-bead eyes, visible wire joints, fingerprints on clay. Crooked gothic town of spindly leaning houses, spiral hills, striped lampposts, a giant chalky moon on a painted backdrop. Desaturated grays and bone white with pops of pumpkin orange. Choppy movement at 12 frames per second.\n0-3s: A thin, wide-eyed girl puppet with stringy black yarn hair walks into the woods holding a lantern made from a tiny glass bottle.\n3-8s: Twisted wire trees creak and reach toward her, closing in. She shuts her eyes and holds out the lantern like a shield.\n8-12s: Nothing grabs her. She opens one eye: the branches are frosted and shivering, reaching only for the lantern's warmth.\n12-16s: She lights tiny lanterns from her flame and hangs one on each branch. The forest glows orange as the trees relax.\n16-18s: Button: one small tree tugs her sleeve, asking for a second lantern.\nCamera: slow sideways tracking shot, ending on a wide view of the glowing forest.",
+  "originalPromptSha256": "7ed18a971bf0df5b4fc112cbb121e79c1735866d0f5e0e16260a0322fd7801c6",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115429294247702528",
+    "url": "https://video-s.twimg.com/ext_tw_video/2115429294247702528/pu/vid/avc1/720x1280/KKX3VxckQ-EEKybm.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2115429294247702528/pu/vid/avc1/720x1280/KKX3VxckQ-EEKybm.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2115429310618034502",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2115429294247702528/pu/img/wylDfDYGGR287tmF.jpg",
+    "durationSecondsReported": 16.033,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T13:03:45Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

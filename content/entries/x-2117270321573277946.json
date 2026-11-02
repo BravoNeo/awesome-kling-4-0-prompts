@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117270321573277946",
+  "slug": "the-prince-and-baba-cloantas-bell",
+  "title": {
+    "en": "The prince and Baba Cloanța’s bell",
+    "zh": "王子与森林女巫的铃铛"
+  },
+  "description": {
+    "en": "The prince and Baba Cloanța’s bell — original prompt by @airina_xyz.",
+    "zh": "王子与森林女巫的铃铛，来自 @airina_xyz 的原始提示词。"
+  },
+  "author": {
+    "handle": "airina_xyz",
+    "url": "https://x.com/airina_xyz"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/airina_xyz/status/2117270309099454511",
+    "sourceTextOriginal": "Baba Cloanța's Lucky Charm\n\nA frightened young prince pays a witch for a charm that warns of nearby danger. It proves immediately effective....\n\nCreated with Kling 4.0 on @atlas_cloud_ai\n\nLike + repost + comment \"KLING\" and I'll DM you $3 in Atlas Cloud credits to try Kling 4.0 yourself.\n\n#AtlasCloud #Kling4\n\nPrompt in comments 👇"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/airina_xyz/status/2117270321573277946",
+  "videoSourceUrl": "https://x.com/airina_xyz/status/2117270309099454511",
+  "conversationId": "2117270309099454511",
+  "originalLanguage": "en",
+  "originalPrompt": "KLING 4.0 — 20-SECOND ROMANIAN FOLKLORE DARK COMEDY, 16:9, FIVE SHOTS.\n\nVISUAL STYLE: Authentic 1977 Romanian-Czechoslovak live-action fairy-tale movie, imaginative handmade costumes, grotesque practical prosthetic makeup, soft 35mm film grain, faded analog color, atmospheric Carpathian woodland.\n\nCHARACTERS:\nBABA CLOANȚA: An ancient, hunched Romanian witch with a gigantic hooked nose, warts, enormous pointed ears, almost toothless mouth and glittering mischievous eyes. Multiple layers of ragged wool, old beads, dried herbs and tiny copper bells. Irritable, cunning, unexpectedly affectionate.\n\nTHE PRINCE: A handsome but painfully nervous young man, age 25, wearing a faded blue medieval doublet, a velvet cap and an oversized sword. Frightened of practically everything.\n\nSETTING: Outside a ramshackle wooden witch's cottage deep in a misty Romanian forest. Twisted roots, mossy stones, bundles of dried herbs, a rough wooden counter.\n\nDIALOGUE: Romanian only, naturally spoken with authentic Romanian pronunciation.\n\n0:00–0:03 — MEDIUM CLOSE-UP: The prince rushes toward Baba Cloanța, breathless. He cries, \"Mă urmărește un blestem!\" His eyes dart around the trees.\n\n0:03–0:07 — CLOSE-UP: The witch grins and holds up a tiny antique brass bell on a red string. She says mysteriously, \"Sună când ești în primejdie.\"\n\n0:07–0:11 — DETAIL SHOT: The prince takes the bell. Instantly it begins ringing violently in his hand. He looks at it, terrified.\n\n0:11–0:15 — MEDIUM TWO-SHOT: The prince frantically shakes the bell and asks, \"E stricat?\" Baba Cloanța tilts her enormous head and studies him.\n\n0:15–0:20 — EXTREME CLOSE-UP: The witch leans toward the prince until her grotesque face nearly fills the frame. She smiles with all three remaining teeth and whispers tenderly, \"Nu, dragule. Sunt chiar aici.\" The prince slowly realizes what she means. His eyes widen. The bell rings faster. Cut to black at 20 seconds.\n\nPERFORMANCE: Distinctive practical-makeup facial expressions, convincing frightened reactions, excellent timing. The witch is genuinely amused, never cartoonishly frantic.\n\nCAMERA: Natural 1970s film coverage, restrained movements, expressive close-ups, clear continuity.\n\nAUDIO: Romanian dialogue, creaking woodland branches, distant crows, wind, footsteps, increasingly frantic small brass bell. No music, no narrator, no subtitles.",
+  "originalPromptSha256": "a2c6320bf5f58d30c266ea17c5842f16fe69b769ec4c963cad11c73f19524807",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "witches"
+    ]
+  },
+  "tags": [
+    "The prince and Baba Cloanța’s bell",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2117270257572397056",
+    "url": "https://video-s.twimg.com/amplify_video/2117270257572397056/vid/avc1/1920x1080/Osd7iXNbgJd-qUpd.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2117270257572397056/vid/avc1/1920x1080/Osd7iXNbgJd-qUpd.mp4?tag=16",
+    "sourceUrl": "https://x.com/airina_xyz/status/2117270309099454511",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117270257572397056/img/clIq_g-cO1kMF5Av.jpg",
+    "durationSecondsReported": 20.085,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-02T14:59:13Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

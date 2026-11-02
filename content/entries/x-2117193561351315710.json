@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117193561351315710",
+  "slug": "kling-4-0-vs-veo-3-1-blazer-try-on-and-spin",
+  "title": {
+    "en": "Kling 4.0 vs Veo 3.1: blazer try-on and spin",
+    "zh": "Kling 4.0 与 Veo 3.1：西装试穿与转身"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Veo 3.1: blazer try-on and spin — original prompt by @kodavid.",
+    "zh": "Kling 4.0 与 Veo 3.1：西装试穿与转身，来自 @kodavid 的原始提示词。"
+  },
+  "author": {
+    "handle": "kodavid",
+    "url": "https://x.com/kodavid"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/kodavid/status/2117044142530306220",
+    "sourceTextOriginal": "Glif says AI models are ready for real work. In fashion, the real work is the clothes.\n\nWhich one would you run as an ad: top or bottom?\n\nSame start frame, same prompt: put the blazer on, then spin.\n\nKling 4.0 (top) actually puts it on, one sleeve at a time. But the skirt stays stiff on the spin.\n\nVeo 3.1 (bottom) nails the spin. The pleats flare and settle. But the blazer goes on like a cape and her arms just appear in the sleeves."
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/kodavid/status/2117193561351315710",
+  "videoSourceUrl": "https://x.com/kodavid/status/2117044142530306220",
+  "conversationId": "2117044142530306220",
+  "originalLanguage": "en",
+  "originalPrompt": "Handheld UGC try-on clip in a sunlit loft studio. The woman swings the camel wool blazer off her shoulder, slips both arms into the sleeves one at a time, and tugs the lapels straight. Then she does one full slow spin on the spot so the pleated emerald satin skirt flares out and settles back down, and she ends facing the camera with a small smile. The wool creases at the elbows as she bends her arms, and the satin pleats catch the window light as they swing. The camera stays at the same shin-to-head framing the whole time. Realistic fabric physics, natural light, ambient room sound only, no music, no speech, no text on screen.",
+  "originalPromptSha256": "337b6039e06389b2251d9510a0e8a441a9908c018d0766d88c992f1431cfe22a",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Veo 3.1: blazer try-on and spin",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2117044107398770688",
+    "url": "https://video-s.twimg.com/ext_tw_video/2117044107398770688/pu/vid/avc1/720x900/fYgW51ptrIiK7kNB.mp4?tag=12",
+    "originalUrl": "https://video-s.twimg.com/ext_tw_video/2117044107398770688/pu/vid/avc1/720x900/fYgW51ptrIiK7kNB.mp4?tag=12",
+    "sourceUrl": "https://x.com/kodavid/status/2117044142530306220",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2117044107398770688/pu/img/R4Ix9x10GhHaw_71.jpg",
+    "durationSecondsReported": 16.0,
+    "aspectRatioReported": [
+      4,
+      5
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-11-02T00:00:31Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

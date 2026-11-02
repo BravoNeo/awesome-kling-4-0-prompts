@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113988696479547703",
+  "slug": "kling-4-0-vs-hailuo-h3-the-evenings-first-star",
+  "title": {
+    "en": "Kling 4.0 vs Hailuo H3: the evening’s first star",
+    "zh": "Kling 4.0 与 Hailuo H3：夜空中的第一颗星"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Hailuo H3: the evening’s first star — original prompt by @Iancu_ai.",
+    "zh": "Kling 4.0 与 Hailuo H3：夜空中的第一颗星，来自 @Iancu_ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "Iancu_ai",
+    "url": "https://x.com/Iancu_ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Iancu_ai/status/2113988692570456163",
+    "sourceTextOriginal": "Gave Hailuo H3 and Kling 4.0 the exact same prompt and character sheet.\nWatch the last shot: one looks up at the star with her, the other forgets she's there.\nH3 gets the 2D anime feel way closer for me.\n(top @Hailuo_AI  H3, bottom Kling 4.0, prompt in the replies) https://t.co/3WxAPdSXtu"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/Iancu_ai/status/2113988696479547703",
+  "videoSourceUrl": "https://x.com/Iancu_ai/status/2113988692570456163",
+  "conversationId": "2113988692570456163",
+  "originalLanguage": "en",
+  "originalPrompt": "STYLE FIRST: a real Japanese TV anime, like a scene from a seasonal anime opening. Hand-drawn character animation on twos and threes, hand-inked lines that change weight, flat cel color with one hard-edged shadow tone, painted anime background art with soft brush texture. Anime compositing only: gentle backlight bloom, light leaks at sunset, depth-of-field blur on painted layers, rain drawn as thin streaks. No 3D, no CG, no glossy skin or hair, no AI polish. This applies to every shot.\n\nCHARACTER: use @[image1] as the character design sheet and match its hand-drawn look. Keep her face, violet eyes, very long straight pink hair with blunt bangs, white cropped high-neck top with black collar, oversized off-shoulder white techwear jacket with orange panels, black harness belt with white hip pouch, orange baggy cargo pants, one orange fingerless glove, white and orange sneakers. Her face stays on-model in every shot.\n\nMAIN GOAL: a 30-second calm slice-of-life showcase, no fighting. One evening in a Japanese city from golden hour to the first star. 7 shots, each about 4 seconds, each a different classic anime shot type with one slow camera move. Hard cuts. Let every shot breathe, no rushing. Her hair and jacket always move in the wind.\n\n(0–4.5s) SHOT 1, extreme wide: a city rooftop at golden hour, she sits on the railing edge, skyline and long orange sky behind her, wind lifting her hair. Slow push-in from far away.\n(4.5–8.5s) SHOT 2, extreme close-up of her violet eyes, the sunset reflected in them, a strand of pink hair crossing her face. Rack focus from the hair strand to her eyes, then she blinks once.\n(8.5–13s) SHOT 3, inside a commuter train: she stands by the window holding a strap, orange sunlight strobing across her face through passing poles. The camera tracks sideways with the train.\n(13–17s) SHOT 4, insert close-up: her gloved hand on the train window as the first raindrops hit the glass, city lights blurring behind. Slow push-in on the hand.\n(17–21.5s) SHOT 5, medium wide at a rainy bus stop at dusk: she is large in frame under the shelter beside a glowing vending machine, rain falling past the streetlight. She shakes rain off her sleeve and looks down the street. Slow pan toward her.\n(21.5–25.5s) SHOT 6, low side angle from the ground: her reflection in a puddle, her sneaker steps in and sends ripples. The camera tilts up from the side and stops on her face.\n(25.5–30s) SHOT 7, the rain stops. Side profile: she slowly tilts her head back and looks up, her chin lifting, as the clouds part and the first star appears in a deep blue sky. Slow crane up from her face to the sky and hold on the single star until the end.\n\nSound: city ambience only, wind, train, rain, the rain fading to quiet in the last shot. No music, no voice, no text, no subtitles, no watermark, no other characters.",
+  "originalPromptSha256": "02c70aed1918dd16ddc76cb4aa7c73bcf57d450f1c199908c9684402b4de407b",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Hailuo H3: the evening’s first star",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113988431428923392",
+    "url": "https://video.twimg.com/amplify_video/2113988431428923392/vid/avc1/1080x1216/tnzuAVCzt3VHvDYl.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113988431428923392/vid/avc1/1080x1216/tnzuAVCzt3VHvDYl.mp4?tag=29",
+    "sourceUrl": "https://x.com/Iancu_ai/status/2113988692570456163",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113988431428923392/img/wj6vpoiQDQE6OyIM.jpg",
+    "durationSecondsReported": 15.083,
+    "aspectRatioReported": [
+      135,
+      152
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-24T13:39:14Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

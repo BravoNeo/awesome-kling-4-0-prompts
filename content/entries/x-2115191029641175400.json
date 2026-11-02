@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115191029641175400",
+  "slug": "kling-4-0-vs-seedance-2-5-core-day-gym-vlog",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: core-day gym vlog",
+    "zh": "Kling 4.0 与 Seedance 2.5：核心训练日记"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: core-day gym vlog — original prompt by @YourAlphaMom.",
+    "zh": "Kling 4.0 与 Seedance 2.5：核心训练日记，来自 @YourAlphaMom 的原始提示词。"
+  },
+  "author": {
+    "handle": "YourAlphaMom",
+    "url": "https://x.com/YourAlphaMom"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/YourAlphaMom/status/2115191029641175400",
+    "sourceTextOriginal": "Seedance 2.5 vs Kling 4.0: is better realism worth 16× the price? 👀\n\nSame prompt. Side by side. Both made on @makeugc \n\nMy take:\n\n1) Seedance looks more realistic, but Kling isn’t far behind.\n2) Both followed the instructions well. But Seedance took 3 attempts to get a clean result. Kling got it right on the first try.\n3) Kling is ≈16× cheaper.\n\nFor pure quality, Seedance is still the clear winner for me. But once I factor in time, money and retries, I can’t call it the obvious choice.\n\nKling is a solid, much cheaper alternative. Try the same prompt and see which you prefer.\n\nPROMPT ⬇️\n\n**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of MILA holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.\n\n**STYLE:**\nPlayful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.\n\n**Character**\n\nMILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, glowing skin with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach and lean arms and legs.\n\nShe wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.\n\n**Setting**\n\nA gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.\n\n**Storyboard (15s, 6 shots)**\n\n1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. MILA: “Core day. Pray for me.”\n\n2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. MILA (strained): “Why am I shaking already?”\n\n3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. MILA: “This looked way easier online.”\n\n4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.\n\n5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. MILA (breathless): “Yep—my abs just quit.”\n\n6. *(~3s, arm’s-length selfie finish)* Still lying on the mat, she lifts the camera above her face (camera no visible), grinning tiredly. MILA: “Same time tomorrow? No promises.”\n\n#AIVideo"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/YourAlphaMom/status/2115191029641175400",
+  "videoSourceUrl": "https://x.com/YourAlphaMom/status/2115191029641175400",
+  "conversationId": "2115191029641175400",
+  "originalLanguage": "en",
+  "originalPrompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of MILA holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.\n\n**STYLE:**\nPlayful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.\n\n**Character**\n\nMILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, glowing skin with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach and lean arms and legs.\n\nShe wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.\n\n**Setting**\n\nA gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.\n\n**Storyboard (15s, 6 shots)**\n\n1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. MILA: “Core day. Pray for me.”\n\n2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. MILA (strained): “Why am I shaking already?”\n\n3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. MILA: “This looked way easier online.”\n\n4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.\n\n5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. MILA (breathless): “Yep—my abs just quit.”\n\n6. *(~3s, arm’s-length selfie finish)* Still lying on the mat, she lifts the camera above her face (camera no visible), grinning tiredly. MILA: “Same time tomorrow? No promises.”",
+  "originalPromptSha256": "193b6b34713b27f3a840d1bd9e81eef5b86bf42efa219b4cea97d72bcdc7b8f9",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: core-day gym vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115188477402750976",
+    "url": "https://video-s.twimg.com/amplify_video/2115188477402750976/vid/avc1/1080x1350/iKBxHVpwSve-WOl0.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115188477402750976/vid/avc1/1080x1350/iKBxHVpwSve-WOl0.mp4?tag=29",
+    "sourceUrl": "https://x.com/YourAlphaMom/status/2115191029641175400",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115188477402750976/img/dxVUBfdntgho_TOi.jpg",
+    "durationSecondsReported": 15.033,
+    "aspectRatioReported": [
+      4,
+      5
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T21:16:54Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

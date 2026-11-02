@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115443340883951720",
+  "slug": "kling-4-0-omni-vs-1-6-hallway-to-sun-porch",
+  "title": {
+    "en": "Kling 4.0 Omni vs 1.6: hallway to sun porch",
+    "zh": "Kling 4.0 Omni 与 1.6：走向海景阳光房对比"
+  },
+  "description": {
+    "en": "Kling 4.0 Omni vs 1.6: hallway to sun porch — original prompt by @HBCoop_.",
+    "zh": "Kling 4.0 Omni 与 1.6：走向海景阳光房对比，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443340883951720",
+    "sourceTextOriginal": "Test 02: Kling 1.6 (Mar 2025) vs Kling 4.0 Omni, 10s\n\n4.0 has multi-shot turned on by default (there's no toggle in the web app), so it added a cut about 4 seconds in that wasn't in my prompt.\n\nPrompt:\nShe smiles as she turns her head slowly to look at something just off camera, then starts to walk down the hall behind her into a relaxed and comfortable sun porch facing a beach at golden hour, highly detailed, shot with an Arri Alexa"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2115443340883951720",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2115443340883951720",
+  "conversationId": "2115443263427731827",
+  "originalLanguage": "en",
+  "originalPrompt": "She smiles as she turns her head slowly to look at something just off camera, then starts to walk down the hall behind her into a relaxed and comfortable sun porch facing a beach at golden hour, highly detailed, shot with an Arri Alexa",
+  "originalPromptSha256": "c50935f930feb3c13f14ed5b8633c1e46cc9f12c9460a7017476b8aa7b8fe485",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 Omni vs 1.6: hallway to sun porch",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115443318540947456",
+    "url": "https://video.twimg.com/amplify_video/2115443318540947456/vid/avc1/1920x1080/5fwZkfFnzydYWDmh.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115443318540947456/vid/avc1/1920x1080/5fwZkfFnzydYWDmh.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443340883951720",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115443318540947456/img/SdgEINK5LWD7uw11.jpg",
+    "durationSecondsReported": 10.433,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T13:59:30Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

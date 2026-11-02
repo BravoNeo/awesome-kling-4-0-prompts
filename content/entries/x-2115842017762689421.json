@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115842017762689421",
+  "slug": "halloween-costume-gym-vlog",
+  "title": {
+    "en": "Halloween costume gym vlog",
+    "zh": "万圣节服装健身日记"
+  },
+  "description": {
+    "en": "Halloween costume gym vlog — original prompt by @voyzai.",
+    "zh": "万圣节服装健身日记，来自 @voyzai 的原始提示词。"
+  },
+  "author": {
+    "handle": "voyzai",
+    "url": "https://x.com/voyzai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/voyzai/status/2115841360062230914",
+    "sourceTextOriginal": "Kling 4.0 had one job: make the devil do core day.\n\nMade on @makeugc (Kling 4.0). You can try it for just $1. Prompt and details below 👇\n\nThe first try nailed the dialogue. But it swapped her devil costume for a tank top, dropped the camcorder look and skipped half the set.\n\nTurns out the prompt was fine. It's how Kling reads it.\n\nWhen you split a video into shots, Kling mostly follows the shot texts and barely looks at the main description. And the costume, the style and the set were all in the main description.\n\nSo I removed the shots and put everything in one prompt. Costume, mirror, Halloween lights, glitter makeup, every line. It all showed up.\n\nStill no camcorder look though. And I wrote \"on her back\", she's still on her stomach. Some things Kling just decides for you.\n\nDevil costume or tank top, which version would you keep?"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/voyzai/status/2115842017762689421",
+  "videoSourceUrl": "https://x.com/voyzai/status/2115841360062230914",
+  "conversationId": "2115841360062230914",
+  "originalLanguage": "en",
+  "originalPrompt": "CAMERA:\nDV 16mm tape camcorder handheld feel. POV of MILA holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\nLOOK:\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones. Warm orange accents from Halloween string lights.\n\nSTYLE:\nPlayful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it, with her devil costume constantly getting in the way. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.\n\nCHARACTER:\nMILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, glowing skin with a light sweat sheen, glossy red lips, expressive eyes, soft glam makeup with a touch of red glitter at the outer corners, delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach and lean arms and legs.\n\nShe wears a Halloween devil costume made for the gym: a bright red sports bra with thin straps and a deep scoop neckline showing cleavage, matching red ultra-short fitted athletic shorts, a headband with small glossy red devil horns, and a long thin red devil tail with an arrow-shaped tip attached to the back of her shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent. Her face, body and costume stay identical in every shot.\n\nSETTING:\nA gym mat area in the evening, lightly decorated for Halloween. LAYOUT (fixed for all shots): a black mat lies on the floor; the propped camera always sits on the floor at the foot end of the mat, looking along it toward the head end. Seen from the camera, the mirror wall runs along the LEFT side of the frame, with orange string lights along its top edge. A carved jack-o'-lantern and her water bottle sit on the floor at the head end of the mat, in the background behind her. Other gym equipment is visible in the far background. Soft overhead lighting.\n\nSTORYBOARD (6 shots):\n\n1. (~4s, propped camera at the foot end, medium shot) Mila is already lying on her back on the mat, head toward the jack-o'-lantern, propped up on her elbows. She pushes her crooked devil horns back into place, sighs dramatically and says to the camera. MILA: \"Core day. Even the devil needs prayers.\"\n\n2. (~4s, propped camera low on the floor at the foot end, rear view from behind her) She holds a plank face-down, facing away toward the jack-o'-lantern. Her red shorts and the red devil tail hanging from them are clearly visible, the tail swinging as her body trembles. She looks back over her shoulder at the camera, face strained. MILA (through gritted teeth): \"Why is my tail heavier than me?\"\n\n3. (~4s, propped camera at the foot end, medium shot) Back on her back, head toward the jack-o'-lantern, she does one slow crunch; the horns headband slips down onto her forehead. She lies back, shoves the horns back up, breathing hard. MILA: \"These horns were not made for crunches.\"\n\n4. (~2s, macro insert, shallow DOF) Close-up on her hands gripping the edges of the black mat beside her hips during a leg raise, abs visibly working, the arrow tip of the red devil tail poking out from under her and twitching on the mat beside her hand. No dialogue — ambient gym sound only.\n\n5. (~3s, propped camera at the foot end, medium shot) She lets her raised legs drop onto the mat, winces and pulls the squashed red tail out from under her back, laughing at herself. MILA (breathless): \"Yep—my abs just went to hell.\"\n\n6. (~3s, arm's-length selfie finish) She has picked up the camera and holds it above her face (camera not visible). Still lying on her back, horns crooked, sweaty and grinning tiredly, orange Halloween lights glowing behind her, she gives a little wink. MILA: \"Same time tomorrow? Devil's promise.\"",
+  "originalPromptSha256": "40dd59076180007ff4ae718b475a2234bd224f1840db9e94e72edb2f835f02d5",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Halloween costume gym vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115841235994791936",
+    "url": "https://video.twimg.com/amplify_video/2115841235994791936/vid/avc1/1920x1080/FefVVNunu8aremnI.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115841235994791936/vid/avc1/1920x1080/FefVVNunu8aremnI.mp4?tag=29",
+    "sourceUrl": "https://x.com/voyzai/status/2115841360062230914",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115841235994791936/img/Yc-SitWWdk4nb5zb.jpg",
+    "durationSecondsReported": 15.066,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T16:21:05Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

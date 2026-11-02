@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111042032135553463",
+  "slug": "a-two-car-chase",
+  "title": {
+    "en": "A two-car chase",
+    "zh": "双车追逐"
+  },
+  "description": {
+    "en": "A two-car chase — original prompt by @PromptSin.",
+    "zh": "双车追逐，来自 @PromptSin 的原始提示词。"
+  },
+  "author": {
+    "handle": "PromptSin",
+    "url": "https://x.com/PromptSin"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/PromptSin/status/2111042013210825211",
+    "sourceTextOriginal": "Two cars. One chase. No time to breathe.\n\nPutting Kling 4 through a 15-second action test.\n\nCreated with Kling 4 by @Kling_ai. https://t.co/vnq6BwCahn"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/PromptSin/status/2111042032135553463",
+  "videoSourceUrl": "https://x.com/PromptSin/status/2111042013210825211",
+  "conversationId": "2111042013210825211",
+  "originalLanguage": "en",
+  "originalPrompt": "15-second widescreen 16:9 photorealistic cinematic action sequence, Kling 4.0 full model, 720p, native sound. Use the supplied image as the opening-frame and vehicle-identity reference. Exactly two cars: the same red sports coupe leads and the same black sports sedan pursues. Preserve car shapes, colors, wheels and the four adult occupants throughout. Driver in each car controls the vehicle; passengers perform the fictional action-film gunfire. No pedestrians.\n\nPACE: relentless real-time action from the first frame. No slow motion, freeze frames, speed ramps, introductory establishing shots or pauses. Believable wheel contact, steering, suspension and momentum. Maintain clear lead/pursuer relationship and forward screen direction across cuts.\n\n0–4 SECONDS — IMMEDIATE HOOK:\nBegin matching the reference, already mid-drift around a city street corner. Red coupe leads, black sedan follows close behind. Tires howl, smoke streams backward and road grit sprays. Brief gunfire from the pursuing passenger, small muzzle flashes and impacts on road or vehicle bodywork, no injuries. Low moving three-quarter tracking camera keeps both cars legible.\n\n4–10 SECONDS — ESCALATING PURSUIT:\nA fast lateral tracking shot shows both cars surging along the riverside avenue. The red car passenger briefly returns fire toward the black car; driver keeps both hands on the wheel. Alternate short readable bursts of gunfire with tire squeal, sparks from impacts and rapid lane changes. Cut to a low rear chase view as both cars drift through a second bend toward the bridge approach, red car still leading. No extra vehicles, explosions or unrelated action. Preserve geography and continuous acceleration.\n\n10–15 SECONDS — CAMERA PASS, SMALL CREST JUMP AND LANDING:\nA low roadside camera catches the red coupe then the black sedan roaring past close to camera. The camera pans to follow them rear three-quarter as they reach a small smooth convex crest on the intact bridge roadway. Show continuous unbroken asphalt across the entire crest and beyond, with intact guardrails. Each car briefly lifts its four wheels only slightly off the road over the crest, red first, black following. A short low hop, not a long aerial leap. BOTH cars visibly land back on the same asphalt by second 14, suspension compresses and rebounds, and they keep accelerating along the continuous road until the cut at second 15. Real-time speed, no slow motion. The river remains far below the intact bridge and neither car leaves the roadway corridor.\n\nENVIRONMENT:\nSame fictional modern riverside city as reference, late-afternoon daylight, coherent shadows and reflections. The bridge is structurally intact with a continuous road surface, a gentle raised crest and visible road continuing beyond it. Stylized blockbuster stunt physics with realistic-looking cars and materials.\n\nAUDIO:\nPowerful engines with Doppler shifts, tire squeals, short cinematic gunfire, metallic impact ticks, debris, wind and brief tire lift followed by tire contact and suspension compression on landing. No dialogue, narration or music needed.\n\nAVOID:\nSlow motion, motionless cars, reversing direction accidentally, car-color swaps, shape morphing, extra cars, duplicated occupants, drivers firing weapons, excessive smoke hiding the action, gratuitous explosions, blood, injuries, text overlays, captions, visible real-world logos or watermarks.\n\nCRITICAL ENDING: no broken bridge, missing road, chasm, ramp, fall into river, or cut while airborne. Show a modest road-crest hop, asphalt landing and continued driving.",
+  "originalPromptSha256": "5a325091f2994ef4136233788b8bea909a97182b1e991af364cc77f2d4cab5a5",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "A two-car chase",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2111041977894797313",
+    "url": "https://video-s.twimg.com/amplify_video/2111041977894797313/vid/avc1/1280x720/H_6xYpQX13XdhSuJ.mp4?tag=16",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111041977894797313/vid/avc1/1280x720/H_6xYpQX13XdhSuJ.mp4?tag=16",
+    "sourceUrl": "https://x.com/PromptSin/status/2111042013210825211",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111041977894797313/img/7_JZY9hxgveJv1xL.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T10:30:11Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

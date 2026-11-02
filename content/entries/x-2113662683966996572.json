@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113662683966996572",
+  "slug": "kling-4-0-in-a-four-model-burning-street-comparison",
+  "title": {
+    "en": "Kling 4.0 in a four-model burning-street comparison",
+    "zh": "四模型燃烧街道对比中的 Kling 4.0"
+  },
+  "description": {
+    "en": "Kling 4.0 in a four-model burning-street comparison — original prompt by @HBCoop_.",
+    "zh": "四模型燃烧街道对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662522230554777",
+    "sourceTextOriginal": "I gave FLUX 3 Max, MiniMax H3 Max Turbo, Kling 4.0 and Seedance 2.0 the same 4 photoreal stills and the same prompts: a face with a spoken line, a laughing group, hands with poker chips, and a burning street.\n\nFull prompts &amp; results below: https://t.co/0IaupwvndM"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2113662683966996572",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2113662683966996572",
+  "conversationId": "2113662522230554777",
+  "originalLanguage": "en",
+  "originalPrompt": "Slow crane down into the smoke-filled city street. Flames ripple and flicker out of the building windows, glowing embers drift through the thick haze, and smoke rolls slowly between the towers. Dim headlights glow through the smoke at street level. Low roar of fire, distant sirens.",
+  "originalPromptSha256": "754b21f41f232cc428031904f8a6549b768fe79081e9bb018145912947dd70cc",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 in a four-model burning-street comparison",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113662663997976576",
+    "url": "https://video.twimg.com/amplify_video/2113662663997976576/vid/avc1/1698x720/0KxHk_cHhp2Hbeum.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113662663997976576/vid/avc1/1698x720/0KxHk_cHhp2Hbeum.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2113662683966996572",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113662663997976576/img/JWosxdarRjHw0SR9.jpg",
+    "durationSecondsReported": 24.041,
+    "aspectRatioReported": [
+      960,
+      407
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T16:03:48Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

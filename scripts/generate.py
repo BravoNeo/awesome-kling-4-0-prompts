@@ -50,7 +50,9 @@ def build_outputs():
                           f'[{"视频原帖" if zh else "Video post"}]({e["videoSourceUrl"]})']
             for source in e.get('additionalPromptSourceUrls', []):
                 lines += ['- '+('提示词续篇' if zh else 'Prompt continuation')+f': [X]({source})']
-            lines += ['- '+('模型' if zh else 'Model')+': '+e['modelClaim']['name'], '', e['guidance'][locale], '']
+            lines += ['- '+('模型' if zh else 'Model')+': '+e['modelClaim']['name'], '']
+            if e.get('showGuidance', True):
+                lines += [e['guidance'][locale], '']
             if e['modelClaim']['variant'] == 'flash':
                 lines += [('<details><summary>来源备注</summary>' if zh else '<details><summary>Source note</summary>'), '',
                           ('原作者将此案例标注为 Kling 4.0 Flash；本合集统一使用 Kling 4.0 展示名称。' if zh else 'The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.'), '', '</details>', '']

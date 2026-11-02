@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116635769729323171",
+  "slug": "kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: dumbbell gym vlog",
+    "zh": "Kling 4.0 与 Seedance 2.5：哑铃健身日记"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: dumbbell gym vlog — original prompt by @YourAlphaMom.",
+    "zh": "Kling 4.0 与 Seedance 2.5：哑铃健身日记，来自 @YourAlphaMom 的原始提示词。"
+  },
+  "author": {
+    "handle": "YourAlphaMom",
+    "url": "https://x.com/YourAlphaMom"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/YourAlphaMom/status/2116635769729323171",
+    "sourceTextOriginal": "Seedance 2.5 vs Kling 4.0: side-by-side comparison with an image reference\n\nSame prompt. Same character reference. Both made on @makeugc \n\n1) Recently, I asked whether Seedance’s extra realism was worth ≈16× the price of Kling. After this test with a character reference, my answer is yes.\n\n2) Kling looks like a serious downgrade here. It couldn’t get the face right in any of my 3 attempts. The version I’m sharing is the best one.\n\n3) Seedance got this result on the FIRST try. It’s not perfect either, but it came out really well.\n\nKling’s lower price is appealing, but matching your character matters too.\n\nI used a prompt similar to the one in the quoted video.\n\nPROMPT 👇\n\n**CAMERA:**\nDV 16mm tape camcorder handheld feel. MILA from  image1 films the opening and closing selfies herself; her gym friend films the dumbbell exercises handheld. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder and camera operator never appear on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.\n\n**STYLE:**\nPlayful, self-deprecating gym-vlog tone — genuine effort mixed with humor. Quick, casual cuts between excerpts from an ongoing workout. Exercise shots begin and end mid-set, with continuous rhythmic repetitions at normal speed. She talks while moving, without stopping to pose. Time passes between clips; equipment setup and camera handoffs happen off-screen.\n\n**Character**\n\nMILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, natural skin texture with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach, lean arms and slender legs.\n\nShe wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.\n\n**Setting**\n\nA gym dumbbell area in the evening — weight racks, benches, soft overhead lighting. Two other gym-goers exercise casually in the background, away from MILA. An angled mirror naturally reflects her back, blue shorts and legs in wider shots. She uses the same matching pair of small black hex dumbbells throughout.\n\n**Storyboard (15s, 6 shots)**\n\n1. *(0–2.5s, moving arm’s-length selfie)* Already walking past the weight rack, MILA smiles toward the lens and briefly glances at the equipment. Her face and blue sports bra are visible; the framing bobs with her footsteps. MILA: “Arm day. This should be quick.”\n\n2. *(2.5–5s, handheld medium shot)* Cut into an ongoing set of standing alternating dumbbell curls. One arm rises as the other lowers; she keeps the rhythm while speaking. The camera drifts slightly with the operator’s movement. MILA: “These felt lighter yesterday.”\n\n3. *(5–7.5s, handheld wider three-quarter shot)* Another excerpt: MILA is already doing lateral raises, repeatedly lifting and lowering both dumbbells without holding a pose. Her rear view is visible in the mirror. MILA (breathless): “I picked the light ones!”\n\n4. *(7.5–9.5s, handheld close-up insert)* Her hand and forearm grip a dumbbell through the continuing repetitions. The camera briefly loses focus as the weight moves, then catches it again. No dialogue — breathing and distant gym sounds.\n\n5. *(9.5–12s, handheld medium-wide shot)* MILA walks briskly past the camera toward the rack, carrying both dumbbells beside her thighs. The operator turns to follow her as she laughs. MILA: “Yep — my arms just quit.”\n\n6. *(12–15s, arm’s-length selfie after the set)* A clear jump cut: the dumbbells have been returned, and MILA is already holding the camera herself. Walking out of the weights area, she shakes out her free hand and grins. MILA: “Same time tomorrow? No promises.”\n\n#AIVideo"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/YourAlphaMom/status/2116635769729323171",
+  "videoSourceUrl": "https://x.com/YourAlphaMom/status/2116635769729323171",
+  "conversationId": "2116635769729323171",
+  "originalLanguage": "en",
+  "originalPrompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. MILA from  image1 films the opening and closing selfies herself; her gym friend films the dumbbell exercises handheld. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder and camera operator never appear on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.\n\n**STYLE:**\nPlayful, self-deprecating gym-vlog tone — genuine effort mixed with humor. Quick, casual cuts between excerpts from an ongoing workout. Exercise shots begin and end mid-set, with continuous rhythmic repetitions at normal speed. She talks while moving, without stopping to pose. Time passes between clips; equipment setup and camera handoffs happen off-screen.\n\n**Character**\n\nMILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, natural skin texture with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach, lean arms and slender legs.\n\nShe wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.\n\n**Setting**\n\nA gym dumbbell area in the evening — weight racks, benches, soft overhead lighting. Two other gym-goers exercise casually in the background, away from MILA. An angled mirror naturally reflects her back, blue shorts and legs in wider shots. She uses the same matching pair of small black hex dumbbells throughout.\n\n**Storyboard (15s, 6 shots)**\n\n1. *(0–2.5s, moving arm’s-length selfie)* Already walking past the weight rack, MILA smiles toward the lens and briefly glances at the equipment. Her face and blue sports bra are visible; the framing bobs with her footsteps. MILA: “Arm day. This should be quick.”\n\n2. *(2.5–5s, handheld medium shot)* Cut into an ongoing set of standing alternating dumbbell curls. One arm rises as the other lowers; she keeps the rhythm while speaking. The camera drifts slightly with the operator’s movement. MILA: “These felt lighter yesterday.”\n\n3. *(5–7.5s, handheld wider three-quarter shot)* Another excerpt: MILA is already doing lateral raises, repeatedly lifting and lowering both dumbbells without holding a pose. Her rear view is visible in the mirror. MILA (breathless): “I picked the light ones!”\n\n4. *(7.5–9.5s, handheld close-up insert)* Her hand and forearm grip a dumbbell through the continuing repetitions. The camera briefly loses focus as the weight moves, then catches it again. No dialogue — breathing and distant gym sounds.\n\n5. *(9.5–12s, handheld medium-wide shot)* MILA walks briskly past the camera toward the rack, carrying both dumbbells beside her thighs. The operator turns to follow her as she laughs. MILA: “Yep — my arms just quit.”\n\n6. *(12–15s, arm’s-length selfie after the set)* A clear jump cut: the dumbbells have been returned, and MILA is already holding the camera herself. Walking out of the weights area, she shakes out her free hand and grins. MILA: “Same time tomorrow? No promises.”",
+  "originalPromptSha256": "abed446e965a9b8e14d4152f238611b4d46c7d93082f8be10058f5548162089d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "athletes"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: dumbbell gym vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116633411846578176",
+    "url": "https://video.twimg.com/amplify_video/2116633411846578176/vid/avc1/1080x1484/0_7uLqn9wq6YG193.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116633411846578176/vid/avc1/1080x1484/0_7uLqn9wq6YG193.mp4?tag=29",
+    "sourceUrl": "https://x.com/YourAlphaMom/status/2116635769729323171",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116633411846578176/img/DU4_fprNuRUtuX1E.jpg",
+    "durationSecondsReported": 15.033,
+    "aspectRatioReported": [
+      270,
+      371
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T20:57:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

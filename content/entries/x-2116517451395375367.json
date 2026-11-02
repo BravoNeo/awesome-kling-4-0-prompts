@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116517451395375367",
+  "slug": "a-lemon-filled-sicilian-village-stroll",
+  "title": {
+    "en": "A lemon-filled Sicilian village stroll",
+    "zh": "西西里小巷里的柠檬漫步"
+  },
+  "description": {
+    "en": "A lemon-filled Sicilian village stroll — original prompt by @jhosephebtc.",
+    "zh": "西西里小巷里的柠檬漫步，来自 @jhosephebtc 的原始提示词。"
+  },
+  "author": {
+    "handle": "jhosephebtc",
+    "url": "https://x.com/jhosephebtc"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/jhosephebtc/status/2116517445921833441",
+    "sourceTextOriginal": "High-end visual marketing is shifting toward automated, on-demand creative generation. This 30-second sequence illustrates what is possible when you combine advanced AI agent direction with state-of-the-art video rendering models.\n\nMilor Visual AI handled the narrative and visual cues from start to finish, outputting structured parameters directly into Kling 4 to maintain coherent styling, lighting, and movement across the footage.\n\nIf you are building campaigns or testing modern creative workflows, the exact prompt used to render this video has been shared in the comments section below.\n\nDiscover the workflow at https://t.co/QstnHCWpPF"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/jhosephebtc/status/2116517451395375367",
+  "videoSourceUrl": "https://x.com/jhosephebtc/status/2116517445921833441",
+  "conversationId": "2116517445921833441",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: Cinematic Narrative Storytelling with dynamic vlog realism and high-energy home-video vitality.\nSubjects: The subject from @imagem1, maintaining facial identity, dark wavy hair, gold wire sunglasses, delicate pendant necklace, and red linen ruffled wrap dress., Preserve the subject’s facial identity and body proportions throughout; exclude face drift and anatomical deformation.\nEnvironment: Sunny Sicilian village alleyway with warm ocher plaster walls, rustic limestone facades, and stone cobblestones drenched in golden Mediterranean sunlight.\nMood: Happy; overflowing with spontaneous joy, radiant smiles, and warm exuberant body language.\n\nContinuity: Exact wardrobe, accessories, hair, props (fresh yellow lemons), and warm lighting continuity across all cuts.\nConstraints: No gendered terms. Never touch or lean on walls. No music or dialogue. Strictly utilize FPV Tracking movement only.\nVathography: Foreground framing elements create parallax; subject occupies the central depth plane with sharp volumetric separation against soft, warm background village walls.\n\nShot 1 (0 to 1.5 seconds)\nPurpose: Hook viewer with an intimate, radiant smile in motion.\nFraming: Close-up, eye-level, 35mm perspective.\nAction: The subject strides forward into sunlight, holding a bright lemon in one hand.\nActing: A spontaneous Duchenne smile blooms across the subject's face, gaze locking magnetically onto the lens.\nCamera: Dynamic FPV Tracking moves backward rapidly, matching the subject's forward pace.\nConstraints: Maintain steady distance; keep face tack-sharp.\nTransition: Whip cut on subject's slight turn to incoming wider tracking frame.\nSound effects: Soft step on stone, crisp rustle of linen fabric.\n\nShot 2 (1.5 to 3 seconds)\nPurpose: Reveal environment and full silhouette in motion.\nFraming: Medium shot, slight low-angle.\nAction: The subject walks along the cobblestones, tossing and catching a lemon with light fingers.\nActing: Buoyant, joyful posture; head tilted slightly back with a delighted grin.\nCamera: Low-slung FPV Tracking glides ahead in rapid pursuit, tilting upward subtly.\nConstraints: No physical contact with walls; keep movement centered.\nTransition: Match-cut on lemon toss to close detail.\nSound effects: Rhythmic shoe taps on cobblestones, soft air displacement from lemon toss.\n\nShot 3 (3 to 4.5 seconds)\nPurpose: Highlight tactile texture of fruit and linen.\nFraming: Extreme close-up on hands and mid-torso.\nAction: The subject rolls two yellow lemons between nimble fingers against the red dress.\nActing: Relaxed, joyful finger articulation showcasing carefree confidence.\nCamera: FPV Tracking sweeps closely across the subject's hands, banking right.\nConstraints: Prevent motion blur on the lemons; keep wardrobe texture sharp.\nTransition: Fast spatial cut on camera bank into an over-the-shoulder frame.\nSound effects: Subtle citrus skin squeak against fingertips, breeze fluttering ruffled sleeve.\n\nShot 4 (4.5 to 6 seconds)\nPurpose: Capture over-the-shoulder perspective exploring the sunlit path.\nFraming: Medium close-up, high over-the-shoulder angle.\nAction: The subject strides ahead toward a sun-drenched stone archway.\nActing: Light, brisk pace; shoulders open, joyful head turn catching backlight.\nCamera: High FPV Tracking follows closely behind, swooping gently over the subject's shoulder.\nConstraints: Maintain fluid motion path without wobbling.\nTransition: Direct cut as subject pivots around.\nSound effects: Gentle breeze murmuring through alleyway, light footsteps.\n\nShot 5 (6 to 7.5 seconds)\nPurpose: Intimate frontal face reveal with spontaneous laughter.\nFraming: Tight close-up, eye-level.\nAction: The subject spins back toward the lens mid-stride.\nActing: Bright eyes crinkling behind sunglasses, lips parting in a brief, genuine laugh.\nCamera: FPV Tracking pulls back quickly, banking laterally to cushion the turn.\nConstraints: Keep facial features stable and clear despite sudden turn.\nTransition: Fast whip cut matching lateral camera movement.\nSound effects: Rapid fabric swoosh, soft breath of laughter.\n\nShot 6 (7.5 to 9 seconds)\nPurpose: Showcase vibrant color contrast and open body posture.\nFraming: Medium wide shot, eye-level.\nAction: The subject steps into open golden sunlight with arms casually outstretched.\nActing: Expansive, exuberant posture; radiant grin beaming skyward.\nCamera: Fast FPV Tracking circles semi-orbitally around the subject.\nConstraints: Keep subject well clear of background architecture.\nTransition: Cut on circular momentum into medium framing.\nSound effects: Ambient village echo, rustling ruffled linen hem.\n\nShot 7 (9 to 10.5 seconds)\nPurpose: Re-engage close emotional connection with the camera.\nFraming: Close-up, slightly high angle.\nAction: The subject lifts sunglasses slightly with one hand, flashing direct eye contact.\nActing: Playful, inviting eye contact, warm smile tugging at lip corners.\nCamera: FPV Tracking darts closer, stabilizing into a swift forward push.\nConstraints: Sunglasses stay balanced; eyes fully visible.\nTransition: Cut on sunglasses adjustment to a lower perspective.\nSound effects: Subtle click of wire frames, quiet intake of breath.\n\nShot 8 (10.5 to 12 seconds)\nPurpose: Dynamic dynamic stride along cobblestone alley.\nFraming: Medium shot, low-angle.\nAction: The subject walks briskly away from camera, swinging arms naturally.\nActing: Lively, bouncy stride full of carefree energy.\nCamera: Low FPV Tracking chases closely behind the moving hemline.\nConstraints: Stable tracking along uneven stone ground.\nTransition: Cut on footstep impact into reverse angle.\nSound effects: Firm, distinct heel taps echoing off rustic stone.\n\nShot 9 (12 to 13.5 seconds)\nPurpose: Catch a candid backward glance over the shoulder.\nFraming: Medium close-up, dynamic eye-level.\nAction: The subject glances back over one shoulder toward the camera while advancing.\nActing: Playful knowing smirk, eyes sparkling with pure exuberance.\nCamera: FPV Tracking overtakes and matches subject speed alongside the shoulder.\nConstraints: Clean profile without facial warping.\nTransition: Fast whip cut matching camera acceleration.\nSound effects: Whispering summer wind, soft garment friction.\n\nShot 10 (13.5 to 15 seconds)\nPurpose: Accentuate bright Mediterranean colors and tactile fruit.\nFraming: Close-up insert tilted toward hands and chest.\nAction: The subject brings one lemon near the neckline, rotating it in the sun.\nActing: Graceful, fluid wrist motion, expressing casual appreciation of the day.\nCamera: FPV Tracking arcs tightly around the hands, highlighting specular light on fruit.\nConstraints: Hands and fruit remain completely in focus.\nTransition: Cut on wrist turn to frontal close-up.\nSound effects: Faint friction of linen, soft breeze.\n\nShot 11 (15 to 16.5 seconds)\nPurpose: Capture spontaneous, contained joy in a brief pause.\nFraming: Close-up, eye-level.\nAction: The subject pauses momentarily mid-alley, turning to face the lens.\nActing: Radiant, authentic beam; eyelids soft and cheeks lifted in pure joy.\nCamera: FPV Tracking glides smoothly to an intimate halt just inches away.\nConstraints: Preserve natural skin texture and lighting tone.\nTransition: Hard cut on subject's outward arm movement.\nSound effects: Gentle sigh of ambient breeze, settling footsteps.\n\nShot 12 (16.5 to 18 seconds)\nPurpose: Convey lively full-body celebration.\nFraming: Medium shot, slightly low.\nAction: The subject takes a joyful skip-step forward, dress fluttering.\nActing: Carefree, exuberant body language, chest lifted proudly.\nCamera: FPV Tracking rushes backward, keeping subject framed dynamically.\nConstraints: Subject remains centered during rapid footwork.\nTransition: Cut on landing step to high angle.\nSound effects: Quick double tap of shoes, ruffled skirt fluttering.\n\nShot 13 (18 to 19.5 seconds)\nPurpose: Atmospheric, dynamic top-down tracking.\nFraming: Medium high-angle.\nAction: The subject walks beneath sunlit lemon tree branches hanging over a courtyard.\nActing: Upward glance, open beaming expression.\nCamera: FPV Tracking swoops down from above, following subject's path.\nConstraints: Keep camera operator reflection invisible in sunglasses.\nTransition: Cut on subject's forward head tilt.\nSound effects: Distant rustle of foliage, clear stone footfalls.\n\nShot 14 (19.5 to 21 seconds)\nPurpose: Re-establish close intimate connection.\nFraming: Close-up, eye-level.\nAction: The subject turns back toward the camera with a bright nod.\nActing: Intimate, welcoming smile; warm ocular engagement.\nCamera: FPV Tracking glides rapidly alongside subject's cheek.\nConstraints: Facial proportions rock-solid.\nTransition: Whip cut on head turn to three-quarter view.\nSound effects: Soft linen rustle, warm exhalation.\n\nShot 15 (21 to 22.5 seconds)\nPurpose: Build toward an energetic finale.\nFraming: Medium shot, eye-level.\nAction: The subject extends an arm toward the lens in a playful beckoning gesture.\nActing: Magnetic, delighted expression, fingers lightly splayed.\nCamera: FPV Tracking matches the gesture, surging smoothly forward.\nConstraints: Hand stays in frame without clipping.\nTransition: Smooth cut on forward camera thrust to final hero frame.\nSound effects: Swift sleeve flutter, rhythmic footsteps.\n\nShot 16 (22.5 to 24 seconds)\nPurpose: Conclude with a memorable, euphoric portrait in motion.\nFraming: Medium close-up, golden hour backlight.\nAction: The subject strolls forward, holding both lemons, giving a final radiant smile.\nActing: Deep authentic Duchenne smile, posture relaxed yet beaming with fulfillment.\nCamera: FPV Tracking decelerates gently as subject fills the frame, settling gracefully.\nConstraints: Maintain facial fidelity; no wall contact; clean, photographic resolution.\nSound effects: Fading footstep on stone, soft summer breeze settling.\n\nFinal director notes: Maintain a warm, candid Sicilian lifestyle aesthetic anchored by authentic Italian sun. The red linen dress must pop intensely against the textured ocher stone, and the subject's spontaneous smile must remain the core emotional heartbeat of every cut. Ensure every camera movement feels like an agile, responsive pursuit without losing photographic realism or facial consistency.\n\nAudio: Diegetic sound effects: Tie every cue to a visible physical action or a real environmental source. No soundtrack. Use only synchronized diegetic sound effects and ambience supported by the scene.",
+  "originalPromptSha256": "d58ae74ae371f0cd048e9398ae42cb92c8c996f983f33ff1a4aeb0551b196fe8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "travelers"
+    ]
+  },
+  "tags": [
+    "A lemon-filled Sicilian village stroll",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116517283862310912",
+    "url": "https://video.twimg.com/amplify_video/2116517283862310912/vid/avc1/720x1280/M3X2JIXVOqDQIEHU.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116517283862310912/vid/avc1/720x1280/M3X2JIXVOqDQIEHU.mp4?tag=29",
+    "sourceUrl": "https://x.com/jhosephebtc/status/2116517445921833441",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116517283862310912/img/vwJhmQw_tJBqaDn7.jpg",
+    "durationSecondsReported": 24.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T13:07:36Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

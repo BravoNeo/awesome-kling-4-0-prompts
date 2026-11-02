@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116238431307157751-1",
+  "slug": "foggy-forest-pursuit",
+  "title": {
+    "en": "Foggy forest pursuit",
+    "zh": "迷雾森林追逐"
+  },
+  "description": {
+    "en": "Foggy forest pursuit — original prompt by @EndFolding79421.",
+    "zh": "迷雾森林追逐，来自 @EndFolding79421 的原始提示词。"
+  },
+  "author": {
+    "handle": "EndFolding79421",
+    "url": "https://x.com/EndFolding79421"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/EndFolding79421/status/2116238431307157751",
+    "sourceTextOriginal": "It's Halloween so lets do a few videos in Kling 4.0.\n\n1. A masked killer chases her down the foggy dirt path.integrated_multimodal_description: [Shot 1] Live-action 1981 35mm slasher look, night pine woods, wet leaves, fog, weak moonlight, visible film grain, muted greens, crushed blacks. A young woman in a worn flannel and jeans sprints toward camera down a narrow dirt path, breathing hard, looking back. The camera tracks backward in front of her with large amplitude at fast speed and shakes slightly. [Shot 2] At 00:05.00, the camera trucks right with small amplitude at fast speed as a tall slasher in dark work clothes and a crude cloth mask bursts from the trees behind her, weapon raised, closing the gap. [Shot 3] At 00:10.00, the camera pushes in with small amplitude at fast speed on her face as she stumbles, recovers, and keeps running; the slasher stays behind her in the dark trees through 12.00 seconds.overall_soundscape: Night insects, crunching leaves, snapping twigs, her panicked breathing and footsteps, heavier footsteps behind her. No dialogue.non_diegetic_music: Low analog slasher strings and sparse stingers.\n\n2. A terrified man sprints through a fog-shrouded forest at night, his breath ragged, his eyes wide with panic. [tracking shot, handheld, slightly shaky] Branches whip against him as he runs, glancing back as if something is chasing him. [cut to side profile, mid-run] Suddenly— SNAP! [hard cut to close-up] —an old-fashioned animal bear trap with jagged steel jaws, open and ready he stepped in clamps violently around his lower leg. [cut to foot-level shot as jaws close]He crashes to the ground screaming, clutching his trapped leg with both hands. [fast camera whip upward to his face] Tears mix with sweat and dirt on his cheeks, his mouth open in a silent scream of agony. [extreme close-up] — and then the screen cuts to black.\n\n3. (First Frame). subject: \"Interior of an old wooden cabin at night. A woman sits tense on a worn armchair, clutching her arms and glancing toward the window [handheld, subtle sway]. After a beat, she rises cautiously and steps toward the window, keeping her shoulders hunched and movements quiet. She reaches the sill and leans in to look outside, breathing softly; she stays facing the window for the rest of the shot.\", \"scene\": \"Dim oil-lamp glow flickers across rough log walls; dust motes drift. The cabin creaks as wind presses against it; the curtain flutters slightly. Outside is deep darkness over the trees. Near the end, a brief lightning flash silhouettes something moving between the trunks before darkness returns.\", \"style\": \"10-second suspense moment, grounded horror realism, low-key lighting, shallow depth of field, natural motion—no gore or jump scare.\", \"timing\": \"0–3s: seated, nervous glances. 3–7s: stand and walk to window. 7–10s: peer out; lightning reveal at ~8.5s; hold still to end.\", \"soundscape\": \"Soft wind through boards, faint window rattle, floorboard creaks, distant thunder roll, subtle low bass pulse on the lightning beat.\", \"negative_prompt\": \"No dialogue or captions. No nudity or explicit behavior; wardrobe unchanged and tasteful. Do not add attackers inside the cabin. No exaggerated screams or sudden camera whips. Keep the silhouette outside distant\"\n\n4. (1st Frame) static camera stays on man face's . The young man stands in the dark forest, looking off into the trees, tense and unaware. [medium side shot, dim forest lighting] Suddenly, a massive, black axe swings down hard from above and lands with a sickening thud into the side of his head. Blood splatters onto the trees and the forest floor as the man’s body twitches or collapses out of frame. The axe stays embedded in his skull for a moment, pulsing with tension.[Negative Prompt] no visible attacker, no slow motion, no exaggerated gore, no comedic timing, no visible blade, no floating heads, no screaming, no glowing effects, no glitching"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/EndFolding79421/status/2116238431307157751",
+  "videoSourceUrl": "https://x.com/EndFolding79421/status/2116238431307157751",
+  "conversationId": "2116238431307157751",
+  "originalLanguage": "en",
+  "originalPrompt": "integrated_multimodal_description: [Shot 1] Live-action 1981 35mm slasher look, night pine woods, wet leaves, fog, weak moonlight, visible film grain, muted greens, crushed blacks. A young woman in a worn flannel and jeans sprints toward camera down a narrow dirt path, breathing hard, looking back. The camera tracks backward in front of her with large amplitude at fast speed and shakes slightly. [Shot 2] At 00:05.00, the camera trucks right with small amplitude at fast speed as a tall slasher in dark work clothes and a crude cloth mask bursts from the trees behind her, weapon raised, closing the gap. [Shot 3] At 00:10.00, the camera pushes in with small amplitude at fast speed on her face as she stumbles, recovers, and keeps running; the slasher stays behind her in the dark trees through 12.00 seconds.overall_soundscape: Night insects, crunching leaves, snapping twigs, her panicked breathing and footsteps, heavier footsteps behind her. No dialogue.non_diegetic_music: Low analog slasher strings and sparse stingers.",
+  "originalPromptSha256": "373cdc1eac941a55189c5c5030e14518a0b7ffd4d3695e208971167bc98b6aae",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Foggy forest pursuit",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116236875992006656",
+    "url": "https://video-s.twimg.com/amplify_video/2116236875992006656/vid/avc1/1920x1080/jbHdyPoqJSD0EleG.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2116236875992006656/vid/avc1/1920x1080/jbHdyPoqJSD0EleG.mp4?tag=29",
+    "sourceUrl": "https://x.com/EndFolding79421/status/2116238431307157751",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116236875992006656/img/i-JoRElK9zJAh1bB.jpg",
+    "durationSecondsReported": 12.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-30T18:38:54Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "sourcePart": 1,
+  "showGuidance": false
+}

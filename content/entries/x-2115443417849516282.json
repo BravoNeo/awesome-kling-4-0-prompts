@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115443417849516282",
+  "slug": "kling-4-0-omni-vs-3-0-omni-corridor-glance",
+  "title": {
+    "en": "Kling 4.0 Omni vs 3.0 Omni: corridor glance",
+    "zh": "Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比"
+  },
+  "description": {
+    "en": "Kling 4.0 Omni vs 3.0 Omni: corridor glance — original prompt by @HBCoop_.",
+    "zh": "Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+    "sourceTextOriginal": "Test 04: Kling 3.0 Omni (Mar 2026) vs Kling 4.0 Omni, 10s\n\n3.0 Omni added spoken dialogue that wasn't in my prompt. 4.0 Omni kept it silent, which is what I wanted.\n\nPrompt:\nRealistic Anime-style close-up. A young woman with a messy black bob and a backpack strap over one shoulder glances back over her shoulder in a long fluorescent-lit corridor. She holds the look for a beat, her lips parting slightly as if about to speak, then turns her head forward again. Loose strands of hair settle back against her cheek after the turn. The fluorescent lights above cast a cool teal-green wash. A blurred figure walks in the far background. Static camera, shallow depth of field isolating the subject, cool desaturated palette with slight cyan push, anime-cinematic rendering"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+  "conversationId": "2115443263427731827",
+  "originalLanguage": "en",
+  "originalPrompt": "Realistic Anime-style close-up. A young woman with a messy black bob and a backpack strap over one shoulder glances back over her shoulder in a long fluorescent-lit corridor. She holds the look for a beat, her lips parting slightly as if about to speak, then turns her head forward again. Loose strands of hair settle back against her cheek after the turn. The fluorescent lights above cast a cool teal-green wash. A blurred figure walks in the far background. Static camera, shallow depth of field isolating the subject, cool desaturated palette with slight cyan push, anime-cinematic rendering",
+  "originalPromptSha256": "c7835fda6b8ef4ddade34ce7bc69ebbf6526d516dbe39be100ae0f957b1ad8f6",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 Omni vs 3.0 Omni: corridor glance",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115443395791634432",
+    "url": "https://video.twimg.com/amplify_video/2115443395791634432/vid/avc1/1920x1080/BoMngBJX77avdLBJ.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115443395791634432/vid/avc1/1920x1080/BoMngBJX77avdLBJ.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115443395791634432/img/l7mE45A_0PNUkBwm.jpg",
+    "durationSecondsReported": 20.083,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T13:59:48Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

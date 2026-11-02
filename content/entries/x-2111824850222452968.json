@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2111824850222452968",
+  "slug": "2010-boutique-mobile-livestream",
+  "title": {
+    "en": "2010 boutique mobile livestream",
+    "zh": "2010 年精品店手机直播"
+  },
+  "description": {
+    "en": "2010 boutique mobile livestream — original prompt by @bmx_ai13.",
+    "zh": "2010 年精品店手机直播，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2111824846309269700",
+    "sourceTextOriginal": "Synth Vanta 2010 Boutique Live Haul. \n\nMade with Kling 4.0 on @Kling_ai \n\nPrompt⤵️"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2111824850222452968",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2111824846309269700",
+  "conversationId": "2111824846309269700",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30second ultra realistic video featuring the character from @.jpg (maintaining her exact pinkish purple bob hair, heterochromia eyes one green and one amber, face markings, and facial features) hosting a live shopping session inside a trendy boutique in 2010. The video is captured entirely through an early smartphone front-facing camera (like iPhone 4 era), featuring authentic 2010 mobile livestream aesthetics: heavy pixelation, low resolution, digital compression artifacts, grainy texture, and slightly shaky handheld movements.\n\nScene 1 — Welcome to the Live (0–5 seconds)\nChoi Yu-na stands inside a 2010 style women's boutique with neon signage and racks filled with early 2010s fashion trends, wearing her signature black bomber jacket over a black top and gray pleated skirt. She holds her early smartphone at arm's length, smiling into the low res pixelated camera and greeting her viewers.\n\nDialogue: “Hey guys! Welcome to my mobile live stream! I'm here at the boutique today, and you guys have to see these new arrivals!”\nShe briefly pans the pixelated camera toward the clothing racks, then returns it to her face.\n\nScene 2 — Show the First Dress (5–10 seconds)\n\nShe picks up a trendy 2010 color-block party dress from the rack, holding it up close to the low res camera lens to show its fabric and design.\n\nDialogue: “Look at this color block dress! It's so hot right now, and the fabric is super cute for a night out!”\nShe squints slightly at the screen as if reading early mobile chat comments.\n\nScene 3 — First Outfit Try On (10–16 seconds)\n\nA pixelated, glitchy transition shows her wearing the same color-block dress, standing in front of a full-length boutique mirror while maintaining her exact face, hair, and unique eye colors. She poses and takes a few steps for the camera.\n\nDialogue: “Okay everyone, here it is on! How does it look? I'm totally loving this style!”\nShe smiles and waves at the viewer names popping up on her phone screen.\n\nScene 4 — Second Outfit Reveal (16–23 seconds)\n\nA quick, low-res transition brings her back wearing a classic 2010 sequin top and skinny jeans set. She adjusts her hair, steps forward, and shows off the outfit.\n\nDialogue: “And check out this sequin top and denim combo! Perfect for weekend hangs with friends!”\nHer delivery feels spontaneous, casual, and true to early social media video creators.\n\nScene 5 — Final Sales Pitch (23–30 seconds)\n\nShe stands near the boutique display wearing the second outfit while holding the color-block dress on a hanger beside her, smiling brightly into the phone.\n\nDialogue: “Alright guys, let me know in the comments which one you like best! Send a text message or leave a comment to grab yours before they sell out. Bye!”",
+  "originalPromptSha256": "57659cb2c999aee93ced0b0829dde26641387a7a035958d39873f060f8311b8f",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "2010 boutique mobile livestream",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2111824807004430336",
+    "url": "https://video-s.twimg.com/amplify_video/2111824807004430336/vid/avc1/1080x1920/b4DGD9c1VoBw0szz.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2111824807004430336/vid/avc1/1080x1920/b4DGD9c1VoBw0szz.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2111824846309269700",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111824807004430336/img/p3h0VpXB0nvCopNP.jpg",
+    "durationSecondsReported": 30.093,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-18T14:20:53Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

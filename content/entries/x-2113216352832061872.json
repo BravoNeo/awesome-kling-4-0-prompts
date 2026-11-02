@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113216352832061872",
+  "slug": "film-noir-police-interception",
+  "title": {
+    "en": "Film-noir police interception",
+    "zh": "黑色电影警车拦截"
+  },
+  "description": {
+    "en": "Film-noir police interception — original prompt by @PromptSin.",
+    "zh": "黑色电影警车拦截，来自 @PromptSin 的原始提示词。"
+  },
+  "author": {
+    "handle": "PromptSin",
+    "url": "https://x.com/PromptSin"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/PromptSin/status/2113216401494491281",
+    "sourceTextOriginal": "Kling 4.0:  the full chase.\n\n15 seconds, 16:9. The same prompt and opening/ending references.\n\nWatch the overtake and the final interception. https://t.co/Ky4EaVVoEm"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/PromptSin/status/2113216352832061872",
+  "videoSourceUrl": "https://x.com/PromptSin/status/2113216401494491281",
+  "conversationId": "2113216328698069365",
+  "originalLanguage": "en",
+  "originalPrompt": "15-second horizontal 16:9 photorealistic black-and-white police pursuit, filmed as a tense 1950s crime movie. Use the supplied opening image as the first frame and the supplied ending image as the final composition. Animate a coherent physical chase; do not dissolve or morph between still images.\n\nCONTINUITY: Exactly two early-1950s American sedans: the dark getaway sedan with its distinctive split chrome grille, and the black-and-white police sedan with white doors, star badge and single roof beacon. Preserve both reference designs and drivers. Same empty wet warehouse district at night, period streetlamps and brick buildings.\n\n0–4s — IMMEDIATE ACTION: Begin in the opening composition, already moving fast. The dark sedan rounds the wet corner, throwing water from its tires. The police follows the same turn a few car lengths behind. Low front three-quarter tracking camera retreats ahead of them. Engines roar, a period siren wails, tires squeal. Realistic suspension roll, wheel rotation and forward momentum.\n\n4–8s — OVERTAKE: Cut to a moving side view with both vehicles visible. On the straight, the police accelerates up the getaway car's left side, draws level and clearly overtakes. Show the full passing maneuver with space between the vehicles. Water spray and streetlamp reflections emphasize speed.\n\n8–12s — INTERCEPTION: Once safely ahead at a broad intersection, the police brakes and swings into a tight controlled turn across the escape route. The getaway brakes hard. Show the police turning and the getaway decelerating together in a wide shot. Tire squeal, spray and suspension compression. No collision or teleportation.\n\n12–15s — ENDING: The getaway stops short. Settle into the ending reference's elevated sidewalk three-quarter view: dark sedan at left, angled police sedan at right blocking its route, both intact with a clear gap between them. Hold this composition for the final second as spray settles and engines idle. Drivers remain inside. Headlights and roof beacon remain active.\n\nLOOK: True monochrome, rich blacks, luminous wet-road reflections, hard film-noir lighting, restrained 35mm grain, realistic metal and glass. Fast action at normal speed, decisive cuts and clear spatial continuity.\nAUDIO: Engines with natural pitch changes, period siren, tire squeal and water spray. No music, dialogue or narration.\nAVOID: Color, sepia, modern objects, extra cars, pedestrians, swapped vehicle identities, disappearing cars, deformed wheels, impossible acceleration, collisions, explosions, gunfire, slow motion, dissolves, text, subtitles and watermarks.",
+  "originalPromptSha256": "4f7616b2366da789f9e63880972fef7adeb0481cf5e91fdfabdd5005b79088a4",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "Film-noir police interception",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113216366304251904",
+    "url": "https://video.twimg.com/amplify_video/2113216366304251904/vid/avc1/1276x720/5rCfJoXgN37h9tK2.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113216366304251904/vid/avc1/1276x720/5rCfJoXgN37h9tK2.mp4?tag=16",
+    "sourceUrl": "https://x.com/PromptSin/status/2113216401494491281",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113216366304251904/img/ob7tPRTC_0vNyyWr.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      321,
+      181
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-22T10:30:26Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

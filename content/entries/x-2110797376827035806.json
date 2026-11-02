@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110797376827035806",
+  "slug": "a-cats-continuous-midnight-adventure",
+  "title": {
+    "en": "A cat’s continuous midnight adventure",
+    "zh": "猫咪的连续午夜冒险"
+  },
+  "description": {
+    "en": "A cat’s continuous midnight adventure — original prompt by @umesh_ai.",
+    "zh": "猫咪的连续午夜冒险，来自 @umesh_ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "umesh_ai",
+    "url": "https://x.com/umesh_ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/umesh_ai/status/2110797373584887907",
+    "sourceTextOriginal": "One of my first tries with Kling 4.0 , 1080p!\n\nVery impressive.\n\nPrompt ⤵️ https://t.co/NhSPN6e0Kr"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/umesh_ai/status/2110797376827035806",
+  "videoSourceUrl": "https://x.com/umesh_ai/status/2110797373584887907",
+  "conversationId": "2110797373584887907",
+  "originalLanguage": "en",
+  "originalPrompt": "An amateur handheld recording in third-person perspective rapidly follows a cat through its nighttime adventures in one continuous shot, with no cuts, no stopping, and no pause. The sequence feels like fast-forward, showing all the curious, mischievous, funny, and chaotic things a cat might do while the town, house, garden, and everything around it are half-asleep.The cat races through about ten places a cat would naturally explore at night, each one flowing into the next in a single continuous chase: a quiet bedroom, a dim hallway, a kitchen, a living room, a backyard garden, a fence line, a garage, a rooftop, a tree, and a sleepy street or alley. The camera is shaky and imperfect, always struggling to keep up as it follows close behind. In every location, the cat causes some kind of chaos. In the bedroom it jumps onto furniture and disturbs sleeping people. In the hallway it sends small objects tumbling. In the kitchen it knocks items off the counter. In the living room it darts across shelves and tips things over. In the garden it rustles plants, digs, or startles birds. On the fence it rattles loose objects. In the garage it weaves through clutter and causes things to wobble or fall. On the rooftop it skids across surfaces and startles other animals. In the tree it shakes branches and scatters leaves. In the street or alley it darts through trash, shadows, and unexpected little messes, always leaving brief chaos behind before sprinting onward.The cat behaves like a restless, curious nighttime troublemaker: climbing, leaping, squeezing through gaps, chasing tiny movements, staring at strange things, swatting objects, knocking things over, and vanishing into corners before bursting back out again. Every scene should contain a clear action, reaction, or small disaster caused by the cat.Everything around it feels sleepy and still, with dark houses, quiet gardens, dim windows, silent rooftops, and empty streets. The contrast is that the cat is pure energy, moving so quickly that the world smears into motion blur and fragmented glimpses of chaos. The overall feeling is funny, lively, mischievous, and cinematic, like a whole secret night of cat behavior compressed into one rapid continuous chase.",
+  "originalPromptSha256": "43c3a59f5071442684cfa2e7c8dad86a3f8b3ea6feb5fb5758bee82aa68dac05",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "A cat’s continuous midnight adventure",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110797232949891072",
+    "url": "https://video-s.twimg.com/amplify_video/2110797232949891072/vid/avc1/1920x1080/PmoCWgQ7bvfE_u1w.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110797232949891072/vid/avc1/1920x1080/PmoCWgQ7bvfE_u1w.mp4?tag=29",
+    "sourceUrl": "https://x.com/umesh_ai/status/2110797373584887907",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110797232949891072/img/3VgG5z57oETKHaAQ.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T18:18:05Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

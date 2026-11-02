@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115085474973073710",
+  "slug": "an-armored-hunter-cooks-dinner",
+  "title": {
+    "en": "An armored hunter cooks dinner",
+    "zh": "铠甲猎人的汉堡晚餐"
+  },
+  "description": {
+    "en": "An armored hunter cooks dinner — original prompt by @tokyo_Valentine.",
+    "zh": "铠甲猎人的汉堡晚餐，来自 @tokyo_Valentine 的原始提示词。"
+  },
+  "author": {
+    "handle": "tokyo_Valentine",
+    "url": "https://x.com/tokyo_Valentine"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/tokyo_Valentine/status/2115085471005159653",
+    "sourceTextOriginal": "最強の狩人、休日はハンバーグを焼く。\n\nマスクの下、反則では…？🍳\n\nKling 4.0で生成\nプロンプトはリプへ👇\n\nCreated with\n@Kling_ai\n#KlingAI #Kling #Kling_ai https://t.co/t3YcQIhtHh"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/tokyo_Valentine/status/2115085474973073710",
+  "videoSourceUrl": "https://x.com/tokyo_Valentine/status/2115085471005159653",
+  "conversationId": "2115085471005159653",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 15-second cinematic cooking sequence, 16:9 landscape, using the two supplied reference images.\n\nREFERENCE CONSISTENCY\nReference Image 1 defines the single character: preserve the exact black-and-red armor, helmet, mechanical dreadlock tubes, visible eyes, armored hands, proportions, materials, and surface details. The character wears the gas mask while cooking. Only the gas mask is removed before eating; the helmet, tubes, and body armor remain unchanged. Keep all weapons secured and inactive.\nReference Image 2 defines the kitchen: preserve its black marble island, dark wood cabinetry, warm amber lighting, pendant lamps, appliances, and spatial layout.\n\nTreat both reference sheets as design references. Render a full-screen cinematic scene with one character, not the diagrams, multiple views, labels, or panels.\n\nCONCEPT AND VISUAL STYLE\nA formidable armored character expertly prepares an irresistibly appetizing Japanese hamburger steak topped with a sunny-side-up egg and glossy brown demi-glace sauce, then removes the gas mask and enjoys the meal alone.\n\nUse realistic cinematic materials, warm highlights on black metal, delicate steam, a deeply browned meat crust, glossy sauce, and a rich golden egg yolk. Serve one hamburger steak and one fried egg on a white ceramic plate.\nDIRECTING\nUse action-film camera language: fast low-angle tracking, precise whip pans, short orbital moves, motivated push-ins, and action-matched cuts. Let the camera follow the hands, utensils, and food. Finish each fast move with a clear, readable composition.\n\nUse a brisk cooking montage during the first eight seconds, followed by controlled camera movement for mask removal and eating. Compress actual cooking time through editorial cuts. The hamburger steak is fully cooked before plating; the egg white is set while the yolk remains runny.\n\nThe timestamps below describe consecutive one-second action beats. Preserve the order and allocate enough time for the physical mask removal and the final bite.\nSECOND-BY-SECOND SEQUENCE\n\n00:00–00:01\nAn armored hand lowers a thick hamburger steak into a hot skillet with a spatula. It immediately sizzles. Begin at skillet-rim height with a fast lateral dolly toward the point of contact. Tiny oil droplets and steam catch the warm kitchen light.\n\n00:01–00:02\nCUT FORWARD IN COOKING TIME. The character smoothly flips the steak once with the spatula, revealing a beautifully browned crust. The camera follows the turn in a tight upward arc, then settles as the steak lands firmly in the pan.\n\n00:02–00:03\nCUT to both armored hands cracking one egg over a second skillet. A quick whip pan follows the forearm and resolves into a steady close-up as the shell opens and the egg drops into the pan. Keep the yolk whole.\n\n00:03–00:04\nContinue the egg shot. The camera makes a short, low macro slide beside the pan as the egg white begins sizzling around the domed golden yolk. Emphasize delicate bubbles and the clean, glossy yolk surface.\n00:04–00:05\nCUT FORWARD IN COOKING TIME to the browned hamburger steak. The character pours a small stream of thick demi-glace sauce around it. A fast push-in follows the stream down to the bubbling sauce, ending on the glistening meat.\n\n00:05–00:06\nThe character lifts the cooked steak with a spatula and transfers it onto the white plate immediately beside the skillet. The camera tracks the short movement horizontally, keeping the steak sharp as sauce clings to its surface.\n00:06–00:07\nCUT to the cooked sunny-side-up egg being lifted from the second skillet. The camera follows the spatula in a tight descending movement as the character gently slides the egg onto the center of the steak. The yolk remains intact.\n\n00:07–00:08\nThe character slides the completed plate a short distance into its dining position on the island. A brisk 30-degree camera orbit reveals the imposing masked character behind the steaming food. End with the golden yolk prominent in the foreground.\n00:08–00:09\nCUT to the character seated alone at the island. Both hands release the gas mask’s side catches. Begin a controlled push-in from a three-quarter angle. Clearly show the hands gripping the mask while it still covers the face.\n\n00:09–00:10\nContinue without cutting. The character physically pulls the gas mask forward, away from the face, then lowers it. Reveal the mouth naturally while preserving the same visible eye region and skin tone. The helmet and mechanical dreadlock tubes remain completely unchanged.\n00:10–00:11\nContinue the same action. The character places the removed mask on the countertop to the right of the plate. The camera tilts down with the hand, clearly showing the mask touch the surface and remain there as a solid object.\n\n00:11–00:12\nCUT to a low close-up of the plate. Using a fork and table knife, the character cuts through the egg and cooked hamburger steak. The camera makes a short push-in as golden yolk flows over the browned meat and blends with the glossy sauce. Show a moist, fully cooked interior.\n00:12–00:13\nContinue the food shot. The fork lifts one small bite coated with yolk and sauce. The camera rises smoothly with the fork, maintaining sharp focus on the appetizing bite and its delicate steam.\n\n00:13–00:14\nCUT to a three-quarter facial close-up. The character brings the fork to the exposed mouth, takes the bite, and begins chewing naturally. Use a gentle forward camera drift. The gas mask remains on the countertop.\n00:14–00:15\nContinue without cutting. The character’s eyes soften with quiet satisfaction and the shoulders relax slightly. Make a small, smooth dolly backward to include the steaming plate and warm kitchen surroundings. End on the character peacefully enjoying the meal alone.\n\nSOUND\nNo background music, narration, or dialogue.\nUse synchronized cooking and environmental sounds: strong sizzling, an egg cracking, sauce bubbling, subtle armor movement, spatula contact, mask catches clicking, the mask touching the countertop, and quiet cutlery sounds. Let the intense cooking sounds transition into calm kitchen ambience during the final seconds.\nCONTINUITY AND QUALITY\nExactly one character, one hamburger steak, and one fried egg.\nMaintain consistent hands, utensils, armor, kitchen geometry, and food placement.\nThe gas mask stays on during cooking, is physically removed at 00:09–00:10, and remains beside the plate afterward.\nUse ordinary kitchen utensils for cooking.\nKeep food and hand movements readable despite the energetic camera.\nAvoid duplicated fingers, floating utensils, teleporting ingredients, changing faces, dissolving masks, extra people, explosive flames, excessive camera shake, subtitles, captions, and reference-sheet text.",
+  "originalPromptSha256": "517392301bd3d176f7a665e9159980389398270f5f774eab73004e76272539c8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "An armored hunter cooks dinner",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2115083824946425856",
+    "url": "https://video.twimg.com/amplify_video/2115083824946425856/vid/avc1/3840x2160/QkSSEvHNm4nQ_LwT.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115083824946425856/vid/avc1/3840x2160/QkSSEvHNm4nQ_LwT.mp4?tag=29",
+    "sourceUrl": "https://x.com/tokyo_Valentine/status/2115085471005159653",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115083824946425856/img/b_WPm2jExecxn43N.jpg",
+    "durationSecondsReported": 15.042,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T14:17:27Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

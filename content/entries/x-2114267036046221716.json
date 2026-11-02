@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114267036046221716",
+  "slug": "lightning-and-fire-rooftop-duel",
+  "title": {
+    "en": "Lightning and fire rooftop duel",
+    "zh": "屋顶雷电与烈焰对决"
+  },
+  "description": {
+    "en": "Lightning and fire rooftop duel — original prompt by @tirtaVEX.",
+    "zh": "屋顶雷电与烈焰对决，来自 @tirtaVEX 的原始提示词。"
+  },
+  "author": {
+    "handle": "tirtaVEX",
+    "url": "https://x.com/tirtaVEX"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/tirtaVEX/status/2114267036046221716",
+    "sourceTextOriginal": "Nyobain KLING 4.0 @CuddlerAI \n\nPrompt:\n【视觉风格】\n超写实电影级真人质感，恢宏的元素特效；一次连续生成。夜晚的城市屋顶，高对比度，轮廓光，雨滴在短暂慢动作中飞溅。镜头运动富有戏剧张力且控制精准；氛围从紧张推进至爆发，最终归于充满敬意的寂静：两位势均力敌的战士以平局收场。\n【角色与场景】\n女战士：体态矫健优雅，目光锐利，绿色双眸。身体上分布着发出蓝光的纹路，戴黑色皮手套；手持一对缠绕蓝色闪电的短匕首。\n男战士：肌肉极其发达，留短胡须，右臂有部落图腾纹身。穿工装裤；双前臂佩戴炽热的金属护臂，双拳燃烧着火焰。\n场景：宽阔湿润的混凝土屋顶，褪色的直升机停机坪标线、通风管道，背景是灯火通明的城市楼群。所有镜头中的面部特征、服装、伤痕和装备均保持一致；爆炸后的混凝土裂缝持续保留。\n【分镜列表】\n镜头1｜00:00–00:05 — 全景，摇臂镜头穿过雨幕下降，移向停机坪；两人相向而立，武器与双拳上的能量缓缓亮起。音效：雷鸣、瓢泼大雨。\n镜头2｜00:05–00:10 — 中远景，以快速而精准的环绕镜头跟随一组连贯交锋：两人疾冲靠近，匕首格挡戴有护臂的重拳，电火花与烈焰迸射。音效：金属撞击声、能量爆鸣。\n镜头3｜00:10–00:15 — 横向跟拍地面攻击与闪避：男战士猛击混凝土地面，火焰冲击波贴地横扫；女战士翻腾跃过火浪，落地后面向男战士。翻腾时短暂变速进入慢动作，雨滴仿佛悬停空中，随后恢复正常速度。音效：沉重轰击声，声音短暂压低，随后响起蒸汽嘶鸣。\n镜头4｜00:15–00:20 — 镜头富有戏剧性地向前推进，捕捉最终碰撞：两人同时向前冲，火焰重拳与雷电匕首在中央相撞，形成白光穹顶，混凝土地面出现环形裂缝；反冲力将两人震倒，彼此相对跪地。音效：震耳欲聋的爆炸声与低频轰鸣。\n镜头5｜00:20–00:25 — 低机位双人中景，随着烟雾散开，摄影机缓缓向前移动；女战士的一把匕首停在男战士颈侧附近，两人的另一只手在下方相互扣锁。音效：雨势渐弱，远处传来雷声。\n镜头6｜00:25–00:30 — 固定双人近景，始终保持在轴线同一侧：女战士露出淡淡的微笑。两人同时解除威胁，依然相对跪地，彼此致敬；双方的能量同时熄灭。\n【规则】\n必须依次呈现：相向对峙、正面交锋、地面攻击与翻腾闪避、最终攻击、平局僵持、彼此放开。没有赢家。\n\nJoin me on Cuddler — we both get free credits ✨ https://t.co/5piMqTfF7Z \n\n make on Cuddler.\n\n#CuddlerPartner #cuddler"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/tirtaVEX/status/2114267036046221716",
+  "videoSourceUrl": "https://x.com/tirtaVEX/status/2114267036046221716",
+  "conversationId": "2114267036046221716",
+  "originalLanguage": "zh",
+  "originalPrompt": "【视觉风格】\n超写实电影级真人质感，恢宏的元素特效；一次连续生成。夜晚的城市屋顶，高对比度，轮廓光，雨滴在短暂慢动作中飞溅。镜头运动富有戏剧张力且控制精准；氛围从紧张推进至爆发，最终归于充满敬意的寂静：两位势均力敌的战士以平局收场。\n【角色与场景】\n女战士：体态矫健优雅，目光锐利，绿色双眸。身体上分布着发出蓝光的纹路，戴黑色皮手套；手持一对缠绕蓝色闪电的短匕首。\n男战士：肌肉极其发达，留短胡须，右臂有部落图腾纹身。穿工装裤；双前臂佩戴炽热的金属护臂，双拳燃烧着火焰。\n场景：宽阔湿润的混凝土屋顶，褪色的直升机停机坪标线、通风管道，背景是灯火通明的城市楼群。所有镜头中的面部特征、服装、伤痕和装备均保持一致；爆炸后的混凝土裂缝持续保留。\n【分镜列表】\n镜头1｜00:00–00:05 — 全景，摇臂镜头穿过雨幕下降，移向停机坪；两人相向而立，武器与双拳上的能量缓缓亮起。音效：雷鸣、瓢泼大雨。\n镜头2｜00:05–00:10 — 中远景，以快速而精准的环绕镜头跟随一组连贯交锋：两人疾冲靠近，匕首格挡戴有护臂的重拳，电火花与烈焰迸射。音效：金属撞击声、能量爆鸣。\n镜头3｜00:10–00:15 — 横向跟拍地面攻击与闪避：男战士猛击混凝土地面，火焰冲击波贴地横扫；女战士翻腾跃过火浪，落地后面向男战士。翻腾时短暂变速进入慢动作，雨滴仿佛悬停空中，随后恢复正常速度。音效：沉重轰击声，声音短暂压低，随后响起蒸汽嘶鸣。\n镜头4｜00:15–00:20 — 镜头富有戏剧性地向前推进，捕捉最终碰撞：两人同时向前冲，火焰重拳与雷电匕首在中央相撞，形成白光穹顶，混凝土地面出现环形裂缝；反冲力将两人震倒，彼此相对跪地。音效：震耳欲聋的爆炸声与低频轰鸣。\n镜头5｜00:20–00:25 — 低机位双人中景，随着烟雾散开，摄影机缓缓向前移动；女战士的一把匕首停在男战士颈侧附近，两人的另一只手在下方相互扣锁。音效：雨势渐弱，远处传来雷声。\n镜头6｜00:25–00:30 — 固定双人近景，始终保持在轴线同一侧：女战士露出淡淡的微笑。两人同时解除威胁，依然相对跪地，彼此致敬；双方的能量同时熄灭。\n【规则】\n必须依次呈现：相向对峙、正面交锋、地面攻击与翻腾闪避、最终攻击、平局僵持、彼此放开。没有赢家。",
+  "originalPromptSha256": "2fb4f8e4ce89ff0db14951ab5ed2852614d5d871b4b6908ffdb448e528c7abd7",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "martial-arts"
+    ]
+  },
+  "tags": [
+    "Lightning and fire rooftop duel",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2114264218623201280",
+    "url": "https://video-s.twimg.com/amplify_video/2114264218623201280/vid/avc1/1920x1080/h4qbdW7GFd1JUJuh.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2114264218623201280/vid/avc1/1920x1080/h4qbdW7GFd1JUJuh.mp4?tag=29",
+    "sourceUrl": "https://x.com/tirtaVEX/status/2114267036046221716",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114264218623201280/img/l_eOnAv03F4Np42m.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-25T08:05:17Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2114671326413701226",
+  "slug": "skateboarder-in-the-moonlit-forest",
+  "title": {
+    "en": "Skateboarder in the moonlit forest",
+    "zh": "月夜森林中的滑板少女"
+  },
+  "description": {
+    "en": "Skateboarder in the moonlit forest — original prompt by @MahiraEhan.",
+    "zh": "月夜森林中的滑板少女，来自 @MahiraEhan 的原始提示词。"
+  },
+  "author": {
+    "handle": "MahiraEhan",
+    "url": "https://x.com/MahiraEhan"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/MahiraEhan/status/2114671326413701226",
+    "sourceTextOriginal": "Lost between the cold of the night and the silence of my own existence.\n\nCreated with Kling 4.0 on @Picsart \n\n#PicsartPartner #Picsartearn @picsartai \n\nPrompt:\nNighttime medium shot of a girl skateboarding swiftly through a dark, cold forest, her breath visible in the frosty air. The camera follows close behind, capturing her focused expression as she sings softly and sorrowfully, \"Am I dead? Am I dreaming? I can't feel anything—I can't feel a thing.\" Pale moonlight filters through bare branches, casting cool blue shadows. She comes to a gentle stop on a leaf-strewn path, picks up her skateboard, and steps deeper into the dense woods. She whispers, \"I must remain unseen,\" as the camera slowly dollies forward, enhancing the eerie, quiet ambiance. Audio: raw on-set sound only — natural dialogue, ambient room tone, and diegetic sound effects."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/MahiraEhan/status/2114671326413701226",
+  "videoSourceUrl": "https://x.com/MahiraEhan/status/2114671326413701226",
+  "conversationId": "2114671326413701226",
+  "originalLanguage": "en",
+  "originalPrompt": "Nighttime medium shot of a girl skateboarding swiftly through a dark, cold forest, her breath visible in the frosty air. The camera follows close behind, capturing her focused expression as she sings softly and sorrowfully, \"Am I dead? Am I dreaming? I can't feel anything—I can't feel a thing.\" Pale moonlight filters through bare branches, casting cool blue shadows. She comes to a gentle stop on a leaf-strewn path, picks up her skateboard, and steps deeper into the dense woods. She whispers, \"I must remain unseen,\" as the camera slowly dollies forward, enhancing the eerie, quiet ambiance. Audio: raw on-set sound only — natural dialogue, ambient room tone, and diegetic sound effects.",
+  "originalPromptSha256": "175aad2de6a65895a33d6fbe17a82b109253bbb76cb8fdf4a93f56668cff04f8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Skateboarder in the moonlit forest",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2114670563952082944",
+    "url": "https://video.twimg.com/amplify_video/2114670563952082944/vid/avc1/720x1280/eDXCxCu5F42yn6CK.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2114670563952082944/vid/avc1/720x1280/eDXCxCu5F42yn6CK.mp4?tag=29",
+    "sourceUrl": "https://x.com/MahiraEhan/status/2114671326413701226",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2114670563952082944/img/vVUPFCujqv5YLnzy.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-26T10:51:47Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

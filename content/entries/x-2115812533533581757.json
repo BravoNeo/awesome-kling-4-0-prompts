@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115812533533581757",
+  "slug": "a-clay-ghost-learns-to-say-boo",
+  "title": {
+    "en": "A clay ghost learns to say boo",
+    "zh": "黏土小幽灵学会吓人"
+  },
+  "description": {
+    "en": "A clay ghost learns to say boo — original prompt by @JasonHeatony7.",
+    "zh": "黏土小幽灵学会吓人，来自 @JasonHeatony7 的原始提示词。"
+  },
+  "author": {
+    "handle": "JasonHeatony7",
+    "url": "https://x.com/JasonHeatony7"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/JasonHeatony7/status/2115812533533581757",
+    "sourceTextOriginal": "Made with @SocialSight \nKling 4.0\n\nprompt share:\n\nStyle: classic claymation stop-motion, smooth plasticine figures with visible thumbprints and sculpting marks, glossy clay highlights, miniature handmade autumn set with clay leaves and a painted backdrop of a moonlit sky, warm golden lantern light with soft purple shadows, slightly choppy stop-motion movement at 12 frames per second.\n0-3s (HOOK): A tiny round white clay ghost with big googly eyes peeks out from behind a chunky clay pumpkin, its little body squishing and wobbling nervously.\n3-6s: Bigger clay ghosts float past on visible thin wires, booming \"BOO!\" at a clay bat hanging from a twisted branch, which squeaks and flaps away. The little ghost tries and lets out a tiny \"meep.\"\n6-10s: A plump clay frog hops by with a squishy plop. The little ghost takes a deep breath, its body inflating slightly, rises up, and squeaks again. The frog blinks slowly, then gives it a sticky little pat on the head.\n10-13s: Feeling brave, the ghost spins, stretches tall like rubbery clay, and lets out a real, loud \"BOO!\" Every clay jack-o'-lantern in the patch bursts alight with flickering candle glow.\n13-15s (BUTTON): The ghost startles itself, squishes flat like a pancake, and slides back behind the pumpkin with a soft splat.\nCamera: low, close-up tabletop view, with a quick push-in on the big \"BOO.\"\nAudio: squishy clay sounds, a soft frog croak, crunchy clay leaves, and a tiny echoing \"meep.\" Music is a bouncy bassoon and a plucky ukulele, light and silly with a spooky theremin twist.\nNo subtitles."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/JasonHeatony7/status/2115812533533581757",
+  "videoSourceUrl": "https://x.com/JasonHeatony7/status/2115812533533581757",
+  "conversationId": "2115812533533581757",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: classic claymation stop-motion, smooth plasticine figures with visible thumbprints and sculpting marks, glossy clay highlights, miniature handmade autumn set with clay leaves and a painted backdrop of a moonlit sky, warm golden lantern light with soft purple shadows, slightly choppy stop-motion movement at 12 frames per second.\n0-3s (HOOK): A tiny round white clay ghost with big googly eyes peeks out from behind a chunky clay pumpkin, its little body squishing and wobbling nervously.\n3-6s: Bigger clay ghosts float past on visible thin wires, booming \"BOO!\" at a clay bat hanging from a twisted branch, which squeaks and flaps away. The little ghost tries and lets out a tiny \"meep.\"\n6-10s: A plump clay frog hops by with a squishy plop. The little ghost takes a deep breath, its body inflating slightly, rises up, and squeaks again. The frog blinks slowly, then gives it a sticky little pat on the head.\n10-13s: Feeling brave, the ghost spins, stretches tall like rubbery clay, and lets out a real, loud \"BOO!\" Every clay jack-o'-lantern in the patch bursts alight with flickering candle glow.\n13-15s (BUTTON): The ghost startles itself, squishes flat like a pancake, and slides back behind the pumpkin with a soft splat.\nCamera: low, close-up tabletop view, with a quick push-in on the big \"BOO.\"\nAudio: squishy clay sounds, a soft frog croak, crunchy clay leaves, and a tiny echoing \"meep.\" Music is a bouncy bassoon and a plucky ukulele, light and silly with a spooky theremin twist.\nNo subtitles.",
+  "originalPromptSha256": "32f0c66baf941f3336ca2f7200e2d97a68a16083da8012a1fac5dd2adbc621ef",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "A clay ghost learns to say boo",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115812177206562816",
+    "url": "https://video-s.twimg.com/amplify_video/2115812177206562816/vid/avc1/720x1280/3uL9a6qJaB1_XYwH.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115812177206562816/vid/avc1/720x1280/3uL9a6qJaB1_XYwH.mp4?tag=29",
+    "sourceUrl": "https://x.com/JasonHeatony7/status/2115812533533581757",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115812177206562816/img/8CnQZkpfgmNEnj4H.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-29T14:26:32Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

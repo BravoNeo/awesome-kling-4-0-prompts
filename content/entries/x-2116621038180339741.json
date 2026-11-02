@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116621038180339741",
+  "slug": "painted-door-opening-in-a-five-style-kling-4-0-film",
+  "title": {
+    "en": "Painted door opening in a five-style Kling 4.0 film",
+    "zh": "Kling 4.0 五种动画风格短片中的绘画风开门"
+  },
+  "description": {
+    "en": "Painted door opening in a five-style Kling 4.0 film — original prompt by @HBCoop_.",
+    "zh": "Kling 4.0 五种动画风格短片中的绘画风开门，来自 @HBCoop_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "HBCoop_",
+    "url": "https://x.com/HBCoop_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/HBCoop_/status/2116621025836454048",
+    "sourceTextOriginal": "Trick or treat 👻\n\nFive animation styles, with a photoreal me answering the last door 🎃\n\nI made two frames for each door in Nano Banana Pro: one with the door almost shut and one with it open, then Kling 4.0 animated between them.\n\n→ Nano Banana Pro on @runwayml → @Kling_ai 4.0\n\nPrompts below:"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/HBCoop_/status/2116621038180339741",
+  "videoSourceUrl": "https://x.com/HBCoop_/status/2116621025836454048",
+  "conversationId": "2116621025836454048",
+  "originalLanguage": "en",
+  "originalPrompt": "Locked-off camera, no camera movement at all. Hand-painted 2.5D animation, visible brushwork held in every frame.\n\nFrom inside a dark hallway, the heavy panelled door swings open on its hinges on the left of the doorway. Its free edge with the brass handle travels toward us and round to the left, in the first second and a half, until the door stands wide open at the left of the frame. The hinges stay fixed and the door stays rigid. The blade of moonlight on the floor widens as the door opens.\n\nAs the door clears, a woman in a long oxblood leather coat and a wide-brimmed black hat steps up from the wet cobbled street onto the doorstep, into the doorway, the orange jack-o'-lantern pail swinging by its black handle in the hand on the right of the frame. She stops, facing us, with a soft closed-mouth smile. A black raven flies in from the left, lands on the stone gatepost and folds its wings.\n\nNormal real-time speed, no slow motion.\n\nSound: old door hinges creak, boots on wet cobbles, one raven caw, distant wind. No speech, no music.",
+  "originalPromptSha256": "5aa858edaf334e73fa69600d818332c67fbf5df62db56eff91a609c2463beea8",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Painted door opening in a five-style Kling 4.0 film",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2116620978021376000",
+    "url": "https://video.twimg.com/amplify_video/2116620978021376000/vid/avc1/1920x1080/05f7SbV7bj96Y7rg.mp4?tag=16",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116620978021376000/vid/avc1/1920x1080/05f7SbV7bj96Y7rg.mp4?tag=16",
+    "sourceUrl": "https://x.com/HBCoop_/status/2116621025836454048",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116620978021376000/img/e37d079hEs96RDzC.jpg",
+    "durationSecondsReported": 23.583,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-31T19:59:12Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

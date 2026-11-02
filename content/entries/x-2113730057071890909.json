@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113730057071890909",
+  "slug": "snap-zoom-into-a-pink-collar",
+  "title": {
+    "en": "Snap zoom into a pink collar",
+    "zh": "粉色衣领的快速变焦"
+  },
+  "description": {
+    "en": "Snap zoom into a pink collar — original prompt by @ai_artworkgen.",
+    "zh": "粉色衣领的快速变焦，来自 @ai_artworkgen 的原始提示词。"
+  },
+  "author": {
+    "handle": "ai_artworkgen",
+    "url": "https://x.com/ai_artworkgen"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/ai_artworkgen/status/2113730057071890909",
+    "sourceTextOriginal": "Kling 4.0 Snap Zoom Camera Prompt\n\nOne continuous shot, no cuts, the camera body never leaves its position. 0-2s: hold the full shot as a gust ruffles the fuzzy pink shoulder pads and lifts their fringe off the brow. 2-3s: on the gust, the lens snap-zooms in one unbroken push from full length to their face and fuzzy pink collar, brief motion blur on the zoom only. 3-5s: the frame feathers back ten percent and settles as they hold the lens with a calm stare and blink. Soft pastel light, haze, fine grain."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/ai_artworkgen/status/2113730057071890909",
+  "videoSourceUrl": "https://x.com/ai_artworkgen/status/2113730057071890909",
+  "conversationId": "2113730057071890909",
+  "originalLanguage": "en",
+  "originalPrompt": "One continuous shot, no cuts, the camera body never leaves its position. 0-2s: hold the full shot as a gust ruffles the fuzzy pink shoulder pads and lifts their fringe off the brow. 2-3s: on the gust, the lens snap-zooms in one unbroken push from full length to their face and fuzzy pink collar, brief motion blur on the zoom only. 3-5s: the frame feathers back ten percent and settles as they hold the lens with a calm stare and blink. Soft pastel light, haze, fine grain.",
+  "originalPromptSha256": "dec44a6923067d62bf0bd09b4d366ecff2142f4378bb66b6f1881b56b6360631",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Snap zoom into a pink collar",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113729718209884160",
+    "url": "https://video.twimg.com/amplify_video/2113729718209884160/vid/avc1/1244x1660/Jb_-i3mDQX-ZktEU.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2113729718209884160/vid/avc1/1244x1660/Jb_-i3mDQX-ZktEU.mp4?tag=29",
+    "sourceUrl": "https://x.com/ai_artworkgen/status/2113730057071890909",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113729718209884160/img/NLLCdnqgOskMJXeH.jpg",
+    "durationSecondsReported": 5.041,
+    "aspectRatioReported": [
+      311,
+      415
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T20:31:31Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

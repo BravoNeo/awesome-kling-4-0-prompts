@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2116145694264180982",
+  "slug": "kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint",
+  "title": {
+    "en": "Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint",
+    "zh": "Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺"
+  },
+  "description": {
+    "en": "Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint — original prompt by @openclipsai.",
+    "zh": "Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2116145309357142072",
+    "sourceTextOriginal": "Can a $0.60 AI video beat a $1.98 one to happy hour? 🍹\n\nTGIF! We gave 4 AI models the exact same prompt: the clock hits 5pm, she vaults a desk, slides down the stairs, jumps over a taxi and catches a cocktail mid-slide.\n\nKling 4.0: $1.98\nSeedance 2.5: $1.73\nMiniMax H3: $0.60\nWan 3.0: $1.26\n\nWatch before you answer, the full prompt is in the comments 👇\n\n*price per 15s clip at 720p on OpenClips MAX"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2116145694264180982",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2116145309357142072",
+  "conversationId": "2116145309357142072",
+  "originalLanguage": "en",
+  "originalPrompt": "Cinematic action one-shot, 15 seconds, 16:9, photorealistic. One continuous fast tracking shot following one woman, no cuts. The camera is always moving with her: low angles, close at her shoulder, swinging around her on every stunt. Crisp, sharp image, every movement clearly readable.\n\nCHARACTER: a young woman in her late twenties, sharp navy suit, white sneakers, hair in a high ponytail, a leather laptop bag across her body. Focused, determined, a tiny smile.\n\n0-1s: extreme close-up of an office wall clock as the minute hand slams to 5:00 with a loud click. The camera whips down to her desk as she slams her laptop shut and launches out of her chair.\n1-4s: she sprints down the office aisle, vaults over a desk with one hand, papers exploding into the air around her. The camera races low beside her.\n4-7s: she bursts through the open stairwell door, jumps onto the metal banister and slides down a full flight, the camera swinging around her as she lands and keeps running.\n7-10s: she bursts out onto a golden hour street, sprints straight toward a parked yellow taxi and slides across its hood on her hip, landing on the other side mid-run.\n10-13s: she charges through the wide open doors of a corner cocktail bar. Behind the long wooden counter, a bartender slides an orange spritz down the bar. She runs alongside the counter, grabs the glass mid-slide without breaking stride, and spins onto a bar stool. Not a drop spills.\n13-15s END STATE: she lifts the glass toward the camera in a cheers, takes a sip and throws her head back laughing, golden sunset light flaring through the window behind her, ice clinking. Hold.\n\nEvery move has real weight: her feet push off surfaces, papers scatter from the desk, the banister flexes, the taxi hood dips slightly as she slides over it, the glass glides smoothly on polished wood.\n\nLight: warm golden office, golden hour street, cozy amber bar with sunset flare.\n\nSound: a loud clock click, a slammed laptop, fast footsteps, papers flying, metal screeching on the banister, a thump on the taxi hood, a glass gliding on wood, ice clinking, her laugh. No music, no dialogue.",
+  "originalPromptSha256": "5ccb018ba35b01799c54819a1eb373f666efa33d0e403e55c7d6bd5421cea443",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2116145095963480064",
+    "url": "https://video.twimg.com/amplify_video/2116145095963480064/vid/avc1/1920x1080/EelCY1p3bg0Uog8M.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2116145095963480064/vid/avc1/1920x1080/EelCY1p3bg0Uog8M.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2116145309357142072",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2116145095963480064/img/xWBaX7IYQbd6lVsY.jpg",
+    "durationSecondsReported": 15.061,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-30T12:28:52Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

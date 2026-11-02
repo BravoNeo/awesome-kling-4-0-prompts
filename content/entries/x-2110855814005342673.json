@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110855814005342673",
+  "slug": "robin-completes-an-update",
+  "title": {
+    "en": "Robin completes an update",
+    "zh": "罗宾完成升级"
+  },
+  "description": {
+    "en": "Robin completes an update — original prompt by @obi_ai6193.",
+    "zh": "罗宾完成升级，来自 @obi_ai6193 的原始提示词。"
+  },
+  "author": {
+    "handle": "obi_ai6193",
+    "url": "https://x.com/obi_ai6193"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/obi_ai6193/status/2110855814005342673",
+    "sourceTextOriginal": "Kling 4.0で15秒の超ショートドラマを作ってみました。\n\n思ったより生成スピードが速く、人物の動きや表情が自然になった印象。革命的なアップデートというよりも、「実用性が一段上がった」というイメージかなと。\n\n短い物語だったり、キャラクターの演技を丁寧に作り込みたい人には使いやすいのでは？\n\n添付した動画のプロンプトは以下の通りです。\n\n[Shot1, 3s ]\n水色のワンピースを着た女の子が、ロビンの隣にしゃがんで両手で優しく肩を支えている。心配そうに父親を見上げて話す。カメラはリリーの不安げな顔へゆっくりドリーイン。ロビンは静止したまま、光る目がわずかに点滅する。静かなサスペンス調のBGM。セリフ：「Daddy, something's wrong with Robin!」\n\n[Shot2, 3s ]\n黄色い花柄のワンピースを着た母親が、心配そうにロビンを見下ろしながら身を乗り出す。突然何かを思い出したように眉を上げ、考え込むように話す。カメラは母親の顔のクローズアップへゆっくりプッシュイン。背景のキッチンには暖かい照明が灯っている。不穏なストリングスが静かに流れる。セリフ：「He's been acting strange lately.」\n\n[Shot3, 3s ]\nベージュのスーツを着た父親が突然目を大きく見開く。慌てて上半身を起こし、信じられないという表情でロビンを凝視する。カメラは父親の驚いた顔へ素早くドリーインし、タイトなクローズアップ。表情はますます緊迫していく。鋭いオーケストラの効果音が鳴り、その後一瞬の静寂が訪れる。セリフ：「Oh, no! It can't be!」\n\n[Shot4, 3s ]\n小さく光沢のあるオレンジ色のレトロロボット、ロビンが突然起動する。丸い目が明るく輝く。頭部を2回ぎこちなく機械的に動かし、非常に短い腕がわずかに震える。カメラはローアングルから光る目へゆっくりドリーイン。ロビンの元のデザイン、体の比率、アンテナ、腹部前面のパネル、極端に短い脚を完全に維持する。柔らかな電子音と陽気な完了チャイムが響く。セリフ：「Don't worry! Kling four point oh update complete!」\n\n[Shot5, 3s ]\n家族全員が突然喜びの笑い声を上げる。父親と母親が勢いよくハイタッチし、水色のワンピースを着たリリーとピンクのワンピースを着た妹も楽しそうにハイタッチする。ロビンは非常に短い機械の両腕を上げて喜び、丸い目が明るく輝く。カメラはワイドショットから緩やかにクレーンアップしながら後退。美しいレトロフューチャーなキッチンと夜の街並みを映し出す。1950年代の陽気なスウィングジャズが始まる。セリフ：「Hooray!」"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/obi_ai6193/status/2110855814005342673",
+  "videoSourceUrl": "https://x.com/obi_ai6193/status/2110855814005342673",
+  "conversationId": "2110855814005342673",
+  "originalLanguage": "ja",
+  "originalPrompt": "[Shot1, 3s ]\n水色のワンピースを着た女の子が、ロビンの隣にしゃがんで両手で優しく肩を支えている。心配そうに父親を見上げて話す。カメラはリリーの不安げな顔へゆっくりドリーイン。ロビンは静止したまま、光る目がわずかに点滅する。静かなサスペンス調のBGM。セリフ：「Daddy, something's wrong with Robin!」\n\n[Shot2, 3s ]\n黄色い花柄のワンピースを着た母親が、心配そうにロビンを見下ろしながら身を乗り出す。突然何かを思い出したように眉を上げ、考え込むように話す。カメラは母親の顔のクローズアップへゆっくりプッシュイン。背景のキッチンには暖かい照明が灯っている。不穏なストリングスが静かに流れる。セリフ：「He's been acting strange lately.」\n\n[Shot3, 3s ]\nベージュのスーツを着た父親が突然目を大きく見開く。慌てて上半身を起こし、信じられないという表情でロビンを凝視する。カメラは父親の驚いた顔へ素早くドリーインし、タイトなクローズアップ。表情はますます緊迫していく。鋭いオーケストラの効果音が鳴り、その後一瞬の静寂が訪れる。セリフ：「Oh, no! It can't be!」\n\n[Shot4, 3s ]\n小さく光沢のあるオレンジ色のレトロロボット、ロビンが突然起動する。丸い目が明るく輝く。頭部を2回ぎこちなく機械的に動かし、非常に短い腕がわずかに震える。カメラはローアングルから光る目へゆっくりドリーイン。ロビンの元のデザイン、体の比率、アンテナ、腹部前面のパネル、極端に短い脚を完全に維持する。柔らかな電子音と陽気な完了チャイムが響く。セリフ：「Don't worry! Kling four point oh update complete!」\n\n[Shot5, 3s ]\n家族全員が突然喜びの笑い声を上げる。父親と母親が勢いよくハイタッチし、水色のワンピースを着たリリーとピンクのワンピースを着た妹も楽しそうにハイタッチする。ロビンは非常に短い機械の両腕を上げて喜び、丸い目が明るく輝く。カメラはワイドショットから緩やかにクレーンアップしながら後退。美しいレトロフューチャーなキッチンと夜の街並みを映し出す。1950年代の陽気なスウィングジャズが始まる。セリフ：「Hooray!」",
+  "originalPromptSha256": "1081914887a8eb9c816153661f804db459218434bc59cd8ff68c55997f64f318",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "Robin completes an update",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2110852998725591040",
+    "url": "https://video-s.twimg.com/amplify_video/2110852998725591040/vid/avc1/1916x1080/53OcAJZfT3TbHTkK.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110852998725591040/vid/avc1/1916x1080/53OcAJZfT3TbHTkK.mp4?tag=29",
+    "sourceUrl": "https://x.com/obi_ai6193/status/2110855814005342673",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110852998725591040/img/M0nYHlPw0X_RVak_.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      479,
+      270
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-15T22:10:18Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

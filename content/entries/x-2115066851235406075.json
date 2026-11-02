@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115066851235406075",
+  "slug": "kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city",
+  "title": {
+    "en": "Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市"
+  },
+  "description": {
+    "en": "Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city — original prompt by @SocialSight.",
+    "zh": "Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市，来自 @SocialSight 的原始提示词。"
+  },
+  "author": {
+    "handle": "SocialSight",
+    "url": "https://x.com/SocialSight"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/SocialSight/status/2115066849746456932",
+    "sourceTextOriginal": "An abstract expressionist painting in motion, comparing: Kling 4.0 vs. Seedance 2.5. \n\nA runaway jazz note travels across 4 locations in one continuous shot, built on SocialSight to test scene transitions and camera movement. https://t.co/4YsI7xj8BD"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/SocialSight/status/2115066851235406075",
+  "videoSourceUrl": "https://x.com/SocialSight/status/2115066849746456932",
+  "conversationId": "2115066849746456932",
+  "originalLanguage": "en",
+  "originalPrompt": "Style: abstract expressionist painting in motion. Thick, energetic brushstrokes, drips, splatters, and smeared color that pulse to the music. Each location has its own palette. Nothing is fully realistic: people and buildings are suggested with loose strokes.\n0-3s: Location 1, a smoky jazz club painted in deep blues and blacks. A saxophonist plays, and one bright yellow paint-stroke note escapes the horn and floats out the door.\n3-8s: Location 2, a rainy night street in gray and violet smears. The note bounces off puddles, and every splash leaves a burst of yellow. Painted strangers look up as it passes.\n8-12s: Location 3, a subway car in rushing streaks of green and silver. The note gets trapped against the window, flickering and fading as the train roars.\n12-16s: Location 4, a rooftop at night. The doors open and the note escapes up the stairs, then explodes into the sky in a huge firework of splattered gold, lighting up the painted skyline.\n16-18s: Button: back in the club, the saxophonist peers into his horn, shrugs, and plays a new note, which starts to sneak out the door too.\nCamera: one continuous flowing camera that follows the note through each location, with brushstrokes smearing into the next scene as transitions.",
+  "originalPromptSha256": "a22131e0ed21b11f08dffc0e7beb037d7db60b44fa59c2287329af7bb3b2b441",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115066828359598080",
+    "url": "https://video.twimg.com/ext_tw_video/2115066828359598080/pu/vid/avc1/720x1280/Aq_6yhEUhe3g_IRC.mp4?tag=12",
+    "originalUrl": "https://video.twimg.com/ext_tw_video/2115066828359598080/pu/vid/avc1/720x1280/Aq_6yhEUhe3g_IRC.mp4?tag=12",
+    "sourceUrl": "https://x.com/SocialSight/status/2115066849746456932",
+    "posterUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2115066828359598080/pu/img/4vOPc7QI1EkZ3RA4.jpg",
+    "durationSecondsReported": 16.033,
+    "aspectRatioReported": [
+      9,
+      16
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T13:03:27Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

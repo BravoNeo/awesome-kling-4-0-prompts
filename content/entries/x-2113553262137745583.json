@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2113553262137745583",
+  "slug": "kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding",
+  "title": {
+    "en": "Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding",
+    "zh": "Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车"
+  },
+  "description": {
+    "en": "Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding — original prompt by @nukegala83.",
+    "zh": "Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车，来自 @nukegala83 的原始提示词。"
+  },
+  "author": {
+    "handle": "nukegala83",
+    "url": "https://x.com/nukegala83"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/nukegala83/status/2113553262137745583",
+    "sourceTextOriginal": "おい！どーなってるんだ！？\nやっとKling 4.0で動画生成したら、また事件が起きたw\n同じプロンプトなのに、おじさんが2人になってない！？🎬\n\nプロンプトこれだよ？👇\n\n【スーツおじさんが、発車寸前の満員電車にギリギリで乗り込み出発するまでを、映画ジョンウィックのような激しいアクションで動画にして】\n\nおじさんのキャラクターシートをリファレンスで使っただけ…\nアクションの振り付けは一切指定してない。\n\nSeedance 2.5：黒服3人と戦う、ちゃんとしたアクション映画\nMiniMax H3：敵ゼロ。おじさんが一人でキレてるだけ\nKling 4.0：電車で去っていくおじさんと、ホームに残されたおじさん\n\nある意味、ミッションインポッシブルw\n\nみんながKling4.0はいいよ！って言ってたから、期待してたのに。\n\nAI動画アフィ用の素材を作るなら、ちゃんとプロンプトで指示しないとダメかもだけど、、、"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/nukegala83/status/2113553262137745583",
+  "videoSourceUrl": "https://x.com/nukegala83/status/2113553262137745583",
+  "conversationId": "2113553262137745583",
+  "originalLanguage": "ja",
+  "originalPrompt": "スーツおじさんが、発車寸前の満員電車にギリギリで乗り込み出発するまでを、映画ジョンウィックのような激しいアクションで動画にして",
+  "originalPromptSha256": "5c9b5e3911abf006705f6d6bcd974f56db0d0046c6c100d32e257a87e53b9b8c",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2113490110448881664",
+    "url": "https://video-s.twimg.com/amplify_video/2113490110448881664/vid/avc1/1280x720/nVRKp_XH1rIfoNcs.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2113490110448881664/vid/avc1/1280x720/nVRKp_XH1rIfoNcs.mp4?tag=29",
+    "sourceUrl": "https://x.com/nukegala83/status/2113553262137745583",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2113490110448881664/img/0APz-ZuYWUDQ7Lgg.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-23T08:49:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

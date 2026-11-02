@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115085490475217187",
+  "slug": "a-birthday-cake-made-with-love",
+  "title": {
+    "en": "A birthday cake made with love",
+    "zh": "充满爱意的生日蛋糕"
+  },
+  "description": {
+    "en": "A birthday cake made with love — original prompt by @aiwithaly.",
+    "zh": "充满爱意的生日蛋糕，来自 @aiwithaly 的原始提示词。"
+  },
+  "author": {
+    "handle": "aiwithaly",
+    "url": "https://x.com/aiwithaly"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/aiwithaly/status/2115085490475217187",
+    "sourceTextOriginal": "He couldn’t make the perfect cake, but he made the most beautiful gift of all a memory filled with love. \n\nMade with Kling 4.0 on @picsartai\n\n#picsartpartner #Picsartearn @Picsart \n\nPrompt:\n\n10 seconds | 16:9 | Cinematic 3D Anime | High-Quality Animation | Heartwarming Family Story.\n\nA young East Asian man named Ming tries to bake a birthday cake for his beloved mother, but everything goes hilariously wrong. Flour explodes across his face, his mixer breaks, and his cake burns in the oven. Disappointed but determined, he buys a simple cupcake and visits his mother. When she notices the flour smudge on his nose, she smiles with pure affection and embraces him warmly. He hugs her back, realizing that love matters more than a perfect gift.\n\nVisual Style: Beautiful cinematic 3D anime, expressive facial animation, warm golden lighting, detailed environments, smooth camera movements, realistic object physics, soft depth of field, and consistent character designs.\n\nAudio: Playful piano, comedic kitchen sound effects, gentle orchestral strings, a joyful laugh, and an emotional musical ending. No dialogue, narration, subtitles, or on-screen text.\n\nNegative Prompt: No character redesign, inconsistent clothing, distorted hands, extra fingers, duplicated characters, unnatural movement, flickering, random cuts, unwanted text, logos, or watermarks."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/aiwithaly/status/2115085490475217187",
+  "videoSourceUrl": "https://x.com/aiwithaly/status/2115085490475217187",
+  "conversationId": "2115085490475217187",
+  "originalLanguage": "en",
+  "originalPrompt": "10 seconds | 16:9 | Cinematic 3D Anime | High-Quality Animation | Heartwarming Family Story.\n\nA young East Asian man named Ming tries to bake a birthday cake for his beloved mother, but everything goes hilariously wrong. Flour explodes across his face, his mixer breaks, and his cake burns in the oven. Disappointed but determined, he buys a simple cupcake and visits his mother. When she notices the flour smudge on his nose, she smiles with pure affection and embraces him warmly. He hugs her back, realizing that love matters more than a perfect gift.\n\nVisual Style: Beautiful cinematic 3D anime, expressive facial animation, warm golden lighting, detailed environments, smooth camera movements, realistic object physics, soft depth of field, and consistent character designs.\n\nAudio: Playful piano, comedic kitchen sound effects, gentle orchestral strings, a joyful laugh, and an emotional musical ending. No dialogue, narration, subtitles, or on-screen text.\n\nNegative Prompt: No character redesign, inconsistent clothing, distorted hands, extra fingers, duplicated characters, unnatural movement, flickering, random cuts, unwanted text, logos, or watermarks.",
+  "originalPromptSha256": "e72b7948dc64fe790fb73e97ba3af80ff1ab1d43bf7b19dd9bd1aea71f5a66db",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A birthday cake made with love",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115085276452429824",
+    "url": "https://video.twimg.com/amplify_video/2115085276452429824/vid/avc1/1920x1080/cy0cTgkCjP-YOxSj.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2115085276452429824/vid/avc1/1920x1080/cy0cTgkCjP-YOxSj.mp4?tag=29",
+    "sourceUrl": "https://x.com/aiwithaly/status/2115085490475217187",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115085276452429824/img/85t8AxOQ0dRWbS3u.jpg",
+    "durationSecondsReported": 10.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-27T14:17:31Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

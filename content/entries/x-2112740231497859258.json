@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2112740231497859258",
+  "slug": "a-fight-through-three-apartment-spaces",
+  "title": {
+    "en": "A fight through three apartment spaces",
+    "zh": "穿越公寓三处空间的格斗"
+  },
+  "description": {
+    "en": "A fight through three apartment spaces — original prompt by @boke_ai.",
+    "zh": "穿越公寓三处空间的格斗，来自 @boke_ai 的原始提示词。"
+  },
+  "author": {
+    "handle": "boke_ai",
+    "url": "https://x.com/boke_ai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/boke_ai/status/2112740231497859258",
+    "sourceTextOriginal": "Kling 4.0で格闘アクション\nバトルアクション部一年生になりました\n\nアクション難しいけど展開考えるのは楽しいです\n\nプロンプト👄\n\nSCENE: three places in one continuous bare-handed fight, each change of place triggered by a body crashing through something: an apartment corridor, then the cramped entrance hall of an apartment full of scattered shoes, then a concrete outdoor stairwell high above the street.\nCAST: two women, one in a plain grey sweatshirt, the other in a plain navy sweatshirt.\nCAMERA:\n- Corridor (0-4s): over the grey fighter's shoulder as the navy fighter rushes her with a flurry of punches, fluorescent white light, apartment doors flashing past.\n- The grey fighter's back slams through a half-open apartment door; the camera whip-pans with the impact, the motion blur carrying us into the entrance hall.\n- Entrance hall (4-8s): three fast angle changes, one from floor level among the shoes, as they wrestle; the door chain swinging; a shoe spinning through the air past the lens. Warm yellow bulb light.\n- A focus pull from the swinging door chain in the foreground to the navy fighter's face as she catches her breath for half a second.\n- The camera pushes straight through a hanging coat on the coat hook as both women tumble through a second door onto the outdoor stairwell.\n- Stairwell (10-15s): grey daylight, wind, the street far below; the camera drops from above as they fight down the stairs, then a crash zoom on the final throw.\nMOTION RULES:\n- Every place change happens exactly on an impact; the world gets bigger with each one: a door, then a wall of shoes and coats, then open sky.\n- In the corridor the rush runs at five strikes per second; in the entrance hall it becomes grappling and elbows in the tight space; on the stairwell it becomes leaps from landing to landing.\n- The navy fighter leaps down a whole flight of stairs feet-first; the grey fighter sidesteps, pivots 180 degrees mid-sprint and suplexes her onto the landing: the single maximum hit, one-third speed for half a second, the railing shuddering, dust blasting off the concrete.\n- The grey fighter starts laughing in the middle of the fight and her strength drains for a moment; the navy fighter gains the upper hand until the suplex turns it back.\nImpacts come in three tiers. Normal hits: a two-frame hold, a jump in brightness, a two-to-four-frame camera jolt, sleeves and hair trailing 0.1 seconds behind. Heavy hits: a three-frame dead stop, then sweat, dust or water bursts radially from the contact point, a six-frame hard shake, the struck body carried by momentum, fabric settling 0.4 seconds later. One maximum hit only: the whole frame flashes toward white, radial blur spreads from the contact point, and the surroundings break.\n\n@Kling_ai #Kling4 #KlingAI"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/boke_ai/status/2112740231497859258",
+  "videoSourceUrl": "https://x.com/boke_ai/status/2112740231497859258",
+  "conversationId": "2112740231497859258",
+  "originalLanguage": "en",
+  "originalPrompt": "SCENE: three places in one continuous bare-handed fight, each change of place triggered by a body crashing through something: an apartment corridor, then the cramped entrance hall of an apartment full of scattered shoes, then a concrete outdoor stairwell high above the street.\nCAST: two women, one in a plain grey sweatshirt, the other in a plain navy sweatshirt.\nCAMERA:\n- Corridor (0-4s): over the grey fighter's shoulder as the navy fighter rushes her with a flurry of punches, fluorescent white light, apartment doors flashing past.\n- The grey fighter's back slams through a half-open apartment door; the camera whip-pans with the impact, the motion blur carrying us into the entrance hall.\n- Entrance hall (4-8s): three fast angle changes, one from floor level among the shoes, as they wrestle; the door chain swinging; a shoe spinning through the air past the lens. Warm yellow bulb light.\n- A focus pull from the swinging door chain in the foreground to the navy fighter's face as she catches her breath for half a second.\n- The camera pushes straight through a hanging coat on the coat hook as both women tumble through a second door onto the outdoor stairwell.\n- Stairwell (10-15s): grey daylight, wind, the street far below; the camera drops from above as they fight down the stairs, then a crash zoom on the final throw.\nMOTION RULES:\n- Every place change happens exactly on an impact; the world gets bigger with each one: a door, then a wall of shoes and coats, then open sky.\n- In the corridor the rush runs at five strikes per second; in the entrance hall it becomes grappling and elbows in the tight space; on the stairwell it becomes leaps from landing to landing.\n- The navy fighter leaps down a whole flight of stairs feet-first; the grey fighter sidesteps, pivots 180 degrees mid-sprint and suplexes her onto the landing: the single maximum hit, one-third speed for half a second, the railing shuddering, dust blasting off the concrete.\n- The grey fighter starts laughing in the middle of the fight and her strength drains for a moment; the navy fighter gains the upper hand until the suplex turns it back.\nImpacts come in three tiers. Normal hits: a two-frame hold, a jump in brightness, a two-to-four-frame camera jolt, sleeves and hair trailing 0.1 seconds behind. Heavy hits: a three-frame dead stop, then sweat, dust or water bursts radially from the contact point, a six-frame hard shake, the struck body carried by momentum, fabric settling 0.4 seconds later. One maximum hit only: the whole frame flashes toward white, radial blur spreads from the contact point, and the surroundings break.",
+  "originalPromptSha256": "d7e5957ecae28e3aabb1ccad96f1c06076192d4cef5eda14b9d558420b08f0f5",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "martial-arts"
+    ]
+  },
+  "tags": [
+    "A fight through three apartment spaces",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2112737360068894720",
+    "url": "https://video.twimg.com/amplify_video/2112737360068894720/vid/avc1/1280x720/LwHo0kjhhcSAXoUY.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2112737360068894720/vid/avc1/1280x720/LwHo0kjhhcSAXoUY.mp4?tag=29",
+    "sourceUrl": "https://x.com/boke_ai/status/2112740231497859258",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2112737360068894720/img/srjdDeS3CfajmTfe.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-21T02:58:18Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2110918165706498200",
+  "slug": "pubg-style-first-person-firefight-looting-and-healing",
+  "title": {
+    "en": "PUBG-style first-person firefight, looting and healing",
+    "zh": "PUBG 风格第一人称交火、搜刮与治疗"
+  },
+  "description": {
+    "en": "PUBG-style first-person firefight, looting and healing — original prompt by @AI__TSUBAKI.",
+    "zh": "PUBG 风格第一人称交火、搜刮与治疗，来自 @AI__TSUBAKI 的原始提示词。"
+  },
+  "author": {
+    "handle": "AI__TSUBAKI",
+    "url": "https://x.com/AI__TSUBAKI"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/AI__TSUBAKI/status/2110917779406872831",
+    "sourceTextOriginal": "PUBG-style FPP gameplay\nFirefight → loot the crate → heal up\n\nMade with Kling 4.0\nPrompt ↓\n#Kling4 #KlingAI https://t.co/7jLWwRU6XO"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/AI__TSUBAKI/status/2110918165706498200",
+  "videoSourceUrl": "https://x.com/AI__TSUBAKI/status/2110917779406872831",
+  "conversationId": "2110917779406872831",
+  "originalLanguage": "en",
+  "originalPrompt": "30-second horizontal 16:9 1080p first-person gameplay capture in the style of PUBG: BATTLEGROUNDS, played in PUBG FPP (first-person perspective) mode during an intense late-game squad match, recorded directly from a PC screen at a smooth high frame rate. Hyper-realistic, photorealistic next-generation graphics rendered in Unreal Engine 5 with Lumen global illumination and Nanite geometry. It is almost indistinguishable from real-life helmet-cam combat footage, but it is clearly a game capture because of the on-screen HUD. Ultra-detailed photogrammetry textures, physically accurate lighting, realistic ambient occlusion and soft shadows, volumetric smoke and dust, real-world material response on every surface, sharp 1080p clarity, no motion blur, no film grain, no cinematic color grading.\n\nPersistent PUBG-style HUD, always visible on screen for the entire 30 seconds, fixed in place, never fading and never changing position:\n- Top center: a thin horizontal compass bar with degree ticks.\n- Top right: a small counter for players alive and a small kill counter, with a kill feed below them where short white notification lines appear after each kill.\n- Bottom center: a thin white health bar, and above it small icons for the equipped helmet and vest. The health bar drops and turns red when the player is hit, and refills when the player heals.\n- Bottom right: a square minimap showing the terrain in muted greens and browns, with a small player arrow. Next to it, a white ammo counter showing the rounds in the magazine and the reserve ammo. The magazine count drops with every shot and refills after the reload.\n- Center: a small dot crosshair, plus a brief white X hit marker flash on each hit and a red X on each kill.\nThe HUD is clean, semi-transparent, white and minimal, rendered in sharp UI graphics over the 3D image. HUD text is limited to simple numbers and short abstract lines, with no logos.\n\nPUBG looting system: shortly after an enemy dies, the body is replaced by a PUBG-style wooden loot crate on the ground, a death box made of weathered wooden planks. When the player opens it, the PUBG inventory screen appears as a full-screen overlay over the dimmed, blurred game view. The left column is a vicinity list of nearby items, each shown as a realistic item icon with a short abstract label line. The middle column shows the player's backpack contents. The right side shows equipment slots for the helmet, vest, backpack and two primary weapons. The player drags items from the vicinity list into the backpack and equipment slots, and each item slides across with a quick UI animation. When the inventory closes, the normal HUD view returns immediately.\n\nCamera and view: locked true first-person view at a wide 90-degree gameplay FOV, never third-person and never an over-the-shoulder view. The player's hands wear worn black tactical gloves with frayed fabric, stitching and dust in the creases. They hold a battle-worn AKM assault rifle with a scratched, oil-stained dark walnut stock and handguard showing real wood grain, a weathered black steel receiver with chipped paint and bare metal wear on the edges, and a plain red dot sight with a faint lens reflection. There is no skin and no bright colors, only a realistic military weapon. The rifle sits in the lower right of the frame, slightly left of the minimap. Natural view bob, strong realistic AK recoil kick with muzzle climb, a visible muzzle flash and a brief puff of gun smoke from the barrel, and fast mouse-driven flicks. One continuous unbroken take with no cuts, no camera switches and no replays.\n\nMap: an original PUBG-style battle royale map in the countryside of rural Eastern Europe. An abandoned village of two-story red brick and grey concrete houses with shattered windows, crumbling mortar, peeling plaster and water stains. Broken wooden fences with weathered grain, rusted corrugated sheds and a crumbling compound wall. Burned-out cars and a rusted military truck with flaking paint sit along a cracked, rutted dirt road with puddles and tire tracks. Rolling golden wheat fields with individual stalks swaying in the wind, and pine tree lines on the hills. A derelict military base with a concrete watchtower stands on a distant ridge. The sky is overcast, with soft cold diffused daylight and hazy atmospheric depth. Thick smoke columns rise from burning vehicles in the distance, with dust particles and ash drifting through the air.\n\nBattlefield atmosphere: it feels like a real war zone. Constant distant gunfire echoes across the hills from other fights. Muzzle flashes flicker on the far ridge. A red smoke flare burns in a field in the distance. Dirt and brick debris kick up from incoming fire around the player.\n\nEnemies: photorealistic soldiers in mixed camouflage gear with realistic fabric folds, level-2 and level-3 military helmets and tactical vests with pouches, using cover and moving aggressively. When hit, they react with weight, stagger and ragdoll realistically to the ground.\n\n[00:00–00:03] Crouched behind the crumbling compound wall, the player pops up, flicks onto an enemy running across the dirt road and drops him with a short controlled AK burst. Hit markers flash, the enemy screams as he falls, and a kill notification appears in the kill feed.\n[00:03–00:06] Incoming bullets snap past and chip the bricks beside the player's head, throwing dust and brick fragments across the view. One round hits the player: the screen edges flash red, the view jolts, and the health bar drops to about half. The player ducks and sprints through a broken doorway into a ruined brick house.\n[00:06–00:09] Inside the dim house, with light beams through the broken windows and dust floating in them, the player swings around a doorframe and taps an enemy on the staircase with two shots. The enemy tumbles down the stairs. Another kill notification appears.\n[00:09–00:11] At a shattered window, the player does a fast tactical reload. The curved AK magazine is ripped out and a fresh one slams in, followed by a hard charging-handle pull, and the ammo counter refills. An enemy shouts orders somewhere outside.\n[00:11–00:13] The player vaults out through the window into the wheat field and throws a smoke grenade toward the rusted military truck. It pops and thick, volumetric white smoke rolls across the road.\n[00:13–00:16] Two enemies rush out of the smoke, yelling. The player holds the AK steady and sprays through them. Bullets spark off the truck's steel body and kick up dirt clods, while the ammo counter drains fast. Both enemies collapse into the wheat, and two kill notifications stack in the kill feed. Their bodies are replaced by wooden loot crates lying in the flattened wheat.\n[00:16–00:18] The player jogs to the nearest loot crate, crouches over it and looks down at its weathered wooden planks. The PUBG inventory screen opens over the dimmed game view.\n[00:18–00:23] Looting in the inventory screen: the vicinity list shows a first aid kit, bandages, an energy drink, painkillers, boxes of rifle ammo, a level-3 military helmet and a bolt-action sniper rifle with a long-range scope. The player quickly drags the first aid kit, bandages, energy drink and painkillers into the backpack, drags the ammo boxes in, swaps in the level-3 helmet, which replaces the old helmet in the equipment slot, and drags the bolt-action sniper rifle into the second weapon slot. The inventory screen closes and the normal HUD returns, with the new helmet icon visible.\n[00:23–00:27] Still crouched in the tall wheat, the player uses the first aid kit. The AK is lowered out of view, and the gloved hands appear, unrolling and wrapping a white medical bandage. A circular progress ring fills around the crosshair with a small countdown number. The health bar smoothly refills to almost full. Then the player drinks the energy drink, tilting the can toward the camera, and a small boost bar appears just above the health bar.\n[00:27–00:30] Fully healed, the player raises the AK again, rises from the wheat and scans the smoky road and the distant ridge. Gunfire still echoes from far-off fights, the smoke drifts past, and the player turns toward the military base on the ridge as the clip ends. The HUD stays on screen.\n\nStyle: authentic, intense PUBG FPP gameplay with hyper-realistic next-gen visuals, like a raw live stream clip from a skilled player in a chaotic endgame. Readable action, confident crosshair placement, muted desaturated military color palette with earthy browns, greys and olive greens, and extreme detail. The persistent HUD and the PUBG inventory screen are the only on-screen graphics. No real-world text, no brand logos, no PUBG logo, no watermark, no streamer overlay, no webcam frame.\n\nAudio: realistic, aggressive battlefield sound design. Loud, punchy AKM gunfire with heavy bass and echo across the open fields. Bullets snap and crack as they pass close by, and a heavy thud plays when the player is hit. Brass casings clatter on the concrete floor and dirt. Footsteps change from dirt to concrete to creaking wooden stairs to rustling wheat. Bullet impacts hit brick, steel and earth. Hit marker ticks sound on each hit. The smoke grenade pops and hisses. A heavy magazine swap and a charging-handle rack. Soft UI clicks and item pickup sounds play during looting: a cloth rustle for medical items, a metallic clank for the ammo, a hard plastic knock for the helmet and a heavy weapon rattle for the sniper rifle. The bandage tears and wraps, and the energy drink can snaps open with a fizz and a gulp. Constant distant gunfire and explosions roll across the map. Enemies shout and scream in pain when hit, with wordless yells and battle cries and no clear words. The player breathes heavily after the fight and calms down while healing. No music.",
+  "originalPromptSha256": "e7d8ce881aa6ee1f2925e863b8cd4921b9ff3c84d697ad6b6c44783bc081419e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "heroes"
+    ]
+  },
+  "tags": [
+    "PUBG-style first-person firefight, looting and healing",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2110916857721208832",
+    "url": "https://video-s.twimg.com/amplify_video/2110916857721208832/vid/avc1/1920x1080/ynf_Q3N2QHz24WBm.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2110916857721208832/vid/avc1/1920x1080/ynf_Q3N2QHz24WBm.mp4?tag=29",
+    "sourceUrl": "https://x.com/AI__TSUBAKI/status/2110917779406872831",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2110916857721208832/img/1nNZszu-1e-mFjFZ.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      16,
+      9
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-16T02:16:32Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

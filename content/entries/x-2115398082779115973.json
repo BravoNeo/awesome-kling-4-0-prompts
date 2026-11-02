@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2115398082779115973",
+  "slug": "a-spark-across-the-dark",
+  "title": {
+    "en": "A spark across the dark",
+    "zh": "黑夜中的星光火花"
+  },
+  "description": {
+    "en": "A spark across the dark — original prompt by @art_muse.",
+    "zh": "黑夜中的星光火花，来自 @art_muse 的原始提示词。"
+  },
+  "author": {
+    "handle": "art_muse",
+    "url": "https://x.com/art_muse"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/art_muse/status/2115398078379245710",
+    "sourceTextOriginal": "A Spark Across the Dark\n\nTwo balconies. One starlit street. A breath of golden light drifts across the night and lifts two hearts into the sky. \n\nCreated with Kling 4.0 on @PixVerse \n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\nFull prompt in the comments below 👇"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/art_muse/status/2115398082779115973",
+  "videoSourceUrl": "https://x.com/art_muse/status/2115398078379245710",
+  "conversationId": "2115398078379245710",
+  "originalLanguage": "en",
+  "originalPrompt": "A 30-second romantic multi-shot film in the style of a classical 19th-century oil painting: visible brushstrokes, rich impasto texture, Romanticism era, soft chiaroscuro lighting, deep midnight blues and warm golds, painterly canvas texture throughout, dreamy ethereal glow. Vertical 9:16.\n\n0–5s: Wide establishing shot of a moonlit old European street at night, two stone balconies facing each other across the street, a sky full of glittering stars, warm candlelight in the windows. Slow gentle push-in.\n\n5–10s: Medium shot of a young woman in a flowing ivory gown with long dark wavy hair on the left balcony, gazing across the street with longing, a soft night breeze moving her hair and dress.\n\n10–15s: Close-up as she softly blows a kiss from her palm. The kiss turns into sparkling golden stardust that drifts across the night sky, glowing particles swirling. The camera follows the stardust.\n\n15–20s: The stardust reaches a young man in a dark Victorian coat on the opposite balcony. He catches it in his hands, it lights his face, he smiles and releases a small paper boat made of silver light into the sky.\n\n20–26s: Both lovers float gently upward among the stars and meet in the middle of the night sky, holding hands, surrounded by swirling gold and silver stardust. Slow orbit shot around them, romantic and weightless.\n\n26–30s: Pull back as the stardust swirls across a starry oil-painted sky and slowly fades.\n\nKeep the same two characters, faces and costumes consistent in every shot. Gentle, slow camera movement only.",
+  "originalPromptSha256": "477d42536a5d8448ebd019bb69f1ad5a81c91edfa7d95fb1dd84ac66551d5991",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "storytelling"
+    ],
+    "style": [
+      "painterly-animation"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A spark across the dark",
+    "Kling 4.0",
+    "storytelling"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2115398035488329728",
+    "url": "https://video-s.twimg.com/amplify_video/2115398035488329728/vid/avc1/1180x1756/bUlHkSIrPn9N054s.mp4?tag=29",
+    "originalUrl": "https://video-s.twimg.com/amplify_video/2115398035488329728/vid/avc1/1180x1756/bUlHkSIrPn9N054s.mp4?tag=29",
+    "sourceUrl": "https://x.com/art_muse/status/2115398078379245710",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2115398035488329728/img/0tfJRWAzvzlimw9O.jpg",
+    "durationSecondsReported": 30.041,
+    "aspectRatioReported": [
+      295,
+      439
+    ],
+    "playbackVerified": false,
+    "publishedAt": "2026-10-28T10:59:38Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}
