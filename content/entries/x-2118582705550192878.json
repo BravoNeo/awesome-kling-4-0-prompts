@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2118582705550192878",
+  "slug": "an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison",
+  "title": {
+    "en": "An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison",
+    "zh": "韩国美甲店的午后：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison — original prompt by @doctorwasif.",
+    "zh": "韩国美甲店的午后：Kling 4.0 模型对比，来自 @doctorwasif 的原始提示词。"
+  },
+  "author": {
+    "handle": "doctorwasif",
+    "url": "https://x.com/doctorwasif"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/doctorwasif/status/2118582705550192878",
+    "sourceTextOriginal": "Korean Nail Salon Afternoon visit\n\nSeedance 2.5 vs Kling 4.0 on @openart_ai  which one is better?\n\nPrompt:\nCreate an ultra-realistic early-2000s Korean MiniDV vlog featuring a Korean woman in her early 20s visiting a tiny neighborhood nail salon in 2004. She has shoulder-length dark brown hair, natural makeup, a pastel cardigan, and a knee-length skirt.\n\nShot 1 (0–3s): Handheld footage follows her entering the small salon, sitting at a manicure table, browsing vintage nail polish bottles, and choosing a soft-pink shade.\n\nShot 2 (3–5s): Close-up of her selecting the polish bottle while the technician prepares the manicure. She casually flips through an old fashion magazine.\n\nShot 3 (5–8s): Extreme close-up of the technician carefully filing and shaping her natural, unpainted fingernails.\n\nShot 4 (8–12s): Macro shots of glossy soft-pink polish being applied evenly to each nail. She watches with curiosity and slightly wiggles her fingers.\n\nShot 5 (12–15s): She raises both hands toward the camcorder, shows off her finished glossy nails, turns her wrists to catch the light, and smiles cheerfully.\n\nVisual & Audio Style: Authentic 2004 South Korean neighborhood salon, consumer MiniDV footage with 4:3 source-video characteristics inside a 16:9 frame. Handheld shake, imperfect autofocus, soft tape detail, faded colors, warm fluorescent lighting, and natural exposure fluctuations. Include realistic filing sounds, polish bottle clicks, magazine pages, quiet conversation, and faint street ambience. Avoid polished commercial-style cinematography.\n\nContinuity: Maintain identical character appearance, clothing, salon, technician, and nail polish shade throughout. Show natural progression from unpainted to filed to freshly painted nails. Only two anatomically correct hands with five fingers each.\n\nOverall Feeling: An ordinary, charming afternoon in South Korea in 2004, captured as a nostalgic personal home-video memory."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/doctorwasif/status/2118582705550192878",
+  "videoSourceUrl": "https://x.com/doctorwasif/status/2118582705550192878",
+  "conversationId": "2118582705550192878",
+  "originalLanguage": "en",
+  "originalPrompt": "Create an ultra-realistic early-2000s Korean MiniDV vlog featuring a Korean woman in her early 20s visiting a tiny neighborhood nail salon in 2004. She has shoulder-length dark brown hair, natural makeup, a pastel cardigan, and a knee-length skirt.\n\nShot 1 (0–3s): Handheld footage follows her entering the small salon, sitting at a manicure table, browsing vintage nail polish bottles, and choosing a soft-pink shade.\n\nShot 2 (3–5s): Close-up of her selecting the polish bottle while the technician prepares the manicure. She casually flips through an old fashion magazine.\n\nShot 3 (5–8s): Extreme close-up of the technician carefully filing and shaping her natural, unpainted fingernails.\n\nShot 4 (8–12s): Macro shots of glossy soft-pink polish being applied evenly to each nail. She watches with curiosity and slightly wiggles her fingers.\n\nShot 5 (12–15s): She raises both hands toward the camcorder, shows off her finished glossy nails, turns her wrists to catch the light, and smiles cheerfully.\n\nVisual & Audio Style: Authentic 2004 South Korean neighborhood salon, consumer MiniDV footage with 4:3 source-video characteristics inside a 16:9 frame. Handheld shake, imperfect autofocus, soft tape detail, faded colors, warm fluorescent lighting, and natural exposure fluctuations. Include realistic filing sounds, polish bottle clicks, magazine pages, quiet conversation, and faint street ambience. Avoid polished commercial-style cinematography.\n\nContinuity: Maintain identical character appearance, clothing, salon, technician, and nail polish shade throughout. Show natural progression from unpainted to filed to freshly painted nails. Only two anatomically correct hands with five fingers each.\n\nOverall Feeling: An ordinary, charming afternoon in South Korea in 2004, captured as a nostalgic personal home-video memory.",
+  "originalPromptSha256": "9a6638895ea238b7e343e4eea89a05e02c23cdb04dbe9c9281c5c8e8c001ca99",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2118582594799534080",
+    "url": "https://video.twimg.com/amplify_video/2118582594799534080/vid/avc1/1080x1440/k9EqvF0Av9NRnj2V.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2118582594799534080/vid/avc1/1080x1440/k9EqvF0Av9NRnj2V.mp4?tag=29",
+    "sourceUrl": "https://x.com/doctorwasif/status/2118582705550192878",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118582594799534080/img/kVQnByyBNnN5LxWe.jpg",
+    "durationSecondsReported": 15.066,
+    "aspectRatioReported": [
+      1080,
+      1440
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 960,
+    "durationSecondsObserved": 15.11619,
+    "publishedAt": "2026-11-06T05:54:13Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

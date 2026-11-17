@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2121516484354842969",
+  "slug": "a-gymnast-s-continuous-backflip",
+  "title": {
+    "en": "A Gymnast's Continuous Backflip",
+    "zh": "体操运动员的连续后空翻"
+  },
+  "description": {
+    "en": "A Gymnast's Continuous Backflip — original prompt by @openclipsai.",
+    "zh": "体操运动员的连续后空翻，来自 @openclipsai 的原始提示词。"
+  },
+  "author": {
+    "handle": "openclipsai",
+    "url": "https://x.com/openclipsai"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/openclipsai/status/2121516483511791901",
+    "sourceTextOriginal": "Hot take: the backflip is still the hardest test for AI video 🤸‍♀️\n\nSeedance 2.5, Kling 4.0, Wan 3.0 and Kling 3.0 Turbo got one gymnast and one prompt. Keep your eyes on the bottom right and tell us if you saw the flip. https://x.com/openclipsai/status/2121516483511791901/video/1"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/openclipsai/status/2121516484354842969",
+  "videoSourceUrl": "https://x.com/openclipsai/status/2121516483511791901",
+  "conversationId": "2121516483511791901",
+  "originalLanguage": "en",
+  "originalPrompt": "One continuous 10-second shot. Photorealistic, 16:9, a sunny outdoor athletics track in the afternoon. The camera stays still at a side view with her whole body in frame. A female gymnast in a red leotard, hair in a tight bun, stands on a blue landing mat facing frame-right, arms at her sides.\n\n0-3s: She swings both arms back and bends her knees.\n\n3-6s: She jumps straight up and does one full backflip in the air, knees tucked to her chest.\n\n6-8s: She lands on both feet on the mat, knees bending to absorb the impact.\n\n8-10s: She straightens up and raises both arms above her head with a big smile. End state: she stands still on the mat, arms raised.\n\nAudio: birds, a sharp exhale, the whoosh of the flip, a soft thud on the mat, then distant applause. Only natural sound effects, nobody speaks.",
+  "originalPromptSha256": "f6b079d3b36046aa23e387fafe848c00e3b4134e93ba71dfa94290345233aafd",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Gymnast's Continuous Backflip",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2120871364357697537",
+    "url": "https://video.twimg.com/amplify_video/2120871364357697537/vid/avc1/1920x1080/iRDiNrup-C02nQRV.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2120871364357697537/vid/avc1/1920x1080/iRDiNrup-C02nQRV.mp4?tag=29",
+    "sourceUrl": "https://x.com/openclipsai/status/2121516483511791901",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120871364357697537/img/p8TrBfXzRRyoEyQy.jpg",
+    "durationSecondsReported": 10.133,
+    "aspectRatioReported": [
+      1920,
+      1080
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 10.176,
+    "publishedAt": "2026-11-14T08:12:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

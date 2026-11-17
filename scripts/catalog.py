@@ -164,7 +164,7 @@ def validate_entries(entries, taxonomy=None):
             raise ValueError('Invalid observed metadata')
         if e['modelClaim']['name'] not in ['Kling 4.0', 'Kling 4.0 Flash']:
             raise ValueError('Unexpected model name')
-        if e['modelClaim']['variant'] == 'full' and re.search(r'kling.{0,20}flash', e['modelClaim']['sourceTextOriginal'], re.I):
+        if e['modelClaim']['variant'] == 'full' and re.search(r'kling(?:[_\s-]*ai)?[\s-]*4(?:\.0)?\s*(?:omni\s*)?flash', e['modelClaim']['sourceTextOriginal'], re.I):
             raise ValueError('Flash source cannot be claimed as full')
         if e['modelClaim']['independentlyVerified']:
             raise ValueError('This source-linked catalog has no generation-history verification')

@@ -805,7 +805,207 @@
     "multi-shot-car-drifting": {
       "en": "Multi-shot car drifting — original prompt by @minchoi.",
       "zh": "多镜头汽车漂移，来自 @minchoi 的原始提示词。"
+    },
+    "a-monaco-coastal-car-chase-kling-4-0-comparison": {
+      "en": "A Monaco Coastal Car Chase — Kling 4.0 Comparison — original prompt by @Dheepanratnam.",
+      "zh": "摩纳哥海岸公路追逐：Kling 4.0 模型对比，来自 @Dheepanratnam 的原始提示词。"
+    },
+    "a-paper-pop-up-city-unfolds-from-a-book": {
+      "en": "A Paper Pop-Up City Unfolds from a Book — original prompt by @kodavid.",
+      "zh": "书中展开的纸艺城市，来自 @kodavid 的原始提示词。"
+    },
+    "until-we-meet-again-in-black-and-white": {
+      "en": "Until We Meet Again in Black and White — original prompt by @itxabdullaa.",
+      "zh": "黑白动画中的重逢约定，来自 @itxabdullaa 的原始提示词。"
+    },
+    "the-frost-empress-and-the-last-hunter": {
+      "en": "The Frost Empress and the Last Hunter — original prompt by @itxabdullaa.",
+      "zh": "冰霜女皇与最后的猎人，来自 @itxabdullaa 的原始提示词。"
+    },
+    "two-fighters-on-the-grassland": {
+      "en": "Two Fighters on the Grassland — original prompt by @itxabdullaa.",
+      "zh": "草原上的超能力对决，来自 @itxabdullaa 的原始提示词。"
+    },
+    "the-fluffy-cat-s-flower-garden": {
+      "en": "The Fluffy Cat's Flower Garden — original prompt by @itxsarmadd.",
+      "zh": "毛茸茸猫咪的花园，来自 @itxsarmadd 的原始提示词。"
+    },
+    "two-sisters-escape-the-infected-city": {
+      "en": "Two Sisters Escape the Infected City — original prompt by @itxsarmadd.",
+      "zh": "姐妹逃离感染之城，来自 @itxsarmadd 的原始提示词。"
+    },
+    "rica-and-the-fall-of-the-gods": {
+      "en": "Rica and the Fall of the Gods — original prompt by @itxsarmadd.",
+      "zh": "莉卡与诸神陨落，来自 @itxsarmadd 的原始提示词。"
+    },
+    "seven-travel-moments-and-a-surprise-catch": {
+      "en": "Seven Travel Moments and a Surprise Catch — original prompt by @itxsarmadd.",
+      "zh": "七段旅行与意外接抱，来自 @itxsarmadd 的原始提示词。"
+    },
+    "a-handheld-gym-diary-kling-4-0-comparison": {
+      "en": "A Handheld Gym Diary — Kling 4.0 Comparison — original prompt by @RDV1113.",
+      "zh": "手持拍摄的健身日记：Kling 4.0 模型对比，来自 @RDV1113 的原始提示词。"
+    },
+    "clockwork-and-ashes": {
+      "en": "Clockwork and Ashes — original prompt by @yourPlugAI.",
+      "zh": "发条与灰烬，来自 @yourPlugAI 的原始提示词。"
+    },
+    "lala-faces-cerberus": {
+      "en": "Lala Faces Cerberus — original prompt by @chatgptpaglu.",
+      "zh": "拉拉对战三头犬，来自 @chatgptpaglu 的原始提示词。"
+    },
+    "the-huntress-and-the-leaf-eating-dinosaur": {
+      "en": "The Huntress and the Leaf-Eating Dinosaur — original prompt by @TaliaAariz.",
+      "zh": "女猎人与吃树叶的恐龙，来自 @TaliaAariz 的原始提示词。"
+    },
+    "a-stop-motion-thanksgiving-surprise": {
+      "en": "A Stop-Motion Thanksgiving Surprise — original prompt by @heathergreen.",
+      "zh": "定格动画感恩节惊喜，来自 @heathergreen 的原始提示词。"
+    },
+    "a-hidden-world-beyond-the-waterfall": {
+      "en": "A Hidden World Beyond the Waterfall — original prompt by @alixbuilds.",
+      "zh": "瀑布后的隐秘世界，来自 @alixbuilds 的原始提示词。"
+    },
+    "jungle-chase-and-cliff-dive-kling-4-0-comparison": {
+      "en": "Jungle Chase and Cliff Dive — Kling 4.0 Comparison — original prompt by @Sleaper_.",
+      "zh": "丛林追逐与悬崖跳水：Kling 4.0 模型对比，来自 @Sleaper_ 的原始提示词。"
+    },
+    "not-today-bullets-stop-at-the-crosswalk": {
+      "en": "Not Today: Bullets Stop at the Crosswalk — original prompt by @Sleaper_.",
+      "zh": "斑马线前的静止子弹，来自 @Sleaper_ 的原始提示词。"
+    },
+    "the-giant-cat-and-the-model-railway-kling-4-0-comparison": {
+      "en": "The Giant Cat and the Model Railway — Kling 4.0 Comparison — original prompt by @Sleaper_.",
+      "zh": "巨猫与模型铁路：Kling 4.0 模型对比，来自 @Sleaper_ 的原始提示词。"
+    },
+    "a-playful-cinematic-fashion-walk": {
+      "en": "A Playful Cinematic Fashion Walk — original prompt by @Sharjeelai_786.",
+      "zh": "俏皮的电影感时装步行，来自 @Sharjeelai_786 的原始提示词。"
+    },
+    "a-coffee-spill-becomes-a-kitchen-comedy": {
+      "en": "A Coffee Spill Becomes a Kitchen Comedy — original prompt by @Sharjeelai_786.",
+      "zh": "咖啡洒落引发厨房喜剧，来自 @Sharjeelai_786 的原始提示词。"
+    },
+    "a-snowy-cinematic-love-story": {
+      "en": "A Snowy Cinematic Love Story — original prompt by @MahiraEhan.",
+      "zh": "雪中的电影感爱情故事，来自 @MahiraEhan 的原始提示词。"
+    },
+    "a-journey-into-the-underwater-kingdom": {
+      "en": "A Journey into the Underwater Kingdom — original prompt by @SadiaMalik182.",
+      "zh": "探访水下王国，来自 @SadiaMalik182 的原始提示词。"
+    },
+    "a-casual-brunch-phone-vlog": {
+      "en": "A Casual Brunch Phone Vlog — original prompt by @sixugc.",
+      "zh": "随手拍摄的早午餐日志，来自 @sixugc 的原始提示词。"
+    },
+    "a-couture-gown-at-an-evening-party": {
+      "en": "A Couture Gown at an Evening Party — original prompt by @Diplomeme.",
+      "zh": "晚宴上的艺术礼服，来自 @Diplomeme 的原始提示词。"
+    },
+    "a-2004-style-arcade-vlog": {
+      "en": "A 2004-Style Arcade Vlog — original prompt by @Diplomeme.",
+      "zh": "2004风格游戏厅日志，来自 @Diplomeme 的原始提示词。"
+    },
+    "a-handheld-energy-drink-creator-ad": {
+      "en": "A Handheld Energy Drink Creator Ad — original prompt by @Diplomeme.",
+      "zh": "手持拍摄的能量饮料广告，来自 @Diplomeme 的原始提示词。"
+    },
+    "an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison": {
+      "en": "An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison — original prompt by @doctorwasif.",
+      "zh": "韩国美甲店的午后：Kling 4.0 模型对比，来自 @doctorwasif 的原始提示词。"
+    },
+    "the-magical-hidden-world": {
+      "en": "The Magical Hidden World — original prompt by @CaliraVal.",
+      "zh": "奇幻隐秘世界，来自 @CaliraVal 的原始提示词。"
+    },
+    "twin-clones-at-a-coastal-overlook": {
+      "en": "Twin Clones at a Coastal Overlook — original prompt by @dreamydigiarts.",
+      "zh": "海岸观景台的双生错觉，来自 @dreamydigiarts 的原始提示词。"
+    },
+    "a-restaurant-kitchen-fight": {
+      "en": "A Restaurant Kitchen Fight — original prompt by @Just_sharon7.",
+      "zh": "餐厅厨房动作对决，来自 @Just_sharon7 的原始提示词。"
+    },
+    "the-first-game-boy-commercial-1989-kling-4-0-comparison": {
+      "en": "The First Game Boy Commercial, 1989 — Kling 4.0 Comparison — original prompt by @Dheepanratnam.",
+      "zh": "1989年的首支Game Boy广告：Kling 4.0 模型对比，来自 @Dheepanratnam 的原始提示词。"
+    },
+    "a-serum-bottle-meets-a-wave-of-water-kling-4-0-comparison": {
+      "en": "A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison — original prompt by @alexbuildsads.",
+      "zh": "精华瓶与水浪：Kling 4.0 模型对比，来自 @alexbuildsads 的原始提示词。"
+    },
+    "one-brushstroke-in-a-sunlit-studio": {
+      "en": "One Brushstroke in a Sunlit Studio — original prompt by @sebatheepan.",
+      "zh": "阳光画室中的一笔，来自 @sebatheepan 的原始提示词。"
+    },
+    "a-detective-lights-a-match": {
+      "en": "A Detective Lights a Match — original prompt by @sebatheepan.",
+      "zh": "侦探点燃火柴，来自 @sebatheepan 的原始提示词。"
+    },
+    "aurora-bottle-typography-and-rotation": {
+      "en": "AURORA Bottle Typography and Rotation — original prompt by @sebatheepan.",
+      "zh": "AURORA瓶身文字与旋转，来自 @sebatheepan 的原始提示词。"
+    },
+    "a-lightning-arrow-against-the-iron-colossus": {
+      "en": "A Lightning Arrow against the Iron Colossus — original prompt by @itsPixieVerse.",
+      "zh": "雷霆箭对抗钢铁巨像，来自 @itsPixieVerse 的原始提示词。"
+    },
+    "a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison": {
+      "en": "A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison — original prompt by @SocialSight.",
+      "zh": "游戏街区的地精盗窃行动：Kling 4.0 模型对比，来自 @SocialSight 的原始提示词。"
+    },
+    "a-minidv-gym-vlog-comparison-kling-4-0-comparison": {
+      "en": "A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison — original prompt by @Galupus.",
+      "zh": "MiniDV健身日志模型对比：Kling 4.0 模型对比，来自 @Galupus 的原始提示词。"
+    },
+    "an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison": {
+      "en": "An FPV Flight through a Barrel Wave — Kling 4.0 Comparison — original prompt by @openclipsai.",
+      "zh": "穿越卷浪的FPV飞行：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。"
+    },
+    "the-falling-champagne-tower-kling-4-0-comparison": {
+      "en": "The Falling Champagne Tower — Kling 4.0 Comparison — original prompt by @openclipsai.",
+      "zh": "倒塌的香槟塔：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。"
+    },
+    "a-gymnast-s-continuous-backflip": {
+      "en": "A Gymnast's Continuous Backflip — original prompt by @openclipsai.",
+      "zh": "体操运动员的连续后空翻，来自 @openclipsai 的原始提示词。"
+    },
+    "the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison": {
+      "en": "The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison — original prompt by @openclipsai.",
+      "zh": "猫咪推落台面上的杯子：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。"
+    },
+    "counting-sheep-goes-wrong": {
+      "en": "Counting Sheep Goes Wrong — original prompt by @bmx_ai13.",
+      "zh": "数羊失算，来自 @bmx_ai13 的原始提示词。"
+    },
+    "into-the-infinite-sky": {
+      "en": "Into the Infinite Sky — original prompt by @bmx_ai13.",
+      "zh": "进入无尽天空，来自 @bmx_ai13 的原始提示词。"
+    },
+    "a-cyberpunk-chase-in-the-rain-kling-4-0-comparison": {
+      "en": "A Cyberpunk Chase in the Rain — Kling 4.0 Comparison — original prompt by @openclipsai.",
+      "zh": "雨夜赛博朋克追逐：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。"
+    },
+    "a-lamp-falls-from-space-into-a-room": {
+      "en": "A Lamp Falls from Space into a Room — original prompt by @openclipsai.",
+      "zh": "台灯从太空落入房间，来自 @openclipsai 的原始提示词。"
+    },
+    "a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison": {
+      "en": "A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison — original prompt by @openclipsai.",
+      "zh": "相机粉碎并重建东京：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。"
+    },
+    "vote-red-a-fictional-creator-vlog": {
+      "en": "Vote Red: A Fictional Creator Vlog — original prompt by @bmx_ai13.",
+      "zh": "Vote Red：虚构创作者日志，来自 @bmx_ai13 的原始提示词。"
+    },
+    "an-unfazed-walk-away-from-an-explosion": {
+      "en": "An Unfazed Walk away from an Explosion — original prompt by @MeenakshiYACS.",
+      "zh": "从爆炸中从容走来，来自 @MeenakshiYACS 的原始提示词。"
+    },
+    "a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison": {
+      "en": "A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison — original prompt by @nicravesh.",
+      "zh": "雨夜霓虹城市的悬浮摩托快递员：Kling 4.0 模型对比，来自 @nicravesh 的原始提示词。"
     }
   },
-  "presentationUpdated": "2026-11-03"
+  "presentationUpdated": "2026-11-18"
 }

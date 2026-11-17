@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2121975663926325267",
+  "slug": "a-lightning-arrow-against-the-iron-colossus",
+  "title": {
+    "en": "A Lightning Arrow against the Iron Colossus",
+    "zh": "雷霆箭对抗钢铁巨像"
+  },
+  "description": {
+    "en": "A Lightning Arrow against the Iron Colossus — original prompt by @itsPixieVerse.",
+    "zh": "雷霆箭对抗钢铁巨像，来自 @itsPixieVerse 的原始提示词。"
+  },
+  "author": {
+    "handle": "itsPixieVerse",
+    "url": "https://x.com/itsPixieVerse"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2121975659484586290",
+    "sourceTextOriginal": "Charged with the fury of the storm, a single lightning arrow pierces the molten core of an iron colossus\n\nMade with @Kling_ai 4.0\n\nPrompt in replies 👇 https://x.com/itsPixieVerse/status/2121975659484586290/video/1"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/itsPixieVerse/status/2121975663926325267",
+  "videoSourceUrl": "https://x.com/itsPixieVerse/status/2121975659484586290",
+  "conversationId": "2121975659484586290",
+  "originalLanguage": "en",
+  "originalPrompt": "[Shot 1 - 3.5s] Low tracking shot pulling backward fast. Foreground: tumbling stone masonry and jagged bridge chains slicing the frame. Subject: The knight sprints at full speed toward the lens, leaping over a gaping chasm in the flagstones as their cape whips in high winds. Background: crumbling bridge parapets dissolving into storm clouds. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera runs backward ahead of the knight with heavy, kinetic handheld shake. Cut on the knight planting both boots to slide.\n\n[Shot 2 - 3.0s] Low worm's-eye upward angle. Foreground: shattered balustrades exploding outward. Subject: The titanic front leg of the iron colossus crashes down into the bridge deck, obliterating a stone watchtower into flying shrapnel. Background: the colossal underbelly of the machine spewing embers into the sky. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera whips upward violently, tracking the impact shockwave. Cut on falling granite blocks.\n\n[Shot 3 - 2.5s] Extreme close-up. Foreground: the heavy iron string of the Greatbow vibrating under extreme tension. Subject: The knight draws a massive jagged metal arrow to their ear; black lightning coils around the arrow tip, illuminating the knight's visor slits in blinding white light. Background: blurred storm clouds rushing past. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera pushes in fast on the drawing gauntlet. Cut on the string releasing.\n\n[Shot 4 - 4.0s] Profile tracking shot. Foreground: masonry ripping up from the floor. Subject: The colossal Great-arrow streaks across the bridge wrapped in a cone of displaced air and black electrical discharge, heading straight for the titan's glowing chest vent. Background: the looming silhouette of the colossus. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera tracks laterally alongside the projectile at high speed. Cut on explosive contact.\n\n[Shot 5 - 8.0s] Wide low-angle reaction shot. Foreground: the knight sliding to one knee, bracing the unstrung bow. Subject: The arrow pierces the colossus’s molten exhaust core; an internal secondary explosion erupts in blinding silver sparks, forcing the titanic beast to stumble backward onto its hind legs with a deafening metallic screech. Background: shattered fortress spires in the distance. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera cranes rapidly upward and tilts down, capturing the massive machine rocking off-balance. Cut on severed cables snapping.\n\n[Shot 6 - 9.0s] Ultra-wide hero shot (The Withheld Reveal). Foreground: the knight stands at the edge of a massive new fault line in the bridge. Subject: The mortally damaged colossus drops its concealed dragon-horn battering ram directly through the bridge deck; the entire central span of the viaduct snaps in two, tipping multi-ton stone slabs and the falling colossus into the bottomless abyss below. Background: an endless tempest vortex illuminated by lightning. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera cranes backward and upward through falling debris, holding the cataclysmic collapse.",
+  "originalPromptSha256": "d9f57b501da54dfd2198f6816e95a758f98b679173d29132e5831de247ab183f",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Lightning Arrow against the Iron Colossus",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2121973568808591360",
+    "url": "https://video.twimg.com/amplify_video/2121973568808591360/vid/avc1/3380x1440/3s-PSt1VWJpFfJcp.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2121973568808591360/vid/avc1/3380x1440/3s-PSt1VWJpFfJcp.mp4?tag=29",
+    "sourceUrl": "https://x.com/itsPixieVerse/status/2121975659484586290",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121973568808591360/img/jFpF9xvbFR_o-NAz.jpg",
+    "durationSecondsReported": 30.069,
+    "aspectRatioReported": [
+      3380,
+      1440
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1690,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.116281,
+    "publishedAt": "2026-11-15T14:36:36Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

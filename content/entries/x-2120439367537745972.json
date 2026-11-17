@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2120439367537745972",
+  "slug": "a-handheld-gym-diary-kling-4-0-comparison",
+  "title": {
+    "en": "A Handheld Gym Diary — Kling 4.0 Comparison",
+    "zh": "手持拍摄的健身日记：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "A Handheld Gym Diary — Kling 4.0 Comparison — original prompt by @RDV1113.",
+    "zh": "手持拍摄的健身日记：Kling 4.0 模型对比，来自 @RDV1113 的原始提示词。"
+  },
+  "author": {
+    "handle": "RDV1113",
+    "url": "https://x.com/RDV1113"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/RDV1113/status/2120439367537745972",
+    "sourceTextOriginal": "Seedance 2.5 vs. Kling 4.0: Is 16× Cheaper Really Worth It?\n\nSame prompt. Same concept. Two AI video models. One costs 16× more.\n\nThe results? Seedance 2.5 wins this round.\n\nHere's what I found:\n\nSeedance 2.5 nailed the first generation. I tried another version, but the original was still better.\nKling 4.0 also got two attempts, and the first result was stronger.\nBoth followed the prompt reasonably well, but Seedance delivered noticeably better realism, natural movement, and overall visual quality.\nKling was roughly 16× cheaper per generation, but for this particular scene, the quality gap was too big to ignore.\n\nNo reference images. No video inputs. Just text-to-video.\n\nSo here's the question: would you pay 16× more for better realism, or choose Kling and save the money?\n\nThe prompt\n\nCAMERA & STYLE: Handheld DV 16mm camcorder aesthetic, imperfect framing, natural camera shake, soft focus, tape noise, flickering exposure, and authentic gym-vlog energy.\n\nCHARACTER: MILA, a 20-year-old American brunette fitness creator with a high ponytail, natural skin texture, and an athletic figure. Wearing a cobalt-blue sports bra, matching gym shorts, and white ankle socks.\n\nSETTING: A gym dumbbell area in the evening, with weight racks, benches, mirrors, and a few people exercising in the background.\n\n15-second storyboard\n\n0–2.5s: Walking selfie. “Arm day. This should be quick.”\n2.5–5s: Alternating dumbbell curls. “These felt lighter yesterday.”\n5–7.5s: Lateral raises. “I picked the light ones!”\n7.5–9.5s: Close-up of her hand gripping a dumbbell. Natural movement and gym sounds.\n9.5–12s: She walks toward the rack, laughing. “Yep — my arms just quit.”\n12–15s: Final selfie after the workout. “Same time tomorrow? No promises.”\n\nThe goal: Make it feel like a real, spontaneous gym vlog — not a polished AI commercial.\nhttps://x.com/RDV1113/status/2115020582161142147?a=7kkqBUaXc6gsV1GUMHo&s=20"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/RDV1113/status/2120439367537745972",
+  "videoSourceUrl": "https://x.com/RDV1113/status/2120439367537745972",
+  "conversationId": "2120439367537745972",
+  "originalLanguage": "en",
+  "originalPrompt": "CAMERA & STYLE: Handheld DV 16mm camcorder aesthetic, imperfect framing, natural camera shake, soft focus, tape noise, flickering exposure, and authentic gym-vlog energy.\n\nCHARACTER: MILA, a 20-year-old American brunette fitness creator with a high ponytail, natural skin texture, and an athletic figure. Wearing a cobalt-blue sports bra, matching gym shorts, and white ankle socks.\n\nSETTING: A gym dumbbell area in the evening, with weight racks, benches, mirrors, and a few people exercising in the background.\n\n15-second storyboard\n\n0–2.5s: Walking selfie. “Arm day. This should be quick.”\n2.5–5s: Alternating dumbbell curls. “These felt lighter yesterday.”\n5–7.5s: Lateral raises. “I picked the light ones!”\n7.5–9.5s: Close-up of her hand gripping a dumbbell. Natural movement and gym sounds.\n9.5–12s: She walks toward the rack, laughing. “Yep — my arms just quit.”\n12–15s: Final selfie after the workout. “Same time tomorrow? No promises.”\n\nThe goal: Make it feel like a real, spontaneous gym vlog — not a polished AI commercial.",
+  "originalPromptSha256": "009868a7a4b1b7731a667ec1ecb9372edea4dc1e4f2ee96f72f26a442a921e06",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Handheld Gym Diary — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2120439285782388736",
+    "url": "https://video.twimg.com/amplify_video/2120439285782388736/vid/avc1/1080x1350/mdByUmT6zJu7um1U.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2120439285782388736/vid/avc1/1080x1350/mdByUmT6zJu7um1U.mp4?tag=29",
+    "sourceUrl": "https://x.com/RDV1113/status/2120439367537745972",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120439285782388736/img/VY5v07Tg8rYJ7cga.jpg",
+    "durationSecondsReported": 15.092,
+    "aspectRatioReported": [
+      1080,
+      1350
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 900,
+    "durationSecondsObserved": 15.13941,
+    "publishedAt": "2026-11-11T08:51:55Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

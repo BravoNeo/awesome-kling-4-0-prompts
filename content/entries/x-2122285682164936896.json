@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2122285682164936896",
+  "slug": "not-today-bullets-stop-at-the-crosswalk",
+  "title": {
+    "en": "Not Today: Bullets Stop at the Crosswalk",
+    "zh": "斑马线前的静止子弹"
+  },
+  "description": {
+    "en": "Not Today: Bullets Stop at the Crosswalk — original prompt by @Sleaper_.",
+    "zh": "斑马线前的静止子弹，来自 @Sleaper_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "Sleaper_",
+    "url": "https://x.com/Sleaper_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Sleaper_/status/2122285682164936896",
+    "sourceTextOriginal": "Kling 4.0 or FLUX 3 Max? Which one pulled off the bullet-time shot better? 👀\n\nI gave both models the exact same prompt on @makeugc. The woman in red had 15 seconds to walk to the crosswalk, stop the bullets midair, and deliver one line: “Not today.”\n\nFull prompt below 👇\n\nCreate a 15-second vertical 9:16 photorealistic action scene on a busy city street at dusk. The lead is a beautiful European woman in her late twenties with a slim waist and a full bust. Her fitted red dress follows the curve of her hips, and its knee-length hem moves with each step. She wears black 12 cm stiletto heels. Her pace is unhurried. Her composure makes the final line land.\n\n0–3 seconds — Front view. Open on a full-length shot of the woman already walking toward the lens. The camera tracks backward at her exact pace, keeping her face and heels in frame. Pedestrians flow past on either side. Each heel clicks against the pavement above the murmur of traffic. Ahead of her, just beyond the camera, a pedestrian signal turns red.\n\n3–6 seconds — The camera circles behind her. In one smooth move, the camera arcs around her right side, briefly catching her profile before settling into a full-length rear view. She keeps walking straight throughout the move. From behind, we see the silhouette of the red dress and the red pedestrian signal together. She reaches the curb and stops. The heel clicks stop with her.\n\n6–9 seconds — The truck. Hold the rear view. A dark box truck pulls up on the street just beyond the crosswalk. Its side door slides open. Three masked men step out carrying automatic rifles. All three are visible as they open fire in a short burst. On the first flash, the woman raises one hand toward them, palm out.\n\n9–12.5 seconds — Time slows. Cut to a side view with the men on the left and the woman on the right, her palm between them. In extreme slow motion, several copper-colored bullets travel left to right toward her. Show them moving across open air, slowing visibly, then coming to a complete stop a hand’s breadth from her palm. They hang at slightly different distances. Behind them, a loose newspaper turns almost imperceptibly in the air. The gunfire stretches into a low rumble and falls silent.\n\n12.5–15 seconds — “Not today.” Cut to a tight front three-quarter close-up from the street side. Suspended bullets catch the red signal light in the foreground. Shift focus past them to her eyes. Keeping her palm raised, she turns her head the last few degrees and looks directly into the lens. In a calm, dry voice, at normal speed, she says, “Not today.” Hold eye contact for half a beat. Cut to black with the bullets still hanging in place."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Sleaper_/status/2122285682164936896",
+  "videoSourceUrl": "https://x.com/Sleaper_/status/2122285682164936896",
+  "conversationId": "2122285682164936896",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 15-second vertical 9:16 photorealistic action scene on a busy city street at dusk. The lead is a beautiful European woman in her late twenties with a slim waist and a full bust. Her fitted red dress follows the curve of her hips, and its knee-length hem moves with each step. She wears black 12 cm stiletto heels. Her pace is unhurried. Her composure makes the final line land.\n\n0–3 seconds — Front view. Open on a full-length shot of the woman already walking toward the lens. The camera tracks backward at her exact pace, keeping her face and heels in frame. Pedestrians flow past on either side. Each heel clicks against the pavement above the murmur of traffic. Ahead of her, just beyond the camera, a pedestrian signal turns red.\n\n3–6 seconds — The camera circles behind her. In one smooth move, the camera arcs around her right side, briefly catching her profile before settling into a full-length rear view. She keeps walking straight throughout the move. From behind, we see the silhouette of the red dress and the red pedestrian signal together. She reaches the curb and stops. The heel clicks stop with her.\n\n6–9 seconds — The truck. Hold the rear view. A dark box truck pulls up on the street just beyond the crosswalk. Its side door slides open. Three masked men step out carrying automatic rifles. All three are visible as they open fire in a short burst. On the first flash, the woman raises one hand toward them, palm out.\n\n9–12.5 seconds — Time slows. Cut to a side view with the men on the left and the woman on the right, her palm between them. In extreme slow motion, several copper-colored bullets travel left to right toward her. Show them moving across open air, slowing visibly, then coming to a complete stop a hand’s breadth from her palm. They hang at slightly different distances. Behind them, a loose newspaper turns almost imperceptibly in the air. The gunfire stretches into a low rumble and falls silent.\n\n12.5–15 seconds — “Not today.” Cut to a tight front three-quarter close-up from the street side. Suspended bullets catch the red signal light in the foreground. Shift focus past them to her eyes. Keeping her palm raised, she turns her head the last few degrees and looks directly into the lens. In a calm, dry voice, at normal speed, she says, “Not today.” Hold eye contact for half a beat. Cut to black with the bullets still hanging in place.",
+  "originalPromptSha256": "1e1d86211f7154835f94c816695a2517ca92ead9e31448889ec6c932ee53a580",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Not Today: Bullets Stop at the Crosswalk",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2122285627311869952",
+    "url": "https://video.twimg.com/amplify_video/2122285627311869952/vid/avc1/1920x2160/7m34AdwPAaRXBWEa.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2122285627311869952/vid/avc1/1920x2160/7m34AdwPAaRXBWEa.mp4?tag=29",
+    "sourceUrl": "https://x.com/Sleaper_/status/2122285682164936896",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122285627311869952/img/RDHEVRyBII9YSWfR.jpg",
+    "durationSecondsReported": 15.041,
+    "aspectRatioReported": [
+      1920,
+      2160
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 810,
+    "durationSecondsObserved": 15.092971,
+    "publishedAt": "2026-11-16T11:08:31Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

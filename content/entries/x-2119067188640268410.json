@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2119067188640268410",
+  "slug": "a-stop-motion-thanksgiving-surprise",
+  "title": {
+    "en": "A Stop-Motion Thanksgiving Surprise",
+    "zh": "定格动画感恩节惊喜"
+  },
+  "description": {
+    "en": "A Stop-Motion Thanksgiving Surprise — original prompt by @heathergreen.",
+    "zh": "定格动画感恩节惊喜，来自 @heathergreen 的原始提示词。"
+  },
+  "author": {
+    "handle": "heathergreen",
+    "url": "https://x.com/heathergreen"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/heathergreen/status/2119067188640268410",
+    "sourceTextOriginal": "Thanksgiving is a wonderful time for family, food, and giving thanks.\nUnless, of course, you're the turkey watching it all unfold. 🦃😂\nAn image I generated with @magnific was the inspiration for this video.\nThis is the #promptshare with Kling 4.0 Omni from the Magnific AI suite👇\n\nPROMPT: Using @img1 as the exact visual reference, create a short cinematic stop-motion animation.\n\nThe camera performs a very slow, smooth forward push toward the terrified turkey outside the window. Keep the original composition, characters, lighting, colors, and handcrafted puppet aesthetic consistent.\n\nThe turkey looks nervously toward the happy family enjoying Thanksgiving dinner, then turns its enormous frightened eyes toward the viewer.\n\nThe turkey slowly raises a small, crooked handmade cardboard sign attached to a thin wooden stick. The sign reads \"SEND HELP!\" in large, clearly legible handwritten black uppercase letters.\n\nThe turkey holds the sign up toward the camera with a desperately frightened expression.\n\nKeep the family relatively still, happily enjoying their dinner. Subtle natural movement only.\n\nMaintain the original warm indoor lighting, cool blue exterior, rainy window, cinematic depth of field, and charming handcrafted stop-motion appearance.\n\nOne continuous shot. No cuts, no scene changes, no additional characters, no distorted faces, and no unnecessary movement.\n\nComedic Thanksgiving horror atmosphere."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/heathergreen/status/2119067188640268410",
+  "videoSourceUrl": "https://x.com/heathergreen/status/2119067188640268410",
+  "conversationId": "2119067188640268410",
+  "originalLanguage": "en",
+  "originalPrompt": "Using @img1 as the exact visual reference, create a short cinematic stop-motion animation.\n\nThe camera performs a very slow, smooth forward push toward the terrified turkey outside the window. Keep the original composition, characters, lighting, colors, and handcrafted puppet aesthetic consistent.\n\nThe turkey looks nervously toward the happy family enjoying Thanksgiving dinner, then turns its enormous frightened eyes toward the viewer.\n\nThe turkey slowly raises a small, crooked handmade cardboard sign attached to a thin wooden stick. The sign reads \"SEND HELP!\" in large, clearly legible handwritten black uppercase letters.\n\nThe turkey holds the sign up toward the camera with a desperately frightened expression.\n\nKeep the family relatively still, happily enjoying their dinner. Subtle natural movement only.\n\nMaintain the original warm indoor lighting, cool blue exterior, rainy window, cinematic depth of field, and charming handcrafted stop-motion appearance.\n\nOne continuous shot. No cuts, no scene changes, no additional characters, no distorted faces, and no unnecessary movement.\n\nComedic Thanksgiving horror atmosphere.",
+  "originalPromptSha256": "a5e4c05874de725683f61aee995a99edd7eef9616f227064e1592fbf047884ea",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Stop-Motion Thanksgiving Surprise",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2119066067230154752",
+    "url": "https://video.twimg.com/amplify_video/2119066067230154752/vid/avc1/1080x1920/IbITdNItmppP_816.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2119066067230154752/vid/avc1/1080x1920/IbITdNItmppP_816.mp4?tag=29",
+    "sourceUrl": "https://x.com/heathergreen/status/2119067188640268410",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119066067230154752/img/5dIEXyq1-NC4PWLd.jpg",
+    "durationSecondsReported": 5.041,
+    "aspectRatioReported": [
+      1080,
+      1920
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 1280,
+    "durationSecondsObserved": 5.10839,
+    "publishedAt": "2026-11-07T13:59:22Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

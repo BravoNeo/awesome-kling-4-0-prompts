@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2118322799039402152",
+  "slug": "two-sisters-escape-the-infected-city",
+  "title": {
+    "en": "Two Sisters Escape the Infected City",
+    "zh": "姐妹逃离感染之城"
+  },
+  "description": {
+    "en": "Two Sisters Escape the Infected City — original prompt by @itxsarmadd.",
+    "zh": "姐妹逃离感染之城，来自 @itxsarmadd 的原始提示词。"
+  },
+  "author": {
+    "handle": "itxsarmadd",
+    "url": "https://x.com/itxsarmadd"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itxsarmadd/status/2118322799039402152",
+    "sourceTextOriginal": "In a world overrun by the infected, she has only one mission: get her little sister out alive. \n\nCreated with Kling 4.0 on @PixVerse @PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\nPrompt:\nIDENTITY LOCK\n@image1 = ACEL, older sister. Preserve exact face, short brown bob, colorful hair clip and blue-orange sweater, olive trim, denim overall shorts, white socks and black-white sneakers.\n\n@image2 = younger sister. Preserve exact child face, two short low braids, cream shirt, blue denim overalls and white sneakers. Maintain child proportions. Never swap identities or change outfits.\n\nENVIRONMENT & ZOMBIES\nLuxury seaside hotel at golden sunset, gravel rooftops, central pool and vast ocean. A huge white inflatable cushion floats in the pool. 1,500–3,000 pale, wet-haired zombies in light hospital clothes swarm the pool, courtyard and rooftops like a living ant colony. Continuous independent crawling, swimming, climbing, grabbing and piling. Realistic water, gravity and collisions.\n\n14-SHOT TIMELINE\n\n01 | 00:00–01.5: Acel sprints across a rooftop as zombie hands reach for her.\n\n02 | 01.5–03.5: Aerial shot. She jumps onto the white pool cushion, revealing the massive swarm.\n\n03 | 03.5–05: Cushion compresses and rebounds as zombies crash into the water.\n\n04 | 05–06.5: Little sister loses balance and falls toward a lower rooftop.\n\n05 | 06.5–08.5: She catches the edge briefly, then rolls onto the gravel.\n\n06 | 08.5–10: Acel runs across the unstable cushion, searching for her sister.\n\n07 | 10–11.5: Sister reaches toward Acel, crying 「언니! 살려줘!」\n\n08 | 11.5–14.5: Acel falls and crawls across the cushion, pushing away a zombie's grabbing arm.\n\n09 | 14.5–16: Extreme aerial view of the enormous ant-like zombie swarm consuming the entire pool and courtyard.\n\n10 | 16–18: Zombies tilt the cushion violently. Acel desperately grips its edge.\n\n11 | 18–21: She loses grip and falls toward a lower rooftop, maintaining realistic gravity.\n\n12 | 21–22: Acel rolls across gravel and struggles to stand.\n\n13 | 22–26: Sisters reunite and embrace. Sister cries 「언니!」 Acel replies 「괜찮아… 언니 여기 있어.」 Zombies emerge behind them. Acel grabs her sister's hand.\n\n14 | 26–30: Both sisters run and jump from the ocean-facing rooftop, holding hands. Camera pulls back to reveal their airborne silhouettes against the golden ocean. Zombies leap after them. End before water impact.\n\nSTYLE & AUDIO\nPremium Korean zombie cinema, golden backlight, dynamic aerial and tracking shots, realistic physical effects. Natural footsteps, breathing, screams, zombie growls, splashes and cinematic impact. No narration or subtitles.\n\nSTRICT RULES\nExact identities, outfits and 14-shot order. Exactly 30 seconds. No duplicated zombies, synchronized crowds, teleportation, impossible physics, disappearing props or changing locations. Final frame: both sisters holding hands midair above the ocean."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/itxsarmadd/status/2118322799039402152",
+  "videoSourceUrl": "https://x.com/itxsarmadd/status/2118322799039402152",
+  "conversationId": "2118322799039402152",
+  "originalLanguage": "en",
+  "originalPrompt": "IDENTITY LOCK\n@image1 = ACEL, older sister. Preserve exact face, short brown bob, colorful hair clip and blue-orange sweater, olive trim, denim overall shorts, white socks and black-white sneakers.\n\n@image2 = younger sister. Preserve exact child face, two short low braids, cream shirt, blue denim overalls and white sneakers. Maintain child proportions. Never swap identities or change outfits.\n\nENVIRONMENT & ZOMBIES\nLuxury seaside hotel at golden sunset, gravel rooftops, central pool and vast ocean. A huge white inflatable cushion floats in the pool. 1,500–3,000 pale, wet-haired zombies in light hospital clothes swarm the pool, courtyard and rooftops like a living ant colony. Continuous independent crawling, swimming, climbing, grabbing and piling. Realistic water, gravity and collisions.\n\n14-SHOT TIMELINE\n\n01 | 00:00–01.5: Acel sprints across a rooftop as zombie hands reach for her.\n\n02 | 01.5–03.5: Aerial shot. She jumps onto the white pool cushion, revealing the massive swarm.\n\n03 | 03.5–05: Cushion compresses and rebounds as zombies crash into the water.\n\n04 | 05–06.5: Little sister loses balance and falls toward a lower rooftop.\n\n05 | 06.5–08.5: She catches the edge briefly, then rolls onto the gravel.\n\n06 | 08.5–10: Acel runs across the unstable cushion, searching for her sister.\n\n07 | 10–11.5: Sister reaches toward Acel, crying 「언니! 살려줘!」\n\n08 | 11.5–14.5: Acel falls and crawls across the cushion, pushing away a zombie's grabbing arm.\n\n09 | 14.5–16: Extreme aerial view of the enormous ant-like zombie swarm consuming the entire pool and courtyard.\n\n10 | 16–18: Zombies tilt the cushion violently. Acel desperately grips its edge.\n\n11 | 18–21: She loses grip and falls toward a lower rooftop, maintaining realistic gravity.\n\n12 | 21–22: Acel rolls across gravel and struggles to stand.\n\n13 | 22–26: Sisters reunite and embrace. Sister cries 「언니!」 Acel replies 「괜찮아… 언니 여기 있어.」 Zombies emerge behind them. Acel grabs her sister's hand.\n\n14 | 26–30: Both sisters run and jump from the ocean-facing rooftop, holding hands. Camera pulls back to reveal their airborne silhouettes against the golden ocean. Zombies leap after them. End before water impact.\n\nSTYLE & AUDIO\nPremium Korean zombie cinema, golden backlight, dynamic aerial and tracking shots, realistic physical effects. Natural footsteps, breathing, screams, zombie growls, splashes and cinematic impact. No narration or subtitles.\n\nSTRICT RULES\nExact identities, outfits and 14-shot order. Exactly 30 seconds. No duplicated zombies, synchronized crowds, teleportation, impossible physics, disappearing props or changing locations. Final frame: both sisters holding hands midair above the ocean.",
+  "originalPromptSha256": "5eac0330a12f87f78af3a2d0d56564fcdde71c2366064aee51ec66fdabe3b96b",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Two Sisters Escape the Infected City",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2118322599189155840",
+    "url": "https://video.twimg.com/amplify_video/2118322599189155840/vid/avc1/1280x720/LGIOiL5WZNDC98nr.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2118322599189155840/vid/avc1/1280x720/LGIOiL5WZNDC98nr.mp4?tag=29",
+    "sourceUrl": "https://x.com/itxsarmadd/status/2118322799039402152",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118322599189155840/img/1DiBZ2FB6zJuv9iQ.jpg",
+    "durationSecondsReported": 30.066,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.116281,
+    "publishedAt": "2026-11-05T12:41:26Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

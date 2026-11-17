@@ -22,7 +22,7 @@ class AisaBatchTests(unittest.TestCase):
         self.assertEqual(len(set(ids)), 100)
         self.assertEqual(len(self.records), 100)
         self.assertEqual({r['entryId'] for r in self.records}, set(ids))
-        self.assertEqual(len({e['video']['mediaId'] for e in self.entries.values()}), 200)
+        self.assertEqual(len({e['video']['mediaId'] for e in self.entries.values()}), 250)
 
     def test_new_batch_has_one_hundred_distinct_prompt_and_video_posts(self):
         batch = [self.entries[eid] for eid in self.receipt['newEntryIds']]

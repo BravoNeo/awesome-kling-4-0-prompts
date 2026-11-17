@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2118575122462466442",
+  "slug": "the-magical-hidden-world",
+  "title": {
+    "en": "The Magical Hidden World",
+    "zh": "奇幻隐秘世界"
+  },
+  "description": {
+    "en": "The Magical Hidden World — original prompt by @CaliraVal.",
+    "zh": "奇幻隐秘世界，来自 @CaliraVal 的原始提示词。"
+  },
+  "author": {
+    "handle": "CaliraVal",
+    "url": "https://x.com/CaliraVal"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/CaliraVal/status/2118575122462466442",
+    "sourceTextOriginal": "A hidden world beyond imagination, a magical discovery, and a breathtaking journey into the unknown.\n\nCreated with Kling 4.0 on @PixVerse @PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\n#PixVerseCPP\n\nPrompt:\n\n The Magical Hidden World – 30 Seconds Create a breathtaking, ultra-realistic cinematic fantasy film, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–5 sec): A young woman walks alone through a mysterious ancient forest at sunrise. Golden sunlight passes through giant trees, soft fog covers the ground, cinematic wide shot. Scene 2 (5–10 sec): She discovers a glowing magical doorway hidden behind a giant waterfall. Tiny glowing particles float through the air. Scene 3 (10–15 sec): She slowly walks through the magical doorway and discovers a breathtaking floating world with waterfalls, crystal mountains, and glowing flowers. Scene 4 (15–22 sec): A giant beautiful white dragon flies gracefully across the sky above floating islands. The camera follows its movement with a sweeping cinematic aerial shot. Scene 5 (22–30 sec): The woman stands on a cliff overlooking the magical kingdom as the sky transforms into beautiful golden and purple colors. The camera slowly pulls back, revealing the enormous fantasy world. Visual Style: Photorealistic, cinematic fantasy, 4K, Unreal Engine quality, realistic environments, atmospheric lighting, smooth camera movements, stunning details, natural physics. Negative Prompt: No products, no logos, no text, no watermark, no distorted faces, no extra limbs, no flickering, no cartoon appearance."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/CaliraVal/status/2118575122462466442",
+  "videoSourceUrl": "https://x.com/CaliraVal/status/2118575122462466442",
+  "conversationId": "2118575122462466442",
+  "originalLanguage": "en",
+  "originalPrompt": "The Magical Hidden World – 30 Seconds Create a breathtaking, ultra-realistic cinematic fantasy film, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–5 sec): A young woman walks alone through a mysterious ancient forest at sunrise. Golden sunlight passes through giant trees, soft fog covers the ground, cinematic wide shot. Scene 2 (5–10 sec): She discovers a glowing magical doorway hidden behind a giant waterfall. Tiny glowing particles float through the air. Scene 3 (10–15 sec): She slowly walks through the magical doorway and discovers a breathtaking floating world with waterfalls, crystal mountains, and glowing flowers. Scene 4 (15–22 sec): A giant beautiful white dragon flies gracefully across the sky above floating islands. The camera follows its movement with a sweeping cinematic aerial shot. Scene 5 (22–30 sec): The woman stands on a cliff overlooking the magical kingdom as the sky transforms into beautiful golden and purple colors. The camera slowly pulls back, revealing the enormous fantasy world. Visual Style: Photorealistic, cinematic fantasy, 4K, Unreal Engine quality, realistic environments, atmospheric lighting, smooth camera movements, stunning details, natural physics. Negative Prompt: No products, no logos, no text, no watermark, no distorted faces, no extra limbs, no flickering, no cartoon appearance.",
+  "originalPromptSha256": "7c2f097e14c6c13ae4dd020b8295173725688afbcb385dc6ce34455831d1c491",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "landscape"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "environments"
+    ]
+  },
+  "tags": [
+    "The Magical Hidden World",
+    "Kling 4.0",
+    "landscape"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2118574648699088896",
+    "url": "https://video.twimg.com/amplify_video/2118574648699088896/vid/avc1/1438x1080/BfbiKoCJgxHa1gbs.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2118574648699088896/vid/avc1/1438x1080/BfbiKoCJgxHa1gbs.mp4?tag=29",
+    "sourceUrl": "https://x.com/CaliraVal/status/2118575122462466442",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118574648699088896/img/PeNhg4EIF2NP2gEe.jpg",
+    "durationSecondsReported": 30.039,
+    "aspectRatioReported": [
+      1440,
+      1081
+    ],
+    "playbackVerified": true,
+    "widthObserved": 958,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.093061,
+    "publishedAt": "2026-11-06T05:24:05Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

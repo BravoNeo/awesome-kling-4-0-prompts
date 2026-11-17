@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2107695270129709378",
+  "slug": "a-2004-style-arcade-vlog",
+  "title": {
+    "en": "A 2004-Style Arcade Vlog",
+    "zh": "2004风格游戏厅日志"
+  },
+  "description": {
+    "en": "A 2004-Style Arcade Vlog — original prompt by @Diplomeme.",
+    "zh": "2004风格游戏厅日志，来自 @Diplomeme 的原始提示词。"
+  },
+  "author": {
+    "handle": "Diplomeme",
+    "url": "https://x.com/Diplomeme"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Diplomeme/status/2107695270129709378",
+    "sourceTextOriginal": "I tried making AI footage that feels like it was actually filmed in 2004.\n\nGenerated with Kling 4.0 Flash \n\nTry it with prompt : A Day Off in the Arcade\"The entire video is a single continuous self-filmed vlog captured by the idol using a compact consumer camcorder. It should feel like genuine footage she'd upload privately rather than professionally produced content. The camera is always in her hand and never visible. Natural arm movement, occasional imperfect framing, realistic autofocus hunting, minor exposure adjustments, subtle walking bounce, and authentic human timing. No jump cuts or scene transitions.Visual StyleAuthentic early-2000s MiniDV look with soft detail, light digital noise, gentle highlight bloom, muted contrast, accurate skin tones, and slight tape compression. No cinematic color grading, no artificial blur, no beauty filters.CharacterJIWON, a Korean female idol in her twenties. Long black hair in a loose ponytail, natural makeup, warm smile, expressive eyes, casual oversized denim jacket over a simple T-shirt, relaxed jeans, sneakers, and a baseball cap.LocationA lively retro arcade during the evening. Bright neon signs, claw machines, racing games, basketball arcade, photo booth, capsule toy machines, colorful carpets, cheerful background music, and other visitors naturally enjoying themselves.The recording begins just outside the arcade entrance.JIWON pushes open the glass door and laughs.\"I promised myself I wouldn't work today... so this is today's mission.\"She slowly walks through the arcade, turning the camera to show rows of flashing machines and excited players.She stops in front of a claw machine filled with plush toys.\"I've never actually won one of these.\"Holding the camera in one hand, she awkwardly controls the joystick with the other.The claw almost grabs a plush before dropping it.She bursts into genuine laughter.\"That was definitely rigged.\"She wanders toward a rhythm game and watches someone playing.She quietly cheers for them before giving a thumbs-up when they http://finish.Next, she enters a small photo booth.The camera captures her fixing her hair while laughing at herself.A countdown begins.She quickly strikes a funny pose just as the photo is taken.Leaving the booth, she opens a capsule toy machine and twists the handle.The capsule drops.She excitedly opens it.\"Actually... this one's kind of cute.\"As she continues exploring, she notices the arcade staff announcing that the venue will close in a few minutes.She looks around dramatically.\"I think I lost track of time.\"Walking toward the exit, she turns the camera back to herself.The neon lights reflect softly behind her.\"Days like this help me recharge. Next time I'll definitely win that plush.\"She smiles, waves goodbye, pushes open the arcade door, and steps outside into the cool evening air. The city sounds replace the arcade music as the recording ends naturally, as though she simply stopped filming after leaving.Generation RequirementsOne continuous uninterrupted take. Stable identity throughout. Realistic hand-held camera movement, believable eye contact with the lens, accurate hand interactions, physically correct walking and body mechanics, consistent lighting, authentic ambient sound, no duplicated people, no warped anatomy, no AI artifacts, no scene changes, and no unnatural motion. The final result should be indistinguishable from a real idol's casual day-off vlog filmed on a personal camcordesr."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Diplomeme/status/2107695270129709378",
+  "videoSourceUrl": "https://x.com/Diplomeme/status/2107695270129709378",
+  "conversationId": "2107695270129709378",
+  "originalLanguage": "en",
+  "originalPrompt": "A Day Off in the Arcade\"The entire video is a single continuous self-filmed vlog captured by the idol using a compact consumer camcorder. It should feel like genuine footage she'd upload privately rather than professionally produced content. The camera is always in her hand and never visible. Natural arm movement, occasional imperfect framing, realistic autofocus hunting, minor exposure adjustments, subtle walking bounce, and authentic human timing. No jump cuts or scene transitions.Visual StyleAuthentic early-2000s MiniDV look with soft detail, light digital noise, gentle highlight bloom, muted contrast, accurate skin tones, and slight tape compression. No cinematic color grading, no artificial blur, no beauty filters.CharacterJIWON, a Korean female idol in her twenties. Long black hair in a loose ponytail, natural makeup, warm smile, expressive eyes, casual oversized denim jacket over a simple T-shirt, relaxed jeans, sneakers, and a baseball cap.LocationA lively retro arcade during the evening. Bright neon signs, claw machines, racing games, basketball arcade, photo booth, capsule toy machines, colorful carpets, cheerful background music, and other visitors naturally enjoying themselves.The recording begins just outside the arcade entrance.JIWON pushes open the glass door and laughs.\"I promised myself I wouldn't work today... so this is today's mission.\"She slowly walks through the arcade, turning the camera to show rows of flashing machines and excited players.She stops in front of a claw machine filled with plush toys.\"I've never actually won one of these.\"Holding the camera in one hand, she awkwardly controls the joystick with the other.The claw almost grabs a plush before dropping it.She bursts into genuine laughter.\"That was definitely rigged.\"She wanders toward a rhythm game and watches someone playing.She quietly cheers for them before giving a thumbs-up when they http://finish.Next, she enters a small photo booth.The camera captures her fixing her hair while laughing at herself.A countdown begins.She quickly strikes a funny pose just as the photo is taken.Leaving the booth, she opens a capsule toy machine and twists the handle.The capsule drops.She excitedly opens it.\"Actually... this one's kind of cute.\"As she continues exploring, she notices the arcade staff announcing that the venue will close in a few minutes.She looks around dramatically.\"I think I lost track of time.\"Walking toward the exit, she turns the camera back to herself.The neon lights reflect softly behind her.\"Days like this help me recharge. Next time I'll definitely win that plush.\"She smiles, waves goodbye, pushes open the arcade door, and steps outside into the cool evening air. The city sounds replace the arcade music as the recording ends naturally, as though she simply stopped filming after leaving.Generation RequirementsOne continuous uninterrupted take. Stable identity throughout. Realistic hand-held camera movement, believable eye contact with the lens, accurate hand interactions, physically correct walking and body mechanics, consistent lighting, authentic ambient sound, no duplicated people, no warped anatomy, no AI artifacts, no scene changes, and no unnatural motion. The final result should be indistinguishable from a real idol's casual day-off vlog filmed on a personal camcordesr.",
+  "originalPromptSha256": "824d692eaf25c4721fcd4e6fcfbdd32811f77467b4471fd55bee41bfbdc5abcf",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A 2004-Style Arcade Vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2107693763611213824",
+    "url": "https://video.twimg.com/amplify_video/2107693763611213824/vid/avc1/1280x720/6QDIpVziHErJybg7.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2107693763611213824/vid/avc1/1280x720/6QDIpVziHErJybg7.mp4?tag=29",
+    "sourceUrl": "https://x.com/Diplomeme/status/2107695270129709378",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107693763611213824/img/WUtGAHZ5-rBeJL0k.jpg",
+    "durationSecondsReported": 20.066,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 20.131701,
+    "publishedAt": "2026-10-07T04:51:26Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

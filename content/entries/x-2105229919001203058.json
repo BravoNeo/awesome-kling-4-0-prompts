@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105229919001203058",
+  "slug": "counting-sheep-goes-wrong",
+  "title": {
+    "en": "Counting Sheep Goes Wrong",
+    "zh": "数羊失算"
+  },
+  "description": {
+    "en": "Counting Sheep Goes Wrong — original prompt by @bmx_ai13.",
+    "zh": "数羊失算，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105229917717745881",
+    "sourceTextOriginal": "He counts to two. The sheep counted on it.\n\nMade with Kling 4.0 Flash  @Kling_ai \nPrompt 👇 https://x.com/bmx_ai13/status/2105229917717745881/video/1"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2105229919001203058",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2105229917717745881",
+  "conversationId": "2105229917717745881",
+  "originalLanguage": "en",
+  "originalPrompt": "MANY. 20s, 16:9, 24fps. Original soft 3D animation with a matte clay-like surface texture, rounded chunky shapes, warm saturated colors, shallow depth of field, cheerful look. Pure comedy, dialogue-driven. One continuous sunny hillside location, no scene changes.\n\nWORLD: bright green meadow with tiny flowers, rolling hill with round bushes, small wooden A-frame tent, calm blue sea on the horizon, blue sky with puffy white clouds. Golden midday light.\n\nCHARACTERS (identical in every shot):\nMOKO, prehistoric shepherd. Tall, shaggy curly brown hair, big brown beard, wide friendly eyes, brown furry tunic with a rope belt, leather sandals, long wooden staff. Deep gravelly voice, proud and slow, completely confident while wrong.\nFLOCK: forty fluffy cream and gray sheep with black faces.\nDOT, one sheep with a slightly darker face and one raised eyebrow. Dry, deadpan, tired voice, like an office worker.\n\nSHOT 1 (0-4s): Wide shot. Moko stands tall in front of the huddled flock, staff planted. He points at the sheep with one thick finger, lips moving as he counts. Moko: \"One. Two. Many.\" He nods, deeply satisfied, chest puffed out.\n\nSHOT 2 (4-8s): Medium shot. Dot steps out of the flock and looks up at him. Dot: \"Sir. There are forty-one of us.\" Moko: \"Forty-one is many.\" Dot: \"So is four.\" Moko freezes, stares at his own fingers, eyes slowly widening. Moko: \"...Four is small many.\"\n\nSHOT 3 (8-14s): Over-the-shoulder shot, Moko in the foreground, flock behind him. He turns his back and starts counting again, facing away. Behind him the sheep tiptoe in a single line toward the tent, exaggerated cartoon sneaking, knees high. Every time Moko says a number, the sheep freeze mid-step in absurd poses, one hoof raised, one leaning sideways. Moko: \"One. Two. Many.\" Sheep freeze. Moko: \"One. Two. Many.\" Sheep freeze again, one sheep balancing on a single leg, trembling. Moko, pleased: \"Many is still many. Good.\"\n\nSHOT 4 (14-20s): Close-up on Moko's proud face, then a slow turn. Camera swings to reveal the empty meadow and every sheep lounging in and around the tent. Two sheep share a wooden cup, one sheep lies on the tent bed, Dot leans casually on the tent pole. Moko blinks, staff drooping. Moko: \"Many sheep... gone?\" Dot, calm and flat: \"Not gone, sir. Many is just very far away.\" Moko slowly nods, wise and solemn. Moko: \"Many is far.\" He turns back to the empty meadow and salutes it with his staff.\n\nAUDIO (diegetic only): dialogue, soft sheep bleats, hooves on grass, gentle wind, distant waves, staff tapping the ground. No music, no narration.\n\nDIALOGUE LOCK: English only, exactly as written, with clear lip sync. Moko speaks slowly, Dot speaks flat and dry.\n\nLAST FRAME: Moko seen from behind, saluting the empty meadow, while the whole flock peeks out from the tent with tiny smug faces. Hold 1 second. No on-screen text, no captions, no subtitles, no logos, no watermarks, no title cards.\n\nAVOID: extra characters, changing wardrobe or style, realistic fur, dark or scary tone, text overlays, music.",
+  "originalPromptSha256": "612e9b4c78060bc3ae1ecb27481357eff09475e7908c320b37ea699f5d4dd1f7",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "character-animation"
+    ],
+    "style": [
+      "cozy-animation"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Counting Sheep Goes Wrong",
+    "Kling 4.0",
+    "character-animation"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2105065191381864448",
+    "url": "https://video.twimg.com/amplify_video/2105065191381864448/vid/avc1/1280x720/wyVEsJejmdKDjJtX.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105065191381864448/vid/avc1/1280x720/wyVEsJejmdKDjJtX.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105229917717745881",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105065191381864448/img/AiRZHdez1cdurGfM.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 20.108481,
+    "publishedAt": "2026-09-30T09:35:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

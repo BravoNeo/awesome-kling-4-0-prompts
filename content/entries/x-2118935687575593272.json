@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2118935687575593272",
+  "slug": "a-snowy-cinematic-love-story",
+  "title": {
+    "en": "A Snowy Cinematic Love Story",
+    "zh": "雪中的电影感爱情故事"
+  },
+  "description": {
+    "en": "A Snowy Cinematic Love Story — original prompt by @MahiraEhan.",
+    "zh": "雪中的电影感爱情故事，来自 @MahiraEhan 的原始提示词。"
+  },
+  "author": {
+    "handle": "MahiraEhan",
+    "url": "https://x.com/MahiraEhan"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/MahiraEhan/status/2118935687575593272",
+    "sourceTextOriginal": "Turn snowy moments into cinematic love stories with Kling 4.0 AI on @PixVerse  🤍❄️\n\nPro members and above can access Kling 4.0; Ultra members get unlimited generation at 0 credit on Pixverse.\n\nPrompt:\nCreate a 30-second photorealistic cinematic live-action video, 16:9. Use the exact woman from  image1 and man from image2. Preserve their faces, hairstyles, skin tones, ages, and body proportions.\n\nOUTFITS: Woman wears an oversized beige knitted sweater, dark blue jeans, and cream socks. Man wears a charcoal-gray knitted sweater, dark blue jeans, and neutral socks. They share ONE large cream blanket with dark geometric patterns and burgundy accents.\n\nSETTING: Cozy home on a snowy winter day. They sit close together on a wooden floor beside a large glass door. Outside: wooden bench, trees, red brick house, and light snow. Inside: green sofa, patterned cushions, mustard-yellow pillow, and warm table-lamp lighting.\n\n00–06 SEC: Static wide shot from behind. Man on left, woman on right, looking outside. Woman hugs her knees; man sits cross-legged with hands in his lap. Subtle breathing. No dialogue.\n\n06–14 SEC: Wide exterior shot looking through the glass. Wooden bench in left foreground. Woman on left, man on right. Woman turns slightly and softly asks: \"Aren't you cold?\" Man smiles and replies: \"I'm fine. Because I'm with you.\"\n\n14–23 SEC: Front-facing medium two-shot. Woman looks at him affectionately and asks: \"Will we still be together like this tomorrow?\" Man pauses, smiles warmly, and answers: \"Yes. Tomorrow, and the day after that.\"\n\n23–30 SEC: Same medium shot with a very slow camera push-in. Woman looks toward the sky outside, smiles brightly, and gives a soft natural giggle. Man watches her with a warm smile. Hold the peaceful moment until the end.\n\nAUDIO: All dialogue must be spoken in natural, gentle English with accurate lip-sync and correct speaker turns. No music, narration, or subtitles. Only natural winter wind, distant neighborhood ambience, rustling branches, breathing, fabric movement, and gentle laughter.\n\nCONTINUITY: Maintain identical faces, outfits, body positions, and ONE shared blanket across all shots. Smooth cuts, realistic skin, natural expressions, cinematic lighting. No face swapping, extra limbs, distorted hands, sudden repositioning, logos, image1,  image2 , or watermarks."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/MahiraEhan/status/2118935687575593272",
+  "videoSourceUrl": "https://x.com/MahiraEhan/status/2118935687575593272",
+  "conversationId": "2118935687575593272",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30-second photorealistic cinematic live-action video, 16:9. Use the exact woman from  image1 and man from image2. Preserve their faces, hairstyles, skin tones, ages, and body proportions.\n\nOUTFITS: Woman wears an oversized beige knitted sweater, dark blue jeans, and cream socks. Man wears a charcoal-gray knitted sweater, dark blue jeans, and neutral socks. They share ONE large cream blanket with dark geometric patterns and burgundy accents.\n\nSETTING: Cozy home on a snowy winter day. They sit close together on a wooden floor beside a large glass door. Outside: wooden bench, trees, red brick house, and light snow. Inside: green sofa, patterned cushions, mustard-yellow pillow, and warm table-lamp lighting.\n\n00–06 SEC: Static wide shot from behind. Man on left, woman on right, looking outside. Woman hugs her knees; man sits cross-legged with hands in his lap. Subtle breathing. No dialogue.\n\n06–14 SEC: Wide exterior shot looking through the glass. Wooden bench in left foreground. Woman on left, man on right. Woman turns slightly and softly asks: \"Aren't you cold?\" Man smiles and replies: \"I'm fine. Because I'm with you.\"\n\n14–23 SEC: Front-facing medium two-shot. Woman looks at him affectionately and asks: \"Will we still be together like this tomorrow?\" Man pauses, smiles warmly, and answers: \"Yes. Tomorrow, and the day after that.\"\n\n23–30 SEC: Same medium shot with a very slow camera push-in. Woman looks toward the sky outside, smiles brightly, and gives a soft natural giggle. Man watches her with a warm smile. Hold the peaceful moment until the end.\n\nAUDIO: All dialogue must be spoken in natural, gentle English with accurate lip-sync and correct speaker turns. No music, narration, or subtitles. Only natural winter wind, distant neighborhood ambience, rustling branches, breathing, fabric movement, and gentle laughter.\n\nCONTINUITY: Maintain identical faces, outfits, body positions, and ONE shared blanket across all shots. Smooth cuts, realistic skin, natural expressions, cinematic lighting. No face swapping, extra limbs, distorted hands, sudden repositioning, logos, image1,  image2 , or watermarks.",
+  "originalPromptSha256": "fc4037765af6fe4a9cc99b1776e5a7318c5db91c616f498fa70594c4e179c4be",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "travel-commercial"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Snowy Cinematic Love Story",
+    "Kling 4.0",
+    "travel-commercial"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2118933715388624896",
+    "url": "https://video.twimg.com/amplify_video/2118933715388624896/vid/avc1/1920x1080/aoabkD-PqZt8v18W.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2118933715388624896/vid/avc1/1920x1080/aoabkD-PqZt8v18W.mp4?tag=29",
+    "sourceUrl": "https://x.com/MahiraEhan/status/2118935687575593272",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118933715388624896/img/5IWw1EknwiS3eKE1.jpg",
+    "durationSecondsReported": 30.166,
+    "aspectRatioReported": [
+      1920,
+      1080
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.232381,
+    "publishedAt": "2026-11-07T05:16:50Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}
