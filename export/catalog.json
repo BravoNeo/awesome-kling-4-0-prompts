@@ -7081,84 +7081,6 @@
     },
     {
       "schemaVersion": 1,
-      "id": "x-2111843371090378765",
-      "slug": "a-casual-brunch-phone-vlog",
-      "title": {
-        "en": "A Casual Brunch Phone Vlog",
-        "zh": "随手拍摄的早午餐日志"
-      },
-      "description": {
-        "en": "A Casual Brunch Phone Vlog — original prompt by @sixugc.",
-        "zh": "随手拍摄的早午餐日志，来自 @sixugc 的原始提示词。"
-      },
-      "author": {
-        "handle": "sixugc",
-        "url": "https://x.com/sixugc"
-      },
-      "modelClaim": {
-        "name": "Kling 4.0",
-        "variant": "full",
-        "basis": "author-statement",
-        "independentlyVerified": false,
-        "sourceUrl": "https://x.com/sixugc/status/2111843371090378765",
-        "sourceTextOriginal": "kling 4.0 just went public 48 hours ago\n\nthe internet is about to get a lot harder to believe\n\nnone of these videos are real\n\nheres the prompt :\n\n1. UGC character at brunch\nPROMPT: Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading.\nThe phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: \"Okay, I promised I'd show you what we get.... We get the same thing every single time... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay.\nYeah. Still the best... Hey! Get your own!\" [Her sister, off camera: a young woman's voice, dry and amused]: \"That's the tax.\" [Sadie, laughing]: \"She does this every time.\" Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no onscreen text."
-      },
-      "pairing": "same_post",
-      "promptSourceUrl": "https://x.com/sixugc/status/2111843371090378765",
-      "videoSourceUrl": "https://x.com/sixugc/status/2111843371090378765",
-      "conversationId": "2111843371090378765",
-      "originalLanguage": "en",
-      "originalPrompt": "Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading.\nThe phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: \"Okay, I promised I'd show you what we get.... We get the same thing every single time... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay.\nYeah. Still the best... Hey! Get your own!\" [Her sister, off camera: a young woman's voice, dry and amused]: \"That's the tax.\" [Sadie, laughing]: \"She does this every time.\" Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no onscreen text.",
-      "originalPromptSha256": "128c4971c612359239fa831d0cad4a75e36c335316f05287d8a3aae9084f0ab1",
-      "editorialCopies": {},
-      "categories": {
-        "use": [
-          "ugc"
-        ],
-        "style": [
-          "cinematic-realism"
-        ],
-        "subject": [
-          "people"
-        ]
-      },
-      "tags": [
-        "A Casual Brunch Phone Vlog",
-        "Kling 4.0",
-        "ugc"
-      ],
-      "guidance": {
-        "en": "Read the original prompt and watch the creator’s result.",
-        "zh": "阅读原始提示词，查看作者作品。"
-      },
-      "inputRequirement": "text-only",
-      "video": {
-        "role": "output",
-        "mediaId": "2111843243587682304",
-        "url": "https://video.twimg.com/amplify_video/2111843243587682304/vid/avc1/1080x1920/3ky-WG4V5Pf0xLW3.mp4?tag=29",
-        "originalUrl": "https://video.twimg.com/amplify_video/2111843243587682304/vid/avc1/1080x1920/3ky-WG4V5Pf0xLW3.mp4?tag=29",
-        "sourceUrl": "https://x.com/sixugc/status/2111843371090378765",
-        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2111843243587682304/img/BydZM8KSU7YFPi1n.jpg",
-        "durationSecondsReported": 30.093,
-        "aspectRatioReported": [
-          1080,
-          1920
-        ],
-        "playbackVerified": true,
-        "widthObserved": 720,
-        "heightObserved": 1280,
-        "durationSecondsObserved": 30.139501,
-        "publishedAt": "2026-10-18T15:34:30Z"
-      },
-      "referenceAssets": [],
-      "rights": {
-        "status": "third-party-rights-reserved",
-        "note": "Prompts and media remain the property of their original authors."
-      },
-      "showGuidance": false
-    },
-    {
-      "schemaVersion": 1,
       "id": "x-2111902136875565360",
       "slug": "cantina-crime-drama",
       "title": {
@@ -18604,6 +18526,84 @@
         "heightObserved": 1280,
         "durationSecondsObserved": 16.033333,
         "publishedAt": "2026-11-08T14:02:38Z"
+      },
+      "referenceAssets": [],
+      "rights": {
+        "status": "third-party-rights-reserved",
+        "note": "Prompts and media remain the property of their original authors."
+      },
+      "showGuidance": false
+    },
+    {
+      "schemaVersion": 1,
+      "id": "x-2119681759256465716",
+      "slug": "an-awkward-coffee-seating-mix-up",
+      "title": {
+        "en": "An Awkward Coffee Seating Mix-Up",
+        "zh": "咖啡馆里的尴尬坐席误会"
+      },
+      "description": {
+        "en": "An awkward coffee seating mix-up — original prompt by @MeenakshiYACS.",
+        "zh": "咖啡馆里的尴尬坐席误会，来自 @MeenakshiYACS 的原始提示词。"
+      },
+      "author": {
+        "handle": "MeenakshiYACS",
+        "url": "https://x.com/MeenakshiYACS"
+      },
+      "modelClaim": {
+        "name": "Kling 4.0",
+        "variant": "full",
+        "basis": "author-statement",
+        "independentlyVerified": false,
+        "sourceUrl": "https://x.com/MeenakshiYACS/status/2119681759256465716",
+        "sourceTextOriginal": "What if one awkward coffee moment could turn into a hilarious AI-generated video? 😂\n\nLet's recreate this funny cinematic scene using Kling 4.0 on @WizstarAI!\n\n☕ Two strangers.\n☕ One coffee date.\n☕ One very embarrassing seating mistake!\n\nCreate this hilarious AI video using Kling 4.0 on WizstarAI, super AI avatar studio 👇\n\nhttps://wizstar.pxf.io/c/7702885/3962423/55236\n\nPROMPT:\nUpload your character references.\n\nAdd your background image.\nSelect Kling 4.0 on Wizstar.\nCopy the prompt below and generate your video.\nPrompt:\n21 seconds, vertical 9:16.\n\nStrictly recreate the reference video Video 1.\n\nCharacter references:\nImage 1 (man, left)\nImage 2 (woman, right)\n\nBackground reference: Image 3\n\nPreserve exact character identities, facial features, outfits and background.\n\nCreate a realistic, funny cinematic coffee scene with comedic background music.\n\nCamera: One continuous, uninterrupted static shot. Front-facing, eye-level, medium-wide framing. Both characters and seats remain visible. No cuts, zooms, camera movement or transitions.\n\n00:00–00:05.8\nThe man sits casually on the elevated surface on the left, with both legs resting on the windowsill. He holds a takeaway coffee cup, occasionally glances at the camera with a puzzled expression, sips coffee and looks around naturally.\n\n00:05.8–00:07.8\nThe woman enters naturally from the far right, holding coffee, and walks toward the right seat. The man briefly notices her and casually looks away.\n\n00:07.8–00:09.8\nThe woman removes her shoulder bag, places it beside her, sits naturally and places her coffee on the small round table.\n\n00:09.8–00:15.0\nShe crosses her legs, picks up her coffee, takes occasional sips and looks outside the window. The man continues relaxing with his legs on the windowsill, casually drinking coffee.\n\n00:15.0–00:18.2\nThe man suddenly realizes he is sitting on a TABLE, not a seat! Show genuine surprise and confusion. He quickly pulls his legs back, secures his coffee, climbs down and moves onto the proper left seat. Make the movement natural, slightly hurried and mildly embarrassing.\n\n00:18.2–00:21.0\nThe man finally sits properly beside the woman, imitating her normal seated posture. Both casually sip coffee and look forward.\n\nStrict constraints:\nMatch the reference video's exact action order, timing, screen positions, entrance direction and sitting poses. Maintain realistic body movements and consistent character identities.\n\nNo extra characters, props, dialogue or invented events. No teleportation, body distortion, floating objects, duplicated movements or ending loops.\n\nEnd with a stable side-by-side seated composition.\n\nYour turn! Create your own hilarious coffee moment with Kling 4.0 on @WizstarAI.\n\n#WizstarAI #KlingAI #WizstarPartner #AI"
+      },
+      "pairing": "same_post",
+      "promptSourceUrl": "https://x.com/MeenakshiYACS/status/2119681759256465716",
+      "videoSourceUrl": "https://x.com/MeenakshiYACS/status/2119681759256465716",
+      "conversationId": "2119681759256465716",
+      "originalLanguage": "en",
+      "originalPrompt": "21 seconds, vertical 9:16.\n\nStrictly recreate the reference video Video 1.\n\nCharacter references:\nImage 1 (man, left)\nImage 2 (woman, right)\n\nBackground reference: Image 3\n\nPreserve exact character identities, facial features, outfits and background.\n\nCreate a realistic, funny cinematic coffee scene with comedic background music.\n\nCamera: One continuous, uninterrupted static shot. Front-facing, eye-level, medium-wide framing. Both characters and seats remain visible. No cuts, zooms, camera movement or transitions.\n\n00:00–00:05.8\nThe man sits casually on the elevated surface on the left, with both legs resting on the windowsill. He holds a takeaway coffee cup, occasionally glances at the camera with a puzzled expression, sips coffee and looks around naturally.\n\n00:05.8–00:07.8\nThe woman enters naturally from the far right, holding coffee, and walks toward the right seat. The man briefly notices her and casually looks away.\n\n00:07.8–00:09.8\nThe woman removes her shoulder bag, places it beside her, sits naturally and places her coffee on the small round table.\n\n00:09.8–00:15.0\nShe crosses her legs, picks up her coffee, takes occasional sips and looks outside the window. The man continues relaxing with his legs on the windowsill, casually drinking coffee.\n\n00:15.0–00:18.2\nThe man suddenly realizes he is sitting on a TABLE, not a seat! Show genuine surprise and confusion. He quickly pulls his legs back, secures his coffee, climbs down and moves onto the proper left seat. Make the movement natural, slightly hurried and mildly embarrassing.\n\n00:18.2–00:21.0\nThe man finally sits properly beside the woman, imitating her normal seated posture. Both casually sip coffee and look forward.\n\nStrict constraints:\nMatch the reference video's exact action order, timing, screen positions, entrance direction and sitting poses. Maintain realistic body movements and consistent character identities.\n\nNo extra characters, props, dialogue or invented events. No teleportation, body distortion, floating objects, duplicated movements or ending loops.\n\nEnd with a stable side-by-side seated composition.",
+      "originalPromptSha256": "f1aa9bface8ba549e5576ea82c272798fd296bdadbca3d3076c9f15a87dc688a",
+      "editorialCopies": {},
+      "categories": {
+        "use": [
+          "comedy"
+        ],
+        "style": [
+          "cinematic-realism"
+        ],
+        "subject": [
+          "people"
+        ]
+      },
+      "tags": [
+        "coffee",
+        "seating mix-up",
+        "comedy"
+      ],
+      "guidance": {
+        "en": "Read the original prompt and watch the creator’s result.",
+        "zh": "阅读原始提示词，查看作者作品。"
+      },
+      "inputRequirement": "video-reference",
+      "video": {
+        "role": "output",
+        "mediaId": "2119681253255634944",
+        "url": "https://video.twimg.com/amplify_video/2119681253255634944/vid/avc1/720x1280/dUb_zKHJBNhzYyTR.mp4?tag=29",
+        "originalUrl": "https://video.twimg.com/amplify_video/2119681253255634944/vid/avc1/720x1280/dUb_zKHJBNhzYyTR.mp4?tag=29",
+        "sourceUrl": "https://x.com/MeenakshiYACS/status/2119681759256465716",
+        "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2119681253255634944/img/657TzIg9MeIuUt8f.jpg",
+        "durationSecondsReported": 21.037,
+        "aspectRatioReported": [
+          720,
+          1280
+        ],
+        "playbackVerified": true,
+        "publishedAt": "2026-11-09T06:41:27Z",
+        "widthObserved": 720,
+        "heightObserved": 1280,
+        "durationSecondsObserved": 21.083719
       },
       "referenceAssets": [],
       "rights": {

@@ -49,7 +49,7 @@ Explore action choreography, character animation, comedy and travel films. Each 
 | Metric | Count |
 | --- | --- |
 | Prompts | 250 |
-| Creators | 95 |
+| Creators | 94 |
 | Featured examples | 4 |
 | README updated | 2026-11-18 |
 
@@ -76,11 +76,11 @@ Click a cover to watch on X.
 | Use | Examples |
 | --- | --- |
 | Travel & commercial | [Korea Fashion Travel Film](#korea-fashion-travel-film) · [Seven Travel Moments and a Surprise Catch](#seven-travel-moments-and-a-surprise-catch) · [A Snowy Cinematic Love Story](#a-snowy-cinematic-love-story) |
-| Comedy | [Pizza Delivery Cat](#pizza-delivery-cat) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [A cat’s continuous midnight adventure](#a-cats-continuous-midnight-adventure) · [Accidental Michelin](#accidental-michelin) · [Snake coffee break](#snake-coffee-break) · [Octopus bartender](#octopus-bartender) · [A cat on a robot vacuum — two camera views](#a-cat-on-a-robot-vacuum-two-camera-views) · [A flying roadster delivers one coffee](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 vs Wan 3.0: the courier’s missing television head](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [Cat rides the robot vacuum](#cat-rides-the-robot-vacuum) · [A generous nobleman and the publicity bill](#a-generous-nobleman-and-the-publicity-bill) · [Hamster rock-star storyboard](#hamster-rock-star-storyboard) · [A Christmas dress-code mix-up](#a-christmas-dress-code-mix-up) · [A broomstick comedy on Halloween](#a-broomstick-comedy-on-halloween) · [The elevator-floor illusion](#the-elevator-floor-illusion) · [Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [The prince and Baba Cloanța’s bell](#the-prince-and-baba-cloantas-bell) · [The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison](#the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison) · [The Falling Champagne Tower — Kling 4.0 Comparison](#the-falling-champagne-tower-kling-4-0-comparison) · [A Stop-Motion Thanksgiving Surprise](#a-stop-motion-thanksgiving-surprise) · [A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison](#a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison) · [A Coffee Spill Becomes a Kitchen Comedy](#a-coffee-spill-becomes-a-kitchen-comedy) · [The Giant Cat and the Model Railway — Kling 4.0 Comparison](#the-giant-cat-and-the-model-railway-kling-4-0-comparison) |
+| Comedy | [Pizza Delivery Cat](#pizza-delivery-cat) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [A cat’s continuous midnight adventure](#a-cats-continuous-midnight-adventure) · [Accidental Michelin](#accidental-michelin) · [Snake coffee break](#snake-coffee-break) · [Octopus bartender](#octopus-bartender) · [A cat on a robot vacuum — two camera views](#a-cat-on-a-robot-vacuum-two-camera-views) · [A flying roadster delivers one coffee](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 vs Wan 3.0: the courier’s missing television head](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [Cat rides the robot vacuum](#cat-rides-the-robot-vacuum) · [A generous nobleman and the publicity bill](#a-generous-nobleman-and-the-publicity-bill) · [Hamster rock-star storyboard](#hamster-rock-star-storyboard) · [A Christmas dress-code mix-up](#a-christmas-dress-code-mix-up) · [A broomstick comedy on Halloween](#a-broomstick-comedy-on-halloween) · [The elevator-floor illusion](#the-elevator-floor-illusion) · [Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [The prince and Baba Cloanța’s bell](#the-prince-and-baba-cloantas-bell) · [The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison](#the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison) · [The Falling Champagne Tower — Kling 4.0 Comparison](#the-falling-champagne-tower-kling-4-0-comparison) · [A Stop-Motion Thanksgiving Surprise](#a-stop-motion-thanksgiving-surprise) · [A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison](#a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison) · [An Awkward Coffee Seating Mix-Up](#an-awkward-coffee-seating-mix-up) · [A Coffee Spill Becomes a Kitchen Comedy](#a-coffee-spill-becomes-a-kitchen-comedy) · [The Giant Cat and the Model Railway — Kling 4.0 Comparison](#the-giant-cat-and-the-model-railway-kling-4-0-comparison) |
 | Character animation | [Pink-Haired Fire Witch](#pink-haired-fire-witch) · [Counting Sheep Goes Wrong](#counting-sheep-goes-wrong) · [Fox and Owl in the Library](#fox-owl-library) · [Robin completes an update](#robin-completes-an-update) · [Do not press the button — 3D kinetic typography](#do-not-press-the-button-3d-kinetic-typography) · [Live stadium concert](#live-stadium-concert) · [Dancing to a music reference](#dancing-to-a-music-reference) · [Cinematic pageant walk](#cinematic-pageant-walk) · [2D train animation](#2d-train-animation) · [3D fox sneeze](#3d-fox-sneeze) · [Kling 4.0 vs Kling 3.0: a calf and a butterfly](#kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly) · [Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city](#kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city) · [A birthday cake made with love](#a-birthday-cake-made-with-love) · [Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest](#kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest) · [Three mischievous witches](#three-mischievous-witches) · [A pumpkin monster goes trick-or-treating](#a-pumpkin-monster-goes-trick-or-treating) · [Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo](#kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo) · [A clay ghost learns to say boo](#a-clay-ghost-learns-to-say-boo) · [Kling and Seedance versions: rainy rooftop ballet](#kling-and-seedance-versions-rainy-rooftop-ballet) · [Voxel monsters go trick-or-treating](#voxel-monsters-go-trick-or-treating) · [Painted door opening in a five-style Kling 4.0 film](#painted-door-opening-in-a-five-style-kling-4-0-film) · [A Paper Pop-Up City Unfolds from a Book](#a-paper-pop-up-city-unfolds-from-a-book) · [Until We Meet Again in Black and White](#until-we-meet-again-in-black-and-white) · [The Fluffy Cat's Flower Garden](#the-fluffy-cat-s-flower-garden) |
 | Action | [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Night-market spy chase](#night-market-spy-chase) · [Multi-shot car drifting](#multi-shot-car-drifting) · [Into the Infinite Sky](#into-the-infinite-sky) · [Astra Sky Battle](#astra-sky-battle) · [Clockwork and Ashes](#clockwork-and-ashes) · [Crimson Afterburn two-scene action](#crimson-afterburn-two-scene-action) · [Subway fight](#subway-fight) · [Spiral staircase duel](#spiral-staircase-duel) · [Neon-market parkour](#neon-market-parkour) · [First-person tactical shooter](#first-person-tactical-shooter) · [PUBG-style first-person firefight, looting and healing](#pubg-style-first-person-firefight-looting-and-healing) · [Kling 4.0 vs Seedance 2.5: dwarven forest fight](#kling-4-0-vs-seedance-2-5-dwarven-forest-fight) · [Competitive harbor tactical shooter](#competitive-harbor-tactical-shooter) · [A two-car chase](#a-two-car-chase) · [Cyber-assassin code jump](#cyber-assassin-code-jump) · [The Nameless Edge trailer](#the-nameless-edge-trailer) · [Army scattered by a sudden blast](#army-scattered-by-a-sudden-blast) · [Giant lion charges toward battle](#giant-lion-charges-toward-battle) · [Vagabond samurai trailer](#vagabond-samurai-trailer) · [Seven-shot ski film](#seven-shot-ski-film) · [Continuous skateboard tracking](#continuous-skateboard-tracking) · [Warehouse stunt fight](#warehouse-stunt-fight) · [Urban rooftop parkour](#urban-rooftop-parkour) · [A god hurls a mountain boulder](#a-god-hurls-a-mountain-boulder) · [Warehouse fight](#warehouse-fight) · [Western saloon fistfight](#western-saloon-fistfight) · [Phantom thief and the clumsy officer](#phantom-thief-and-the-clumsy-officer) · [World War I aerial pursuit](#world-war-i-aerial-pursuit) · [Thunder Emperor awakens](#thunder-emperor-awakens) · [Boxer action](#boxer-action) · [A fight through three apartment spaces](#a-fight-through-three-apartment-spaces) · [Knight defending the fortress](#knight-defending-the-fortress) · [Two-character anime parkour](#two-character-anime-parkour) · [Desert warrior combat](#desert-warrior-combat) · [Flying-car desert pursuit](#flying-car-desert-pursuit) · [Madara battlefield sequence](#madara-battlefield-sequence) · [Film-noir police interception](#film-noir-police-interception) · [Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding](#kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding) · [Monsoon velocity](#monsoon-velocity) · [Last delivery before the shutter](#last-delivery-before-the-shutter) · [Camcorder footage of a city monster](#camcorder-footage-of-a-city-monster) · [First-contact ambush beneath twin suns](#first-contact-ambush-beneath-twin-suns) · [Lightning and fire rooftop duel](#lightning-and-fire-rooftop-duel) · [Battle beneath an alien ring](#battle-beneath-an-alien-ring) · [Jane’s wasteland freerunning](#janes-wasteland-freerunning) · [Kling 4.0 vs Seedance 2.5: the longship in the storm](#kling-4-0-vs-seedance-2-5-the-longship-in-the-storm) · [Ghost horses and the pumpkin-carriage roller coaster](#ghost-horses-and-the-pumpkin-carriage-roller-coaster) · [Jaguar chase through the rainforest](#jaguar-chase-through-the-rainforest) · [Final round in an underground boxing club](#final-round-in-an-underground-boxing-club) · [A continuous rooftop parkour run](#a-continuous-rooftop-parkour-run) · [Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint](#kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint) · [Water-powered bathroom battle](#water-powered-bathroom-battle) · [A Cyberpunk Chase in the Rain — Kling 4.0 Comparison](#a-cyberpunk-chase-in-the-rain-kling-4-0-comparison) · [Alien shooter at a neon spaceport](#alien-shooter-at-a-neon-spaceport) · [Two Fighters on the Grassland](#two-fighters-on-the-grassland) · [The Frost Empress and the Last Hunter](#the-frost-empress-and-the-last-hunter) · [Rica and the Fall of the Gods](#rica-and-the-fall-of-the-gods) · [Lala Faces Cerberus](#lala-faces-cerberus) · [Two Sisters Escape the Infected City](#two-sisters-escape-the-infected-city) · [A Restaurant Kitchen Fight](#a-restaurant-kitchen-fight) · [A Monaco Coastal Car Chase — Kling 4.0 Comparison](#a-monaco-coastal-car-chase-kling-4-0-comparison) · [A Gymnast's Continuous Backflip](#a-gymnast-s-continuous-backflip) · [A Lightning Arrow against the Iron Colossus](#a-lightning-arrow-against-the-iron-colossus) · [Not Today: Bullets Stop at the Crosswalk](#not-today-bullets-stop-at-the-crosswalk) · [A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison](#a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison) · [Jungle Chase and Cliff Dive — Kling 4.0 Comparison](#jungle-chase-and-cliff-dive-kling-4-0-comparison) · [An Unfazed Walk away from an Explosion](#an-unfazed-walk-away-from-an-explosion) |
 | Storytelling | [Last ferry love scene](#last-ferry-love-scene) · [Hypnotic underground temple](#hypnotic-underground-temple) · [Living alien transit terminal](#living-alien-transit-terminal) · [Blackwood forest run](#blackwood-forest-run) · [Cabin horror sequence](#cabin-horror-sequence) · [Sunset rooftop tap dance](#sunset-rooftop-tap-dance) · [Sorceress and ghostly pharaohs](#sorceress-and-ghostly-pharaohs) · [Enchanted forest fairies](#enchanted-forest-fairies) · [Lucy leaves the diner](#lucy-leaves-the-diner) · [Café conversation about a bakery](#cafe-conversation-about-a-bakery) · [A winter riverside farewell](#a-winter-riverside-farewell) · [Alien giants in a turquoise lagoon](#alien-giants-in-a-turquoise-lagoon) · [Mechanical jungle predator](#mechanical-jungle-predator) · [Alien settlement at sunrise](#alien-settlement-at-sunrise) · [Rainy horror storyboard](#rainy-horror-storyboard) · [Submarine creature encounter](#submarine-creature-encounter) · [Glowing underwater city](#glowing-underwater-city) · [Fraternity-house emotional scene](#fraternity-house-emotional-scene) · [Alchemist summons a tiny fire spirit](#alchemist-summons-a-tiny-fire-spirit) · [Margot and Leo](#margot-and-leo) · [The floating violin melody](#the-floating-violin-melody) · [Mirror-world cinematic journey](#mirror-world-cinematic-journey) · [Late-night kitchen confession](#late-night-kitchen-confession) · [Japanese romantic goodbye](#japanese-romantic-goodbye) · [3 2 1 supernatural thriller trailer](#3-2-1-supernatural-thriller-trailer) · [Park bench base clip](#park-bench-base-clip) · [Cantina crime drama](#cantina-crime-drama) · [The Tomb of Pale Flame](#the-tomb-of-pale-flame) · [Anime street encounter](#anime-street-encounter) · [Desert market starship](#desert-market-starship) · [Victorian harbor ghost](#victorian-harbor-ghost) · [Waiting with a rose](#waiting-with-a-rose) · [Basement suspense](#basement-suspense) · [Surreal rooftop](#surreal-rooftop) · [Android laboratory awakening](#android-laboratory-awakening) · [Girl and dragon cooking](#girl-and-dragon-cooking) · [Torstein the Gatebreaker](#torstein-the-gatebreaker) · [Cafe conversation](#cafe-conversation) · [Pottery multi-shot](#pottery-multi-shot) · [Futuristic talk show](#futuristic-talk-show) · [Anime noodle scene](#anime-noodle-scene) · [Kling 4.0 vs Seedance 2.5: delayed rocket launch sound](#kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound) · [Kling 4.0 vs Seedance 2.5: closing the chandlery](#kling-4-0-vs-seedance-2-5-closing-the-chandlery) · [A still figure in a rushing city](#a-still-figure-in-a-rushing-city) · [Kling 4.0 in a four-model spoken-line comparison](#kling-4-0-in-a-four-model-spoken-line-comparison) · [Kling 4.0 in a four-model laughing-group comparison](#kling-4-0-in-a-four-model-laughing-group-comparison) · [Kling 4.0 in a four-model poker-chip comparison](#kling-4-0-in-a-four-model-poker-chip-comparison) · [Snap zoom into a pink collar](#snap-zoom-into-a-pink-collar) · [Bat swarm over a gothic belfry](#bat-swarm-over-a-gothic-belfry) · [Kling 4.0 vs Hailuo H3: the evening’s first star](#kling-4-0-vs-hailuo-h3-the-evenings-first-star) · [The tiny cloud creature](#the-tiny-cloud-creature) · [Skateboarder in the moonlit forest](#skateboarder-in-the-moonlit-forest) · [Exploration ship in a charged storm](#exploration-ship-in-a-charged-storm) · [An armored hunter cooks dinner](#an-armored-hunter-cooks-dinner) · [A spark across the dark](#a-spark-across-the-dark) · [Kling 4.0 vs 2.6: underwater profile](#kling-4-0-vs-2-6-underwater-profile) · [Kling 4.0 Omni vs 1.6: hallway to sun porch](#kling-4-0-omni-vs-1-6-hallway-to-sun-porch) · [Kling 4.0 Omni vs 3.0 Omni: corridor glance](#kling-4-0-omni-vs-3-0-omni-corridor-glance) · [Explorers beside a six-legged herd](#explorers-beside-a-six-legged-herd) · [Coastal moonfall — English prompt](#coastal-moonfall-english-prompt) · [Alien marketplace walk](#alien-marketplace-walk) · [The knight and the haunted castle](#the-knight-and-the-haunted-castle) · [Foggy forest pursuit](#foggy-forest-pursuit) · [A girl reveals her Halloween secret](#a-girl-reveals-her-halloween-secret) · [Kling 4.0 vs Seedance 2.5: A town that bakes the moon](#kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt) |
-| UGC & vlogs | [Walking street vlog](#walking-street-vlog) · [Vote Red: A Fictional Creator Vlog](#vote-red-a-fictional-creator-vlog) · [A Handheld Energy Drink Creator Ad](#a-handheld-energy-drink-creator-ad) · [A 2004-Style Arcade Vlog](#a-2004-style-arcade-vlog) · [Tabby cat street vlogger](#tabby-cat-street-vlogger) · [A Couture Gown at an Evening Party](#a-couture-gown-at-an-evening-party) · [A quiet summer walk together](#a-quiet-summer-walk-together) · [Brunch selfie](#brunch-selfie) · [Airport vlog](#airport-vlog) · [Parked-car confession](#parked-car-confession) · [Beach vlog](#beach-vlog) · [2010 boutique mobile livestream](#2010-boutique-mobile-livestream) · [A Casual Brunch Phone Vlog](#a-casual-brunch-phone-vlog) · [A night-city selfie walk](#a-night-city-selfie-walk) · [Kling 4.0 vs Seedance 2.5: autumn lookbook](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 vs Seedance 2.5: core-day gym vlog](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [Halloween costume gym vlog](#halloween-costume-gym-vlog) · [Golden-hour pickup-truck lookbook](#golden-hour-pickup-truck-lookbook) · [A lemon-filled Sicilian village stroll](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 vs Seedance 2.5: dumbbell gym vlog](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 vs Veo 3.1: blazer try-on and spin](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) · [Twin Clones at a Coastal Overlook](#twin-clones-at-a-coastal-overlook) · [An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison](#an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison) · [A Playful Cinematic Fashion Walk](#a-playful-cinematic-fashion-walk) · [A Handheld Gym Diary — Kling 4.0 Comparison](#a-handheld-gym-diary-kling-4-0-comparison) · [A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison](#a-minidv-gym-vlog-comparison-kling-4-0-comparison) |
+| UGC & vlogs | [Walking street vlog](#walking-street-vlog) · [Vote Red: A Fictional Creator Vlog](#vote-red-a-fictional-creator-vlog) · [A Handheld Energy Drink Creator Ad](#a-handheld-energy-drink-creator-ad) · [A 2004-Style Arcade Vlog](#a-2004-style-arcade-vlog) · [Tabby cat street vlogger](#tabby-cat-street-vlogger) · [A Couture Gown at an Evening Party](#a-couture-gown-at-an-evening-party) · [A quiet summer walk together](#a-quiet-summer-walk-together) · [Brunch selfie](#brunch-selfie) · [Airport vlog](#airport-vlog) · [Parked-car confession](#parked-car-confession) · [Beach vlog](#beach-vlog) · [2010 boutique mobile livestream](#2010-boutique-mobile-livestream) · [A night-city selfie walk](#a-night-city-selfie-walk) · [Kling 4.0 vs Seedance 2.5: autumn lookbook](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 vs Seedance 2.5: core-day gym vlog](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [Halloween costume gym vlog](#halloween-costume-gym-vlog) · [Golden-hour pickup-truck lookbook](#golden-hour-pickup-truck-lookbook) · [A lemon-filled Sicilian village stroll](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 vs Seedance 2.5: dumbbell gym vlog](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 vs Veo 3.1: blazer try-on and spin](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) · [Twin Clones at a Coastal Overlook](#twin-clones-at-a-coastal-overlook) · [An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison](#an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison) · [A Playful Cinematic Fashion Walk](#a-playful-cinematic-fashion-walk) · [A Handheld Gym Diary — Kling 4.0 Comparison](#a-handheld-gym-diary-kling-4-0-comparison) · [A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison](#a-minidv-gym-vlog-comparison-kling-4-0-comparison) |
 | Video editing | [Dog to dinosaur edit](#dog-to-dinosaur-edit) · [Autumn season edit](#autumn-season-edit) · [Fox, autumn and flannel edit](#fox-autumn-and-flannel-edit) · [Add a third friend](#add-a-third-friend) · [A code-prompt visual experiment](#a-code-prompt-visual-experiment) |
 | Product advertising | [AURORA Bottle Typography and Rotation](#aurora-bottle-typography-and-rotation) · [Sparkling birch water ad](#sparkling-birch-water-ad) · [The First Game Boy Commercial, 1989 — Kling 4.0 Comparison](#the-first-game-boy-commercial-1989-kling-4-0-comparison) · [Forest automotive commercial](#forest-automotive-commercial) · [Maison Doré French toast commercial](#maison-dor-french-toast-commercial) · [Condensation product shot](#condensation-product-shot) · [Background-only product whip pan](#background-only-product-whip-pan) · [Hand-carried product transition](#hand-carried-product-transition) · [From the fridge to the party](#from-the-fridge-to-the-party) · [Luxury skincare ASMR sequence](#luxury-skincare-asmr-sequence) · [Rocket-powered perfume bottle](#rocket-powered-perfume-bottle) · [A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison](#a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison) · [A Lamp Falls from Space into a Room](#a-lamp-falls-from-space-into-a-room) · [Pink-bathroom skincare commercial](#pink-bathroom-skincare-commercial) · [A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison](#a-serum-bottle-meets-a-wave-of-water-kling-4-0-comparison) |
 | Landscape & FPV | [A Detective Lights a Match](#a-detective-lights-a-match) · [One Brushstroke in a Sunlit Studio](#one-brushstroke-in-a-sunlit-studio) · [FPV eagle chase](#fpv-eagle-chase) · [Waterfall from an ink scroll](#waterfall-from-an-ink-scroll) · [Cliff and waves](#cliff-and-waves) · [Warehouse FPV](#warehouse-fpv) · [Storm surge against a seawall](#storm-surge-against-a-seawall) · [Gantry crane container tracking](#gantry-crane-container-tracking) · [Single-droplet macro physics](#single-droplet-macro-physics) · [Kling 4.0 in a four-model burning-street comparison](#kling-4-0-in-a-four-model-burning-street-comparison) · [Kling 4.0 vs 1.6: underwater camera descent](#kling-4-0-vs-1-6-underwater-camera-descent) · [A carriage through the golden city](#a-carriage-through-the-golden-city) · [A Japanese town from a 3D previsualization](#a-japanese-town-from-a-3d-previsualization) · [The Huntress and the Leaf-Eating Dinosaur](#the-huntress-and-the-leaf-eating-dinosaur) · [The Magical Hidden World](#the-magical-hidden-world) · [A Hidden World Beyond the Waterfall](#a-hidden-world-beyond-the-waterfall) · [A Journey into the Underwater Kingdom](#a-journey-into-the-underwater-kingdom) · [An FPV Flight through a Barrel Wave — Kling 4.0 Comparison](#an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison) |
@@ -6524,41 +6524,8 @@ Click the cover to watch on X.
 
 ---
 
-<a id="a-casual-brunch-phone-vlog"></a>
-### 86. A Casual Brunch Phone Vlog
-
-A Casual Brunch Phone Vlog — original prompt by @sixugc.
-
-<details>
-<summary>Prompt</summary>
-
-```text
-Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading.
-The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: "Okay, I promised I'd show you what we get.... We get the same thing every single time... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay.
-Yeah. Still the best... Hey! Get your own!" [Her sister, off camera: a young woman's voice, dry and amused]: "That's the tax." [Sadie, laughing]: "She does this every time." Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no onscreen text.
-```
-
-</details>
-
-#### Video
-
-<a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111843243587682304/img/BydZM8KSU7YFPi1n.jpg" alt="A Casual Brunch Phone Vlog" width="700" /></a>
-
-Click the cover to watch on X.
-
-#### Details
-
-- Published: 2026-10-18 (UTC)
-- Prompt language: English
-- Author: <a href="https://x.com/sixugc" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sixugc</a>
-- Source: <a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
-- Model: Kling 4.0
-
-
----
-
 <a id="cantina-crime-drama"></a>
-### 87. Cantina crime drama
+### 86. Cantina crime drama
 
 Cantina crime drama — original prompt by @MayorKingAI.
 
@@ -6652,7 +6619,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="accidental-michelin"></a>
-### 88. Accidental Michelin
+### 87. Accidental Michelin
 
 Accidental Michelin — original prompt by @yourPlugAI.
 
@@ -6752,7 +6719,7 @@ Click the cover to watch on X.
 ---
 
 <a id="urban-rooftop-parkour"></a>
-### 89. Urban rooftop parkour
+### 88. Urban rooftop parkour
 
 Urban rooftop parkour — original prompt by @Ayu_AI_0912.
 
@@ -6837,7 +6804,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="a-god-hurls-a-mountain-boulder"></a>
-### 90. A god hurls a mountain boulder
+### 89. A god hurls a mountain boulder
 
 A god hurls a mountain boulder — original prompt by @Alin_Reaper05.
 
@@ -6868,7 +6835,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-tomb-of-pale-flame"></a>
-### 91. The Tomb of Pale Flame
+### 90. The Tomb of Pale Flame
 
 The Tomb of Pale Flame — an original prompt shared by @itsPixieVerse.
 
@@ -6911,7 +6878,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="anime-street-encounter"></a>
-### 92. Anime street encounter
+### 91. Anime street encounter
 
 Anime street encounter — original prompt by @ShamiWeb3.
 
@@ -7021,7 +6988,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="cinematic-pageant-walk"></a>
-### 93. Cinematic pageant walk
+### 92. Cinematic pageant walk
 
 Cinematic pageant walk — original prompt by @EndFolding79421.
 
@@ -7054,7 +7021,7 @@ Example 1 in the source post. X automatically converted four adjacent word pairs
 ---
 
 <a id="desert-market-starship"></a>
-### 94. Desert market starship
+### 93. Desert market starship
 
 Desert market starship — an original prompt shared by @EndFolding79421.
 
@@ -7087,7 +7054,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="victorian-harbor-ghost"></a>
-### 95. Victorian harbor ghost
+### 94. Victorian harbor ghost
 
 Victorian harbor ghost — an original prompt shared by @EndFolding79421.
 
@@ -7120,7 +7087,7 @@ Example 3 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="snake-coffee-break"></a>
-### 96. Snake coffee break
+### 95. Snake coffee break
 
 Snake coffee break — an original prompt shared by @EndFolding79421.
 
@@ -7153,7 +7120,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="octopus-bartender"></a>
-### 97. Octopus bartender
+### 96. Octopus bartender
 
 Octopus bartender — an original prompt shared by @EndFolding79421.
 
@@ -7186,7 +7153,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="waiting-with-a-rose"></a>
-### 98. Waiting with a rose
+### 97. Waiting with a rose
 
 Waiting with a rose — an original prompt shared by @EndFolding79421.
 
@@ -7219,7 +7186,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="warehouse-fight"></a>
-### 99. Warehouse fight
+### 98. Warehouse fight
 
 Warehouse fight — an original prompt shared by @EndFolding79421.
 
@@ -7252,7 +7219,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="western-saloon-fistfight"></a>
-### 100. Western saloon fistfight
+### 99. Western saloon fistfight
 
 Western saloon fistfight — an original prompt shared by @EndFolding79421.
 
@@ -7285,7 +7252,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="basement-suspense"></a>
-### 101. Basement suspense
+### 100. Basement suspense
 
 Basement suspense — an original prompt shared by @EndFolding79421.
 
@@ -7318,7 +7285,7 @@ Example 3 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="surreal-rooftop"></a>
-### 102. Surreal rooftop
+### 101. Surreal rooftop
 
 Surreal rooftop — an original prompt shared by @EndFolding79421.
 
@@ -7352,7 +7319,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="android-laboratory-awakening"></a>
-### 103. Android laboratory awakening
+### 102. Android laboratory awakening
 
 Android laboratory awakening — original prompt by @Alin_Reaper05.
 
@@ -7385,7 +7352,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="phantom-thief-and-the-clumsy-officer"></a>
-### 104. Phantom thief and the clumsy officer
+### 103. Phantom thief and the clumsy officer
 
 Phantom thief and the clumsy officer — original prompt by @Ayu_AI_0912.
 
@@ -7558,7 +7525,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="girl-and-dragon-cooking"></a>
-### 105. Girl and dragon cooking
+### 104. Girl and dragon cooking
 
 Girl and dragon cooking — original prompt by @Ukiyo_il.
 
@@ -7722,7 +7689,7 @@ The first 16-second and final 14-second prompts form one 30-second story. Both s
 ---
 
 <a id="world-war-i-aerial-pursuit"></a>
-### 106. World War I aerial pursuit
+### 105. World War I aerial pursuit
 
 World War I aerial pursuit — original prompt by @PromptSin.
 
@@ -7779,7 +7746,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="thunder-emperor-awakens"></a>
-### 107. Thunder Emperor awakens
+### 106. Thunder Emperor awakens
 
 Thunder Emperor awakens — original prompt by @RizwanAly07.
 
@@ -7850,7 +7817,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="torstein-the-gatebreaker"></a>
-### 108. Torstein the Gatebreaker
+### 107. Torstein the Gatebreaker
 
 Torstein the Gatebreaker — an original prompt shared by @itsPixieVerse.
 
@@ -7902,7 +7869,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="cafe-conversation"></a>
-### 109. Cafe conversation
+### 108. Cafe conversation
 
 Cafe conversation — an original prompt shared by @HBCoop_.
 
@@ -7935,7 +7902,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="2d-train-animation"></a>
-### 110. 2D train animation
+### 109. 2D train animation
 
 2D train animation — an original prompt shared by @HBCoop_.
 
@@ -7968,7 +7935,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="3d-fox-sneeze"></a>
-### 111. 3D fox sneeze
+### 110. 3D fox sneeze
 
 3D fox sneeze — an original prompt shared by @HBCoop_.
 
@@ -8001,7 +7968,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="condensation-product-shot"></a>
-### 112. Condensation product shot
+### 111. Condensation product shot
 
 Condensation product shot — an original prompt shared by @HBCoop_.
 
@@ -8034,7 +8001,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="boxer-action"></a>
-### 113. Boxer action
+### 112. Boxer action
 
 Boxer action — an original prompt shared by @HBCoop_.
 
@@ -8067,7 +8034,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="cliff-and-waves"></a>
-### 114. Cliff and waves
+### 113. Cliff and waves
 
 Cliff and waves — an original prompt shared by @HBCoop_.
 
@@ -8100,7 +8067,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="pottery-multi-shot"></a>
-### 115. Pottery multi-shot
+### 114. Pottery multi-shot
 
 Pottery multi-shot — an original prompt shared by @HBCoop_.
 
@@ -8133,7 +8100,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="warehouse-fpv"></a>
-### 116. Warehouse FPV
+### 115. Warehouse FPV
 
 Warehouse FPV — an original prompt shared by @HBCoop_.
 
@@ -8166,7 +8133,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="a-cat-on-a-robot-vacuum-two-camera-views"></a>
-### 117. A cat on a robot vacuum — two camera views
+### 116. A cat on a robot vacuum — two camera views
 
 A cat on a robot vacuum — two camera views — original prompt by @yarakashiyama_.
 
@@ -8201,7 +8168,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-fight-through-three-apartment-spaces"></a>
-### 118. A fight through three apartment spaces
+### 117. A fight through three apartment spaces
 
 A fight through three apartment spaces — original prompt by @boke_ai.
 
@@ -8246,7 +8213,7 @@ Click the cover to watch on X.
 ---
 
 <a id="knight-defending-the-fortress"></a>
-### 119. Knight defending the fortress
+### 118. Knight defending the fortress
 
 Knight defending the fortress — original prompt by @AiwithBloodline.
 
@@ -8288,7 +8255,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="two-character-anime-parkour"></a>
-### 120. Two-character anime parkour
+### 119. Two-character anime parkour
 
 Two-character anime parkour — original prompt by @Ayu_AI_0912.
 
@@ -8352,7 +8319,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="futuristic-talk-show"></a>
-### 121. Futuristic talk show
+### 120. Futuristic talk show
 
 Futuristic talk show — original prompt by @Alin_Reaper05.
 
@@ -8385,7 +8352,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="background-only-product-whip-pan"></a>
-### 122. Background-only product whip pan
+### 121. Background-only product whip pan
 
 Background-only product whip pan — original prompt by @shikoba_86.
 
@@ -8418,7 +8385,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="hand-carried-product-transition"></a>
-### 123. Hand-carried product transition
+### 122. Hand-carried product transition
 
 Hand-carried product transition — original prompt by @shikoba_86.
 
@@ -8451,7 +8418,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="anime-noodle-scene"></a>
-### 124. Anime noodle scene
+### 123. Anime noodle scene
 
 Anime noodle scene — original prompt by @minuitIA.
 
@@ -8488,7 +8455,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="desert-warrior-combat"></a>
-### 125. Desert warrior combat
+### 124. Desert warrior combat
 
 Desert warrior combat — original prompt by @fromjtown.
 
@@ -8559,7 +8526,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="flying-car-desert-pursuit"></a>
-### 126. Flying-car desert pursuit
+### 125. Flying-car desert pursuit
 
 Flying-car desert pursuit — original prompt by @openclipsai.
 
@@ -8603,7 +8570,7 @@ Comparison post includes Kling 4.0 and Seedance 2.5; retain the original model l
 ---
 
 <a id="madara-battlefield-sequence"></a>
-### 127. Madara battlefield sequence
+### 126. Madara battlefield sequence
 
 Madara battlefield sequence — original prompt by @0kncn.
 
@@ -8669,7 +8636,7 @@ Comparison with Wan 3 Prime; model labels remain in the source post. Prepare the
 ---
 
 <a id="storm-surge-against-a-seawall"></a>
-### 128. Storm surge against a seawall
+### 127. Storm surge against a seawall
 
 Storm surge against a seawall — original prompt by @sebatheepan.
 
@@ -8710,7 +8677,7 @@ Example 1 in the source post.
 ---
 
 <a id="gantry-crane-container-tracking"></a>
-### 129. Gantry crane container tracking
+### 128. Gantry crane container tracking
 
 Gantry crane container tracking — original prompt by @sebatheepan.
 
@@ -8751,7 +8718,7 @@ Example 2 in the source post.
 ---
 
 <a id="single-droplet-macro-physics"></a>
-### 130. Single-droplet macro physics
+### 129. Single-droplet macro physics
 
 Single-droplet macro physics — original prompt by @sebatheepan.
 
@@ -8786,7 +8753,7 @@ Example 3 in the source post.
 ---
 
 <a id="from-the-fridge-to-the-party"></a>
-### 131. From the fridge to the party
+### 130. From the fridge to the party
 
 From the fridge to the party — original prompt by @shikoba_86.
 
@@ -8821,7 +8788,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound"></a>
-### 132. Kling 4.0 vs Seedance 2.5: delayed rocket launch sound
+### 131. Kling 4.0 vs Seedance 2.5: delayed rocket launch sound
 
 Kling 4.0 vs Seedance 2.5: delayed rocket launch sound — original prompt by @sebatheepan.
 
@@ -8874,7 +8841,7 @@ Click the cover to watch on X.
 ---
 
 <a id="film-noir-police-interception"></a>
-### 133. Film-noir police interception
+### 132. Film-noir police interception
 
 Film-noir police interception — original prompt by @PromptSin.
 
@@ -8919,7 +8886,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-closing-the-chandlery"></a>
-### 134. Kling 4.0 vs Seedance 2.5: closing the chandlery
+### 133. Kling 4.0 vs Seedance 2.5: closing the chandlery
 
 Kling 4.0 vs Seedance 2.5: closing the chandlery — original prompt by @sebatheepan.
 
@@ -9024,7 +8991,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-still-figure-in-a-rushing-city"></a>
-### 135. A still figure in a rushing city
+### 134. A still figure in a rushing city
 
 A still figure in a rushing city — original prompt by @AIwithSynthia.
 
@@ -9071,7 +9038,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly"></a>
-### 136. Kling 4.0 vs Kling 3.0: a calf and a butterfly
+### 135. Kling 4.0 vs Kling 3.0: a calf and a butterfly
 
 Kling 4.0 vs Kling 3.0: a calf and a butterfly — original prompt by @openclipsai.
 
@@ -9112,7 +9079,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding"></a>
-### 137. Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding
+### 136. Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding
 
 Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding — original prompt by @nukegala83.
 
@@ -9143,7 +9110,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-flying-roadster-delivers-one-coffee"></a>
-### 138. A flying roadster delivers one coffee
+### 137. A flying roadster delivers one coffee
 
 A flying roadster delivers one coffee — original prompt by @AIwithSynthia.
 
@@ -9254,7 +9221,7 @@ Click the cover to watch on X.
 ---
 
 <a id="monsoon-velocity"></a>
-### 139. Monsoon velocity
+### 138. Monsoon velocity
 
 Monsoon velocity — original prompt by @bmx_ai13.
 
@@ -9310,7 +9277,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-spoken-line-comparison"></a>
-### 140. Kling 4.0 in a four-model spoken-line comparison
+### 139. Kling 4.0 in a four-model spoken-line comparison
 
 Kling 4.0 in a four-model spoken-line comparison — original prompt by @HBCoop_.
 
@@ -9341,7 +9308,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-laughing-group-comparison"></a>
-### 141. Kling 4.0 in a four-model laughing-group comparison
+### 140. Kling 4.0 in a four-model laughing-group comparison
 
 Kling 4.0 in a four-model laughing-group comparison — original prompt by @HBCoop_.
 
@@ -9372,7 +9339,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-poker-chip-comparison"></a>
-### 142. Kling 4.0 in a four-model poker-chip comparison
+### 141. Kling 4.0 in a four-model poker-chip comparison
 
 Kling 4.0 in a four-model poker-chip comparison — original prompt by @HBCoop_.
 
@@ -9403,7 +9370,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-burning-street-comparison"></a>
-### 143. Kling 4.0 in a four-model burning-street comparison
+### 142. Kling 4.0 in a four-model burning-street comparison
 
 Kling 4.0 in a four-model burning-street comparison — original prompt by @HBCoop_.
 
@@ -9434,7 +9401,7 @@ Click the cover to watch on X.
 ---
 
 <a id="last-delivery-before-the-shutter"></a>
-### 144. Last delivery before the shutter
+### 143. Last delivery before the shutter
 
 Last delivery before the shutter — original prompt by @bmx_ai13.
 
@@ -9491,7 +9458,7 @@ Click the cover to watch on X.
 ---
 
 <a id="snap-zoom-into-a-pink-collar"></a>
-### 145. Snap zoom into a pink collar
+### 144. Snap zoom into a pink collar
 
 Snap zoom into a pink collar — original prompt by @ai_artworkgen.
 
@@ -9522,7 +9489,7 @@ Click the cover to watch on X.
 ---
 
 <a id="bat-swarm-over-a-gothic-belfry"></a>
-### 146. Bat swarm over a gothic belfry
+### 145. Bat swarm over a gothic belfry
 
 Bat swarm over a gothic belfry — original prompt by @Shinebynous.
 
@@ -9553,7 +9520,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-hailuo-h3-the-evenings-first-star"></a>
-### 147. Kling 4.0 vs Hailuo H3: the evening’s first star
+### 146. Kling 4.0 vs Hailuo H3: the evening’s first star
 
 Kling 4.0 vs Hailuo H3: the evening’s first star — original prompt by @Iancu_ai.
 
@@ -9598,7 +9565,7 @@ Click the cover to watch on X.
 ---
 
 <a id="camcorder-footage-of-a-city-monster"></a>
-### 148. Camcorder footage of a city monster
+### 147. Camcorder footage of a city monster
 
 Camcorder footage of a city monster — original prompt by @CaptainHaHaa.
 
@@ -9660,7 +9627,7 @@ Click the cover to watch on X.
 ---
 
 <a id="first-contact-ambush-beneath-twin-suns"></a>
-### 149. First-contact ambush beneath twin suns
+### 148. First-contact ambush beneath twin suns
 
 First-contact ambush beneath twin suns — original prompt by @Alin_Reaper05.
 
@@ -9691,7 +9658,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-wan-3-0-the-couriers-missing-television-head"></a>
-### 150. Kling 4.0 vs Wan 3.0: the courier’s missing television head
+### 149. Kling 4.0 vs Wan 3.0: the courier’s missing television head
 
 Kling 4.0 vs Wan 3.0: the courier’s missing television head — original prompt by @baskojpeg.
 
@@ -9799,7 +9766,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-night-city-selfie-walk"></a>
-### 151. A night-city selfie walk
+### 150. A night-city selfie walk
 
 A night-city selfie walk — original prompt by @msjiaozhu.
 
@@ -9830,7 +9797,7 @@ Click the cover to watch on X.
 ---
 
 <a id="lightning-and-fire-rooftop-duel"></a>
-### 152. Lightning and fire rooftop duel
+### 151. Lightning and fire rooftop duel
 
 Lightning and fire rooftop duel — original prompt by @tirtaVEX.
 
@@ -9875,7 +9842,7 @@ Click the cover to watch on X.
 ---
 
 <a id="battle-beneath-an-alien-ring"></a>
-### 153. Battle beneath an alien ring
+### 152. Battle beneath an alien ring
 
 Battle beneath an alien ring — original prompt by @Alin_Reaper05.
 
@@ -9906,7 +9873,7 @@ Click the cover to watch on X.
 ---
 
 <a id="luxury-skincare-asmr-sequence"></a>
-### 154. Luxury skincare ASMR sequence
+### 153. Luxury skincare ASMR sequence
 
 Luxury skincare ASMR sequence — original prompt by @yourPlugAI.
 
@@ -9979,7 +9946,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-tiny-cloud-creature"></a>
-### 155. The tiny cloud creature
+### 154. The tiny cloud creature
 
 The tiny cloud creature — original prompt by @Strength04_X.
 
@@ -10022,7 +9989,7 @@ Click the cover to watch on X.
 ---
 
 <a id="cat-rides-the-robot-vacuum"></a>
-### 156. Cat rides the robot vacuum
+### 155. Cat rides the robot vacuum
 
 Cat rides the robot vacuum — original prompt by @aiIgnatius.
 
@@ -10053,7 +10020,7 @@ Click the cover to watch on X.
 ---
 
 <a id="skateboarder-in-the-moonlit-forest"></a>
-### 157. Skateboarder in the moonlit forest
+### 156. Skateboarder in the moonlit forest
 
 Skateboarder in the moonlit forest — original prompt by @MahiraEhan.
 
@@ -10084,7 +10051,7 @@ Click the cover to watch on X.
 ---
 
 <a id="rocket-powered-perfume-bottle"></a>
-### 158. Rocket-powered perfume bottle
+### 157. Rocket-powered perfume bottle
 
 Rocket-powered perfume bottle — original prompt by @AIWithRay.
 
@@ -10115,7 +10082,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison"></a>
-### 159. A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison
+### 158. A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison
 
 A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison — original prompt by @openclipsai.
 
@@ -10161,7 +10128,7 @@ Click the cover to watch on X.
 ---
 
 <a id="janes-wasteland-freerunning"></a>
-### 160. Jane’s wasteland freerunning
+### 159. Jane’s wasteland freerunning
 
 Jane’s wasteland freerunning — original prompt by @DjajaYerry75.
 
@@ -10251,7 +10218,7 @@ Click the cover to watch on X.
 ---
 
 <a id="exploration-ship-in-a-charged-storm"></a>
-### 161. Exploration ship in a charged storm
+### 160. Exploration ship in a charged storm
 
 Exploration ship in a charged storm — original prompt by @Alin_Reaper05.
 
@@ -10282,7 +10249,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-autumn-lookbook"></a>
-### 162. Kling 4.0 vs Seedance 2.5: autumn lookbook
+### 161. Kling 4.0 vs Seedance 2.5: autumn lookbook
 
 Kling 4.0 vs Seedance 2.5: autumn lookbook — original prompt by @YUNTJP.
 
@@ -10335,7 +10302,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city"></a>
-### 163. Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city
+### 162. Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city
 
 Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city — original prompt by @SocialSight.
 
@@ -10372,7 +10339,7 @@ Click the cover to watch on X.
 ---
 
 <a id="an-armored-hunter-cooks-dinner"></a>
-### 164. An armored hunter cooks dinner
+### 163. An armored hunter cooks dinner
 
 An armored hunter cooks dinner — original prompt by @tokyo_Valentine.
 
@@ -10471,7 +10438,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-birthday-cake-made-with-love"></a>
-### 165. A birthday cake made with love
+### 164. A birthday cake made with love
 
 A birthday cake made with love — original prompt by @aiwithaly.
 
@@ -10510,7 +10477,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-the-longship-in-the-storm"></a>
-### 166. Kling 4.0 vs Seedance 2.5: the longship in the storm
+### 165. Kling 4.0 vs Seedance 2.5: the longship in the storm
 
 Kling 4.0 vs Seedance 2.5: the longship in the storm — original prompt by @PixVerse.
 
@@ -10673,7 +10640,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set"></a>
-### 167. Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set
+### 166. Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set
 
 Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set — original prompt by @PixVerse.
 
@@ -10760,7 +10727,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-core-day-gym-vlog"></a>
-### 168. Kling 4.0 vs Seedance 2.5: core-day gym vlog
+### 167. Kling 4.0 vs Seedance 2.5: core-day gym vlog
 
 Kling 4.0 vs Seedance 2.5: core-day gym vlog — original prompt by @YourAlphaMom.
 
@@ -10822,7 +10789,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-spark-across-the-dark"></a>
-### 169. A spark across the dark
+### 168. A spark across the dark
 
 A spark across the dark — original prompt by @art_muse.
 
@@ -10867,7 +10834,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest"></a>
-### 170. Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest
+### 169. Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest
 
 Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest — original prompt by @SocialSight.
 
@@ -10904,7 +10871,7 @@ Click the cover to watch on X.
 ---
 
 <a id="ghost-horses-and-the-pumpkin-carriage-roller-coaster"></a>
-### 171. Ghost horses and the pumpkin-carriage roller coaster
+### 170. Ghost horses and the pumpkin-carriage roller coaster
 
 Ghost horses and the pumpkin-carriage roller coaster — original prompt by @PixVerse.
 
@@ -11023,7 +10990,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-2-6-underwater-profile"></a>
-### 172. Kling 4.0 vs 2.6: underwater profile
+### 171. Kling 4.0 vs 2.6: underwater profile
 
 Kling 4.0 vs 2.6: underwater profile — original prompt by @HBCoop_.
 
@@ -11054,7 +11021,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-omni-vs-1-6-hallway-to-sun-porch"></a>
-### 173. Kling 4.0 Omni vs 1.6: hallway to sun porch
+### 172. Kling 4.0 Omni vs 1.6: hallway to sun porch
 
 Kling 4.0 Omni vs 1.6: hallway to sun porch — original prompt by @HBCoop_.
 
@@ -11085,7 +11052,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-1-6-underwater-camera-descent"></a>
-### 174. Kling 4.0 vs 1.6: underwater camera descent
+### 173. Kling 4.0 vs 1.6: underwater camera descent
 
 Kling 4.0 vs 1.6: underwater camera descent — original prompt by @HBCoop_.
 
@@ -11118,7 +11085,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-omni-vs-3-0-omni-corridor-glance"></a>
-### 175. Kling 4.0 Omni vs 3.0 Omni: corridor glance
+### 174. Kling 4.0 Omni vs 3.0 Omni: corridor glance
 
 Kling 4.0 Omni vs 3.0 Omni: corridor glance — original prompt by @HBCoop_.
 
@@ -11149,7 +11116,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-generous-nobleman-and-the-publicity-bill"></a>
-### 176. A generous nobleman and the publicity bill
+### 175. A generous nobleman and the publicity bill
 
 A generous nobleman and the publicity bill — original prompt by @airina_xyz.
 
@@ -11239,7 +11206,7 @@ Click the cover to watch on X.
 ---
 
 <a id="hamster-rock-star-storyboard"></a>
-### 177. Hamster rock-star storyboard
+### 176. Hamster rock-star storyboard
 
 Hamster rock-star storyboard — original prompt by @EndFolding79421.
 
@@ -11270,7 +11237,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-christmas-dress-code-mix-up"></a>
-### 178. A Christmas dress-code mix-up
+### 177. A Christmas dress-code mix-up
 
 A Christmas dress-code mix-up — original prompt by @bmx_ai13.
 
@@ -11376,7 +11343,7 @@ Click the cover to watch on X.
 ---
 
 <a id="three-mischievous-witches"></a>
-### 179. Three mischievous witches
+### 178. Three mischievous witches
 
 Three mischievous witches — original prompt by @ShamiWeb3.
 
@@ -11451,7 +11418,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-pumpkin-monster-goes-trick-or-treating"></a>
-### 180. A pumpkin monster goes trick-or-treating
+### 179. A pumpkin monster goes trick-or-treating
 
 A pumpkin monster goes trick-or-treating — original prompt by @RizwanAly07.
 
@@ -11498,7 +11465,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-broomstick-comedy-on-halloween"></a>
-### 181. A broomstick comedy on Halloween
+### 180. A broomstick comedy on Halloween
 
 A broomstick comedy on Halloween — original prompt by @MissDelulu9.
 
@@ -11547,7 +11514,7 @@ Click the cover to watch on X.
 ---
 
 <a id="explorers-beside-a-six-legged-herd"></a>
-### 182. Explorers beside a six-legged herd
+### 181. Explorers beside a six-legged herd
 
 Explorers beside a six-legged herd — original prompt by @Alin_Reaper05.
 
@@ -11578,7 +11545,7 @@ Click the cover to watch on X.
 ---
 
 <a id="jaguar-chase-through-the-rainforest"></a>
-### 183. Jaguar chase through the rainforest
+### 182. Jaguar chase through the rainforest
 
 Jaguar chase through the rainforest — original prompt by @PixVerse.
 
@@ -11632,7 +11599,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo"></a>
-### 184. Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo
+### 183. Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo
 
 Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo — original prompt by @SocialSight.
 
@@ -11670,7 +11637,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-clay-ghost-learns-to-say-boo"></a>
-### 185. A clay ghost learns to say boo
+### 184. A clay ghost learns to say boo
 
 A clay ghost learns to say boo — original prompt by @JasonHeatony7.
 
@@ -11709,7 +11676,7 @@ Click the cover to watch on X.
 ---
 
 <a id="final-round-in-an-underground-boxing-club"></a>
-### 186. Final round in an underground boxing club
+### 185. Final round in an underground boxing club
 
 Final round in an underground boxing club — original prompt by @PixVerse.
 
@@ -11837,7 +11804,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-lamp-falls-from-space-into-a-room"></a>
-### 187. A Lamp Falls from Space into a Room
+### 186. A Lamp Falls from Space into a Room
 
 A Lamp Falls from Space into a Room — original prompt by @openclipsai.
 
@@ -11886,7 +11853,7 @@ Click the cover to watch on X.
 ---
 
 <a id="halloween-costume-gym-vlog"></a>
-### 188. Halloween costume gym vlog
+### 187. Halloween costume gym vlog
 
 Halloween costume gym vlog — original prompt by @voyzai.
 
@@ -11946,7 +11913,7 @@ Click the cover to watch on X.
 ---
 
 <a id="coastal-moonfall-english-prompt"></a>
-### 189. Coastal moonfall — English prompt
+### 188. Coastal moonfall — English prompt
 
 Coastal moonfall — English prompt — original prompt by @FlyAIgh.
 
@@ -11991,7 +11958,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-elevator-floor-illusion"></a>
-### 190. The elevator-floor illusion
+### 189. The elevator-floor illusion
 
 The elevator-floor illusion — original prompt by @Zyvex_0x.
 
@@ -12114,7 +12081,7 @@ Click the cover to watch on X.
 ---
 
 <a id="alien-marketplace-walk"></a>
-### 191. Alien marketplace walk
+### 190. Alien marketplace walk
 
 Alien marketplace walk — original prompt by @Alin_Reaper05.
 
@@ -12145,7 +12112,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-continuous-rooftop-parkour-run"></a>
-### 192. A continuous rooftop parkour run
+### 191. A continuous rooftop parkour run
 
 A continuous rooftop parkour run — original prompt by @PixVerse.
 
@@ -12278,7 +12245,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-knight-and-the-haunted-castle"></a>
-### 193. The knight and the haunted castle
+### 192. The knight and the haunted castle
 
 The knight and the haunted castle — original prompt by @amynys.
 
@@ -12331,7 +12298,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint"></a>
-### 194. Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint
+### 193. Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint
 
 Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint — original prompt by @openclipsai.
 
@@ -12377,7 +12344,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-carriage-through-the-golden-city"></a>
-### 195. A carriage through the golden city
+### 194. A carriage through the golden city
 
 A carriage through the golden city — original prompt by @churvikv.
 
@@ -12408,7 +12375,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-and-seedance-versions-rainy-rooftop-ballet"></a>
-### 196. Kling and Seedance versions: rainy rooftop ballet
+### 195. Kling and Seedance versions: rainy rooftop ballet
 
 Kling and Seedance versions: rainy rooftop ballet — original prompt by @openclipsai.
 
@@ -12455,7 +12422,7 @@ Click the cover to watch on X.
 ---
 
 <a id="foggy-forest-pursuit"></a>
-### 197. Foggy forest pursuit
+### 196. Foggy forest pursuit
 
 Foggy forest pursuit — original prompt by @EndFolding79421.
 
@@ -12486,7 +12453,7 @@ Click the cover to watch on X.
 ---
 
 <a id="water-powered-bathroom-battle"></a>
-### 198. Water-powered bathroom battle
+### 197. Water-powered bathroom battle
 
 Water-powered bathroom battle — original prompt by @itxabdullaa.
 
@@ -12547,7 +12514,7 @@ Click the cover to watch on X.
 ---
 
 <a id="voxel-monsters-go-trick-or-treating"></a>
-### 199. Voxel monsters go trick-or-treating
+### 198. Voxel monsters go trick-or-treating
 
 Voxel monsters go trick-or-treating — original prompt by @SocialSight.
 
@@ -12585,7 +12552,7 @@ Click the cover to watch on X.
 ---
 
 <a id="golden-hour-pickup-truck-lookbook"></a>
-### 200. Golden-hour pickup-truck lookbook
+### 199. Golden-hour pickup-truck lookbook
 
 Golden-hour pickup-truck lookbook — original prompt by @jhosephebtc.
 
@@ -12786,7 +12753,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-lemon-filled-sicilian-village-stroll"></a>
-### 201. A lemon-filled Sicilian village stroll
+### 200. A lemon-filled Sicilian village stroll
 
 A lemon-filled Sicilian village stroll — original prompt by @jhosephebtc.
 
@@ -12987,7 +12954,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-cyberpunk-chase-in-the-rain-kling-4-0-comparison"></a>
-### 202. A Cyberpunk Chase in the Rain — Kling 4.0 Comparison
+### 201. A Cyberpunk Chase in the Rain — Kling 4.0 Comparison
 
 A Cyberpunk Chase in the Rain — Kling 4.0 Comparison — original prompt by @openclipsai.
 
@@ -13030,7 +12997,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-girl-reveals-her-halloween-secret"></a>
-### 203. A girl reveals her Halloween secret
+### 202. A girl reveals her Halloween secret
 
 A girl reveals her Halloween secret — original prompt by @toku8ai.
 
@@ -13061,7 +13028,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow"></a>
-### 204. Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow
+### 203. Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow
 
 Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow — original prompt by @SocialSight.
 
@@ -13099,7 +13066,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-code-prompt-visual-experiment"></a>
-### 205. A code-prompt visual experiment
+### 204. A code-prompt visual experiment
 
 A code-prompt visual experiment — original prompt by @0thernes_ai.
 
@@ -13130,7 +13097,7 @@ Click the cover to watch on X.
 ---
 
 <a id="painted-door-opening-in-a-five-style-kling-4-0-film"></a>
-### 206. Painted door opening in a five-style Kling 4.0 film
+### 205. Painted door opening in a five-style Kling 4.0 film
 
 Painted door opening in a five-style Kling 4.0 film — original prompt by @HBCoop_.
 
@@ -13169,7 +13136,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog"></a>
-### 207. Kling 4.0 vs Seedance 2.5: dumbbell gym vlog
+### 206. Kling 4.0 vs Seedance 2.5: dumbbell gym vlog
 
 Kling 4.0 vs Seedance 2.5: dumbbell gym vlog — original prompt by @YourAlphaMom.
 
@@ -13231,7 +13198,7 @@ Click the cover to watch on X.
 ---
 
 <a id="pink-bathroom-skincare-commercial"></a>
-### 208. Pink-bathroom skincare commercial
+### 207. Pink-bathroom skincare commercial
 
 Pink-bathroom skincare commercial — original prompt by @Diplomeme.
 
@@ -13286,7 +13253,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon"></a>
-### 209. Kling 4.0 vs Seedance 2.5: A town that bakes the moon
+### 208. Kling 4.0 vs Seedance 2.5: A town that bakes the moon
 
 Kling 4.0 vs Seedance 2.5: A town that bakes the moon — original prompt by @SocialSight.
 
@@ -13324,7 +13291,7 @@ Click the cover to watch on X.
 ---
 
 <a id="alien-shooter-at-a-neon-spaceport"></a>
-### 210. Alien shooter at a neon spaceport
+### 209. Alien shooter at a neon spaceport
 
 Alien shooter at a neon spaceport — original prompt by @aymducking.
 
@@ -13370,7 +13337,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-veo-3-1-blazer-try-on-and-spin"></a>
-### 211. Kling 4.0 vs Veo 3.1: blazer try-on and spin
+### 210. Kling 4.0 vs Veo 3.1: blazer try-on and spin
 
 Kling 4.0 vs Veo 3.1: blazer try-on and spin — original prompt by @kodavid.
 
@@ -13401,7 +13368,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-japanese-town-from-a-3d-previsualization"></a>
-### 212. A Japanese town from a 3D previsualization
+### 211. A Japanese town from a 3D previsualization
 
 A Japanese town from a 3D previsualization — original prompt by @boke_ai.
 
@@ -13432,7 +13399,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy"></a>
-### 213. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy
+### 212. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy
 
 Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy — original prompt by @openclipsai.
 
@@ -13471,7 +13438,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt"></a>
-### 214. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt
+### 213. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt
 
 Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt — original prompt by @FlyAIgh.
 
@@ -13512,7 +13479,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-prince-and-baba-cloantas-bell"></a>
-### 215. The prince and Baba Cloanța’s bell
+### 214. The prince and Baba Cloanța’s bell
 
 The prince and Baba Cloanța’s bell — original prompt by @airina_xyz.
 
@@ -13570,7 +13537,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison"></a>
-### 216. The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison
+### 215. The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison
 
 The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison — original prompt by @openclipsai.
 
@@ -13601,7 +13568,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-paper-pop-up-city-unfolds-from-a-book"></a>
-### 217. A Paper Pop-Up City Unfolds from a Book
+### 216. A Paper Pop-Up City Unfolds from a Book
 
 A Paper Pop-Up City Unfolds from a Book — original prompt by @kodavid.
 
@@ -13632,7 +13599,7 @@ Click the cover to watch on X.
 ---
 
 <a id="seven-travel-moments-and-a-surprise-catch"></a>
-### 218. Seven Travel Moments and a Surprise Catch
+### 217. Seven Travel Moments and a Surprise Catch
 
 Seven Travel Moments and a Surprise Catch — original prompt by @itxsarmadd.
 
@@ -13695,7 +13662,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-huntress-and-the-leaf-eating-dinosaur"></a>
-### 219. The Huntress and the Leaf-Eating Dinosaur
+### 218. The Huntress and the Leaf-Eating Dinosaur
 
 The Huntress and the Leaf-Eating Dinosaur — original prompt by @TaliaAariz.
 
@@ -13726,7 +13693,7 @@ Click the cover to watch on X.
 ---
 
 <a id="two-fighters-on-the-grassland"></a>
-### 220. Two Fighters on the Grassland
+### 219. Two Fighters on the Grassland
 
 Two Fighters on the Grassland — original prompt by @itxabdullaa.
 
@@ -13783,7 +13750,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-frost-empress-and-the-last-hunter"></a>
-### 221. The Frost Empress and the Last Hunter
+### 220. The Frost Empress and the Last Hunter
 
 The Frost Empress and the Last Hunter — original prompt by @itxabdullaa.
 
@@ -13846,7 +13813,7 @@ Click the cover to watch on X.
 ---
 
 <a id="rica-and-the-fall-of-the-gods"></a>
-### 222. Rica and the Fall of the Gods
+### 221. Rica and the Fall of the Gods
 
 Rica and the Fall of the Gods — original prompt by @itxsarmadd.
 
@@ -13899,7 +13866,7 @@ Click the cover to watch on X.
 ---
 
 <a id="twin-clones-at-a-coastal-overlook"></a>
-### 223. Twin Clones at a Coastal Overlook
+### 222. Twin Clones at a Coastal Overlook
 
 Twin Clones at a Coastal Overlook — original prompt by @dreamydigiarts.
 
@@ -13946,7 +13913,7 @@ Click the cover to watch on X.
 ---
 
 <a id="lala-faces-cerberus"></a>
-### 224. Lala Faces Cerberus
+### 223. Lala Faces Cerberus
 
 Lala Faces Cerberus — original prompt by @chatgptpaglu.
 
@@ -13995,7 +13962,7 @@ Click the cover to watch on X.
 ---
 
 <a id="two-sisters-escape-the-infected-city"></a>
-### 225. Two Sisters Escape the Infected City
+### 224. Two Sisters Escape the Infected City
 
 Two Sisters Escape the Infected City — original prompt by @itxsarmadd.
 
@@ -14068,7 +14035,7 @@ Click the cover to watch on X.
 ---
 
 <a id="until-we-meet-again-in-black-and-white"></a>
-### 226. Until We Meet Again in Black and White
+### 225. Until We Meet Again in Black and White
 
 Until We Meet Again in Black and White — original prompt by @itxabdullaa.
 
@@ -14121,7 +14088,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-fluffy-cat-s-flower-garden"></a>
-### 227. The Fluffy Cat's Flower Garden
+### 226. The Fluffy Cat's Flower Garden
 
 The Fluffy Cat's Flower Garden — original prompt by @itxsarmadd.
 
@@ -14175,7 +14142,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-magical-hidden-world"></a>
-### 228. The Magical Hidden World
+### 227. The Magical Hidden World
 
 The Magical Hidden World — original prompt by @CaliraVal.
 
@@ -14206,7 +14173,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-hidden-world-beyond-the-waterfall"></a>
-### 229. A Hidden World Beyond the Waterfall
+### 228. A Hidden World Beyond the Waterfall
 
 A Hidden World Beyond the Waterfall — original prompt by @alixbuilds.
 
@@ -14237,7 +14204,7 @@ Click the cover to watch on X.
 ---
 
 <a id="an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison"></a>
-### 230. An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison
+### 229. An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison
 
 An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison — original prompt by @doctorwasif.
 
@@ -14284,7 +14251,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-restaurant-kitchen-fight"></a>
-### 231. A Restaurant Kitchen Fight
+### 230. A Restaurant Kitchen Fight
 
 A Restaurant Kitchen Fight — original prompt by @Just_sharon7.
 
@@ -14453,7 +14420,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-falling-champagne-tower-kling-4-0-comparison"></a>
-### 232. The Falling Champagne Tower — Kling 4.0 Comparison
+### 231. The Falling Champagne Tower — Kling 4.0 Comparison
 
 The Falling Champagne Tower — Kling 4.0 Comparison — original prompt by @openclipsai.
 
@@ -14484,7 +14451,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-monaco-coastal-car-chase-kling-4-0-comparison"></a>
-### 233. A Monaco Coastal Car Chase — Kling 4.0 Comparison
+### 232. A Monaco Coastal Car Chase — Kling 4.0 Comparison
 
 A Monaco Coastal Car Chase — Kling 4.0 Comparison — original prompt by @Dheepanratnam.
 
@@ -14543,7 +14510,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-journey-into-the-underwater-kingdom"></a>
-### 234. A Journey into the Underwater Kingdom
+### 233. A Journey into the Underwater Kingdom
 
 A Journey into the Underwater Kingdom — original prompt by @SadiaMalik182.
 
@@ -14574,7 +14541,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-snowy-cinematic-love-story"></a>
-### 235. A Snowy Cinematic Love Story
+### 234. A Snowy Cinematic Love Story
 
 A Snowy Cinematic Love Story — original prompt by @MahiraEhan.
 
@@ -14621,7 +14588,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-stop-motion-thanksgiving-surprise"></a>
-### 236. A Stop-Motion Thanksgiving Surprise
+### 235. A Stop-Motion Thanksgiving Surprise
 
 A Stop-Motion Thanksgiving Surprise — original prompt by @heathergreen.
 
@@ -14668,7 +14635,7 @@ Click the cover to watch on X.
 ---
 
 <a id="an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison"></a>
-### 237. An FPV Flight through a Barrel Wave — Kling 4.0 Comparison
+### 236. An FPV Flight through a Barrel Wave — Kling 4.0 Comparison
 
 An FPV Flight through a Barrel Wave — Kling 4.0 Comparison — original prompt by @openclipsai.
 
@@ -14705,7 +14672,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison"></a>
-### 238. A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison
+### 237. A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison
 
 A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison — original prompt by @SocialSight.
 
@@ -14737,6 +14704,76 @@ Click the cover to watch on X.
 - Prompt language: English
 - Author: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
 - Sources: <a href="https://x.com/SocialSight/status/2119430398178415032" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/SocialSight/status/2119430396894974197" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="an-awkward-coffee-seating-mix-up"></a>
+### 238. An Awkward Coffee Seating Mix-Up
+
+An awkward coffee seating mix-up — original prompt by @MeenakshiYACS.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+21 seconds, vertical 9:16.
+
+Strictly recreate the reference video Video 1.
+
+Character references:
+Image 1 (man, left)
+Image 2 (woman, right)
+
+Background reference: Image 3
+
+Preserve exact character identities, facial features, outfits and background.
+
+Create a realistic, funny cinematic coffee scene with comedic background music.
+
+Camera: One continuous, uninterrupted static shot. Front-facing, eye-level, medium-wide framing. Both characters and seats remain visible. No cuts, zooms, camera movement or transitions.
+
+00:00–00:05.8
+The man sits casually on the elevated surface on the left, with both legs resting on the windowsill. He holds a takeaway coffee cup, occasionally glances at the camera with a puzzled expression, sips coffee and looks around naturally.
+
+00:05.8–00:07.8
+The woman enters naturally from the far right, holding coffee, and walks toward the right seat. The man briefly notices her and casually looks away.
+
+00:07.8–00:09.8
+The woman removes her shoulder bag, places it beside her, sits naturally and places her coffee on the small round table.
+
+00:09.8–00:15.0
+She crosses her legs, picks up her coffee, takes occasional sips and looks outside the window. The man continues relaxing with his legs on the windowsill, casually drinking coffee.
+
+00:15.0–00:18.2
+The man suddenly realizes he is sitting on a TABLE, not a seat! Show genuine surprise and confusion. He quickly pulls his legs back, secures his coffee, climbs down and moves onto the proper left seat. Make the movement natural, slightly hurried and mildly embarrassing.
+
+00:18.2–00:21.0
+The man finally sits properly beside the woman, imitating her normal seated posture. Both casually sip coffee and look forward.
+
+Strict constraints:
+Match the reference video's exact action order, timing, screen positions, entrance direction and sitting poses. Maintain realistic body movements and consistent character identities.
+
+No extra characters, props, dialogue or invented events. No teleportation, body distortion, floating objects, duplicated movements or ending loops.
+
+End with a stable side-by-side seated composition.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/MeenakshiYACS/status/2119681759256465716" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2119681253255634944/img/657TzIg9MeIuUt8f.jpg" alt="An Awkward Coffee Seating Mix-Up" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-09 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/MeenakshiYACS" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MeenakshiYACS</a>
+- Source: <a href="https://x.com/MeenakshiYACS/status/2119681759256465716" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 - Model: Kling 4.0
 
 

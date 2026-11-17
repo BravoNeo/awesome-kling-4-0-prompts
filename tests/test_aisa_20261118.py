@@ -45,3 +45,9 @@ class AisaNovember18Tests(unittest.TestCase):
                 self.assertNotRegex(e['originalPrompt'], r'(?im)^\s*#(?:Wizstar|Kling|PixVerse)|https://t\.co/')
                 self.assertEqual(e['referenceAssets'], [])
                 self.assertFalse(e['showGuidance'])
+
+    def test_normalized_prompts_are_unique_across_the_whole_catalog(self):
+        import re
+        import unicodedata
+        keys = [re.sub(r'[^\w]', '', unicodedata.normalize('NFKC', e['originalPrompt']).lower()) for e in self.entries.values()]
+        self.assertEqual(len(keys), len(set(keys)))
