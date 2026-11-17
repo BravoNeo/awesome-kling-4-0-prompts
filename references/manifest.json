@@ -21,7 +21,7 @@
         "en": "Comedy",
         "zh": "喜剧"
       },
-      "count": 24,
+      "count": 25,
       "path": "references/use/comedy.json"
     },
     {
@@ -61,7 +61,7 @@
         "en": "UGC & vlogs",
         "zh": "UGC 与日常视频"
       },
-      "count": 27,
+      "count": 26,
       "path": "references/use/ugc.json"
     },
     {
@@ -226,10 +226,10 @@
     }
   ],
   "sha256": {
-    "README.md": "8ab35234b4c0dd8146337c446c9b1e4a902b86d9d81c69b1ddad10a833da1f0c",
-    "README.zh-CN.md": "eac449e9ece7dce8b72adc9d844b1db5b9aafb63b040dab1c8eeea00d1777c7a",
-    "export/catalog.json": "f18573f53ffca05ab5312d2bac89fb6f375870123920cb737fa857ad0883d494",
-    "references/style/cinematic-realism.json": "2badab438e5c6b979a5a4380187b13318fd3dbb342bd05e44778ae649f346112",
+    "README.md": "6cff772446f13c4079bc39313607d5b5515ed08efc090132f0d600f0dd21058d",
+    "README.zh-CN.md": "c36a0c53e551e5e06c3124ad84574f5eab4f9081f65faed8d08d0e4f0730b4dc",
+    "export/catalog.json": "fbbb9881bdbde8adf099fe92d546e98b2c30d11ed1f9fde6e8188460e0e6f122",
+    "references/style/cinematic-realism.json": "15faf1d3a599f66a531560e0ff666c86aa2541dcac7d5890620384b3367b67fc",
     "references/style/cozy-animation.json": "9ceb9a4f705b6497f744a882b39c7e2398448ae740578ed0aee9153bdc4f1b8d",
     "references/style/fantasy.json": "4857bbc7247a72d6ecdd8ddafa1e32ce0623c7783f94ad99a9c6a037d6a88757",
     "references/style/painterly-animation.json": "149919bfab9ab3a31d3f5697d5302671b17f2c7eac3059c0315a18b36b26281a",
@@ -238,18 +238,18 @@
     "references/subject/environments.json": "9abe08453238f4c425a79497964eb3cde4bbb527c9dd265ce0e9851b3e23e64e",
     "references/subject/heroes.json": "48ba0d02f3d7325895cd206014eed937e14a9f3a4890836817de145bd57fe31f",
     "references/subject/martial-arts.json": "ba261dc7d8b5c2a2d428d076179a342fb82d8aab3fec97f8c50ef93bdedd8004",
-    "references/subject/people.json": "0050f2cc096f605674f3a70c2ac14dd38c2640b124a808ec43547fcb9c299943",
+    "references/subject/people.json": "aedc7d2347dafb91c6d221d2752e7dc1b893ea5375be9c6d37da4d17ea899fd8",
     "references/subject/products.json": "22d8ec31e0fc18567ca752939e71f690246388c353af14d2655e7de279644d09",
     "references/subject/travelers.json": "2661f677563c73fb4ce93e7b4df72ab00d42cf8e17a3233ff43f5316b4ba5d8c",
     "references/subject/witches.json": "91bc75563c2f693d55ffb64b15601bf05ada1078f7d47fdc0621b68d184f830b",
     "references/use/action.json": "6f2c9bfdb79a2ee502c8aba7617bdb95c1a90aaf37534a6cf653e703cb146da4",
     "references/use/character-animation.json": "adcfaf8f63992adb5d45f644e0b4d8ce57eb4b5dfcb091ee6885c62b181ca72e",
-    "references/use/comedy.json": "8a939dd2105c257a4766105b317fe71ef2ffdc5ac972fa5c445e1e875f6479ad",
+    "references/use/comedy.json": "88791af286cc09d9894ee06ed80747baf595cd16e815b04bce4ad55ab02330ab",
     "references/use/landscape.json": "e55b5dccfdd35519400ee6a3d79a6e06ce55b7b3d5dfac24849c8a57e170b86a",
     "references/use/product.json": "e317a6bb527b2574a577caff216ab61ee1878b94e2e319e438e18ed89ae7a078",
     "references/use/storytelling.json": "8ff2d629429021dcf22fa2c34611dfe38aafd82e26507b783fd01125d7066a38",
     "references/use/travel-commercial.json": "689db66a69fb262e73dcd686741de91b8e97126bd6df7d124f879d9e33979408",
-    "references/use/ugc.json": "d5fcc3f2eb22c149f81d1926f0046a70421202ed386c0f545a99d051cc5e25f3",
+    "references/use/ugc.json": "78c910e4d1c3882e17ad9048ca73f6109b9ca2a7f5061774f0cd8f0410a269ab",
     "references/use/video-editing.json": "2720c2ad52a5b414646dde811bf8815c66566962308091faac3ac0b25619a8cd"
   }
 }

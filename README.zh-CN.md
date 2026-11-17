@@ -49,7 +49,7 @@
 | 项目 | 数量 |
 | --- | --- |
 | 提示词 | 250 |
-| 创作者 | 95 |
+| 创作者 | 94 |
 | 精选案例 | 4 |
 | README 更新日期 | 2026-11-18 |
 
@@ -76,11 +76,11 @@
 | 用途 | 案例 |
 | --- | --- |
 | 旅行与广告 | [韩国旅行时尚广告](#korea-fashion-travel-film) · [七段旅行与意外接抱](#seven-travel-moments-and-a-surprise-catch) · [雪中的电影感爱情故事](#a-snowy-cinematic-love-story) |
-| 喜剧 | [送披萨的猫](#pizza-delivery-cat) · [相扑双人花滑](#sumo-pair-figure-skating) · [猫咪的连续午夜冒险](#a-cats-continuous-midnight-adventure) · [意外的米其林天才](#accidental-michelin) · [小蛇咖啡时间](#snake-coffee-break) · [章鱼调酒师](#octopus-bartender) · [扫地机器人上的小猫：双视角](#a-cat-on-a-robot-vacuum-two-camera-views) · [飞行跑车只送一杯咖啡](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [猫咪骑上扫地机器人](#cat-rides-the-robot-vacuum) · [慷慨贵族与宣传账单](#a-generous-nobleman-and-the-publicity-bill) · [仓鼠摇滚明星分镜短片](#hamster-rock-star-storyboard) · [圣诞派对着装大乌龙](#a-christmas-dress-code-mix-up) · [万圣节飞天扫帚喜剧](#a-broomstick-comedy-on-halloween) · [电梯地板错觉](#the-elevator-floor-illusion) · [Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [王子与森林女巫的铃铛](#the-prince-and-baba-cloantas-bell) · [猫咪推落台面上的杯子：Kling 4.0 模型对比](#the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison) · [倒塌的香槟塔：Kling 4.0 模型对比](#the-falling-champagne-tower-kling-4-0-comparison) · [定格动画感恩节惊喜](#a-stop-motion-thanksgiving-surprise) · [游戏街区的地精盗窃行动：Kling 4.0 模型对比](#a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison) · [咖啡洒落引发厨房喜剧](#a-coffee-spill-becomes-a-kitchen-comedy) · [巨猫与模型铁路：Kling 4.0 模型对比](#the-giant-cat-and-the-model-railway-kling-4-0-comparison) |
+| 喜剧 | [送披萨的猫](#pizza-delivery-cat) · [相扑双人花滑](#sumo-pair-figure-skating) · [猫咪的连续午夜冒险](#a-cats-continuous-midnight-adventure) · [意外的米其林天才](#accidental-michelin) · [小蛇咖啡时间](#snake-coffee-break) · [章鱼调酒师](#octopus-bartender) · [扫地机器人上的小猫：双视角](#a-cat-on-a-robot-vacuum-two-camera-views) · [飞行跑车只送一杯咖啡](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [猫咪骑上扫地机器人](#cat-rides-the-robot-vacuum) · [慷慨贵族与宣传账单](#a-generous-nobleman-and-the-publicity-bill) · [仓鼠摇滚明星分镜短片](#hamster-rock-star-storyboard) · [圣诞派对着装大乌龙](#a-christmas-dress-code-mix-up) · [万圣节飞天扫帚喜剧](#a-broomstick-comedy-on-halloween) · [电梯地板错觉](#the-elevator-floor-illusion) · [Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [王子与森林女巫的铃铛](#the-prince-and-baba-cloantas-bell) · [猫咪推落台面上的杯子：Kling 4.0 模型对比](#the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison) · [倒塌的香槟塔：Kling 4.0 模型对比](#the-falling-champagne-tower-kling-4-0-comparison) · [定格动画感恩节惊喜](#a-stop-motion-thanksgiving-surprise) · [游戏街区的地精盗窃行动：Kling 4.0 模型对比](#a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison) · [咖啡馆里的尴尬坐席误会](#an-awkward-coffee-seating-mix-up) · [咖啡洒落引发厨房喜剧](#a-coffee-spill-becomes-a-kitchen-comedy) · [巨猫与模型铁路：Kling 4.0 模型对比](#the-giant-cat-and-the-model-railway-kling-4-0-comparison) |
 | 角色动画 | [粉发小女巫与魔法火苗](#pink-haired-fire-witch) · [数羊失算](#counting-sheep-goes-wrong) · [图书馆狐狸与猫头鹰](#fox-owl-library) · [罗宾完成升级](#robin-completes-an-update) · [绝对不要按：三维动态文字](#do-not-press-the-button-3d-kinetic-typography) · [露天体育场演唱会](#live-stadium-concert) · [跟随音乐参考起舞](#dancing-to-a-music-reference) · [电影感舞台走秀](#cinematic-pageant-walk) · [二维火车动画](#2d-train-animation) · [三维狐狸打喷嚏](#3d-fox-sneeze) · [Kling 4.0 与 Kling 3.0：小牛与蝴蝶](#kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly) · [Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市](#kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city) · [充满爱意的生日蛋糕](#a-birthday-cake-made-with-love) · [Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林](#kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest) · [三位调皮女巫](#three-mischievous-witches) · [南瓜小怪物的不给糖就捣蛋之旅](#a-pumpkin-monster-goes-trick-or-treating) · [Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人](#kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo) · [黏土小幽灵学会吓人](#a-clay-ghost-learns-to-say-boo) · [Kling 与 Seedance 版本对比：雨夜屋顶芭蕾](#kling-and-seedance-versions-rainy-rooftop-ballet) · [方块怪物讨糖果](#voxel-monsters-go-trick-or-treating) · [Kling 4.0 五种动画风格短片中的绘画风开门](#painted-door-opening-in-a-five-style-kling-4-0-film) · [书中展开的纸艺城市](#a-paper-pop-up-city-unfolds-from-a-book) · [黑白动画中的重逢约定](#until-we-meet-again-in-black-and-white) · [毛茸茸猫咪的花园](#the-fluffy-cat-s-flower-garden) |
 | 动作 | [悬崖庭院武侠对决](#cliffside-wuxia-duel) · [夜市间谍追逐](#night-market-spy-chase) · [多镜头汽车漂移](#multi-shot-car-drifting) · [进入无尽天空](#into-the-infinite-sky) · [Astra天空战斗](#astra-sky-battle) · [发条与灰烬](#clockwork-and-ashes) · [绯红余焰连续动作](#crimson-afterburn-two-scene-action) · [地铁搏斗](#subway-fight) · [螺旋楼梯决斗](#spiral-staircase-duel) · [霓虹夜市跑酷](#neon-market-parkour) · [第一人称战术射击](#first-person-tactical-shooter) · [PUBG 风格第一人称交火、搜刮与治疗](#pubg-style-first-person-firefight-looting-and-healing) · [Kling 4.0 与 Seedance 2.5：矮人森林格斗](#kling-4-0-vs-seedance-2-5-dwarven-forest-fight) · [港口战术射击竞技游戏](#competitive-harbor-tactical-shooter) · [双车追逐](#a-two-car-chase) · [代码刺客跳跃](#cyber-assassin-code-jump) · [无名之刃预告片](#the-nameless-edge-trailer) · [突发爆炸冲散军阵](#army-scattered-by-a-sudden-blast) · [巨狮奔赴战场](#giant-lion-charges-toward-battle) · [浪客武士预告片](#vagabond-samurai-trailer) · [七镜头滑雪短片](#seven-shot-ski-film) · [连续跟拍滑板](#continuous-skateboard-tracking) · [仓库特技格斗](#warehouse-stunt-fight) · [都市屋顶跑酷](#urban-rooftop-parkour) · [神明投掷山间巨石](#a-god-hurls-a-mountain-boulder) · [仓库搏斗](#warehouse-fight) · [西部酒馆拳斗](#western-saloon-fistfight) · [女怪盗与笨拙警官](#phantom-thief-and-the-clumsy-officer) · [一战空中追逐](#world-war-i-aerial-pursuit) · [雷帝觉醒](#thunder-emperor-awakens) · [拳击动作](#boxer-action) · [穿越公寓三处空间的格斗](#a-fight-through-three-apartment-spaces) · [骑士守卫堡垒](#knight-defending-the-fortress) · [双人动漫跑酷](#two-character-anime-parkour) · [沙漠战士激战](#desert-warrior-combat) · [沙漠飞车追逐](#flying-car-desert-pursuit) · [斑的战场动作](#madara-battlefield-sequence) · [黑色电影警车拦截](#film-noir-police-interception) · [Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车](#kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding) · [季风极速战](#monsoon-velocity) · [卷帘门落下前的最后一单](#last-delivery-before-the-shutter) · [城市巨兽的手持摄影记录](#camcorder-footage-of-a-city-monster) · [双日之下的首次接触伏击](#first-contact-ambush-beneath-twin-suns) · [屋顶雷电与烈焰对决](#lightning-and-fire-rooftop-duel) · [外星巨环下的战场](#battle-beneath-an-alien-ring) · [简的废土跑酷](#janes-wasteland-freerunning) · [Kling 4.0 与 Seedance 2.5：风暴中的维京长船](#kling-4-0-vs-seedance-2-5-the-longship-in-the-storm) · [幽灵马与南瓜车过山车](#ghost-horses-and-the-pumpkin-carriage-roller-coaster) · [雨林中的美洲豹追逐](#jaguar-chase-through-the-rainforest) · [地下拳馆的最后一回合](#final-round-in-an-underground-boxing-club) · [连续屋顶跑酷](#a-continuous-rooftop-parkour-run) · [Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺](#kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint) · [水系战士浴室激战](#water-powered-bathroom-battle) · [雨夜赛博朋克追逐：Kling 4.0 模型对比](#a-cyberpunk-chase-in-the-rain-kling-4-0-comparison) · [霓虹太空港异星射击](#alien-shooter-at-a-neon-spaceport) · [草原上的超能力对决](#two-fighters-on-the-grassland) · [冰霜女皇与最后的猎人](#the-frost-empress-and-the-last-hunter) · [莉卡与诸神陨落](#rica-and-the-fall-of-the-gods) · [拉拉对战三头犬](#lala-faces-cerberus) · [姐妹逃离感染之城](#two-sisters-escape-the-infected-city) · [餐厅厨房动作对决](#a-restaurant-kitchen-fight) · [摩纳哥海岸公路追逐：Kling 4.0 模型对比](#a-monaco-coastal-car-chase-kling-4-0-comparison) · [体操运动员的连续后空翻](#a-gymnast-s-continuous-backflip) · [雷霆箭对抗钢铁巨像](#a-lightning-arrow-against-the-iron-colossus) · [斑马线前的静止子弹](#not-today-bullets-stop-at-the-crosswalk) · [雨夜霓虹城市的悬浮摩托快递员：Kling 4.0 模型对比](#a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison) · [丛林追逐与悬崖跳水：Kling 4.0 模型对比](#jungle-chase-and-cliff-dive-kling-4-0-comparison) · [从爆炸中从容走来](#an-unfazed-walk-away-from-an-explosion) |
 | 叙事短片 | [末班渡轮爱情片段](#last-ferry-love-scene) · [催眠地下神殿](#hypnotic-underground-temple) · [活体外星交通枢纽](#living-alien-transit-terminal) · [黑木森林奔跑](#blackwood-forest-run) · [林间小屋惊悚](#cabin-horror-sequence) · [日落屋顶踢踏舞](#sunset-rooftop-tap-dance) · [女巫与幽灵法老](#sorceress-and-ghostly-pharaohs) · [魔法森林精灵](#enchanted-forest-fairies) · [露西离开餐馆](#lucy-leaves-the-diner) · [咖啡馆里的面包店闲谈](#cafe-conversation-about-a-bakery) · [冬夜河畔的告别](#a-winter-riverside-farewell) · [绿松石泻湖中的外星巨兽](#alien-giants-in-a-turquoise-lagoon) · [机械丛林捕食者](#mechanical-jungle-predator) · [日出时分的外星聚落](#alien-settlement-at-sunrise) · [雨夜恐怖分镜](#rainy-horror-storyboard) · [潜艇怪物遭遇](#submarine-creature-encounter) · [发光海底城市](#glowing-underwater-city) · [兄弟会住宅情感片段](#fraternity-house-emotional-scene) · [炼金术士召唤火焰精灵](#alchemist-summons-a-tiny-fire-spirit) · [玛戈与莱奥](#margot-and-leo) · [悬浮小提琴旋律](#the-floating-violin-melody) · [镜中世界电影旅程](#mirror-world-cinematic-journey) · [深夜厨房坦白](#late-night-kitchen-confession) · [日式浪漫告别](#japanese-romantic-goodbye) · [超自然惊悚预告片](#3-2-1-supernatural-thriller-trailer) · [公园长椅基础片段](#park-bench-base-clip) · [酒馆犯罪对话](#cantina-crime-drama) · [苍白火焰之墓](#the-tomb-of-pale-flame) · [动漫街头偶遇](#anime-street-encounter) · [沙漠集市飞船](#desert-market-starship) · [维多利亚港口幽灵](#victorian-harbor-ghost) · [手持玫瑰等待](#waiting-with-a-rose) · [地下室悬疑](#basement-suspense) · [超现实屋顶](#surreal-rooftop) · [实验室中的机器人苏醒](#android-laboratory-awakening) · [少女与龙的料理](#girl-and-dragon-cooking) · [托尔斯坦：破门者](#torstein-the-gatebreaker) · [咖啡馆对话](#cafe-conversation) · [陶艺多镜头](#pottery-multi-shot) · [未来访谈节目](#futuristic-talk-show) · [动漫面条场景](#anime-noodle-scene) · [Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣](#kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound) · [Kling 4.0 与 Seedance 2.5：船具店打烊](#kling-4-0-vs-seedance-2-5-closing-the-chandlery) · [静止人物与疾行城市](#a-still-figure-in-a-rushing-city) · [四模型人物台词对比中的 Kling 4.0](#kling-4-0-in-a-four-model-spoken-line-comparison) · [四模型酒吧欢笑对比中的 Kling 4.0](#kling-4-0-in-a-four-model-laughing-group-comparison) · [四模型扑克筹码动作对比中的 Kling 4.0](#kling-4-0-in-a-four-model-poker-chip-comparison) · [粉色衣领的快速变焦](#snap-zoom-into-a-pink-collar) · [哥特钟楼上空的蝙蝠群](#bat-swarm-over-a-gothic-belfry) · [Kling 4.0 与 Hailuo H3：夜空中的第一颗星](#kling-4-0-vs-hailuo-h3-the-evenings-first-star) · [迷你云朵生物](#the-tiny-cloud-creature) · [月夜森林中的滑板少女](#skateboarder-in-the-moonlit-forest) · [带电星云中的探索飞船](#exploration-ship-in-a-charged-storm) · [铠甲猎人的汉堡晚餐](#an-armored-hunter-cooks-dinner) · [黑夜中的星光火花](#a-spark-across-the-dark) · [Kling 4.0 与 2.6：水下侧脸对比](#kling-4-0-vs-2-6-underwater-profile) · [Kling 4.0 Omni 与 1.6：走向海景阳光房对比](#kling-4-0-omni-vs-1-6-hallway-to-sun-porch) · [Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比](#kling-4-0-omni-vs-3-0-omni-corridor-glance) · [探索者与六足巨兽群](#explorers-beside-a-six-legged-herd) · [月球逼近海滨城市：英文提示词](#coastal-moonfall-english-prompt) · [外星市场漫游](#alien-marketplace-walk) · [骑士与闹鬼古堡](#the-knight-and-the-haunted-castle) · [迷雾森林追逐](#foggy-forest-pursuit) · [女孩的万圣节秘密](#a-girl-reveals-her-halloween-secret) · [Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇](#kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon) · [Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt) |
-| UGC 与日常视频 | [街头步行视频](#walking-street-vlog) · [Vote Red：虚构创作者日志](#vote-red-a-fictional-creator-vlog) · [手持拍摄的能量饮料广告](#a-handheld-energy-drink-creator-ad) · [2004风格游戏厅日志](#a-2004-style-arcade-vlog) · [虎斑猫街头博主](#tabby-cat-street-vlogger) · [晚宴上的艺术礼服](#a-couture-gown-at-an-evening-party) · [一起散步的夏日午后](#a-quiet-summer-walk-together) · [早午餐自拍视频](#brunch-selfie) · [机场日常视频](#airport-vlog) · [停车场车内独白](#parked-car-confession) · [海边日常视频](#beach-vlog) · [2010 年精品店手机直播](#2010-boutique-mobile-livestream) · [随手拍摄的早午餐日志](#a-casual-brunch-phone-vlog) · [城市夜游自拍](#a-night-city-selfie-walk) · [Kling 4.0 与 Seedance 2.5：秋日穿搭](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 与 Seedance 2.5：核心训练日记](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [万圣节服装健身日记](#halloween-costume-gym-vlog) · [金色时分的皮卡穿搭短片](#golden-hour-pickup-truck-lookbook) · [西西里小巷里的柠檬漫步](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 与 Seedance 2.5：哑铃健身日记](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 与 Veo 3.1：西装试穿与转身](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) · [海岸观景台的双生错觉](#twin-clones-at-a-coastal-overlook) · [韩国美甲店的午后：Kling 4.0 模型对比](#an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison) · [俏皮的电影感时装步行](#a-playful-cinematic-fashion-walk) · [手持拍摄的健身日记：Kling 4.0 模型对比](#a-handheld-gym-diary-kling-4-0-comparison) · [MiniDV健身日志模型对比：Kling 4.0 模型对比](#a-minidv-gym-vlog-comparison-kling-4-0-comparison) |
+| UGC 与日常视频 | [街头步行视频](#walking-street-vlog) · [Vote Red：虚构创作者日志](#vote-red-a-fictional-creator-vlog) · [手持拍摄的能量饮料广告](#a-handheld-energy-drink-creator-ad) · [2004风格游戏厅日志](#a-2004-style-arcade-vlog) · [虎斑猫街头博主](#tabby-cat-street-vlogger) · [晚宴上的艺术礼服](#a-couture-gown-at-an-evening-party) · [一起散步的夏日午后](#a-quiet-summer-walk-together) · [早午餐自拍视频](#brunch-selfie) · [机场日常视频](#airport-vlog) · [停车场车内独白](#parked-car-confession) · [海边日常视频](#beach-vlog) · [2010 年精品店手机直播](#2010-boutique-mobile-livestream) · [城市夜游自拍](#a-night-city-selfie-walk) · [Kling 4.0 与 Seedance 2.5：秋日穿搭](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 与 Seedance 2.5：核心训练日记](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [万圣节服装健身日记](#halloween-costume-gym-vlog) · [金色时分的皮卡穿搭短片](#golden-hour-pickup-truck-lookbook) · [西西里小巷里的柠檬漫步](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 与 Seedance 2.5：哑铃健身日记](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 与 Veo 3.1：西装试穿与转身](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) · [海岸观景台的双生错觉](#twin-clones-at-a-coastal-overlook) · [韩国美甲店的午后：Kling 4.0 模型对比](#an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison) · [俏皮的电影感时装步行](#a-playful-cinematic-fashion-walk) · [手持拍摄的健身日记：Kling 4.0 模型对比](#a-handheld-gym-diary-kling-4-0-comparison) · [MiniDV健身日志模型对比：Kling 4.0 模型对比](#a-minidv-gym-vlog-comparison-kling-4-0-comparison) |
 | 视频编辑 | [小狗变恐龙编辑](#dog-to-dinosaur-edit) · [秋季场景编辑](#autumn-season-edit) · [狐狸、秋景与衬衫编辑](#fox-autumn-and-flannel-edit) · [增加第三位朋友](#add-a-third-friend) · [代码提示词视觉实验](#a-code-prompt-visual-experiment) |
 | 产品广告 | [AURORA瓶身文字与旋转](#aurora-bottle-typography-and-rotation) · [桦树气泡水广告](#sparkling-birch-water-ad) · [1989年的首支Game Boy广告：Kling 4.0 模型对比](#the-first-game-boy-commercial-1989-kling-4-0-comparison) · [森林汽车广告](#forest-automotive-commercial) · [Maison Doré 法式吐司广告](#maison-dor-french-toast-commercial) · [凝露产品特写](#condensation-product-shot) · [产品固定与背景甩镜](#background-only-product-whip-pan) · [手持产品转场](#hand-carried-product-transition) · [从冰箱到派对](#from-the-fridge-to-the-party) · [奢华护肤 ASMR 片段](#luxury-skincare-asmr-sequence) · [火箭动力香水瓶](#rocket-powered-perfume-bottle) · [相机粉碎并重建东京：Kling 4.0 模型对比](#a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison) · [台灯从太空落入房间](#a-lamp-falls-from-space-into-a-room) · [粉色浴室护肤广告](#pink-bathroom-skincare-commercial) · [精华瓶与水浪：Kling 4.0 模型对比](#a-serum-bottle-meets-a-wave-of-water-kling-4-0-comparison) |
 | 风景与 FPV | [侦探点燃火柴](#a-detective-lights-a-match) · [阳光画室中的一笔](#one-brushstroke-in-a-sunlit-studio) · [FPV 追随金雕](#fpv-eagle-chase) · [水墨卷轴流出瀑布](#waterfall-from-an-ink-scroll) · [悬崖与海浪](#cliff-and-waves) · [仓库 FPV 穿越](#warehouse-fpv) · [海堤风暴巨浪](#storm-surge-against-a-seawall) · [龙门吊集装箱跟拍](#gantry-crane-container-tracking) · [单滴水微距物理](#single-droplet-macro-physics) · [四模型燃烧街道对比中的 Kling 4.0](#kling-4-0-in-a-four-model-burning-street-comparison) · [Kling 4.0 与 1.6：水下镜头下潜对比](#kling-4-0-vs-1-6-underwater-camera-descent) · [马车穿过金色城市](#a-carriage-through-the-golden-city) · [从三维预演到日本小镇](#a-japanese-town-from-a-3d-previsualization) · [女猎人与吃树叶的恐龙](#the-huntress-and-the-leaf-eating-dinosaur) · [奇幻隐秘世界](#the-magical-hidden-world) · [瀑布后的隐秘世界](#a-hidden-world-beyond-the-waterfall) · [探访水下王国](#a-journey-into-the-underwater-kingdom) · [穿越卷浪的FPV飞行：Kling 4.0 模型对比](#an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison) |
@@ -6639,41 +6639,8 @@ Dialogue: “Alright guys, let me know in the comments which one you like best! 
 
 ---
 
-<a id="a-casual-brunch-phone-vlog"></a>
-### 86. 随手拍摄的早午餐日志
-
-随手拍摄的早午餐日志，来自 @sixugc 的原始提示词。
-
-<details>
-<summary>提示词原文</summary>
-
-```text
-Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading.
-The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: "Okay, I promised I'd show you what we get.... We get the same thing every single time... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay.
-Yeah. Still the best... Hey! Get your own!" [Her sister, off camera: a young woman's voice, dry and amused]: "That's the tax." [Sadie, laughing]: "She does this every time." Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no onscreen text.
-```
-
-</details>
-
-#### 视频
-
-<a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111843243587682304/img/BydZM8KSU7YFPi1n.jpg" alt="随手拍摄的早午餐日志" width="700" /></a>
-
-点击封面查看原帖视频。
-
-#### 作品信息
-
-- 发布于: 2026-10-18 (UTC)
-- 提示词语言: 英语
-- 作者: <a href="https://x.com/sixugc" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sixugc</a>
-- 来源: <a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
-- 模型: Kling 4.0
-
-
----
-
 <a id="cantina-crime-drama"></a>
-### 87. 酒馆犯罪对话
+### 86. 酒馆犯罪对话
 
 酒馆犯罪对话，来自 @MayorKingAI 的原始提示词。
 
@@ -6767,7 +6734,7 @@ Exactly four people for the entire scene: Ernesto, Flaco and two bodyguards. Sam
 ---
 
 <a id="accidental-michelin"></a>
-### 88. 意外的米其林天才
+### 87. 意外的米其林天才
 
 意外的米其林天才，来自 @yourPlugAI 的原始提示词。
 
@@ -6867,7 +6834,7 @@ SOUND: High-energy comedic K-drama theme song playout, party horn sound, fast fa
 ---
 
 <a id="urban-rooftop-parkour"></a>
-### 89. 都市屋顶跑酷
+### 88. 都市屋顶跑酷
 
 都市屋顶跑酷，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -6952,7 +6919,7 @@ CG調。
 ---
 
 <a id="a-god-hurls-a-mountain-boulder"></a>
-### 90. 神明投掷山间巨石
+### 89. 神明投掷山间巨石
 
 神明投掷山间巨石，来自 @Alin_Reaper05 的原始提示词。
 
@@ -6983,7 +6950,7 @@ A god hand grabs a huge boulder from a mountain and throws it toward an enemy se
 ---
 
 <a id="the-tomb-of-pale-flame"></a>
-### 91. 苍白火焰之墓
+### 90. 苍白火焰之墓
 
 苍白火焰之墓，来自 @itsPixieVerse 的原始提示词。
 
@@ -7026,7 +6993,7 @@ A god hand grabs a huge boulder from a mountain and throws it toward an enemy se
 ---
 
 <a id="anime-street-encounter"></a>
-### 92. 动漫街头偶遇
+### 91. 动漫街头偶遇
 
 动漫街头偶遇，来自 @ShamiWeb3 的原始提示词。
 
@@ -7136,7 +7103,7 @@ Realistic or 3D look, character design drift (wrong hair colour, missing glasses
 ---
 
 <a id="cinematic-pageant-walk"></a>
-### 93. 电影感舞台走秀
+### 92. 电影感舞台走秀
 
 电影感舞台走秀，来自 @EndFolding79421 的原始提示词。
 
@@ -7169,7 +7136,7 @@ Realistic or 3D look, character design drift (wrong hair colour, missing glasses
 ---
 
 <a id="desert-market-starship"></a>
-### 94. 沙漠集市飞船
+### 93. 沙漠集市飞船
 
 沙漠集市飞船，来自 @EndFolding79421 的原始提示词。
 
@@ -7202,7 +7169,7 @@ Starting from the given image: a bustling sci-fi desert marketplace with crowds 
 ---
 
 <a id="victorian-harbor-ghost"></a>
-### 95. 维多利亚港口幽灵
+### 94. 维多利亚港口幽灵
 
 维多利亚港口幽灵，来自 @EndFolding79421 的原始提示词。
 
@@ -7235,7 +7202,7 @@ A beautiful woman in a deep burgundy Victorian dress stands at the harbor, facin
 ---
 
 <a id="snake-coffee-break"></a>
-### 96. 小蛇咖啡时间
+### 95. 小蛇咖啡时间
 
 小蛇咖啡时间，来自 @EndFolding79421 的原始提示词。
 
@@ -7268,7 +7235,7 @@ A beautiful woman in a deep burgundy Victorian dress stands at the harbor, facin
 ---
 
 <a id="octopus-bartender"></a>
-### 97. 章鱼调酒师
+### 96. 章鱼调酒师
 
 章鱼调酒师，来自 @EndFolding79421 的原始提示词。
 
@@ -7301,7 +7268,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="waiting-with-a-rose"></a>
-### 98. 手持玫瑰等待
+### 97. 手持玫瑰等待
 
 手持玫瑰等待，来自 @EndFolding79421 的原始提示词。
 
@@ -7334,7 +7301,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="warehouse-fight"></a>
-### 99. 仓库搏斗
+### 98. 仓库搏斗
 
 仓库搏斗，来自 @EndFolding79421 的原始提示词。
 
@@ -7367,7 +7334,7 @@ An octopus expertly shakes four cocktail shakers at once behind a neon bar [wide
 ---
 
 <a id="western-saloon-fistfight"></a>
-### 100. 西部酒馆拳斗
+### 99. 西部酒馆拳斗
 
 西部酒馆拳斗，来自 @EndFolding79421 的原始提示词。
 
@@ -7400,7 +7367,7 @@ cinematic widescreen. Gritty 1970s Western film aesthetic with weathered texture
 ---
 
 <a id="basement-suspense"></a>
-### 101. 地下室悬疑
+### 100. 地下室悬疑
 
 地下室悬疑，来自 @EndFolding79421 的原始提示词。
 
@@ -7433,7 +7400,7 @@ A nervous woman in jeans and a hoodie descends into a damp basement lit only by 
 ---
 
 <a id="surreal-rooftop"></a>
-### 102. 超现实屋顶
+### 101. 超现实屋顶
 
 超现实屋顶，来自 @EndFolding79421 的原始提示词。
 
@@ -7467,7 +7434,7 @@ A realistic woman stands alone on a rooftop at night. The city lights below glow
 ---
 
 <a id="android-laboratory-awakening"></a>
-### 103. 实验室中的机器人苏醒
+### 102. 实验室中的机器人苏醒
 
 实验室中的机器人苏醒，来自 @Alin_Reaper05 的原始提示词。
 
@@ -7500,7 +7467,7 @@ Ultra-realistic cinematic close-up of an elegant female android awakening inside
 ---
 
 <a id="phantom-thief-and-the-clumsy-officer"></a>
-### 104. 女怪盗与笨拙警官
+### 103. 女怪盗与笨拙警官
 
 女怪盗与笨拙警官，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -7673,7 +7640,7 @@ Ultra-realistic cinematic close-up of an elegant female android awakening inside
 ---
 
 <a id="girl-and-dragon-cooking"></a>
-### 105. 少女与龙的料理
+### 104. 少女与龙的料理
 
 少女与龙的料理，来自 @Ukiyo_il 的原始提示词。
 
@@ -7837,7 +7804,7 @@ Do not repeat the first 16 seconds. Stop the initial flames immediately. Keep ch
 ---
 
 <a id="world-war-i-aerial-pursuit"></a>
-### 106. 一战空中追逐
+### 105. 一战空中追逐
 
 一战空中追逐，来自 @PromptSin 的原始提示词。
 
@@ -7894,7 +7861,7 @@ Extra aircraft, swapped pursuer and target, changing markings, morphing wings, m
 ---
 
 <a id="thunder-emperor-awakens"></a>
-### 107. 雷帝觉醒
+### 106. 雷帝觉醒
 
 雷帝觉醒，来自 @RizwanAly07 的原始提示词。
 
@@ -7965,7 +7932,7 @@ NEGATIVE: No female characters, gender swapping, face morphing, identity changes
 ---
 
 <a id="torstein-the-gatebreaker"></a>
-### 108. 托尔斯坦：破门者
+### 107. 托尔斯坦：破门者
 
 托尔斯坦：破门者，来自 @itsPixieVerse 的原始提示词。
 
@@ -8017,7 +7984,7 @@ Weighty natural human movement, physically simulated cloth and hair reacting to 
 ---
 
 <a id="cafe-conversation"></a>
-### 109. 咖啡馆对话
+### 108. 咖啡馆对话
 
 咖啡馆对话，来自 @HBCoop_ 的原始提示词。
 
@@ -8050,7 +8017,7 @@ The man on the left leans in and says, in a calm British accent, "You already kn
 ---
 
 <a id="2d-train-animation"></a>
-### 110. 二维火车动画
+### 109. 二维火车动画
 
 二维火车动画，来自 @HBCoop_ 的原始提示词。
 
@@ -8083,7 +8050,7 @@ The train's headlights grow brighter and the train slides into the station along
 ---
 
 <a id="3d-fox-sneeze"></a>
-### 111. 三维狐狸打喷嚏
+### 110. 三维狐狸打喷嚏
 
 三维狐狸打喷嚏，来自 @HBCoop_ 的原始提示词。
 
@@ -8116,7 +8083,7 @@ Snow falls steadily; the fox blinks, catches a snowflake on its nose, sneezes a 
 ---
 
 <a id="condensation-product-shot"></a>
-### 112. 凝露产品特写
+### 111. 凝露产品特写
 
 凝露产品特写，来自 @HBCoop_ 的原始提示词。
 
@@ -8149,7 +8116,7 @@ A single bead of condensation runs down the can; the can slowly rotates a quarte
 ---
 
 <a id="boxer-action"></a>
-### 113. 拳击动作
+### 112. 拳击动作
 
 拳击动作，来自 @HBCoop_ 的原始提示词。
 
@@ -8182,7 +8149,7 @@ The boxer fires a fast three-punch combination into the pads, jab, cross, hook, 
 ---
 
 <a id="cliff-and-waves"></a>
-### 114. 悬崖与海浪
+### 113. 悬崖与海浪
 
 悬崖与海浪，来自 @HBCoop_ 的原始提示词。
 
@@ -8215,7 +8182,7 @@ The drone pushes forward low over the water toward the cliff as a big wave hits 
 ---
 
 <a id="pottery-multi-shot"></a>
-### 115. 陶艺多镜头
+### 114. 陶艺多镜头
 
 陶艺多镜头，来自 @HBCoop_ 的原始提示词。
 
@@ -8248,7 +8215,7 @@ Cut between shots of the same scene: a wide as the camera circles slowly around 
 ---
 
 <a id="warehouse-fpv"></a>
-### 116. 仓库 FPV 穿越
+### 115. 仓库 FPV 穿越
 
 仓库 FPV 穿越，来自 @HBCoop_ 的原始提示词。
 
@@ -8281,7 +8248,7 @@ FPV racing drone, one continuous take: the drone accelerates down the aisle, ban
 ---
 
 <a id="a-cat-on-a-robot-vacuum-two-camera-views"></a>
-### 117. 扫地机器人上的小猫：双视角
+### 116. 扫地机器人上的小猫：双视角
 
 扫地机器人上的小猫：双视角，来自 @yarakashiyama_ 的原始提示词。
 
@@ -8316,7 +8283,7 @@ FPV racing drone, one continuous take: the drone accelerates down the aisle, ban
 ---
 
 <a id="a-fight-through-three-apartment-spaces"></a>
-### 118. 穿越公寓三处空间的格斗
+### 117. 穿越公寓三处空间的格斗
 
 穿越公寓三处空间的格斗，来自 @boke_ai 的原始提示词。
 
@@ -8361,7 +8328,7 @@ Impacts come in three tiers. Normal hits: a two-frame hold, a jump in brightness
 ---
 
 <a id="knight-defending-the-fortress"></a>
-### 119. 骑士守卫堡垒
+### 118. 骑士守卫堡垒
 
 骑士守卫堡垒，来自 @AiwithBloodline 的原始提示词。
 
@@ -8403,7 +8370,7 @@ Negative prompt: Cartoon armor, inconsistent weapons, changing character appeara
 ---
 
 <a id="two-character-anime-parkour"></a>
-### 120. 双人动漫跑酷
+### 119. 双人动漫跑酷
 
 双人动漫跑酷，来自 @Ayu_AI_0912 的原始提示词。
 
@@ -8467,7 +8434,7 @@ Negative prompt: Cartoon armor, inconsistent weapons, changing character appeara
 ---
 
 <a id="futuristic-talk-show"></a>
-### 121. 未来访谈节目
+### 120. 未来访谈节目
 
 未来访谈节目，来自 @Alin_Reaper05 的原始提示词。
 
@@ -8500,7 +8467,7 @@ A cinematic futuristic talk show filmed inside a polished science-fiction broadc
 ---
 
 <a id="background-only-product-whip-pan"></a>
-### 122. 产品固定与背景甩镜
+### 121. 产品固定与背景甩镜
 
 产品固定与背景甩镜，来自 @shikoba_86 的原始提示词。
 
@@ -8533,7 +8500,7 @@ The can stays perfectly still in the center of the frame for the whole video, sa
 ---
 
 <a id="hand-carried-product-transition"></a>
-### 123. 手持产品转场
+### 122. 手持产品转场
 
 手持产品转场，来自 @shikoba_86 的原始提示词。
 
@@ -8566,7 +8533,7 @@ Between each keyframe, a hand enters the frame, picks up the can, and the camera
 ---
 
 <a id="anime-noodle-scene"></a>
-### 124. 动漫面条场景
+### 123. 动漫面条场景
 
 动漫面条场景，来自 @minuitIA 的原始提示词。
 
@@ -8603,7 +8570,7 @@ no music, no subtitle
 ---
 
 <a id="desert-warrior-combat"></a>
-### 125. 沙漠战士激战
+### 124. 沙漠战士激战
 
 沙漠战士激战，来自 @fromjtown 的原始提示词。
 
@@ -8674,7 +8641,7 @@ Photorealistic, ultra-detailed fabric physics and particle simulation, precise c
 ---
 
 <a id="flying-car-desert-pursuit"></a>
-### 126. 沙漠飞车追逐
+### 125. 沙漠飞车追逐
 
 沙漠飞车追逐，来自 @openclipsai 的原始提示词。
 
@@ -8718,7 +8685,7 @@ Sound: roaring jet engines and rushing wind from 0-6s, a crackling electric hum 
 ---
 
 <a id="madara-battlefield-sequence"></a>
-### 127. 斑的战场动作
+### 126. 斑的战场动作
 
 斑的战场动作，来自 @0kncn 的原始提示词。
 
@@ -8784,7 +8751,7 @@ CONSTRAINTS — 16:9. 30 seconds. One continuous take. Strict preservation of th
 ---
 
 <a id="storm-surge-against-a-seawall"></a>
-### 128. 海堤风暴巨浪
+### 127. 海堤风暴巨浪
 
 海堤风暴巨浪，来自 @sebatheepan 的原始提示词。
 
@@ -8825,7 +8792,7 @@ Constraints: Count of people in frame: zero. Count of gulls: two. Count of light
 ---
 
 <a id="gantry-crane-container-tracking"></a>
-### 129. 龙门吊集装箱跟拍
+### 128. 龙门吊集装箱跟拍
 
 龙门吊集装箱跟拍，来自 @sebatheepan 的原始提示词。
 
@@ -8866,7 +8833,7 @@ Constraints: Count of cuts: zero. Count of people in frame: zero. No music, no s
 ---
 
 <a id="single-droplet-macro-physics"></a>
-### 130. 单滴水微距物理
+### 129. 单滴水微距物理
 
 单滴水微距物理，来自 @sebatheepan 的原始提示词。
 
@@ -8901,7 +8868,7 @@ Camera law: 100mm macro at minimum focus distance, locked-off, no camera move; t
 ---
 
 <a id="from-the-fridge-to-the-party"></a>
-### 131. 从冰箱到派对
+### 130. 从冰箱到派对
 
 从冰箱到派对，来自 @shikoba_86 的原始提示词。
 
@@ -8936,7 +8903,7 @@ Sound: silence and fridge hum, the door opening, muffled party music growing thr
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound"></a>
-### 132. Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣
+### 131. Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣
 
 Kling 4.0 与 Seedance 2.5：延迟传来的火箭轰鸣，来自 @sebatheepan 的原始提示词。
 
@@ -8989,7 +8956,7 @@ Constraints: Count of shots: six. Count of people in frame: zero. Count of visib
 ---
 
 <a id="film-noir-police-interception"></a>
-### 133. 黑色电影警车拦截
+### 132. 黑色电影警车拦截
 
 黑色电影警车拦截，来自 @PromptSin 的原始提示词。
 
@@ -9034,7 +9001,7 @@ AVOID: Color, sepia, modern objects, extra cars, pedestrians, swapped vehicle id
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-closing-the-chandlery"></a>
-### 134. Kling 4.0 与 Seedance 2.5：船具店打烊
+### 133. Kling 4.0 与 Seedance 2.5：船具店打烊
 
 Kling 4.0 与 Seedance 2.5：船具店打烊，来自 @sebatheepan 的原始提示词。
 
@@ -9139,7 +9106,7 @@ No subtitles.
 ---
 
 <a id="a-still-figure-in-a-rushing-city"></a>
-### 135. 静止人物与疾行城市
+### 134. 静止人物与疾行城市
 
 静止人物与疾行城市，来自 @AIwithSynthia 的原始提示词。
 
@@ -9186,7 +9153,7 @@ Negative prompt: Subject movement, blinking, facial changes, body deformation, i
 ---
 
 <a id="kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly"></a>
-### 136. Kling 4.0 与 Kling 3.0：小牛与蝴蝶
+### 135. Kling 4.0 与 Kling 3.0：小牛与蝴蝶
 
 Kling 4.0 与 Kling 3.0：小牛与蝴蝶，来自 @openclipsai 的原始提示词。
 
@@ -9227,7 +9194,7 @@ No text, no watermark, no logos, no split screen.
 ---
 
 <a id="kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding"></a>
-### 137. Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车
+### 136. Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车
 
 Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车，来自 @nukegala83 的原始提示词。
 
@@ -9258,7 +9225,7 @@ Kling 4.0、Seedance 2.5 与 MiniMax H3：赶上发车电车，来自 @nukegala8
 ---
 
 <a id="a-flying-roadster-delivers-one-coffee"></a>
-### 138. 飞行跑车只送一杯咖啡
+### 137. 飞行跑车只送一杯咖啡
 
 飞行跑车只送一杯咖啡，来自 @AIwithSynthia 的原始提示词。
 
@@ -9369,7 +9336,7 @@ Cut abruptly to black.
 ---
 
 <a id="monsoon-velocity"></a>
-### 139. 季风极速战
+### 138. 季风极速战
 
 季风极速战，来自 @bmx_ai13 的原始提示词。
 
@@ -9425,7 +9392,7 @@ STYLE NOTES: Realistic physics for water, debris and cloth. Speed effect only on
 ---
 
 <a id="kling-4-0-in-a-four-model-spoken-line-comparison"></a>
-### 140. 四模型人物台词对比中的 Kling 4.0
+### 139. 四模型人物台词对比中的 Kling 4.0
 
 四模型人物台词对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
 
@@ -9456,7 +9423,7 @@ Slow push-in on the woman leaning against the wall. She holds the camera's gaze,
 ---
 
 <a id="kling-4-0-in-a-four-model-laughing-group-comparison"></a>
-### 141. 四模型酒吧欢笑对比中的 Kling 4.0
+### 140. 四模型酒吧欢笑对比中的 Kling 4.0
 
 四模型酒吧欢笑对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
 
@@ -9487,7 +9454,7 @@ Handheld camera, warm bar light. The group bursts out laughing together; the pla
 ---
 
 <a id="kling-4-0-in-a-four-model-poker-chip-comparison"></a>
-### 142. 四模型扑克筹码动作对比中的 Kling 4.0
+### 141. 四模型扑克筹码动作对比中的 Kling 4.0
 
 四模型扑克筹码动作对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
 
@@ -9518,7 +9485,7 @@ Static camera, low-key lighting. The man's fingers riffle the stack of poker chi
 ---
 
 <a id="kling-4-0-in-a-four-model-burning-street-comparison"></a>
-### 143. 四模型燃烧街道对比中的 Kling 4.0
+### 142. 四模型燃烧街道对比中的 Kling 4.0
 
 四模型燃烧街道对比中的 Kling 4.0，来自 @HBCoop_ 的原始提示词。
 
@@ -9549,7 +9516,7 @@ Slow crane down into the smoke-filled city street. Flames ripple and flicker out
 ---
 
 <a id="last-delivery-before-the-shutter"></a>
-### 144. 卷帘门落下前的最后一单
+### 143. 卷帘门落下前的最后一单
 
 卷帘门落下前的最后一单，来自 @bmx_ai13 的原始提示词。
 
@@ -9606,7 +9573,7 @@ NEGATIVE: No cuts, no transitions, no slow motion, no freeze frames, no bicycle,
 ---
 
 <a id="snap-zoom-into-a-pink-collar"></a>
-### 145. 粉色衣领的快速变焦
+### 144. 粉色衣领的快速变焦
 
 粉色衣领的快速变焦，来自 @ai_artworkgen 的原始提示词。
 
@@ -9637,7 +9604,7 @@ One continuous shot, no cuts, the camera body never leaves its position. 0-2s: h
 ---
 
 <a id="bat-swarm-over-a-gothic-belfry"></a>
-### 146. 哥特钟楼上空的蝙蝠群
+### 145. 哥特钟楼上空的蝙蝠群
 
 哥特钟楼上空的蝙蝠群，来自 @Shinebynous 的原始提示词。
 
@@ -9668,7 +9635,7 @@ A colossal bat swarm blotting the sky, leathery wings in inky ebony and subtle w
 ---
 
 <a id="kling-4-0-vs-hailuo-h3-the-evenings-first-star"></a>
-### 147. Kling 4.0 与 Hailuo H3：夜空中的第一颗星
+### 146. Kling 4.0 与 Hailuo H3：夜空中的第一颗星
 
 Kling 4.0 与 Hailuo H3：夜空中的第一颗星，来自 @Iancu_ai 的原始提示词。
 
@@ -9713,7 +9680,7 @@ Sound: city ambience only, wind, train, rain, the rain fading to quiet in the la
 ---
 
 <a id="camcorder-footage-of-a-city-monster"></a>
-### 148. 城市巨兽的手持摄影记录
+### 147. 城市巨兽的手持摄影记录
 
 城市巨兽的手持摄影记录，来自 @CaptainHaHaa 的原始提示词。
 
@@ -9775,7 +9742,7 @@ The raw recorded destruction carries the entire scene.
 ---
 
 <a id="first-contact-ambush-beneath-twin-suns"></a>
-### 149. 双日之下的首次接触伏击
+### 148. 双日之下的首次接触伏击
 
 双日之下的首次接触伏击，来自 @Alin_Reaper05 的原始提示词。
 
@@ -9806,7 +9773,7 @@ On a mysterious alien planet beneath two enormous glowing suns, a female astrona
 ---
 
 <a id="kling-4-0-vs-wan-3-0-the-couriers-missing-television-head"></a>
-### 150. Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋
+### 149. Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋
 
 Kling 4.0 与 Wan 3.0：快递员遗落的电视脑袋，来自 @baskojpeg 的原始提示词。
 
@@ -9914,7 +9881,7 @@ VHS look, glossy 3D, human CRT face, extra fighters, duplicate head, organic nec
 ---
 
 <a id="a-night-city-selfie-walk"></a>
-### 151. 城市夜游自拍
+### 150. 城市夜游自拍
 
 城市夜游自拍，来自 @msjiaozhu 的原始提示词。
 
@@ -9945,7 +9912,7 @@ VHS look, glossy 3D, human CRT face, extra fighters, duplicate head, organic nec
 ---
 
 <a id="lightning-and-fire-rooftop-duel"></a>
-### 152. 屋顶雷电与烈焰对决
+### 151. 屋顶雷电与烈焰对决
 
 屋顶雷电与烈焰对决，来自 @tirtaVEX 的原始提示词。
 
@@ -9990,7 +9957,7 @@ VHS look, glossy 3D, human CRT face, extra fighters, duplicate head, organic nec
 ---
 
 <a id="battle-beneath-an-alien-ring"></a>
-### 153. 外星巨环下的战场
+### 152. 外星巨环下的战场
 
 外星巨环下的战场，来自 @Alin_Reaper05 的原始提示词。
 
@@ -10021,7 +9988,7 @@ Dozens of armored soldiers fight across an enormous desert battlefield beneath a
 ---
 
 <a id="luxury-skincare-asmr-sequence"></a>
-### 154. 奢华护肤 ASMR 片段
+### 153. 奢华护肤 ASMR 片段
 
 奢华护肤 ASMR 片段，来自 @yourPlugAI 的原始提示词。
 
@@ -10094,7 +10061,7 @@ Generate a continuous 30-second hyper-realistic luxury beauty ASMR sequence at 6
 ---
 
 <a id="the-tiny-cloud-creature"></a>
-### 155. 迷你云朵生物
+### 154. 迷你云朵生物
 
 迷你云朵生物，来自 @Strength04_X 的原始提示词。
 
@@ -10137,7 +10104,7 @@ Duration: 30 seconds. Aspect ratio: 16:9. 4K cinematic quality. Preserve the sam
 ---
 
 <a id="cat-rides-the-robot-vacuum"></a>
-### 156. 猫咪骑上扫地机器人
+### 155. 猫咪骑上扫地机器人
 
 猫咪骑上扫地机器人，来自 @aiIgnatius 的原始提示词。
 
@@ -10168,7 +10135,7 @@ Style: Photorealistic, 8K telephoto wildlife look, living room as savannah, hush
 ---
 
 <a id="skateboarder-in-the-moonlit-forest"></a>
-### 157. 月夜森林中的滑板少女
+### 156. 月夜森林中的滑板少女
 
 月夜森林中的滑板少女，来自 @MahiraEhan 的原始提示词。
 
@@ -10199,7 +10166,7 @@ Nighttime medium shot of a girl skateboarding swiftly through a dark, cold fores
 ---
 
 <a id="rocket-powered-perfume-bottle"></a>
-### 158. 火箭动力香水瓶
+### 157. 火箭动力香水瓶
 
 火箭动力香水瓶，来自 @AIWithRay 的原始提示词。
 
@@ -10230,7 +10197,7 @@ Cinematic, photoreal night scene on a black stage inside a giant hangar. A tower
 ---
 
 <a id="a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison"></a>
-### 159. 相机粉碎并重建东京：Kling 4.0 模型对比
+### 158. 相机粉碎并重建东京：Kling 4.0 模型对比
 
 相机粉碎并重建东京：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。
 
@@ -10276,7 +10243,7 @@ Visual direction: Seamless match cuts, extreme camera movement, realistic physic
 ---
 
 <a id="janes-wasteland-freerunning"></a>
-### 160. 简的废土跑酷
+### 159. 简的废土跑酷
 
 简的废土跑酷，来自 @DjajaYerry75 的原始提示词。
 
@@ -10366,7 +10333,7 @@ Final result: A relentless, physically grounded 30-second wasteland parkour show
 ---
 
 <a id="exploration-ship-in-a-charged-storm"></a>
-### 161. 带电星云中的探索飞船
+### 160. 带电星云中的探索飞船
 
 带电星云中的探索飞船，来自 @Alin_Reaper05 的原始提示词。
 
@@ -10397,7 +10364,7 @@ An exploration ship maneuvers through a vast cloud of charged gas and floating d
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-autumn-lookbook"></a>
-### 162. Kling 4.0 与 Seedance 2.5：秋日穿搭
+### 161. Kling 4.0 与 Seedance 2.5：秋日穿搭
 
 Kling 4.0 与 Seedance 2.5：秋日穿搭，来自 @YUNTJP 的原始提示词。
 
@@ -10450,7 +10417,7 @@ PhotoReal、人物の描写、肌の質感、物理法則は現実的に正確�
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city"></a>
-### 163. Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市
+### 162. Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市
 
 Kling 4.0 与 Seedance 2.5 对比：逃跑的爵士音符穿过城市，来自 @SocialSight 的原始提示词。
 
@@ -10487,7 +10454,7 @@ Camera: one continuous flowing camera that follows the note through each locatio
 ---
 
 <a id="an-armored-hunter-cooks-dinner"></a>
-### 164. 铠甲猎人的汉堡晚餐
+### 163. 铠甲猎人的汉堡晚餐
 
 铠甲猎人的汉堡晚餐，来自 @tokyo_Valentine 的原始提示词。
 
@@ -10586,7 +10553,7 @@ Avoid duplicated fingers, floating utensils, teleporting ingredients, changing f
 ---
 
 <a id="a-birthday-cake-made-with-love"></a>
-### 165. 充满爱意的生日蛋糕
+### 164. 充满爱意的生日蛋糕
 
 充满爱意的生日蛋糕，来自 @aiwithaly 的原始提示词。
 
@@ -10625,7 +10592,7 @@ Negative Prompt: No character redesign, inconsistent clothing, distorted hands, 
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-the-longship-in-the-storm"></a>
-### 166. Kling 4.0 与 Seedance 2.5：风暴中的维京长船
+### 165. Kling 4.0 与 Seedance 2.5：风暴中的维京长船
 
 Kling 4.0 与 Seedance 2.5：风暴中的维京长船，来自 @PixVerse 的原始提示词。
 
@@ -10788,7 +10755,7 @@ Dense fog, gloom, driving rain, heavy storm clouds, waves washing over the ship,
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set"></a>
-### 167. Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场
+### 166. Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场
 
 Kling 4.0 与 Seedance 2.5：纽约自拍误入电影片场，来自 @PixVerse 的原始提示词。
 
@@ -10875,7 +10842,7 @@ Use real-time motion throughout and only the two specified hard cuts. Maintain c
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-core-day-gym-vlog"></a>
-### 168. Kling 4.0 与 Seedance 2.5：核心训练日记
+### 167. Kling 4.0 与 Seedance 2.5：核心训练日记
 
 Kling 4.0 与 Seedance 2.5：核心训练日记，来自 @YourAlphaMom 的原始提示词。
 
@@ -10937,7 +10904,7 @@ A gym mat area in the evening — mirror wall nearby, water bottle on the floor,
 ---
 
 <a id="a-spark-across-the-dark"></a>
-### 169. 黑夜中的星光火花
+### 168. 黑夜中的星光火花
 
 黑夜中的星光火花，来自 @art_muse 的原始提示词。
 
@@ -10982,7 +10949,7 @@ Keep the same two characters, faces and costumes consistent in every shot. Gentl
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest"></a>
-### 170. Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林
+### 169. Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林
 
 Kling 4.0 与 Seedance 2.5 对比：灯笼温暖哥特森林，来自 @SocialSight 的原始提示词。
 
@@ -11019,7 +10986,7 @@ Camera: slow sideways tracking shot, ending on a wide view of the glowing forest
 ---
 
 <a id="ghost-horses-and-the-pumpkin-carriage-roller-coaster"></a>
-### 171. 幽灵马与南瓜车过山车
+### 170. 幽灵马与南瓜车过山车
 
 幽灵马与南瓜车过山车，来自 @PixVerse 的原始提示词。
 
@@ -11138,7 +11105,7 @@ The living skull remains fixed inside the first carriage throughout. The eight p
 ---
 
 <a id="kling-4-0-vs-2-6-underwater-profile"></a>
-### 172. Kling 4.0 与 2.6：水下侧脸对比
+### 171. Kling 4.0 与 2.6：水下侧脸对比
 
 Kling 4.0 与 2.6：水下侧脸对比，来自 @HBCoop_ 的原始提示词。
 
@@ -11169,7 +11136,7 @@ Close-up underwater profile shot: A young woman with glowing skin and vivid red 
 ---
 
 <a id="kling-4-0-omni-vs-1-6-hallway-to-sun-porch"></a>
-### 173. Kling 4.0 Omni 与 1.6：走向海景阳光房对比
+### 172. Kling 4.0 Omni 与 1.6：走向海景阳光房对比
 
 Kling 4.0 Omni 与 1.6：走向海景阳光房对比，来自 @HBCoop_ 的原始提示词。
 
@@ -11200,7 +11167,7 @@ She smiles as she turns her head slowly to look at something just off camera, th
 ---
 
 <a id="kling-4-0-vs-1-6-underwater-camera-descent"></a>
-### 174. Kling 4.0 与 1.6：水下镜头下潜对比
+### 173. Kling 4.0 与 1.6：水下镜头下潜对比
 
 Kling 4.0 与 1.6：水下镜头下潜对比，来自 @HBCoop_ 的原始提示词。
 
@@ -11233,7 +11200,7 @@ Negative prompt: Artifacts, text, logo, people, modern technology, uneven exposu
 ---
 
 <a id="kling-4-0-omni-vs-3-0-omni-corridor-glance"></a>
-### 175. Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比
+### 174. Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比
 
 Kling 4.0 Omni 与 3.0 Omni：走廊回眸对比，来自 @HBCoop_ 的原始提示词。
 
@@ -11264,7 +11231,7 @@ Realistic Anime-style close-up. A young woman with a messy black bob and a backp
 ---
 
 <a id="a-generous-nobleman-and-the-publicity-bill"></a>
-### 176. 慷慨贵族与宣传账单
+### 175. 慷慨贵族与宣传账单
 
 慷慨贵族与宣传账单，来自 @airina_xyz 的原始提示词。
 
@@ -11354,7 +11321,7 @@ Authentic room tone, distant footsteps, rustling parchment, creaking oak furnitu
 ---
 
 <a id="hamster-rock-star-storyboard"></a>
-### 177. 仓鼠摇滚明星分镜短片
+### 176. 仓鼠摇滚明星分镜短片
 
 仓鼠摇滚明星分镜短片，来自 @EndFolding79421 的原始提示词。
 
@@ -11385,7 +11352,7 @@ The supplied three-panel storyboard showing the hamster playing guitar, the two 
 ---
 
 <a id="a-christmas-dress-code-mix-up"></a>
-### 178. 圣诞派对着装大乌龙
+### 177. 圣诞派对着装大乌龙
 
 圣诞派对着装大乌龙，来自 @bmx_ai13 的原始提示词。
 
@@ -11491,7 +11458,7 @@ Same four people, same costumes and same foyer in every cut. Faces stay beautifu
 ---
 
 <a id="three-mischievous-witches"></a>
-### 179. 三位调皮女巫
+### 178. 三位调皮女巫
 
 三位调皮女巫，来自 @ShamiWeb3 的原始提示词。
 
@@ -11566,7 +11533,7 @@ Photorealism, 3D render, extra fingers, distorted faces, inconsistent hair or ou
 ---
 
 <a id="a-pumpkin-monster-goes-trick-or-treating"></a>
-### 180. 南瓜小怪物的不给糖就捣蛋之旅
+### 179. 南瓜小怪物的不给糖就捣蛋之旅
 
 南瓜小怪物的不给糖就捣蛋之旅，来自 @RizwanAly07 的原始提示词。
 
@@ -11613,7 +11580,7 @@ Cinematic 9:16 vertical video, 4k. The little green pumpkin monster proudly hold
 ---
 
 <a id="a-broomstick-comedy-on-halloween"></a>
-### 181. 万圣节飞天扫帚喜剧
+### 180. 万圣节飞天扫帚喜剧
 
 万圣节飞天扫帚喜剧，来自 @MissDelulu9 的原始提示词。
 
@@ -11662,7 +11629,7 @@ Audio: Natural running footsteps, magical broom whoosh, rushing air, a loud come
 ---
 
 <a id="explorers-beside-a-six-legged-herd"></a>
-### 182. 探索者与六足巨兽群
+### 181. 探索者与六足巨兽群
 
 探索者与六足巨兽群，来自 @Alin_Reaper05 的原始提示词。
 
@@ -11693,7 +11660,7 @@ Three explorers walk through tall grass on an alien plain as a herd of enormous 
 ---
 
 <a id="jaguar-chase-through-the-rainforest"></a>
-### 183. 雨林中的美洲豹追逐
+### 182. 雨林中的美洲豹追逐
 
 雨林中的美洲豹追逐，来自 @PixVerse 的原始提示词。
 
@@ -11747,7 +11714,7 @@ Natural filtered light, cinematic contrast, varied framing, readable handheld mo
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo"></a>
-### 184. Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人
+### 183. Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人
 
 Kling 4.0 与 Seedance 2.5 对比：羊毛毡小幽灵学会吓人，来自 @SocialSight 的原始提示词。
 
@@ -11785,7 +11752,7 @@ Music: playful plucked strings and a bouncy tuba, light and silly with a spooky 
 ---
 
 <a id="a-clay-ghost-learns-to-say-boo"></a>
-### 185. 黏土小幽灵学会吓人
+### 184. 黏土小幽灵学会吓人
 
 黏土小幽灵学会吓人，来自 @JasonHeatony7 的原始提示词。
 
@@ -11824,7 +11791,7 @@ No subtitles.
 ---
 
 <a id="final-round-in-an-underground-boxing-club"></a>
-### 186. 地下拳馆的最后一回合
+### 185. 地下拳馆的最后一回合
 
 地下拳馆的最后一回合，来自 @PixVerse 的原始提示词。
 
@@ -11952,7 +11919,7 @@ No subtitles. No background music.
 ---
 
 <a id="a-lamp-falls-from-space-into-a-room"></a>
-### 187. 台灯从太空落入房间
+### 186. 台灯从太空落入房间
 
 台灯从太空落入房间，来自 @openclipsai 的原始提示词。
 
@@ -12001,7 +11968,7 @@ Sound: deep space hum, rushing wind through the clouds, distant city ambience, t
 ---
 
 <a id="halloween-costume-gym-vlog"></a>
-### 188. 万圣节服装健身日记
+### 187. 万圣节服装健身日记
 
 万圣节服装健身日记，来自 @voyzai 的原始提示词。
 
@@ -12061,7 +12028,7 @@ STORYBOARD (6 shots):
 ---
 
 <a id="coastal-moonfall-english-prompt"></a>
-### 189. 月球逼近海滨城市：英文提示词
+### 188. 月球逼近海滨城市：英文提示词
 
 月球逼近海滨城市：英文提示词，来自 @FlyAIgh 的原始提示词。
 
@@ -12106,7 +12073,7 @@ No subtitles, no watermark.
 ---
 
 <a id="the-elevator-floor-illusion"></a>
-### 190. 电梯地板错觉
+### 189. 电梯地板错觉
 
 电梯地板错觉，来自 @Zyvex_0x 的原始提示词。
 
@@ -12229,7 +12196,7 @@ A raw, real, hilarious prank clip that looks completely genuine: a real guy, rea
 ---
 
 <a id="alien-marketplace-walk"></a>
-### 191. 外星市场漫游
+### 190. 外星市场漫游
 
 外星市场漫游，来自 @Alin_Reaper05 的原始提示词。
 
@@ -12260,7 +12227,7 @@ A human traveler walks through a crowded alien marketplace filled with species o
 ---
 
 <a id="a-continuous-rooftop-parkour-run"></a>
-### 192. 连续屋顶跑酷
+### 191. 连续屋顶跑酷
 
 连续屋顶跑酷，来自 @PixVerse 的原始提示词。
 
@@ -12393,7 +12360,7 @@ No disappearing or deformed glasses, hairstyle changes, clothing-color changes, 
 ---
 
 <a id="the-knight-and-the-haunted-castle"></a>
-### 193. 骑士与闹鬼古堡
+### 192. 骑士与闹鬼古堡
 
 骑士与闹鬼古堡，来自 @amynys 的原始提示词。
 
@@ -12446,7 +12413,7 @@ Use slow, controlled camera movement, deep blue moonlight, restrained candleligh
 ---
 
 <a id="kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint"></a>
-### 194. Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺
+### 193. Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺
 
 Kling 4.0、Seedance 2.5、MiniMax H3 与 Wan 3.0：下班冲刺，来自 @openclipsai 的原始提示词。
 
@@ -12492,7 +12459,7 @@ Sound: a loud clock click, a slammed laptop, fast footsteps, papers flying, meta
 ---
 
 <a id="a-carriage-through-the-golden-city"></a>
-### 195. 马车穿过金色城市
+### 194. 马车穿过金色城市
 
 马车穿过金色城市，来自 @churvikv 的原始提示词。
 
@@ -12523,7 +12490,7 @@ Textured golden art style, gold foil and glitter texture preserved throughout, n
 ---
 
 <a id="kling-and-seedance-versions-rainy-rooftop-ballet"></a>
-### 196. Kling 与 Seedance 版本对比：雨夜屋顶芭蕾
+### 195. Kling 与 Seedance 版本对比：雨夜屋顶芭蕾
 
 Kling 与 Seedance 版本对比：雨夜屋顶芭蕾，来自 @openclipsai 的原始提示词。
 
@@ -12570,7 +12537,7 @@ Sound: heavy rain on concrete, distant city traffic, the soft scuff of pointe sh
 ---
 
 <a id="foggy-forest-pursuit"></a>
-### 197. 迷雾森林追逐
+### 196. 迷雾森林追逐
 
 迷雾森林追逐，来自 @EndFolding79421 的原始提示词。
 
@@ -12601,7 +12568,7 @@ integrated_multimodal_description: [Shot 1] Live-action 1981 35mm slasher look, 
 ---
 
 <a id="water-powered-bathroom-battle"></a>
-### 198. 水系战士浴室激战
+### 197. 水系战士浴室激战
 
 水系战士浴室激战，来自 @itxabdullaa 的原始提示词。
 
@@ -12662,7 +12629,7 @@ CONTINUITY: One Hero, exactly six enemies. Preserve identity, towel, weapons and
 ---
 
 <a id="voxel-monsters-go-trick-or-treating"></a>
-### 199. 方块怪物讨糖果
+### 198. 方块怪物讨糖果
 
 方块怪物讨糖果，来自 @SocialSight 的原始提示词。
 
@@ -12700,7 +12667,7 @@ Music: cheerful 8-bit chiptune with a spooky minor-key twist.
 ---
 
 <a id="golden-hour-pickup-truck-lookbook"></a>
-### 200. 金色时分的皮卡穿搭短片
+### 199. 金色时分的皮卡穿搭短片
 
 金色时分的皮卡穿搭短片，来自 @jhosephebtc 的原始提示词。
 
@@ -12901,7 +12868,7 @@ Audio: Diegetic sound effects: Tie every cue to a visible physical action or a r
 ---
 
 <a id="a-lemon-filled-sicilian-village-stroll"></a>
-### 201. 西西里小巷里的柠檬漫步
+### 200. 西西里小巷里的柠檬漫步
 
 西西里小巷里的柠檬漫步，来自 @jhosephebtc 的原始提示词。
 
@@ -13102,7 +13069,7 @@ Audio: Diegetic sound effects: Tie every cue to a visible physical action or a r
 ---
 
 <a id="a-cyberpunk-chase-in-the-rain-kling-4-0-comparison"></a>
-### 202. 雨夜赛博朋克追逐：Kling 4.0 模型对比
+### 201. 雨夜赛博朋克追逐：Kling 4.0 模型对比
 
 雨夜赛博朋克追逐：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。
 
@@ -13145,7 +13112,7 @@ Sound: heavy rain, splashing footsteps, distant sirens, deep pulsing synth bass.
 ---
 
 <a id="a-girl-reveals-her-halloween-secret"></a>
-### 203. 女孩的万圣节秘密
+### 202. 女孩的万圣节秘密
 
 女孩的万圣节秘密，来自 @toku8ai 的原始提示词。
 
@@ -13176,7 +13143,7 @@ Sound: heavy rain, splashing footsteps, distant sirens, deep pulsing synth bass.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow"></a>
-### 204. Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦
+### 203. Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦
 
 Kling 4.0 与 Seedance 2.5 对比：稻草人追逐乌鸦，来自 @SocialSight 的原始提示词。
 
@@ -13214,7 +13181,7 @@ Music: driving, tense orchestral strings and pounding drums, ending on a single 
 ---
 
 <a id="a-code-prompt-visual-experiment"></a>
-### 205. 代码提示词视觉实验
+### 204. 代码提示词视觉实验
 
 代码提示词视觉实验，来自 @0thernes_ai 的原始提示词。
 
@@ -13245,7 +13212,7 @@ fn fib(n) { if (n < 2) { return n; } return fib(n - 1) + fib(n - 2); } let prime
 ---
 
 <a id="painted-door-opening-in-a-five-style-kling-4-0-film"></a>
-### 206. Kling 4.0 五种动画风格短片中的绘画风开门
+### 205. Kling 4.0 五种动画风格短片中的绘画风开门
 
 Kling 4.0 五种动画风格短片中的绘画风开门，来自 @HBCoop_ 的原始提示词。
 
@@ -13284,7 +13251,7 @@ Sound: old door hinges creak, boots on wet cobbles, one raven caw, distant wind.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog"></a>
-### 207. Kling 4.0 与 Seedance 2.5：哑铃健身日记
+### 206. Kling 4.0 与 Seedance 2.5：哑铃健身日记
 
 Kling 4.0 与 Seedance 2.5：哑铃健身日记，来自 @YourAlphaMom 的原始提示词。
 
@@ -13346,7 +13313,7 @@ A gym dumbbell area in the evening — weight racks, benches, soft overhead ligh
 ---
 
 <a id="pink-bathroom-skincare-commercial"></a>
-### 208. 粉色浴室护肤广告
+### 207. 粉色浴室护肤广告
 
 粉色浴室护肤广告，来自 @Diplomeme 的原始提示词。
 
@@ -13401,7 +13368,7 @@ Negative prompt: other brands, wrong packaging, micellar cleansing water wording
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon"></a>
-### 209. Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇
+### 208. Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇
 
 Kling 4.0 与 Seedance 2.5 对比：烘焙月亮的小镇，来自 @SocialSight 的原始提示词。
 
@@ -13439,7 +13406,7 @@ Music: gentle music-box melody with soft strings, building into a warm, sweeping
 ---
 
 <a id="alien-shooter-at-a-neon-spaceport"></a>
-### 210. 霓虹太空港异星射击
+### 209. 霓虹太空港异星射击
 
 霓虹太空港异星射击，来自 @aymducking 的原始提示词。
 
@@ -13485,7 +13452,7 @@ Audio: heavy rain and thunder, electric plasma bursts, wet sizzling impacts, ali
 ---
 
 <a id="kling-4-0-vs-veo-3-1-blazer-try-on-and-spin"></a>
-### 211. Kling 4.0 与 Veo 3.1：西装试穿与转身
+### 210. Kling 4.0 与 Veo 3.1：西装试穿与转身
 
 Kling 4.0 与 Veo 3.1：西装试穿与转身，来自 @kodavid 的原始提示词。
 
@@ -13516,7 +13483,7 @@ Handheld UGC try-on clip in a sunlit loft studio. The woman swings the camel woo
 ---
 
 <a id="a-japanese-town-from-a-3d-previsualization"></a>
-### 212. 从三维预演到日本小镇
+### 211. 从三维预演到日本小镇
 
 从三维预演到日本小镇，来自 @boke_ai 的原始提示词。
 
@@ -13547,7 +13514,7 @@ Re-film 视频1 as live-action footage of one real Japanese suburban town, filme
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy"></a>
-### 213. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧
+### 212. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧
 
 Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：冷面动作喜剧，来自 @openclipsai 的原始提示词。
 
@@ -13586,7 +13553,7 @@ Cinematic 16:9 live action, 10 seconds, night, played as deadpan comedy. The wom
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt"></a>
-### 214. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）
+### 213. Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词）
 
 Kling 4.0、Seedance 2.5、Wan 3.0 与 MiniMax H3：香槟塔（英文提示词），来自 @FlyAIgh 的原始提示词。
 
@@ -13627,7 +13594,7 @@ No subtitles, no watermark, and apart from the guests, no main characters other 
 ---
 
 <a id="the-prince-and-baba-cloantas-bell"></a>
-### 215. 王子与森林女巫的铃铛
+### 214. 王子与森林女巫的铃铛
 
 王子与森林女巫的铃铛，来自 @airina_xyz 的原始提示词。
 
@@ -13685,7 +13652,7 @@ AUDIO: Romanian dialogue, creaking woodland branches, distant crows, wind, foots
 ---
 
 <a id="the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison"></a>
-### 216. 猫咪推落台面上的杯子：Kling 4.0 模型对比
+### 215. 猫咪推落台面上的杯子：Kling 4.0 模型对比
 
 猫咪推落台面上的杯子：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。
 
@@ -13716,7 +13683,7 @@ Realistic 16:9 home video, 10 seconds, a bright modern kitchen in daylight, stat
 ---
 
 <a id="a-paper-pop-up-city-unfolds-from-a-book"></a>
-### 217. 书中展开的纸艺城市
+### 216. 书中展开的纸艺城市
 
 书中展开的纸艺城市，来自 @kodavid 的原始提示词。
 
@@ -13747,7 +13714,7 @@ A thick hardcover book lies open on a wooden desk in a cozy lamp-lit study. A wh
 ---
 
 <a id="seven-travel-moments-and-a-surprise-catch"></a>
-### 218. 七段旅行与意外接抱
+### 217. 七段旅行与意外接抱
 
 七段旅行与意外接抱，来自 @itxsarmadd 的原始提示词。
 
@@ -13810,7 +13777,7 @@ GOAL: Seven playful spontaneous travel moments, consistent identities, accurate 
 ---
 
 <a id="the-huntress-and-the-leaf-eating-dinosaur"></a>
-### 219. 女猎人与吃树叶的恐龙
+### 218. 女猎人与吃树叶的恐龙
 
 女猎人与吃树叶的恐龙，来自 @TaliaAariz 的原始提示词。
 
@@ -13841,7 +13808,7 @@ Cinematic vertical video, 9:16, photorealistic. A tribal huntress with long dark
 ---
 
 <a id="two-fighters-on-the-grassland"></a>
-### 220. 草原上的超能力对决
+### 219. 草原上的超能力对决
 
 草原上的超能力对决，来自 @itxabdullaa 的原始提示词。
 
@@ -13898,7 +13865,7 @@ NEGATIVE: No identity or outfit changes, extra limbs, duplicated characters, wei
 ---
 
 <a id="the-frost-empress-and-the-last-hunter"></a>
-### 221. 冰霜女皇与最后的猎人
+### 220. 冰霜女皇与最后的猎人
 
 冰霜女皇与最后的猎人，来自 @itxabdullaa 的原始提示词。
 
@@ -13961,7 +13928,7 @@ NEGATIVE PROMPT: No cartoon, anime, inconsistent faces, outfit changes, extra li
 ---
 
 <a id="rica-and-the-fall-of-the-gods"></a>
-### 222. 莉卡与诸神陨落
+### 221. 莉卡与诸神陨落
 
 莉卡与诸神陨落，来自 @itxsarmadd 的原始提示词。
 
@@ -14014,7 +13981,7 @@ STRICT NEGATIVES: No identity, face, outfit or sword changes. No duplicate Rica,
 ---
 
 <a id="twin-clones-at-a-coastal-overlook"></a>
-### 223. 海岸观景台的双生错觉
+### 222. 海岸观景台的双生错觉
 
 海岸观景台的双生错觉，来自 @dreamydigiarts 的原始提示词。
 
@@ -14061,7 +14028,7 @@ Style:Cinematic photography, photorealistic leather, matte non-reflective sungla
 ---
 
 <a id="lala-faces-cerberus"></a>
-### 224. 拉拉对战三头犬
+### 223. 拉拉对战三头犬
 
 拉拉对战三头犬，来自 @chatgptpaglu 的原始提示词。
 
@@ -14110,7 +14077,7 @@ STRICT RULES: Exact identities and anatomy, consistent scale and distance, persi
 ---
 
 <a id="two-sisters-escape-the-infected-city"></a>
-### 225. 姐妹逃离感染之城
+### 224. 姐妹逃离感染之城
 
 姐妹逃离感染之城，来自 @itxsarmadd 的原始提示词。
 
@@ -14183,7 +14150,7 @@ Exact identities, outfits and 14-shot order. Exactly 30 seconds. No duplicated z
 ---
 
 <a id="until-we-meet-again-in-black-and-white"></a>
-### 226. 黑白动画中的重逢约定
+### 225. 黑白动画中的重逢约定
 
 黑白动画中的重逢约定，来自 @itxabdullaa 的原始提示词。
 
@@ -14236,7 +14203,7 @@ Negative prompt: Color, photorealism, 3D CGI, inconsistent character faces, dist
 ---
 
 <a id="the-fluffy-cat-s-flower-garden"></a>
-### 227. 毛茸茸猫咪的花园
+### 226. 毛茸茸猫咪的花园
 
 毛茸茸猫咪的花园，来自 @itxsarmadd 的原始提示词。
 
@@ -14290,7 +14257,7 @@ Negative Prompt: No aggressive behavior, forced handling, unsafe grooming, uncom
 ---
 
 <a id="the-magical-hidden-world"></a>
-### 228. 奇幻隐秘世界
+### 227. 奇幻隐秘世界
 
 奇幻隐秘世界，来自 @CaliraVal 的原始提示词。
 
@@ -14321,7 +14288,7 @@ The Magical Hidden World – 30 Seconds Create a breathtaking, ultra-realistic c
 ---
 
 <a id="a-hidden-world-beyond-the-waterfall"></a>
-### 229. 瀑布后的隐秘世界
+### 228. 瀑布后的隐秘世界
 
 瀑布后的隐秘世界，来自 @alixbuilds 的原始提示词。
 
@@ -14352,7 +14319,7 @@ Create an ultra-realistic cinematic adventure video, exactly 30 seconds long, in
 ---
 
 <a id="an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison"></a>
-### 230. 韩国美甲店的午后：Kling 4.0 模型对比
+### 229. 韩国美甲店的午后：Kling 4.0 模型对比
 
 韩国美甲店的午后：Kling 4.0 模型对比，来自 @doctorwasif 的原始提示词。
 
@@ -14399,7 +14366,7 @@ Overall Feeling: An ordinary, charming afternoon in South Korea in 2004, capture
 ---
 
 <a id="a-restaurant-kitchen-fight"></a>
-### 231. 餐厅厨房动作对决
+### 230. 餐厅厨房动作对决
 
 餐厅厨房动作对决，来自 @Just_sharon7 的原始提示词。
 
@@ -14568,7 +14535,7 @@ FINAL DIRECTIVE: Every fight movement must feel powerful, dangerous, fast, and c
 ---
 
 <a id="the-falling-champagne-tower-kling-4-0-comparison"></a>
-### 232. 倒塌的香槟塔：Kling 4.0 模型对比
+### 231. 倒塌的香槟塔：Kling 4.0 模型对比
 
 倒塌的香槟塔：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。
 
@@ -14599,7 +14566,7 @@ Cinematic 10-second shot in an elegant Art Deco cocktail bar at night, warm gold
 ---
 
 <a id="a-monaco-coastal-car-chase-kling-4-0-comparison"></a>
-### 233. 摩纳哥海岸公路追逐：Kling 4.0 模型对比
+### 232. 摩纳哥海岸公路追逐：Kling 4.0 模型对比
 
 摩纳哥海岸公路追逐：Kling 4.0 模型对比，来自 @Dheepanratnam 的原始提示词。
 
@@ -14658,7 +14625,7 @@ Transcript:
 ---
 
 <a id="a-journey-into-the-underwater-kingdom"></a>
-### 234. 探访水下王国
+### 233. 探访水下王国
 
 探访水下王国，来自 @SadiaMalik182 的原始提示词。
 
@@ -14689,7 +14656,7 @@ Create a 30-second ultra-realistic cinematic video of a breathtaking underwater 
 ---
 
 <a id="a-snowy-cinematic-love-story"></a>
-### 235. 雪中的电影感爱情故事
+### 234. 雪中的电影感爱情故事
 
 雪中的电影感爱情故事，来自 @MahiraEhan 的原始提示词。
 
@@ -14736,7 +14703,7 @@ CONTINUITY: Maintain identical faces, outfits, body positions, and ONE shared bl
 ---
 
 <a id="a-stop-motion-thanksgiving-surprise"></a>
-### 236. 定格动画感恩节惊喜
+### 235. 定格动画感恩节惊喜
 
 定格动画感恩节惊喜，来自 @heathergreen 的原始提示词。
 
@@ -14783,7 +14750,7 @@ Comedic Thanksgiving horror atmosphere.
 ---
 
 <a id="an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison"></a>
-### 237. 穿越卷浪的FPV飞行：Kling 4.0 模型对比
+### 236. 穿越卷浪的FPV飞行：Kling 4.0 模型对比
 
 穿越卷浪的FPV飞行：Kling 4.0 模型对比，来自 @openclipsai 的原始提示词。
 
@@ -14820,7 +14787,7 @@ Comedic Thanksgiving horror atmosphere.
 ---
 
 <a id="a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison"></a>
-### 238. 游戏街区的地精盗窃行动：Kling 4.0 模型对比
+### 237. 游戏街区的地精盗窃行动：Kling 4.0 模型对比
 
 游戏街区的地精盗窃行动：Kling 4.0 模型对比，来自 @SocialSight 的原始提示词。
 
@@ -14852,6 +14819,76 @@ Music: sneaky, plucky bass during the stealth, exploding into a dramatic action 
 - 提示词语言: 英语
 - 作者: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
 - 来源: <a href="https://x.com/SocialSight/status/2119430398178415032" rel="nofollow noreferrer" referrerpolicy="no-referrer">提示词原帖</a> · <a href="https://x.com/SocialSight/status/2119430396894974197" rel="nofollow noreferrer" referrerpolicy="no-referrer">视频原帖</a>
+- 模型: Kling 4.0
+
+
+---
+
+<a id="an-awkward-coffee-seating-mix-up"></a>
+### 238. 咖啡馆里的尴尬坐席误会
+
+咖啡馆里的尴尬坐席误会，来自 @MeenakshiYACS 的原始提示词。
+
+<details>
+<summary>提示词原文</summary>
+
+```text
+21 seconds, vertical 9:16.
+
+Strictly recreate the reference video Video 1.
+
+Character references:
+Image 1 (man, left)
+Image 2 (woman, right)
+
+Background reference: Image 3
+
+Preserve exact character identities, facial features, outfits and background.
+
+Create a realistic, funny cinematic coffee scene with comedic background music.
+
+Camera: One continuous, uninterrupted static shot. Front-facing, eye-level, medium-wide framing. Both characters and seats remain visible. No cuts, zooms, camera movement or transitions.
+
+00:00–00:05.8
+The man sits casually on the elevated surface on the left, with both legs resting on the windowsill. He holds a takeaway coffee cup, occasionally glances at the camera with a puzzled expression, sips coffee and looks around naturally.
+
+00:05.8–00:07.8
+The woman enters naturally from the far right, holding coffee, and walks toward the right seat. The man briefly notices her and casually looks away.
+
+00:07.8–00:09.8
+The woman removes her shoulder bag, places it beside her, sits naturally and places her coffee on the small round table.
+
+00:09.8–00:15.0
+She crosses her legs, picks up her coffee, takes occasional sips and looks outside the window. The man continues relaxing with his legs on the windowsill, casually drinking coffee.
+
+00:15.0–00:18.2
+The man suddenly realizes he is sitting on a TABLE, not a seat! Show genuine surprise and confusion. He quickly pulls his legs back, secures his coffee, climbs down and moves onto the proper left seat. Make the movement natural, slightly hurried and mildly embarrassing.
+
+00:18.2–00:21.0
+The man finally sits properly beside the woman, imitating her normal seated posture. Both casually sip coffee and look forward.
+
+Strict constraints:
+Match the reference video's exact action order, timing, screen positions, entrance direction and sitting poses. Maintain realistic body movements and consistent character identities.
+
+No extra characters, props, dialogue or invented events. No teleportation, body distortion, floating objects, duplicated movements or ending loops.
+
+End with a stable side-by-side seated composition.
+```
+
+</details>
+
+#### 视频
+
+<a href="https://x.com/MeenakshiYACS/status/2119681759256465716" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2119681253255634944/img/657TzIg9MeIuUt8f.jpg" alt="咖啡馆里的尴尬坐席误会" width="700" /></a>
+
+点击封面查看原帖视频。
+
+#### 作品信息
+
+- 发布于: 2026-11-09 (UTC)
+- 提示词语言: 英语
+- 作者: <a href="https://x.com/MeenakshiYACS" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MeenakshiYACS</a>
+- 来源: <a href="https://x.com/MeenakshiYACS/status/2119681759256465716" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
 - 模型: Kling 4.0
 
 
