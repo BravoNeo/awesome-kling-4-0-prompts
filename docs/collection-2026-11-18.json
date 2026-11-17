@@ -235,7 +235,7 @@
     "x-2120333668518633659",
     "x-2118935687575593272",
     "x-2118788480792928401",
-    "x-2111843371090378765",
+    "x-2119681759256465716",
     "x-2108590903946559787",
     "x-2107695270129709378",
     "x-2106963076520329457",
@@ -953,6 +953,7 @@
     "2119459180339720609: first-person alien battlefield prompt paired with supermarket video",
     "2118559877987766519: kitten prompt paired with hedgehog video",
     "2118564583728132323: video includes platform workflow screen recording",
-    "2117618791286710351: duplicate gnome prompt in a book-village thread; source binding inconsistent"
+    "2117618791286710351: duplicate gnome prompt in a book-village thread; source binding inconsistent",
+    "2111843371090378765: normalized prompt duplicates an existing creator source; replaced with a distinct coffee-seating work"
   ]
 }
