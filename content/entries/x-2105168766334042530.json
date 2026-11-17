@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105168766334042530",
+  "slug": "into-the-infinite-sky",
+  "title": {
+    "en": "Into the Infinite Sky",
+    "zh": "进入无尽天空"
+  },
+  "description": {
+    "en": "Into the Infinite Sky — original prompt by @bmx_ai13.",
+    "zh": "进入无尽天空，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105168764681453666",
+    "sourceTextOriginal": "INTO THE INFINITE SKY\n\nMade with Kling 4.0 Flash @Kling_ai 15s, 16:9 vertical | Photorealistic cinematic surrealism, 24fps, 180 degree shutter, subtle 35mm film grain, natural HDR.\n\nPrompt 👇\n#Kling4 #KlingAI #klingECP"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2105168766334042530",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2105168764681453666",
+  "conversationId": "2105168764681453666",
+  "originalLanguage": "en",
+  "originalPrompt": "CRITICAL: Perfect character continuity across every shot. One lone athletic man, bare-chested, simple dark charcoal athletic shorts, barefoot, short dark hair, lean defined build, same body and hair in every frame. No wings, no superhero suit, no costume, no visible technology. Anatomy stays correct at all times: two arms, two legs, no extra limbs, no warped or floating body parts, no sudden pose changes.\n\nSUBJECT LOCK: The man is 30s, athletic, natural muscle definition, tanned skin with visible pores and subtle sweat sheen. Dark charcoal shorts only. Hair and shorts react naturally to wind in every shot.\n\nWORLD PLATE: A tiny grassy cliff floats impossibly high above an endless ocean of dense volumetric silver-white clouds thousands of meters below. Gigantic pale twisted cable-like structures stretch across the cloudscape and vanish into infinity. A colossal luminous planetary ring system crosses the sky diagonally, filled with countless bright parallel streaks catching sunlight. Massive distant floating rock formations sit partially silhouetted in the sky. Clear blue upper atmosphere, brilliant sunlight, realistic aerial haze, strong atmospheric perspective. The structures feel physically present and real, never abstract or psychedelic.\n\nPALETTE: Cool blue sky, soft silver-white clouds, muted natural green grass, dark charcoal shorts, bright white ring highlights. Realistic sunlight with deep shadows and true highlights. Slight dreamy softness while textures stay sharp and photoreal.\n\nSHOT 1 (0-3s): Wide cinematic rear shot, low angle. The man stands at the edge of the grassy plateau facing the impossible cloud world, his long shadow stretching behind him. After a brief still moment he bursts into a run toward the cliff edge. The camera tracks smoothly behind and low to the grass, building speed with him. Accurate foot contact, real momentum and body weight, grass blades bending under each step. Giant celestial structures dominate the background.\n\nSHOT 2 (3-5s): He reaches the edge and launches forward into empty space. The camera follows the leap as the ground vanishes beneath him. It begins as a real human dive, arms extending naturally, then eases into a smooth horizontal glide. Reveal the enormous vertical depth of the clouds below him.\n\nSHOT 3 (5-9s): Cut to a dramatic fast side-profile tracking close shot. He flies rapidly just above the cloud tops. Wind pushes across his body and hair, muscles subtly reacting to the airflow. One colossal twisted structure passes overhead, emphasizing scale and speed. Clouds streak beneath him with strong parallax, sunlight flashing across his skin, realistic motion blur.\n\nSHOT 4 (9-15s): Epic rear pursuit shot, centered composition. The camera follows directly behind him as he flies deeper into the surreal world. Two gigantic twisted pathways stretch forward on either side of him. Far ahead the luminous rings rise across the entire sky while a huge dark floating rock formation hangs overhead. Slowly pull the camera wider as he becomes smaller against the vast scale. Final beat: he continues toward the brilliant horizon, arms slightly open, surrounded by clouds and celestial architecture.\n\nCAMERA: Smooth cinematic tracking only, no handheld shake. Grounded low-angle tracking, then wide aerial perspective, then fast side-profile tracking, then centered rear chase. Strong foreground-to-background parallax.\n\nMOTION: Flight is smooth and aerodynamic, controlled and human, never stiff or superhero-like. Hair, clouds and atmospheric particles react naturally to strong high-altitude wind.\n\nSOUND BED: Diegetic and atmospheric only, no dialogue. Quiet high-altitude wind and distant ambience at open. Footsteps accelerate across grass. A powerful wind rush hits at the leap. During flight build layered deep air movement, subtle cinematic bass and expansive melodic progressive-trance energy. Close on an uplifting atmospheric swell as he disappears into the infinite landscape.\n\nLAST FRAME: The man small in the center of the frame flying toward the bright horizon, arms slightly open, clouds and twisted structures on both sides, luminous rings above. No on-screen text, no subtitles, no logos, no watermarks, no UI elements, no branding of any kind.",
+  "originalPromptSha256": "ec2e479b7a98a6b61827f9bc7a30d70379bd2c1011d12732a953487fb36a73d9",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Into the Infinite Sky",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2105063462594543616",
+    "url": "https://video.twimg.com/amplify_video/2105063462594543616/vid/avc1/1280x720/BSTcQiX8lCjLQBwX.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105063462594543616/vid/avc1/1280x720/BSTcQiX8lCjLQBwX.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105168764681453666",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105063462594543616/img/CadRYb4bW0DJ7mbc.jpg",
+    "durationSecondsReported": 15.092,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 15.13941,
+    "publishedAt": "2026-09-30T05:32:00Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

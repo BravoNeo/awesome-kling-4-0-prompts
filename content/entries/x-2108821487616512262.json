@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2108821487616512262",
+  "slug": "the-first-game-boy-commercial-1989-kling-4-0-comparison",
+  "title": {
+    "en": "The First Game Boy Commercial, 1989 — Kling 4.0 Comparison",
+    "zh": "1989年的首支Game Boy广告：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "The First Game Boy Commercial, 1989 — Kling 4.0 Comparison — original prompt by @Dheepanratnam.",
+    "zh": "1989年的首支Game Boy广告：Kling 4.0 模型对比，来自 @Dheepanratnam 的原始提示词。"
+  },
+  "author": {
+    "handle": "Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Dheepanratnam/status/2108821487616512262",
+    "sourceTextOriginal": "Prompt: “The first Game Boy commercial 1989”\n\nKling 4.0 Flash (20s) vs Seedance 2.5 (30s) -raw outputs\n\nKling: Cozy living-room scene, two kids locked on Tetris while the sister watches, ends on the classic \n“Now you’re playing with power!” tag + product shot. Feels the most like an actual late-80s family ad.\n\nSeedance: More cinematic montage \nglowing cartridge insert, park bench, intense bedroom close-up, city street, big product hero shot. \nStronger lighting and drama, but the tagline becomes “It’s a whole new world.”\n\nBoth capture the chunky gray brick and green-screen Tetris energy. Both also completely melt the tiny text on the Game Boy (classic AI struggle).\n\nWhich one feels closer to the real 1989 vibe? 🎮\n#AIVideo #GameBoy #KlingAI #Seedance @Kling_ai"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Dheepanratnam/status/2108821487616512262",
+  "videoSourceUrl": "https://x.com/Dheepanratnam/status/2108821487616512262",
+  "conversationId": "2108821487616512262",
+  "originalLanguage": "en",
+  "originalPrompt": "“The first Game Boy commercial 1989”",
+  "originalPromptSha256": "d3d47d61d9be1aace707453071aa94944807e5e79bcaafa135025a17afcce402",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "product"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "products"
+    ]
+  },
+  "tags": [
+    "The First Game Boy Commercial, 1989 — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "product"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2108821348596293632",
+    "url": "https://video.twimg.com/amplify_video/2108821348596293632/vid/avc1/960x960/zlrKTBpr5fsb5Tju.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2108821348596293632/vid/avc1/960x960/zlrKTBpr5fsb5Tju.mp4?tag=29",
+    "sourceUrl": "https://x.com/Dheepanratnam/status/2108821487616512262",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2108821348596293632/img/kqqA_DzVymTflZOK.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      960,
+      960
+    ],
+    "playbackVerified": true,
+    "widthObserved": 960,
+    "heightObserved": 960,
+    "durationSecondsObserved": 20.108481,
+    "publishedAt": "2026-10-10T07:26:37Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

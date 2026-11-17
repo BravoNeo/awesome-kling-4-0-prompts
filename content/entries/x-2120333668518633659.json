@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2120333668518633659",
+  "slug": "a-coffee-spill-becomes-a-kitchen-comedy",
+  "title": {
+    "en": "A Coffee Spill Becomes a Kitchen Comedy",
+    "zh": "咖啡洒落引发厨房喜剧"
+  },
+  "description": {
+    "en": "A Coffee Spill Becomes a Kitchen Comedy — original prompt by @Sharjeelai_786.",
+    "zh": "咖啡洒落引发厨房喜剧，来自 @Sharjeelai_786 的原始提示词。"
+  },
+  "author": {
+    "handle": "Sharjeelai_786",
+    "url": "https://x.com/Sharjeelai_786"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Sharjeelai_786/status/2120333668518633659",
+    "sourceTextOriginal": "All I wanted was a cup of coffee… ☕😂\n\nThen the coffee spilled, the milk went everywhere, and suddenly it became an action scene. \n\nRecreated with kling 4.0 on @WizstarAI\n \nGet started through my exclusive link!\n\nhttps://wizstar.pxf.io/c/7716719/3962423/55236 \n\nPrompt : \n\nCreate a realistic 17-second vertical 9:16 cinematic lifestyle video set in a warm, modern home kitchen.\n\nA young woman with long curly brown hair, wearing a cozy beige sweater and dark pants, stands at a kitchen counter preparing coffee. A young man in a dark navy sweater works casually in the background.\n\nThe woman places a red ceramic coffee mug on the countertop and prepares to make coffee. She uses a spoon to scoop instant coffee powder from a jar and accidentally spills a small pile of coffee powder onto the countertop. She looks down at the mess with a surprised but amused expression.\n\nShe then continues preparing the coffee while the man notices what happened and reacts with a confused, slightly amused expression. Near the end, milk suddenly spills dramatically across the countertop, spreading outward in an exaggerated but physically realistic splash. Both characters react naturally with surprise.\n\nUse photorealistic human characters, natural facial expressions, realistic hand movements, accurate coffee and milk physics, detailed kitchen environment, warm indoor lighting, shallow depth of field, subtle handheld camera movement, realistic textures, natural body motion, and cinematic composition.\n\nKeep the coffee jar, mug, characters, clothing, kitchen layout, and object positions visually consistent throughout the entire video. No text, subtitles, logos, or unnatural morphing.\n\nStyle: ultra-realistic cinematic lifestyle commercial, authentic home-video feel, high detail, natural lighting, smooth motion, 4K quality.\nAspect ratio: 9:16\nDuration: 17 seconds \n\n#WizstarPartner #Wizstar \n#AIVideo #AIContent #CinematicAI"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Sharjeelai_786/status/2120333668518633659",
+  "videoSourceUrl": "https://x.com/Sharjeelai_786/status/2120333668518633659",
+  "conversationId": "2120333668518633659",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a realistic 17-second vertical 9:16 cinematic lifestyle video set in a warm, modern home kitchen.\n\nA young woman with long curly brown hair, wearing a cozy beige sweater and dark pants, stands at a kitchen counter preparing coffee. A young man in a dark navy sweater works casually in the background.\n\nThe woman places a red ceramic coffee mug on the countertop and prepares to make coffee. She uses a spoon to scoop instant coffee powder from a jar and accidentally spills a small pile of coffee powder onto the countertop. She looks down at the mess with a surprised but amused expression.\n\nShe then continues preparing the coffee while the man notices what happened and reacts with a confused, slightly amused expression. Near the end, milk suddenly spills dramatically across the countertop, spreading outward in an exaggerated but physically realistic splash. Both characters react naturally with surprise.\n\nUse photorealistic human characters, natural facial expressions, realistic hand movements, accurate coffee and milk physics, detailed kitchen environment, warm indoor lighting, shallow depth of field, subtle handheld camera movement, realistic textures, natural body motion, and cinematic composition.\n\nKeep the coffee jar, mug, characters, clothing, kitchen layout, and object positions visually consistent throughout the entire video. No text, subtitles, logos, or unnatural morphing.\n\nStyle: ultra-realistic cinematic lifestyle commercial, authentic home-video feel, high detail, natural lighting, smooth motion, 4K quality.\nAspect ratio: 9:16\nDuration: 17 seconds",
+  "originalPromptSha256": "45ef476b17d13750834b0ae940270a78f0d96c4f31a6d3e845f4b9e0ced00362",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Coffee Spill Becomes a Kitchen Comedy",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2120333595181199360",
+    "url": "https://video.twimg.com/amplify_video/2120333595181199360/vid/avc1/720x1280/9WQavDJWGqdJAY3d.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2120333595181199360/vid/avc1/720x1280/9WQavDJWGqdJAY3d.mp4?tag=29",
+    "sourceUrl": "https://x.com/Sharjeelai_786/status/2120333668518633659",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120333595181199360/img/3G7ad8MZgwf2sswW.jpg",
+    "durationSecondsReported": 17.066,
+    "aspectRatioReported": [
+      720,
+      1280
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 1280,
+    "durationSecondsObserved": 17.113107,
+    "publishedAt": "2026-11-11T01:51:55Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

@@ -5,12 +5,12 @@ from catalog import load_entries, validate_entries
 from generate import build_outputs, generate
 
 class CatalogTests(unittest.TestCase):
-    def test_two_hundred_source_linked_prompts(self):
+    def test_two_hundred_fifty_source_linked_prompts(self):
         entries=load_entries()
-        self.assertEqual(len(entries),200)
-        self.assertEqual(len({e['originalPromptSha256'] for e in entries}),200)
-        self.assertEqual(sum(e['modelClaim']['variant']=='full' for e in entries),193)
-        self.assertEqual(sum(e['modelClaim']['variant']=='flash' for e in entries),7)
+        self.assertEqual(len(entries),250)
+        self.assertEqual(len({e['originalPromptSha256'] for e in entries}),250)
+        self.assertEqual(sum(e['modelClaim']['variant']=='full' for e in entries),233)
+        self.assertEqual(sum(e['modelClaim']['variant']=='flash' for e in entries),17)
         self.assertTrue(all(e['modelClaim']['name']=='Kling 4.0' and not e['modelClaim']['independentlyVerified'] for e in entries))
     def test_unverified_playback_is_not_invented(self):
         entries=load_entries()
@@ -34,3 +34,11 @@ class CatalogTests(unittest.TestCase):
     def test_exports_are_current(self):generate(check=True)
     def test_determinism(self):self.assertEqual(build_outputs(),build_outputs())
 if __name__=='__main__':unittest.main()
+
+class VariantAttributionTests(unittest.TestCase):
+    def test_other_models_flash_label_does_not_relabel_full_kling(self):
+        entries = copy.deepcopy(load_entries())
+        e = next(e for e in entries if e['id'] == 'x-2118786119810580862')
+        self.assertEqual(e['modelClaim']['variant'], 'full')
+        self.assertIn('gemini omni flash', e['modelClaim']['sourceTextOriginal'].lower())
+        validate_entries(entries)

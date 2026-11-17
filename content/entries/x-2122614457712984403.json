@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2122614457712984403",
+  "slug": "jungle-chase-and-cliff-dive-kling-4-0-comparison",
+  "title": {
+    "en": "Jungle Chase and Cliff Dive — Kling 4.0 Comparison",
+    "zh": "丛林追逐与悬崖跳水：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "Jungle Chase and Cliff Dive — Kling 4.0 Comparison — original prompt by @Sleaper_.",
+    "zh": "丛林追逐与悬崖跳水：Kling 4.0 模型对比，来自 @Sleaper_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "Sleaper_",
+    "url": "https://x.com/Sleaper_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Sleaper_/status/2122614457712984403",
+    "sourceTextOriginal": "WAN 3.0 vs Kling 4.0\n\nI gave both models the exact same prompt on @makeugc: a jungle chase ending in a dive off a 50-meter cliff.\n\nWhich one made the jump feel more real? Drop your pick in the replies and tell me which two models I should test next 👇\n\nPrompt:\n\nCreate a 15-second vertical 9:16 cinematic jungle chase. Photorealistic live action, natural daylight, fast handheld tracking shots. The runner is a tall, heavily muscular man with close-cropped hair, a soaked olive tank top, dark cargo pants and a worn machete in his right hand. Keep him recognizable in every shot.\n\n0–3 seconds — Through the undergrowth. Open at full sprint. The camera races backward just ahead of the man as he bursts through dense foliage. He slashes a low branch and shoulders through a curtain of broad leaves. The severed branch is still falling as he passes it. Cut low beside his boots for two strides as mud kicks up, then swing up alongside him without losing speed.\n\n3–5.5 seconds — The pursuit. Cut to a wide side view across a gap in the trees. The runner crosses the foreground from left to right. Far behind him, roughly 50–100 meters back along the same trail, several armed pursuers run in the same direction, firing short bursts from automatic rifles. Brief muzzle flashes flicker between distant trunks. The runner stays clearly ahead of them.\n\n5.5–8 seconds — The cliff edge. Follow tight behind his shoulder as the jungle suddenly opens into bright daylight. He skids to a stop at the lip of a cliff. The camera tips forward just enough to reveal a turbulent river roughly 50 meters below. He glances back. Over his shoulder, the armed men are still approaching through the trees. He drops the machete onto the ledge, turns toward the river and leaps.\n\n8–11.5 seconds — The entire dive in one wide shot. Cut on takeoff to a distant camera across the gorge. Frame the cliff lip in the upper left and the river in the lower right. Keep the man’s entire body visible throughout the fall, his olive shirt silhouetted against pale rock. He travels outward in a short arc, then descends headfirst in a clean swan dive, arms extended ahead of his head and legs trailing together. Hold this angle all the way from the ledge to the instant his hands break the surface. A narrow white splash rises where he disappears.\n\n11.5–15 seconds — Downstream. Cut to water level facing downstream. The splash collapses in the foreground. A beat later, the same man surfaces several meters downstream, draws a sharp breath and starts swimming with the current. Track beside him for two strong strokes as the cliff recedes behind him. Cut while he is still moving.\n\nSound. Fast, low percussion under pounding footsteps, snapping branches and distant gunfire. Drop the score at takeoff so the rush of air gives way to the growing roar of the river. End on his first breath and the sound of his strokes cutting through the current."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Sleaper_/status/2122614457712984403",
+  "videoSourceUrl": "https://x.com/Sleaper_/status/2122614457712984403",
+  "conversationId": "2122614457712984403",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 15-second vertical 9:16 cinematic jungle chase. Photorealistic live action, natural daylight, fast handheld tracking shots. The runner is a tall, heavily muscular man with close-cropped hair, a soaked olive tank top, dark cargo pants and a worn machete in his right hand. Keep him recognizable in every shot.\n\n0–3 seconds — Through the undergrowth. Open at full sprint. The camera races backward just ahead of the man as he bursts through dense foliage. He slashes a low branch and shoulders through a curtain of broad leaves. The severed branch is still falling as he passes it. Cut low beside his boots for two strides as mud kicks up, then swing up alongside him without losing speed.\n\n3–5.5 seconds — The pursuit. Cut to a wide side view across a gap in the trees. The runner crosses the foreground from left to right. Far behind him, roughly 50–100 meters back along the same trail, several armed pursuers run in the same direction, firing short bursts from automatic rifles. Brief muzzle flashes flicker between distant trunks. The runner stays clearly ahead of them.\n\n5.5–8 seconds — The cliff edge. Follow tight behind his shoulder as the jungle suddenly opens into bright daylight. He skids to a stop at the lip of a cliff. The camera tips forward just enough to reveal a turbulent river roughly 50 meters below. He glances back. Over his shoulder, the armed men are still approaching through the trees. He drops the machete onto the ledge, turns toward the river and leaps.\n\n8–11.5 seconds — The entire dive in one wide shot. Cut on takeoff to a distant camera across the gorge. Frame the cliff lip in the upper left and the river in the lower right. Keep the man’s entire body visible throughout the fall, his olive shirt silhouetted against pale rock. He travels outward in a short arc, then descends headfirst in a clean swan dive, arms extended ahead of his head and legs trailing together. Hold this angle all the way from the ledge to the instant his hands break the surface. A narrow white splash rises where he disappears.\n\n11.5–15 seconds — Downstream. Cut to water level facing downstream. The splash collapses in the foreground. A beat later, the same man surfaces several meters downstream, draws a sharp breath and starts swimming with the current. Track beside him for two strong strokes as the cliff recedes behind him. Cut while he is still moving.\n\nSound. Fast, low percussion under pounding footsteps, snapping branches and distant gunfire. Drop the score at takeoff so the rush of air gives way to the growing roar of the river. End on his first breath and the sound of his strokes cutting through the current.",
+  "originalPromptSha256": "5acd33f44fa85642fcee1f81bb1b6c2c562becf2b3cc9014df2805fa63def58d",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Jungle Chase and Cliff Dive — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2122614367761952768",
+    "url": "https://video.twimg.com/amplify_video/2122614367761952768/vid/avc1/1920x2160/r0YBeMR9djl7jGEs.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2122614367761952768/vid/avc1/1920x2160/r0YBeMR9djl7jGEs.mp4?tag=29",
+    "sourceUrl": "https://x.com/Sleaper_/status/2122614457712984403",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122614367761952768/img/5cZz0GDMHiCfsPOD.jpg",
+    "durationSecondsReported": 15.033,
+    "aspectRatioReported": [
+      1920,
+      2160
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 810,
+    "durationSecondsObserved": 15.092971,
+    "publishedAt": "2026-11-17T08:54:57Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

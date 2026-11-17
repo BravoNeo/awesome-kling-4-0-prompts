@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2118202412058198119",
+  "slug": "the-frost-empress-and-the-last-hunter",
+  "title": {
+    "en": "The Frost Empress and the Last Hunter",
+    "zh": "冰霜女皇与最后的猎人"
+  },
+  "description": {
+    "en": "The Frost Empress and the Last Hunter — original prompt by @itxabdullaa.",
+    "zh": "冰霜女皇与最后的猎人，来自 @itxabdullaa 的原始提示词。"
+  },
+  "author": {
+    "handle": "itxabdullaa",
+    "url": "https://x.com/itxabdullaa"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itxabdullaa/status/2118202412058198119",
+    "sourceTextOriginal": "THE FROST EMPRESS — THE LAST HUNTER\n\nCreated with Kling 4.0 on @PixVerse @PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).#PixVerseCPP\n\nPrompt:\n30-SECOND PHOTOREALISTIC KOREAN SUPERNATURAL ACTION FILM\n\nIDENTITY LOCK: Same Korean heroine from <<<image_1>>>, identical face, pink hair, physique and outfit. Same tiny white puppy from <<<image_3>>>. Preserve character consistency throughout.\n\nLOCATION: Dark underground Seoul parking garage at midnight, flickering lights, wet concrete, parked cars and drifting smoke.\n\n0:00–0:05 — THE AMBUSH\n\nThe heroine carries her puppy through the garage. Lights suddenly go out. An explosion erupts behind her. She instantly creates an enormous ice shield, protecting herself and the puppy. Four masked attackers emerge. Their mysterious leader says, \"Give me the creature.\"\n\n0:05–0:11 — COUNTERATTACK\n\nShe places the puppy inside a protective ice sphere. Two attackers charge. She freezes one attacker's weapon, delivers a spinning back kick, then slides beneath the second attacker and launches him into a concrete pillar with a powerful ice wave.\n\n0:11–0:17 — AWAKENING\n\nHer eyes ignite pink. Crystalline armor forms across her arms. She stomps the ground, releasing a massive freezing shockwave. Ice pillars erupt beneath three attackers, throwing them into the air. She follows with a spectacular spinning aerial kick surrounded by cyan energy.\n\n0:17–0:24 — FINAL HUNTER\n\nThe elite hunter attacks with a glowing mechanical blade. She blocks his strikes, catches the weapon and freezes it completely. With one powerful twist, she shatters it. A gigantic supernatural ice dragon erupts from the floor, spirals around him and traps him inside a towering crystalline prison.\n\n0:24–0:30 — THE SECRET\n\nSilence. She retrieves her unharmed puppy. Suddenly, its eyes glow pink. A mysterious magical symbol appears beneath them. Behind her, the frozen hunter whispers:\n\n\"She's not the source of the power...\"\n\nCUT TO BLACK.\n\nCINEMATOGRAPHY: Hyper-realistic Korean action cinema, aggressive tracking shots, dynamic whip-pans, realistic martial arts, 120fps impact slow motion, cinematic lighting, realistic ice physics, cyan-pink supernatural effects and powerful orchestral sound design.\n\nNEGATIVE PROMPT: No cartoon, anime, inconsistent faces, outfit changes, extra limbs, unrealistic physics, duplicate puppy, puppy injuries, gore, subtitles or logos. Puppy must remain unharmed throughout."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/itxabdullaa/status/2118202412058198119",
+  "videoSourceUrl": "https://x.com/itxabdullaa/status/2118202412058198119",
+  "conversationId": "2118202412058198119",
+  "originalLanguage": "en",
+  "originalPrompt": "30-SECOND PHOTOREALISTIC KOREAN SUPERNATURAL ACTION FILM\n\nIDENTITY LOCK: Same Korean heroine from <<<image_1>>>, identical face, pink hair, physique and outfit. Same tiny white puppy from <<<image_3>>>. Preserve character consistency throughout.\n\nLOCATION: Dark underground Seoul parking garage at midnight, flickering lights, wet concrete, parked cars and drifting smoke.\n\n0:00–0:05 — THE AMBUSH\n\nThe heroine carries her puppy through the garage. Lights suddenly go out. An explosion erupts behind her. She instantly creates an enormous ice shield, protecting herself and the puppy. Four masked attackers emerge. Their mysterious leader says, \"Give me the creature.\"\n\n0:05–0:11 — COUNTERATTACK\n\nShe places the puppy inside a protective ice sphere. Two attackers charge. She freezes one attacker's weapon, delivers a spinning back kick, then slides beneath the second attacker and launches him into a concrete pillar with a powerful ice wave.\n\n0:11–0:17 — AWAKENING\n\nHer eyes ignite pink. Crystalline armor forms across her arms. She stomps the ground, releasing a massive freezing shockwave. Ice pillars erupt beneath three attackers, throwing them into the air. She follows with a spectacular spinning aerial kick surrounded by cyan energy.\n\n0:17–0:24 — FINAL HUNTER\n\nThe elite hunter attacks with a glowing mechanical blade. She blocks his strikes, catches the weapon and freezes it completely. With one powerful twist, she shatters it. A gigantic supernatural ice dragon erupts from the floor, spirals around him and traps him inside a towering crystalline prison.\n\n0:24–0:30 — THE SECRET\n\nSilence. She retrieves her unharmed puppy. Suddenly, its eyes glow pink. A mysterious magical symbol appears beneath them. Behind her, the frozen hunter whispers:\n\n\"She's not the source of the power...\"\n\nCUT TO BLACK.\n\nCINEMATOGRAPHY: Hyper-realistic Korean action cinema, aggressive tracking shots, dynamic whip-pans, realistic martial arts, 120fps impact slow motion, cinematic lighting, realistic ice physics, cyan-pink supernatural effects and powerful orchestral sound design.\n\nNEGATIVE PROMPT: No cartoon, anime, inconsistent faces, outfit changes, extra limbs, unrealistic physics, duplicate puppy, puppy injuries, gore, subtitles or logos. Puppy must remain unharmed throughout.",
+  "originalPromptSha256": "44b03680c8eac083b23715ab7231b9a09bf1333e658a6c594a82ddadcd95f1fa",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "fantasy"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "The Frost Empress and the Last Hunter",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2118202360740917248",
+    "url": "https://video.twimg.com/amplify_video/2118202360740917248/vid/avc1/1280x720/8WIcD6LuhDSrtyyf.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2118202360740917248/vid/avc1/1280x720/8WIcD6LuhDSrtyyf.mp4?tag=29",
+    "sourceUrl": "https://x.com/itxabdullaa/status/2118202412058198119",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2118202360740917248/img/AgnqF66K3vlAd4Ej.jpg",
+    "durationSecondsReported": 30.066,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.116281,
+    "publishedAt": "2026-11-05T04:43:03Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

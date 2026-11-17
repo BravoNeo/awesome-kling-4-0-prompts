@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2107722836668244236",
+  "slug": "clockwork-and-ashes",
+  "title": {
+    "en": "Clockwork and Ashes",
+    "zh": "发条与灰烬"
+  },
+  "description": {
+    "en": "Clockwork and Ashes — original prompt by @yourPlugAI.",
+    "zh": "发条与灰烬，来自 @yourPlugAI 的原始提示词。"
+  },
+  "author": {
+    "handle": "yourPlugAI",
+    "url": "https://x.com/yourPlugAI"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "flash",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/yourPlugAI/status/2107722836668244236",
+    "sourceTextOriginal": "CLOCKWORK & ASHES ⚙️🔥❄️\n@LoovaAI \n\nInside a blizzard-struck cathedral bell tower, a scholar wielding a steam-injection rapier and an orphan girl with chain-bound pendulum blades take on a swarm of boiler-fired iron gargoyles. Steam alchemy meets centrifugal kinetic momentum. \n\n✨Rendered using a 20-second Seedance 2.5 pipeline on Loova AI. Asset & timeline breakdown in the thread below 👇🏾\n\nVideo Prompt: \n\n[ENGINE DIRECTIVE]\nGenerate a continuous 20-second hyper-realistic live-action action sequence using Kling 4.0 Flash at 120fps ultra-realism in 2.39:1 anamorphic widescreen. Maintain 100% strict visual consistency with the provided asset sheets: \"Professor Valentine\" (Gaunt scholar with brass goggles, tailcoat, steam-injection rapier cane), \"Lilith\" (12-year-old girl in charcoal coat, steel wrist-chains, heavy pendulum blades), and \"Steam-Boiler Gargoyles\" (Iron gargoyles with glowing furnace chest cores). Setting strictly follows \"Cathedral Clock Tower Bell Room in Snowstorm\". Tone: Gothic horror, fast-paced momentum, mechanical clockwork precision, explosive chemical reactions. FX Rule: Alchemy ignition manifests as instant bright crimson flame bursts through white steam clouds; pendulum blades move with heavy centrifugal arc motion throwing off flying sparks. Rapid 2-to-3 second action beats.\n\n[AUDIO DIRECTIVE]\n• MUSIC: Fast-paced, urgent Gothic orchestral track featuring rapid harpsichord arpeggiators, heavy industrial pipe organ hits, aggressive cello ostinatos, and driving cinematic percussion.\n\n• SOUND DESIGN: Loud grinding iron gear clocks, glass shattering, screeching steam valves, whistling blizzard wind, heavy chain whipping WHOOSH, and explosive chemical detonations.\n\n[TIMELINE BREAKDOWN]\n00:00 - 00:03 | RHYTHMIC GEAR TENSION & GLASS SHATTER AMBUSH\nVISUAL: Fast push-in camera through giant spinning bronze gears coated in frost.\n\nACTION: As Professor Valentine checks his pocket watch, a massive stained-glass clockface window violently explodes inward under a howling snowstorm. A swarm of steam-boiler gargoyles crashes into the bell room, furnace cores glowing angry orange against the blowing snow.\n\nSOUND: Loud clock ticking, violent GLASS SHATTER CRASH, howling blizzard wind, screeching iron gargoyle snarls.\n\n00:03 - 00:06 | CENTRIFUGAL PENDULUM SLICE & SPARK CYCLONE\n\nVISUAL: Fast orbital tracking camera spinning around Lilith’s crouched stance.\nACTION: Lilith leaps off a grinding gear axle, unleashing her steel wrist-chains. She spins in a high-speed centrifugal acrobatic arc, hurling her heavy clockwork pendulum blades in a sweeping circle that slices clean through the legs of two leaping gargoyles in a cascade of blinding sparks.\n\nSOUND: Chain whipping WHOOSH, heavy metal slicing SHING, shower of metal sparks sizzle.\n\n00:06 - 00:09 | LIQUID ETHER SPLASH & RAPIER STEAM-INJECTION\n\nVISUAL: Tight close-quarters tracking shot following Valentine’s swift swordplay.\n\nACTION: Valentine draws his hidden rapier blade from his cane, flinging a flask of glowing amber ether across the floorboards. As a gargoyle lunges, Valentine drives the rapier tip directly into its glowing furnace chest and clicks the pommel valve, injecting a blast of superheated steam.\nSOUND: Glass flask smash, liquid splash, sharp blade pierce, high-pressure pneumatic STEAM HISS.\n\n00:09 - 00:12 | CHAIN-WRAPPED GEAR SWING & HIGH-AIR DROP\n\nVISUAL: High-angle camera looking down into the grinding gear pit.\n\nACTION: Lilith wraps her steel chain around a rotating vertical drive-shaft, using the mechanical momentum to sling-shot herself high up toward the cathedral bell. She catches a gargoyle mid-air with both pendulum blades, locking its jaws and dragging it down into the massive bronze bell.\n\nSOUND: Heavy chain clatter, centrifugal acceleration RISER, massive bronze bell BELL TOLL / GONG IMPACT.\n00:12 - 00:16 | CHEMICAL VOLT IGNITION & FLASH-BOIL DETONATION\n\nVISUAL: Dynamic tracking shot rushing parallel to the floorboards.\n\nACTION: Valentine splashes a secondary vial of liquid mercury across the spilled ether under three converging gargoyles. He ignites it with his steam rapier sparker—a blinding wall of crimson alchemy fire instantly flash-boils the snowstorm, detonating the gargoyles' steam boilers in a chain explosion.\n\nSOUND: Loud chemical WHOOSH ignition, booming boiler EXPLOSION, rushing shockwave wind.\n\n00:16 - 00:20 | FROZEN STEAM LOCK & VICTORIAN HERO POSE\nVISUAL: Pull-back hero tracking shot through the clearing coal smoke and freezing fog.\n\nACTION: The chemical explosion freezes instantly in the sub-zero blizzard air, leaving the destroyed gargoyles encased in cracked crystal ice and frost. Lilith lands deftly on a gear beam, retracting her chains with a click, while Valentine sheathes his steam-rapier into his rosewood cane under the giant swinging bell.\n\nSOUND: Instant sharp ICE FREEZING crackle, gear click, deep sub-bass fadeout, wind blowing through shattered glass."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/yourPlugAI/status/2107722836668244236",
+  "videoSourceUrl": "https://x.com/yourPlugAI/status/2107722836668244236",
+  "conversationId": "2107722836668244236",
+  "originalLanguage": "en",
+  "originalPrompt": "[ENGINE DIRECTIVE]\nGenerate a continuous 20-second hyper-realistic live-action action sequence using Kling 4.0 Flash at 120fps ultra-realism in 2.39:1 anamorphic widescreen. Maintain 100% strict visual consistency with the provided asset sheets: \"Professor Valentine\" (Gaunt scholar with brass goggles, tailcoat, steam-injection rapier cane), \"Lilith\" (12-year-old girl in charcoal coat, steel wrist-chains, heavy pendulum blades), and \"Steam-Boiler Gargoyles\" (Iron gargoyles with glowing furnace chest cores). Setting strictly follows \"Cathedral Clock Tower Bell Room in Snowstorm\". Tone: Gothic horror, fast-paced momentum, mechanical clockwork precision, explosive chemical reactions. FX Rule: Alchemy ignition manifests as instant bright crimson flame bursts through white steam clouds; pendulum blades move with heavy centrifugal arc motion throwing off flying sparks. Rapid 2-to-3 second action beats.\n\n[AUDIO DIRECTIVE]\n• MUSIC: Fast-paced, urgent Gothic orchestral track featuring rapid harpsichord arpeggiators, heavy industrial pipe organ hits, aggressive cello ostinatos, and driving cinematic percussion.\n\n• SOUND DESIGN: Loud grinding iron gear clocks, glass shattering, screeching steam valves, whistling blizzard wind, heavy chain whipping WHOOSH, and explosive chemical detonations.\n\n[TIMELINE BREAKDOWN]\n00:00 - 00:03 | RHYTHMIC GEAR TENSION & GLASS SHATTER AMBUSH\nVISUAL: Fast push-in camera through giant spinning bronze gears coated in frost.\n\nACTION: As Professor Valentine checks his pocket watch, a massive stained-glass clockface window violently explodes inward under a howling snowstorm. A swarm of steam-boiler gargoyles crashes into the bell room, furnace cores glowing angry orange against the blowing snow.\n\nSOUND: Loud clock ticking, violent GLASS SHATTER CRASH, howling blizzard wind, screeching iron gargoyle snarls.\n\n00:03 - 00:06 | CENTRIFUGAL PENDULUM SLICE & SPARK CYCLONE\n\nVISUAL: Fast orbital tracking camera spinning around Lilith’s crouched stance.\nACTION: Lilith leaps off a grinding gear axle, unleashing her steel wrist-chains. She spins in a high-speed centrifugal acrobatic arc, hurling her heavy clockwork pendulum blades in a sweeping circle that slices clean through the legs of two leaping gargoyles in a cascade of blinding sparks.\n\nSOUND: Chain whipping WHOOSH, heavy metal slicing SHING, shower of metal sparks sizzle.\n\n00:06 - 00:09 | LIQUID ETHER SPLASH & RAPIER STEAM-INJECTION\n\nVISUAL: Tight close-quarters tracking shot following Valentine’s swift swordplay.\n\nACTION: Valentine draws his hidden rapier blade from his cane, flinging a flask of glowing amber ether across the floorboards. As a gargoyle lunges, Valentine drives the rapier tip directly into its glowing furnace chest and clicks the pommel valve, injecting a blast of superheated steam.\nSOUND: Glass flask smash, liquid splash, sharp blade pierce, high-pressure pneumatic STEAM HISS.\n\n00:09 - 00:12 | CHAIN-WRAPPED GEAR SWING & HIGH-AIR DROP\n\nVISUAL: High-angle camera looking down into the grinding gear pit.\n\nACTION: Lilith wraps her steel chain around a rotating vertical drive-shaft, using the mechanical momentum to sling-shot herself high up toward the cathedral bell. She catches a gargoyle mid-air with both pendulum blades, locking its jaws and dragging it down into the massive bronze bell.\n\nSOUND: Heavy chain clatter, centrifugal acceleration RISER, massive bronze bell BELL TOLL / GONG IMPACT.\n00:12 - 00:16 | CHEMICAL VOLT IGNITION & FLASH-BOIL DETONATION\n\nVISUAL: Dynamic tracking shot rushing parallel to the floorboards.\n\nACTION: Valentine splashes a secondary vial of liquid mercury across the spilled ether under three converging gargoyles. He ignites it with his steam rapier sparker—a blinding wall of crimson alchemy fire instantly flash-boils the snowstorm, detonating the gargoyles' steam boilers in a chain explosion.\n\nSOUND: Loud chemical WHOOSH ignition, booming boiler EXPLOSION, rushing shockwave wind.\n\n00:16 - 00:20 | FROZEN STEAM LOCK & VICTORIAN HERO POSE\nVISUAL: Pull-back hero tracking shot through the clearing coal smoke and freezing fog.\n\nACTION: The chemical explosion freezes instantly in the sub-zero blizzard air, leaving the destroyed gargoyles encased in cracked crystal ice and frost. Lilith lands deftly on a gear beam, retracting her chains with a click, while Valentine sheathes his steam-rapier into his rosewood cane under the giant swinging bell.\n\nSOUND: Instant sharp ICE FREEZING crackle, gear click, deep sub-bass fadeout, wind blowing through shattered glass.",
+  "originalPromptSha256": "84079111bc60743cbd299c7a0cc91c389e55142b8b264191c8eb0e008284cdf5",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Clockwork and Ashes",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2107722614235926528",
+    "url": "https://video.twimg.com/amplify_video/2107722614235926528/vid/avc1/1920x1080/xUhsttmxKw77Y_av.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2107722614235926528/vid/avc1/1920x1080/xUhsttmxKw77Y_av.mp4?tag=29",
+    "sourceUrl": "https://x.com/yourPlugAI/status/2107722836668244236",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2107722614235926528/img/aamuSbiCQv4zT29q.jpg",
+    "durationSecondsReported": 20.085,
+    "aspectRatioReported": [
+      1920,
+      1080
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 20.131701,
+    "publishedAt": "2026-10-07T06:40:58Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

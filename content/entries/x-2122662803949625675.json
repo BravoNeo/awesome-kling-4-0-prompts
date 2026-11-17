@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2122662803949625675",
+  "slug": "an-unfazed-walk-away-from-an-explosion",
+  "title": {
+    "en": "An Unfazed Walk away from an Explosion",
+    "zh": "从爆炸中从容走来"
+  },
+  "description": {
+    "en": "An Unfazed Walk away from an Explosion — original prompt by @MeenakshiYACS.",
+    "zh": "从爆炸中从容走来，来自 @MeenakshiYACS 的原始提示词。"
+  },
+  "author": {
+    "handle": "MeenakshiYACS",
+    "url": "https://x.com/MeenakshiYACS"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/MeenakshiYACS/status/2122662803949625675",
+    "sourceTextOriginal": "One calm walk. One massive explosion. Zero reactions.\n\nCan AI recreate a cinematic action sequence with this level of precision?\n\nI tried Kling 4.0 on @WizstarAI , and this is the kind of scene you can experiment with.\n\nThe workflow is simple:\n→ Upload your character image as Image 1.\n→ Upload your reference video as Video 1.\n→ Paste the prompt below.\n→ Generate your cinematic video.\n\nCreate this hilarious AI video using Kling 4.0 on WizstarAI, super AI avatar studio 👇\n\nhttps://wizstar.pxf.io/c/7702885/3962423/55236\n\nPROMPT:\n\nCharacter Reference: Image 1\nMotion, Camera & Story Reference: Video 1\n\nCreate a 14-second, 16:9 cinematic 4K photorealistic video.\n\nStrictly follow the reference video's shot sequence, timing, camera framing, character gestures, walking direction and explosion progression.\n\nMaintain ONE continuous eye-level frontal tracking shot. No cuts.\n\n00–02.5s: Character looks down, cups both hands near the mouth and lights a cigarette. Lowers both hands and looks forward.\n\n02.5–03.5s: Character starts walking calmly toward the camera. Camera tracks backward smoothly, keeping the character centered.\n\n03.5–07s: A massive explosion erupts behind the character. Show a bright flash, expanding fireball, rolling orange flames and debris-filled smoke. The character keeps walking at exactly the same pace, completely unfazed. Background figures duck for cover.\n\n07–11.5s: Dense dark smoke gradually obscures the flames. Character calmly raises the right hand, takes a drag from the cigarette and maintains a confident forward gaze.\n\n11.5–14s: Character lowers the hand and continues walking naturally as thick smoke rolls behind.\n\nCamera: Continuous frontal tracking, consistent medium-to-medium-close framing, smooth backward movement and realistic physics.\n\nEnsure natural coat movement, realistic fire and smoke diffusion, and continuous cigarette smoke.\n\nNegative Constraints: No cuts, camera shake, looking back, panic, running, sudden pose changes, teleportation, character displacement, fire clipping through the body or unnatural hand-cigarette interaction.\n\nThe trick: Don't just describe the explosion. Control the character's movement, camera trajectory and timing throughout the sequence.\n\n#WizstarAI #KlingAI #AIVideo #WizstarPartner #AI"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/MeenakshiYACS/status/2122662803949625675",
+  "videoSourceUrl": "https://x.com/MeenakshiYACS/status/2122662803949625675",
+  "conversationId": "2122662803949625675",
+  "originalLanguage": "en",
+  "originalPrompt": "Character Reference: Image 1\nMotion, Camera & Story Reference: Video 1\n\nCreate a 14-second, 16:9 cinematic 4K photorealistic video.\n\nStrictly follow the reference video's shot sequence, timing, camera framing, character gestures, walking direction and explosion progression.\n\nMaintain ONE continuous eye-level frontal tracking shot. No cuts.\n\n00–02.5s: Character looks down, cups both hands near the mouth and lights a cigarette. Lowers both hands and looks forward.\n\n02.5–03.5s: Character starts walking calmly toward the camera. Camera tracks backward smoothly, keeping the character centered.\n\n03.5–07s: A massive explosion erupts behind the character. Show a bright flash, expanding fireball, rolling orange flames and debris-filled smoke. The character keeps walking at exactly the same pace, completely unfazed. Background figures duck for cover.\n\n07–11.5s: Dense dark smoke gradually obscures the flames. Character calmly raises the right hand, takes a drag from the cigarette and maintains a confident forward gaze.\n\n11.5–14s: Character lowers the hand and continues walking naturally as thick smoke rolls behind.\n\nCamera: Continuous frontal tracking, consistent medium-to-medium-close framing, smooth backward movement and realistic physics.\n\nEnsure natural coat movement, realistic fire and smoke diffusion, and continuous cigarette smoke.\n\nNegative Constraints: No cuts, camera shake, looking back, panic, running, sudden pose changes, teleportation, character displacement, fire clipping through the body or unnatural hand-cigarette interaction.",
+  "originalPromptSha256": "31b14f6b7aef8e5dffc869b809a223c774d987d9fc9906173154c38e7835086b",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "An Unfazed Walk away from an Explosion",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "video-reference",
+  "video": {
+    "role": "output",
+    "mediaId": "2122662477574144000",
+    "url": "https://video.twimg.com/amplify_video/2122662477574144000/vid/avc1/1280x720/_16kgaYgu9PRJhg0.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2122662477574144000/vid/avc1/1280x720/_16kgaYgu9PRJhg0.mp4?tag=29",
+    "sourceUrl": "https://x.com/MeenakshiYACS/status/2122662803949625675",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122662477574144000/img/OYperA1b9qIz2Fan.jpg",
+    "durationSecondsReported": 14.024,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 14.071293,
+    "publishedAt": "2026-11-17T12:07:04Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

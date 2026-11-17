@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2122400427404898413",
+  "slug": "a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison",
+  "title": {
+    "en": "A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison",
+    "zh": "雨夜霓虹城市的悬浮摩托快递员：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison — original prompt by @nicravesh.",
+    "zh": "雨夜霓虹城市的悬浮摩托快递员：Kling 4.0 模型对比，来自 @nicravesh 的原始提示词。"
+  },
+  "author": {
+    "handle": "nicravesh",
+    "url": "https://x.com/nicravesh"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/nicravesh/status/2122400427404898413",
+    "sourceTextOriginal": "Kling 4.0 vs Seedance 2.5\n\nSame prompt: a hoverbike courier racing through a rainy neon city.\nBoth at 720p, 5 seconds.\n\nLeft: Kling 4.0 → 11.5 credits\nRight: Seedance 2.5 → 38 credits\n\nNeon reflections on wet streets are the real test for AI video. Is Seedance's quality worth 3x the price? Which one would you pick?"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/nicravesh/status/2122400427404898413",
+  "videoSourceUrl": "https://x.com/nicravesh/status/2122400427404898413",
+  "conversationId": "2122400427404898413",
+  "originalLanguage": "en",
+  "originalPrompt": "a hoverbike courier racing through a rainy neon city.",
+  "originalPromptSha256": "30d3402874d67393369ed9f1934fed1637fb2ae65fed2c3b8d2ff6d47f3e75ce",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2122400083815583744",
+    "url": "https://video.twimg.com/amplify_video/2122400083815583744/vid/avc1/720x900/s5OrTRh0MZlYnzYi.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2122400083815583744/vid/avc1/720x900/s5OrTRh0MZlYnzYi.mp4?tag=29",
+    "sourceUrl": "https://x.com/nicravesh/status/2122400427404898413",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2122400083815583744/img/1ynqsaI7ZE_OA7x8.jpg",
+    "durationSecondsReported": 5.083,
+    "aspectRatioReported": [
+      720,
+      900
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 900,
+    "durationSecondsObserved": 5.13161,
+    "publishedAt": "2026-11-16T18:44:28Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

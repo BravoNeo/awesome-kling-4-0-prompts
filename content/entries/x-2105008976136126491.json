@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2105008976136126491",
+  "slug": "vote-red-a-fictional-creator-vlog",
+  "title": {
+    "en": "Vote Red: A Fictional Creator Vlog",
+    "zh": "Vote Red：虚构创作者日志"
+  },
+  "description": {
+    "en": "Vote Red: A Fictional Creator Vlog — original prompt by @bmx_ai13.",
+    "zh": "Vote Red：虚构创作者日志，来自 @bmx_ai13 的原始提示词。"
+  },
+  "author": {
+    "handle": "bmx_ai13",
+    "url": "https://x.com/bmx_ai13"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105008973309268012",
+    "sourceTextOriginal": "VOTE RED\nMade with Kling 4.0 @Kling_ai \nPrompt 👇 https://x.com/bmx_ai13/status/2105008973309268012/video/1"
+  },
+  "pairing": "same_author_same_thread",
+  "promptSourceUrl": "https://x.com/bmx_ai13/status/2105008976136126491",
+  "videoSourceUrl": "https://x.com/bmx_ai13/status/2105008973309268012",
+  "conversationId": "2105008973309268012",
+  "originalLanguage": "en",
+  "originalPrompt": "20-SECOND VERTICAL VLOG (9:16) — \"VOTE RED: WHY I'M SHOWING UP\"\n\nFORMAT: 9:16, 30fps, handheld selfie-style smartphone footage, one continuous take with two jump cuts. Natural daylight, slightly imperfect UGC realism, front-camera wide lens, light auto-exposure shifts.\n\nCREATOR (fictional, no real person): Marcus, 28, Black American man, short fade, olive bomber jacket over a plain white tee, small silver chain. Warm, direct, conversational energy. Same wardrobe and face in every shot.\n\nWORLD: Small-town main street in the American Midwest, late afternoon golden light, brick storefronts, a hardware store, an American flag hanging from a porch, a few parked pickups. A neighborhood polling place with a plain hand-painted sign stands behind him in the last shot.\n\nSHOT 1 (0-6s): Selfie close-up, Marcus walking down the sidewalk, arm extended, breath visible in cool air. He smiles at camera and says: \"Midterms are November third. I'm not sitting this one out, and neither should you.\" Passing cars and footsteps in the background.\n\nSHOT 2 (6-13s): Jump cut. He stops beside a diner window, leaning on the frame, gesturing with his free hand. He says: \"Rent, groceries, gas, they all add up. I'm voting red because I want lower costs, safer streets, and a say in where this country goes.\" A waitress inside laughs at something off-camera.\n\nSHOT 3 (13-18s): Jump cut. Camera flips to the street, panning across neighbors chatting, a kid on a bike, a man opening the polling place door. Marcus narrates over his shoulder: \"Whatever you believe, your vote is the loudest thing you own.\"\n\nSHOT 4 (18-20s): Camera flips back to selfie. Marcus stands in front of the polling place, holds up a paper \"I Voted\" sticker, grins, and says: \"Check your registration. Show up. Vote red.\" He gives a firm nod.\n\nLAST FRAME: Marcus centered, smiling, holding the sticker toward camera, polling place softly blurred behind him. No on-screen text, no captions, no subtitles, no watermarks, no logos, no readable signage anywhere in frame.\n\nAUDIO (diegetic only): Marcus's natural voice with slight phone-mic compression, footsteps on pavement, distant traffic, wind, faint street chatter, a door opening. No music, no voiceover, no sound effects that aren't in the scene.\n\nCONSTRAINTS: No real public figures, no candidate names, no party logos, no campaign slogans on signs, no ballots or voter information shown. Faces stable, hands natural with five fingers, no morphing, no flicker.",
+  "originalPromptSha256": "1bb95e6463eb69a46501d1d776cddfa1940728bd4ce58b949ed6c54a8a520f88",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Vote Red: A Fictional Creator Vlog",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2105008520831881216",
+    "url": "https://video.twimg.com/amplify_video/2105008520831881216/vid/avc1/720x1280/uNeHd9pmtyW17ifi.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2105008520831881216/vid/avc1/720x1280/uNeHd9pmtyW17ifi.mp4?tag=29",
+    "sourceUrl": "https://x.com/bmx_ai13/status/2105008973309268012",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2105008520831881216/img/E4vSRl6lgVxq60IE.jpg",
+    "durationSecondsReported": 20.041,
+    "aspectRatioReported": [
+      720,
+      1280
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 1280,
+    "durationSecondsObserved": 20.108481,
+    "publishedAt": "2026-09-29T18:57:03Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

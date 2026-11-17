@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117848225176793451",
+  "slug": "seven-travel-moments-and-a-surprise-catch",
+  "title": {
+    "en": "Seven Travel Moments and a Surprise Catch",
+    "zh": "七段旅行与意外接抱"
+  },
+  "description": {
+    "en": "Seven Travel Moments and a Surprise Catch — original prompt by @itxsarmadd.",
+    "zh": "七段旅行与意外接抱，来自 @itxsarmadd 的原始提示词。"
+  },
+  "author": {
+    "handle": "itxsarmadd",
+    "url": "https://x.com/itxsarmadd"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itxsarmadd/status/2117848225176793451",
+    "sourceTextOriginal": "Seven destinations, seven playful surprises, and one boyfriend who never sees it coming! 😂❤️\n\nCreated with Kling 4.0 on @PixVerse , exploring realistic character consistency, natural movement, detailed environments, and lifelike interactions.@PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).\n\nPrompt:\nCreate a 30-second vertical 9:16 photorealistic live-action travel video with natural lighting, realistic physics and spontaneous smartphone footage.\n\nIDENTITY LOCK\n\n- @Image1: ACEL. Preserve her exact face, hairstyle, skin tone and body proportions.\n- @Image2: Male lead. Preserve his exact identity and appearance.\n  Never change either face.\n\nREPEATED ACTION\nIn every scene, the man is busy with his own activity and does not notice ACEL. She enters from the RIGHT, approaches playfully, makes the same small turn, then suddenly falls backward toward him. Only then does he react, step back, bend his knees and firmly catch her upper back and waist with his free arm. Show her actual weight being supported. They exchange natural smiles. Keep props in the correct hands.\n\n7 SCENES & OUTFITS\n\n1. 00–04 | Wooden courtyard: Man: brown shirt, white trousers, light-brown shoes, opening a blue umbrella. ACEL: dark-brown jacket, long grey skirt, dark hat, crossbody bag. He catches her while holding the umbrella.\n\n2. 04–08 | Turquoise river: Man: pale-pink shirt, blue jeans, sneakers, filming with phone. ACEL: layered pale-pink dress, light head covering, dark platform shoes.\n\n3. 08–12 | Sand dunes: Man: red shirt, white trousers, sandals, talking on phone. ACEL: flowing bright-red dress. He lowers the phone and catches her.\n\n4. 12–16 | Yellow flower valley: Man: dark-green outdoor jacket, dark trousers, brown hiking boots, backpack, searching inside it. ACEL: grey-green jacket, white short skirt, brown boots.\n\n5. 16–20 | Blue alpine lake: Man: bright-blue jacket, white shirt, brown trousers, blue cap, filming. ACEL: flowing blue dress, light wide-brim hat, dark shoes.\n\n6. 20–24 | Lakeside path: Man: cream outfit, crossbody bag, dark shoes, drinking from a cup with straw. ACEL: dark-purple plaid dress, light scarf, black ankle boots.\n\n7. 24–30 | Potala Palace: Man: red-and-cream jacket, cream trousers, crossbody bag, filming the palace. ACEL: short white dress, red hat, thick scarf, light boots. He catches her and holds the final smiling pose from 00:28–00:30, with the palace clearly visible.\n\nCAMERA & NEGATIVE RULES\nUse stable medium-wide/full-body smartphone framing. Keep characters and scenery visible. Simple match cuts between locations; outfit changes only between scenes. Realistic balance, body weight, hand contact and fabric movement.\n\nNo face changes, wrong outfits, premature catching, floating, fake embraces, extra limbs/fingers, disappearing props, distorted hands, exaggerated acting, excessive slow motion, subtitles, UI or watermarks.\n\nGOAL: Seven playful spontaneous travel moments, consistent identities, accurate outfits and locations, and believable physical interactions. Pure photorealistic live action."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/itxsarmadd/status/2117848225176793451",
+  "videoSourceUrl": "https://x.com/itxsarmadd/status/2117848225176793451",
+  "conversationId": "2117848225176793451",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 30-second vertical 9:16 photorealistic live-action travel video with natural lighting, realistic physics and spontaneous smartphone footage.\n\nIDENTITY LOCK\n\n- @Image1: ACEL. Preserve her exact face, hairstyle, skin tone and body proportions.\n- @Image2: Male lead. Preserve his exact identity and appearance.\n  Never change either face.\n\nREPEATED ACTION\nIn every scene, the man is busy with his own activity and does not notice ACEL. She enters from the RIGHT, approaches playfully, makes the same small turn, then suddenly falls backward toward him. Only then does he react, step back, bend his knees and firmly catch her upper back and waist with his free arm. Show her actual weight being supported. They exchange natural smiles. Keep props in the correct hands.\n\n7 SCENES & OUTFITS\n\n1. 00–04 | Wooden courtyard: Man: brown shirt, white trousers, light-brown shoes, opening a blue umbrella. ACEL: dark-brown jacket, long grey skirt, dark hat, crossbody bag. He catches her while holding the umbrella.\n\n2. 04–08 | Turquoise river: Man: pale-pink shirt, blue jeans, sneakers, filming with phone. ACEL: layered pale-pink dress, light head covering, dark platform shoes.\n\n3. 08–12 | Sand dunes: Man: red shirt, white trousers, sandals, talking on phone. ACEL: flowing bright-red dress. He lowers the phone and catches her.\n\n4. 12–16 | Yellow flower valley: Man: dark-green outdoor jacket, dark trousers, brown hiking boots, backpack, searching inside it. ACEL: grey-green jacket, white short skirt, brown boots.\n\n5. 16–20 | Blue alpine lake: Man: bright-blue jacket, white shirt, brown trousers, blue cap, filming. ACEL: flowing blue dress, light wide-brim hat, dark shoes.\n\n6. 20–24 | Lakeside path: Man: cream outfit, crossbody bag, dark shoes, drinking from a cup with straw. ACEL: dark-purple plaid dress, light scarf, black ankle boots.\n\n7. 24–30 | Potala Palace: Man: red-and-cream jacket, cream trousers, crossbody bag, filming the palace. ACEL: short white dress, red hat, thick scarf, light boots. He catches her and holds the final smiling pose from 00:28–00:30, with the palace clearly visible.\n\nCAMERA & NEGATIVE RULES\nUse stable medium-wide/full-body smartphone framing. Keep characters and scenery visible. Simple match cuts between locations; outfit changes only between scenes. Realistic balance, body weight, hand contact and fabric movement.\n\nNo face changes, wrong outfits, premature catching, floating, fake embraces, extra limbs/fingers, disappearing props, distorted hands, exaggerated acting, excessive slow motion, subtitles, UI or watermarks.\n\nGOAL: Seven playful spontaneous travel moments, consistent identities, accurate outfits and locations, and believable physical interactions. Pure photorealistic live action.",
+  "originalPromptSha256": "71340a210970e7ee81747b9a7a32ed429a828682474b96feb6daaafe9c9c6f16",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "travel-commercial"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "Seven Travel Moments and a Surprise Catch",
+    "Kling 4.0",
+    "travel-commercial"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2117848160576110593",
+    "url": "https://video.twimg.com/amplify_video/2117848160576110593/vid/avc1/1280x720/WinLDwpoTMUDLSiV.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117848160576110593/vid/avc1/1280x720/WinLDwpoTMUDLSiV.mp4?tag=29",
+    "sourceUrl": "https://x.com/itxsarmadd/status/2117848225176793451",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117848160576110593/img/DMgd8v3RZKGp2flq.jpg",
+    "durationSecondsReported": 30.066,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.116281,
+    "publishedAt": "2026-11-04T05:15:39Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

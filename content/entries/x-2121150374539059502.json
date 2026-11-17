@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2121150374539059502",
+  "slug": "the-giant-cat-and-the-model-railway-kling-4-0-comparison",
+  "title": {
+    "en": "The Giant Cat and the Model Railway — Kling 4.0 Comparison",
+    "zh": "巨猫与模型铁路：Kling 4.0 模型对比"
+  },
+  "description": {
+    "en": "The Giant Cat and the Model Railway — Kling 4.0 Comparison — original prompt by @Sleaper_.",
+    "zh": "巨猫与模型铁路：Kling 4.0 模型对比，来自 @Sleaper_ 的原始提示词。"
+  },
+  "author": {
+    "handle": "Sleaper_",
+    "url": "https://x.com/Sleaper_"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Sleaper_/status/2121150374539059502",
+    "sourceTextOriginal": "Seedance 2.5 vs Kling 4.0 🐾\n\nI gave both models the same tricky prompt on @makeugc. A giant cat looms over a city until the camera pulls back and you realize the whole railway fits on a table.\n\nSeedance 2.5 wins for me. Watch the paw glitch at the end of Kling’s clip 👀\n\nPrompt below 👇\n\nCreate a 15-second photorealistic live-action video, horizontal 16:9, in one continuous shot. A real ginger house cat is watching a model railway on a wooden table. For the first half, the camera is so low inside the miniature street that the scene looks like a full-sized city with a gigantic cat behind it. The change in camera position reveals the true scale.\n\nCAMERA AND LOOK\n\nDV 16mm tape camcorder handheld feel. Begin at rail height, looking along a gently curving track. Blue-hour light, warm apartment windows, a bright red two-car Japanese commuter train with lit headlights. A little handheld drift, subtle tape grain, believable motion blur. Keep the train, the cat’s eye and the paw large enough to read on a phone.\n\n0–4 seconds. Open with the red train already rounding the bend toward us. In the gap between two buildings, a huge green cat’s eye is watching it. The eye tracks the train as it passes the lens from left to right. A ginger ear twitches above the roofline.\n\n4–8 seconds. The camera pans right with the train. As the last carriage clears the bend, one broad ginger paw comes down into the newly empty space just behind it. A soft tap. The paw misses. The train carries straight on along the same track.\n\n8–12 seconds. In one physical movement, lift the camera above the rooftops and pull back past the front edge of the wooden table. Now we see the entire model railway in a lived-in apartment and the ordinary-sized ginger cat sitting on a chair behind it. The same red train is still moving around the loop.\n\n12–15 seconds. Hold the wider view. The cat draws back the paw it just used and gives it two slow, casual licks. The red train rolls past again in the foreground. Cut on the second lick.\n\nAUDIO\n\nA steady wheel-on-rail rhythm, the soft tap of the paw and quiet room tone. As the camera pulls back, the little electric motor becomes audible. No dialogue, music, captions or logos."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Sleaper_/status/2121150374539059502",
+  "videoSourceUrl": "https://x.com/Sleaper_/status/2121150374539059502",
+  "conversationId": "2121150374539059502",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 15-second photorealistic live-action video, horizontal 16:9, in one continuous shot. A real ginger house cat is watching a model railway on a wooden table. For the first half, the camera is so low inside the miniature street that the scene looks like a full-sized city with a gigantic cat behind it. The change in camera position reveals the true scale.\n\nCAMERA AND LOOK\n\nDV 16mm tape camcorder handheld feel. Begin at rail height, looking along a gently curving track. Blue-hour light, warm apartment windows, a bright red two-car Japanese commuter train with lit headlights. A little handheld drift, subtle tape grain, believable motion blur. Keep the train, the cat’s eye and the paw large enough to read on a phone.\n\n0–4 seconds. Open with the red train already rounding the bend toward us. In the gap between two buildings, a huge green cat’s eye is watching it. The eye tracks the train as it passes the lens from left to right. A ginger ear twitches above the roofline.\n\n4–8 seconds. The camera pans right with the train. As the last carriage clears the bend, one broad ginger paw comes down into the newly empty space just behind it. A soft tap. The paw misses. The train carries straight on along the same track.\n\n8–12 seconds. In one physical movement, lift the camera above the rooftops and pull back past the front edge of the wooden table. Now we see the entire model railway in a lived-in apartment and the ordinary-sized ginger cat sitting on a chair behind it. The same red train is still moving around the loop.\n\n12–15 seconds. Hold the wider view. The cat draws back the paw it just used and gives it two slow, casual licks. The red train rolls past again in the foreground. Cut on the second lick.\n\nAUDIO\n\nA steady wheel-on-rail rhythm, the soft tap of the paw and quiet room tone. As the camera pulls back, the little electric motor becomes audible. No dialogue, music, captions or logos.",
+  "originalPromptSha256": "ab851dfb19f6deebc734ade98270c955aa67dffc033b4be07a87aab6975c5038",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "comedy"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "animals"
+    ]
+  },
+  "tags": [
+    "The Giant Cat and the Model Railway — Kling 4.0 Comparison",
+    "Kling 4.0",
+    "comedy"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2121150232570322944",
+    "url": "https://video.twimg.com/amplify_video/2121150232570322944/vid/avc1/1280x1440/AwGDNpKZzqN9xxAY.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2121150232570322944/vid/avc1/1280x1440/AwGDNpKZzqN9xxAY.mp4?tag=29",
+    "sourceUrl": "https://x.com/Sleaper_/status/2121150374539059502",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2121150232570322944/img/jyY6848tRjGhhqwm.jpg",
+    "durationSecondsReported": 15.072,
+    "aspectRatioReported": [
+      1280,
+      1440
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 810,
+    "durationSecondsObserved": 15.136,
+    "publishedAt": "2026-11-13T07:57:13Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

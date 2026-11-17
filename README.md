@@ -10,7 +10,7 @@
 <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml"><img src="https://github.com/BravoNeo/awesome-kling-4-0-prompts/actions/workflows/ci.yml/badge.svg" alt="Catalog validation" /></a>
 <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-welcome-green" alt="Contributions welcome" /></a>
 
-A curated collection of 200 Kling 4.0 video prompts, with original text, creator videos, and input references where available. Explore cinematic scenes, action, animation, UGC, and product ads.
+A curated collection of 250 Kling 4.0 video prompts, with original text, creator videos, and input references where available. Explore cinematic scenes, action, animation, UGC, and product ads.
 
 Curated by <a href="https://reeldance.ai/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-kling-4-0" rel="nofollow noreferrer" referrerpolicy="no-referrer">ReelDance</a>.
 
@@ -48,10 +48,10 @@ Explore action choreography, character animation, comedy and travel films. Each 
 
 | Metric | Count |
 | --- | --- |
-| Prompts | 200 |
-| Creators | 77 |
+| Prompts | 250 |
+| Creators | 95 |
 | Featured examples | 4 |
-| README updated | 2026-11-03 |
+| README updated | 2026-11-18 |
 
 <a id="featured-videos"></a>
 ## Featured videos
@@ -75,15 +75,15 @@ Click a cover to watch on X.
 
 | Use | Examples |
 | --- | --- |
-| Travel & commercial | [Korea Fashion Travel Film](#korea-fashion-travel-film) |
-| Comedy | [Pizza Delivery Cat](#pizza-delivery-cat) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [A cat’s continuous midnight adventure](#a-cats-continuous-midnight-adventure) · [Accidental Michelin](#accidental-michelin) · [Snake coffee break](#snake-coffee-break) · [Octopus bartender](#octopus-bartender) · [A cat on a robot vacuum — two camera views](#a-cat-on-a-robot-vacuum-two-camera-views) · [A flying roadster delivers one coffee](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 vs Wan 3.0: the courier’s missing television head](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [Cat rides the robot vacuum](#cat-rides-the-robot-vacuum) · [A generous nobleman and the publicity bill](#a-generous-nobleman-and-the-publicity-bill) · [Hamster rock-star storyboard](#hamster-rock-star-storyboard) · [A Christmas dress-code mix-up](#a-christmas-dress-code-mix-up) · [A broomstick comedy on Halloween](#a-broomstick-comedy-on-halloween) · [The elevator-floor illusion](#the-elevator-floor-illusion) · [Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [The prince and Baba Cloanța’s bell](#the-prince-and-baba-cloantas-bell) |
-| Character animation | [Pink-Haired Fire Witch](#pink-haired-fire-witch) · [Fox and Owl in the Library](#fox-owl-library) · [Robin completes an update](#robin-completes-an-update) · [Do not press the button — 3D kinetic typography](#do-not-press-the-button-3d-kinetic-typography) · [Live stadium concert](#live-stadium-concert) · [Dancing to a music reference](#dancing-to-a-music-reference) · [Cinematic pageant walk](#cinematic-pageant-walk) · [2D train animation](#2d-train-animation) · [3D fox sneeze](#3d-fox-sneeze) · [Kling 4.0 vs Kling 3.0: a calf and a butterfly](#kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly) · [Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city](#kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city) · [A birthday cake made with love](#a-birthday-cake-made-with-love) · [Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest](#kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest) · [Three mischievous witches](#three-mischievous-witches) · [A pumpkin monster goes trick-or-treating](#a-pumpkin-monster-goes-trick-or-treating) · [Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo](#kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo) · [A clay ghost learns to say boo](#a-clay-ghost-learns-to-say-boo) · [Kling and Seedance versions: rainy rooftop ballet](#kling-and-seedance-versions-rainy-rooftop-ballet) · [Voxel monsters go trick-or-treating](#voxel-monsters-go-trick-or-treating) · [Painted door opening in a five-style Kling 4.0 film](#painted-door-opening-in-a-five-style-kling-4-0-film) |
-| Action | [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Night-market spy chase](#night-market-spy-chase) · [Multi-shot car drifting](#multi-shot-car-drifting) · [Astra Sky Battle](#astra-sky-battle) · [Crimson Afterburn two-scene action](#crimson-afterburn-two-scene-action) · [Subway fight](#subway-fight) · [Spiral staircase duel](#spiral-staircase-duel) · [Neon-market parkour](#neon-market-parkour) · [First-person tactical shooter](#first-person-tactical-shooter) · [PUBG-style first-person firefight, looting and healing](#pubg-style-first-person-firefight-looting-and-healing) · [Kling 4.0 vs Seedance 2.5: dwarven forest fight](#kling-4-0-vs-seedance-2-5-dwarven-forest-fight) · [Competitive harbor tactical shooter](#competitive-harbor-tactical-shooter) · [A two-car chase](#a-two-car-chase) · [Cyber-assassin code jump](#cyber-assassin-code-jump) · [The Nameless Edge trailer](#the-nameless-edge-trailer) · [Army scattered by a sudden blast](#army-scattered-by-a-sudden-blast) · [Giant lion charges toward battle](#giant-lion-charges-toward-battle) · [Vagabond samurai trailer](#vagabond-samurai-trailer) · [Seven-shot ski film](#seven-shot-ski-film) · [Continuous skateboard tracking](#continuous-skateboard-tracking) · [Warehouse stunt fight](#warehouse-stunt-fight) · [Urban rooftop parkour](#urban-rooftop-parkour) · [A god hurls a mountain boulder](#a-god-hurls-a-mountain-boulder) · [Warehouse fight](#warehouse-fight) · [Western saloon fistfight](#western-saloon-fistfight) · [Phantom thief and the clumsy officer](#phantom-thief-and-the-clumsy-officer) · [World War I aerial pursuit](#world-war-i-aerial-pursuit) · [Thunder Emperor awakens](#thunder-emperor-awakens) · [Boxer action](#boxer-action) · [A fight through three apartment spaces](#a-fight-through-three-apartment-spaces) · [Knight defending the fortress](#knight-defending-the-fortress) · [Two-character anime parkour](#two-character-anime-parkour) · [Desert warrior combat](#desert-warrior-combat) · [Flying-car desert pursuit](#flying-car-desert-pursuit) · [Madara battlefield sequence](#madara-battlefield-sequence) · [Film-noir police interception](#film-noir-police-interception) · [Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding](#kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding) · [Monsoon velocity](#monsoon-velocity) · [Last delivery before the shutter](#last-delivery-before-the-shutter) · [Camcorder footage of a city monster](#camcorder-footage-of-a-city-monster) · [First-contact ambush beneath twin suns](#first-contact-ambush-beneath-twin-suns) · [Lightning and fire rooftop duel](#lightning-and-fire-rooftop-duel) · [Battle beneath an alien ring](#battle-beneath-an-alien-ring) · [Jane’s wasteland freerunning](#janes-wasteland-freerunning) · [Kling 4.0 vs Seedance 2.5: the longship in the storm](#kling-4-0-vs-seedance-2-5-the-longship-in-the-storm) · [Ghost horses and the pumpkin-carriage roller coaster](#ghost-horses-and-the-pumpkin-carriage-roller-coaster) · [Jaguar chase through the rainforest](#jaguar-chase-through-the-rainforest) · [Final round in an underground boxing club](#final-round-in-an-underground-boxing-club) · [A continuous rooftop parkour run](#a-continuous-rooftop-parkour-run) · [Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint](#kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint) · [Water-powered bathroom battle](#water-powered-bathroom-battle) · [Alien shooter at a neon spaceport](#alien-shooter-at-a-neon-spaceport) |
+| Travel & commercial | [Korea Fashion Travel Film](#korea-fashion-travel-film) · [Seven Travel Moments and a Surprise Catch](#seven-travel-moments-and-a-surprise-catch) · [A Snowy Cinematic Love Story](#a-snowy-cinematic-love-story) |
+| Comedy | [Pizza Delivery Cat](#pizza-delivery-cat) · [Sumo Pair Figure Skating](#sumo-pair-figure-skating) · [A cat’s continuous midnight adventure](#a-cats-continuous-midnight-adventure) · [Accidental Michelin](#accidental-michelin) · [Snake coffee break](#snake-coffee-break) · [Octopus bartender](#octopus-bartender) · [A cat on a robot vacuum — two camera views](#a-cat-on-a-robot-vacuum-two-camera-views) · [A flying roadster delivers one coffee](#a-flying-roadster-delivers-one-coffee) · [Kling 4.0 vs Wan 3.0: the courier’s missing television head](#kling-4-0-vs-wan-3-0-the-couriers-missing-television-head) · [Cat rides the robot vacuum](#cat-rides-the-robot-vacuum) · [A generous nobleman and the publicity bill](#a-generous-nobleman-and-the-publicity-bill) · [Hamster rock-star storyboard](#hamster-rock-star-storyboard) · [A Christmas dress-code mix-up](#a-christmas-dress-code-mix-up) · [A broomstick comedy on Halloween](#a-broomstick-comedy-on-halloween) · [The elevator-floor illusion](#the-elevator-floor-illusion) · [Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow](#kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy) · [The prince and Baba Cloanța’s bell](#the-prince-and-baba-cloantas-bell) · [The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison](#the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison) · [The Falling Champagne Tower — Kling 4.0 Comparison](#the-falling-champagne-tower-kling-4-0-comparison) · [A Stop-Motion Thanksgiving Surprise](#a-stop-motion-thanksgiving-surprise) · [A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison](#a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison) · [A Coffee Spill Becomes a Kitchen Comedy](#a-coffee-spill-becomes-a-kitchen-comedy) · [The Giant Cat and the Model Railway — Kling 4.0 Comparison](#the-giant-cat-and-the-model-railway-kling-4-0-comparison) |
+| Character animation | [Pink-Haired Fire Witch](#pink-haired-fire-witch) · [Counting Sheep Goes Wrong](#counting-sheep-goes-wrong) · [Fox and Owl in the Library](#fox-owl-library) · [Robin completes an update](#robin-completes-an-update) · [Do not press the button — 3D kinetic typography](#do-not-press-the-button-3d-kinetic-typography) · [Live stadium concert](#live-stadium-concert) · [Dancing to a music reference](#dancing-to-a-music-reference) · [Cinematic pageant walk](#cinematic-pageant-walk) · [2D train animation](#2d-train-animation) · [3D fox sneeze](#3d-fox-sneeze) · [Kling 4.0 vs Kling 3.0: a calf and a butterfly](#kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly) · [Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city](#kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city) · [A birthday cake made with love](#a-birthday-cake-made-with-love) · [Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest](#kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest) · [Three mischievous witches](#three-mischievous-witches) · [A pumpkin monster goes trick-or-treating](#a-pumpkin-monster-goes-trick-or-treating) · [Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo](#kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo) · [A clay ghost learns to say boo](#a-clay-ghost-learns-to-say-boo) · [Kling and Seedance versions: rainy rooftop ballet](#kling-and-seedance-versions-rainy-rooftop-ballet) · [Voxel monsters go trick-or-treating](#voxel-monsters-go-trick-or-treating) · [Painted door opening in a five-style Kling 4.0 film](#painted-door-opening-in-a-five-style-kling-4-0-film) · [A Paper Pop-Up City Unfolds from a Book](#a-paper-pop-up-city-unfolds-from-a-book) · [Until We Meet Again in Black and White](#until-we-meet-again-in-black-and-white) · [The Fluffy Cat's Flower Garden](#the-fluffy-cat-s-flower-garden) |
+| Action | [Cliffside Wuxia Duel](#cliffside-wuxia-duel) · [Night-market spy chase](#night-market-spy-chase) · [Multi-shot car drifting](#multi-shot-car-drifting) · [Into the Infinite Sky](#into-the-infinite-sky) · [Astra Sky Battle](#astra-sky-battle) · [Clockwork and Ashes](#clockwork-and-ashes) · [Crimson Afterburn two-scene action](#crimson-afterburn-two-scene-action) · [Subway fight](#subway-fight) · [Spiral staircase duel](#spiral-staircase-duel) · [Neon-market parkour](#neon-market-parkour) · [First-person tactical shooter](#first-person-tactical-shooter) · [PUBG-style first-person firefight, looting and healing](#pubg-style-first-person-firefight-looting-and-healing) · [Kling 4.0 vs Seedance 2.5: dwarven forest fight](#kling-4-0-vs-seedance-2-5-dwarven-forest-fight) · [Competitive harbor tactical shooter](#competitive-harbor-tactical-shooter) · [A two-car chase](#a-two-car-chase) · [Cyber-assassin code jump](#cyber-assassin-code-jump) · [The Nameless Edge trailer](#the-nameless-edge-trailer) · [Army scattered by a sudden blast](#army-scattered-by-a-sudden-blast) · [Giant lion charges toward battle](#giant-lion-charges-toward-battle) · [Vagabond samurai trailer](#vagabond-samurai-trailer) · [Seven-shot ski film](#seven-shot-ski-film) · [Continuous skateboard tracking](#continuous-skateboard-tracking) · [Warehouse stunt fight](#warehouse-stunt-fight) · [Urban rooftop parkour](#urban-rooftop-parkour) · [A god hurls a mountain boulder](#a-god-hurls-a-mountain-boulder) · [Warehouse fight](#warehouse-fight) · [Western saloon fistfight](#western-saloon-fistfight) · [Phantom thief and the clumsy officer](#phantom-thief-and-the-clumsy-officer) · [World War I aerial pursuit](#world-war-i-aerial-pursuit) · [Thunder Emperor awakens](#thunder-emperor-awakens) · [Boxer action](#boxer-action) · [A fight through three apartment spaces](#a-fight-through-three-apartment-spaces) · [Knight defending the fortress](#knight-defending-the-fortress) · [Two-character anime parkour](#two-character-anime-parkour) · [Desert warrior combat](#desert-warrior-combat) · [Flying-car desert pursuit](#flying-car-desert-pursuit) · [Madara battlefield sequence](#madara-battlefield-sequence) · [Film-noir police interception](#film-noir-police-interception) · [Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding](#kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding) · [Monsoon velocity](#monsoon-velocity) · [Last delivery before the shutter](#last-delivery-before-the-shutter) · [Camcorder footage of a city monster](#camcorder-footage-of-a-city-monster) · [First-contact ambush beneath twin suns](#first-contact-ambush-beneath-twin-suns) · [Lightning and fire rooftop duel](#lightning-and-fire-rooftop-duel) · [Battle beneath an alien ring](#battle-beneath-an-alien-ring) · [Jane’s wasteland freerunning](#janes-wasteland-freerunning) · [Kling 4.0 vs Seedance 2.5: the longship in the storm](#kling-4-0-vs-seedance-2-5-the-longship-in-the-storm) · [Ghost horses and the pumpkin-carriage roller coaster](#ghost-horses-and-the-pumpkin-carriage-roller-coaster) · [Jaguar chase through the rainforest](#jaguar-chase-through-the-rainforest) · [Final round in an underground boxing club](#final-round-in-an-underground-boxing-club) · [A continuous rooftop parkour run](#a-continuous-rooftop-parkour-run) · [Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint](#kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint) · [Water-powered bathroom battle](#water-powered-bathroom-battle) · [A Cyberpunk Chase in the Rain — Kling 4.0 Comparison](#a-cyberpunk-chase-in-the-rain-kling-4-0-comparison) · [Alien shooter at a neon spaceport](#alien-shooter-at-a-neon-spaceport) · [Two Fighters on the Grassland](#two-fighters-on-the-grassland) · [The Frost Empress and the Last Hunter](#the-frost-empress-and-the-last-hunter) · [Rica and the Fall of the Gods](#rica-and-the-fall-of-the-gods) · [Lala Faces Cerberus](#lala-faces-cerberus) · [Two Sisters Escape the Infected City](#two-sisters-escape-the-infected-city) · [A Restaurant Kitchen Fight](#a-restaurant-kitchen-fight) · [A Monaco Coastal Car Chase — Kling 4.0 Comparison](#a-monaco-coastal-car-chase-kling-4-0-comparison) · [A Gymnast's Continuous Backflip](#a-gymnast-s-continuous-backflip) · [A Lightning Arrow against the Iron Colossus](#a-lightning-arrow-against-the-iron-colossus) · [Not Today: Bullets Stop at the Crosswalk](#not-today-bullets-stop-at-the-crosswalk) · [A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison](#a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison) · [Jungle Chase and Cliff Dive — Kling 4.0 Comparison](#jungle-chase-and-cliff-dive-kling-4-0-comparison) · [An Unfazed Walk away from an Explosion](#an-unfazed-walk-away-from-an-explosion) |
 | Storytelling | [Last ferry love scene](#last-ferry-love-scene) · [Hypnotic underground temple](#hypnotic-underground-temple) · [Living alien transit terminal](#living-alien-transit-terminal) · [Blackwood forest run](#blackwood-forest-run) · [Cabin horror sequence](#cabin-horror-sequence) · [Sunset rooftop tap dance](#sunset-rooftop-tap-dance) · [Sorceress and ghostly pharaohs](#sorceress-and-ghostly-pharaohs) · [Enchanted forest fairies](#enchanted-forest-fairies) · [Lucy leaves the diner](#lucy-leaves-the-diner) · [Café conversation about a bakery](#cafe-conversation-about-a-bakery) · [A winter riverside farewell](#a-winter-riverside-farewell) · [Alien giants in a turquoise lagoon](#alien-giants-in-a-turquoise-lagoon) · [Mechanical jungle predator](#mechanical-jungle-predator) · [Alien settlement at sunrise](#alien-settlement-at-sunrise) · [Rainy horror storyboard](#rainy-horror-storyboard) · [Submarine creature encounter](#submarine-creature-encounter) · [Glowing underwater city](#glowing-underwater-city) · [Fraternity-house emotional scene](#fraternity-house-emotional-scene) · [Alchemist summons a tiny fire spirit](#alchemist-summons-a-tiny-fire-spirit) · [Margot and Leo](#margot-and-leo) · [The floating violin melody](#the-floating-violin-melody) · [Mirror-world cinematic journey](#mirror-world-cinematic-journey) · [Late-night kitchen confession](#late-night-kitchen-confession) · [Japanese romantic goodbye](#japanese-romantic-goodbye) · [3 2 1 supernatural thriller trailer](#3-2-1-supernatural-thriller-trailer) · [Park bench base clip](#park-bench-base-clip) · [Cantina crime drama](#cantina-crime-drama) · [The Tomb of Pale Flame](#the-tomb-of-pale-flame) · [Anime street encounter](#anime-street-encounter) · [Desert market starship](#desert-market-starship) · [Victorian harbor ghost](#victorian-harbor-ghost) · [Waiting with a rose](#waiting-with-a-rose) · [Basement suspense](#basement-suspense) · [Surreal rooftop](#surreal-rooftop) · [Android laboratory awakening](#android-laboratory-awakening) · [Girl and dragon cooking](#girl-and-dragon-cooking) · [Torstein the Gatebreaker](#torstein-the-gatebreaker) · [Cafe conversation](#cafe-conversation) · [Pottery multi-shot](#pottery-multi-shot) · [Futuristic talk show](#futuristic-talk-show) · [Anime noodle scene](#anime-noodle-scene) · [Kling 4.0 vs Seedance 2.5: delayed rocket launch sound](#kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound) · [Kling 4.0 vs Seedance 2.5: closing the chandlery](#kling-4-0-vs-seedance-2-5-closing-the-chandlery) · [A still figure in a rushing city](#a-still-figure-in-a-rushing-city) · [Kling 4.0 in a four-model spoken-line comparison](#kling-4-0-in-a-four-model-spoken-line-comparison) · [Kling 4.0 in a four-model laughing-group comparison](#kling-4-0-in-a-four-model-laughing-group-comparison) · [Kling 4.0 in a four-model poker-chip comparison](#kling-4-0-in-a-four-model-poker-chip-comparison) · [Snap zoom into a pink collar](#snap-zoom-into-a-pink-collar) · [Bat swarm over a gothic belfry](#bat-swarm-over-a-gothic-belfry) · [Kling 4.0 vs Hailuo H3: the evening’s first star](#kling-4-0-vs-hailuo-h3-the-evenings-first-star) · [The tiny cloud creature](#the-tiny-cloud-creature) · [Skateboarder in the moonlit forest](#skateboarder-in-the-moonlit-forest) · [Exploration ship in a charged storm](#exploration-ship-in-a-charged-storm) · [An armored hunter cooks dinner](#an-armored-hunter-cooks-dinner) · [A spark across the dark](#a-spark-across-the-dark) · [Kling 4.0 vs 2.6: underwater profile](#kling-4-0-vs-2-6-underwater-profile) · [Kling 4.0 Omni vs 1.6: hallway to sun porch](#kling-4-0-omni-vs-1-6-hallway-to-sun-porch) · [Kling 4.0 Omni vs 3.0 Omni: corridor glance](#kling-4-0-omni-vs-3-0-omni-corridor-glance) · [Explorers beside a six-legged herd](#explorers-beside-a-six-legged-herd) · [Coastal moonfall — English prompt](#coastal-moonfall-english-prompt) · [Alien marketplace walk](#alien-marketplace-walk) · [The knight and the haunted castle](#the-knight-and-the-haunted-castle) · [Foggy forest pursuit](#foggy-forest-pursuit) · [A girl reveals her Halloween secret](#a-girl-reveals-her-halloween-secret) · [Kling 4.0 vs Seedance 2.5: A town that bakes the moon](#kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon) · [Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt](#kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt) |
-| UGC & vlogs | [Walking street vlog](#walking-street-vlog) · [Tabby cat street vlogger](#tabby-cat-street-vlogger) · [A quiet summer walk together](#a-quiet-summer-walk-together) · [Brunch selfie](#brunch-selfie) · [Airport vlog](#airport-vlog) · [Parked-car confession](#parked-car-confession) · [Beach vlog](#beach-vlog) · [2010 boutique mobile livestream](#2010-boutique-mobile-livestream) · [A night-city selfie walk](#a-night-city-selfie-walk) · [Kling 4.0 vs Seedance 2.5: autumn lookbook](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 vs Seedance 2.5: core-day gym vlog](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [Halloween costume gym vlog](#halloween-costume-gym-vlog) · [Golden-hour pickup-truck lookbook](#golden-hour-pickup-truck-lookbook) · [A lemon-filled Sicilian village stroll](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 vs Seedance 2.5: dumbbell gym vlog](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 vs Veo 3.1: blazer try-on and spin](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) |
+| UGC & vlogs | [Walking street vlog](#walking-street-vlog) · [Vote Red: A Fictional Creator Vlog](#vote-red-a-fictional-creator-vlog) · [A Handheld Energy Drink Creator Ad](#a-handheld-energy-drink-creator-ad) · [A 2004-Style Arcade Vlog](#a-2004-style-arcade-vlog) · [Tabby cat street vlogger](#tabby-cat-street-vlogger) · [A Couture Gown at an Evening Party](#a-couture-gown-at-an-evening-party) · [A quiet summer walk together](#a-quiet-summer-walk-together) · [Brunch selfie](#brunch-selfie) · [Airport vlog](#airport-vlog) · [Parked-car confession](#parked-car-confession) · [Beach vlog](#beach-vlog) · [2010 boutique mobile livestream](#2010-boutique-mobile-livestream) · [A Casual Brunch Phone Vlog](#a-casual-brunch-phone-vlog) · [A night-city selfie walk](#a-night-city-selfie-walk) · [Kling 4.0 vs Seedance 2.5: autumn lookbook](#kling-4-0-vs-seedance-2-5-autumn-lookbook) · [Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set](#kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set) · [Kling 4.0 vs Seedance 2.5: core-day gym vlog](#kling-4-0-vs-seedance-2-5-core-day-gym-vlog) · [Halloween costume gym vlog](#halloween-costume-gym-vlog) · [Golden-hour pickup-truck lookbook](#golden-hour-pickup-truck-lookbook) · [A lemon-filled Sicilian village stroll](#a-lemon-filled-sicilian-village-stroll) · [Kling 4.0 vs Seedance 2.5: dumbbell gym vlog](#kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog) · [Kling 4.0 vs Veo 3.1: blazer try-on and spin](#kling-4-0-vs-veo-3-1-blazer-try-on-and-spin) · [Twin Clones at a Coastal Overlook](#twin-clones-at-a-coastal-overlook) · [An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison](#an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison) · [A Playful Cinematic Fashion Walk](#a-playful-cinematic-fashion-walk) · [A Handheld Gym Diary — Kling 4.0 Comparison](#a-handheld-gym-diary-kling-4-0-comparison) · [A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison](#a-minidv-gym-vlog-comparison-kling-4-0-comparison) |
 | Video editing | [Dog to dinosaur edit](#dog-to-dinosaur-edit) · [Autumn season edit](#autumn-season-edit) · [Fox, autumn and flannel edit](#fox-autumn-and-flannel-edit) · [Add a third friend](#add-a-third-friend) · [A code-prompt visual experiment](#a-code-prompt-visual-experiment) |
-| Product advertising | [Sparkling birch water ad](#sparkling-birch-water-ad) · [Forest automotive commercial](#forest-automotive-commercial) · [Maison Doré French toast commercial](#maison-dor-french-toast-commercial) · [Condensation product shot](#condensation-product-shot) · [Background-only product whip pan](#background-only-product-whip-pan) · [Hand-carried product transition](#hand-carried-product-transition) · [From the fridge to the party](#from-the-fridge-to-the-party) · [Luxury skincare ASMR sequence](#luxury-skincare-asmr-sequence) · [Rocket-powered perfume bottle](#rocket-powered-perfume-bottle) · [Pink-bathroom skincare commercial](#pink-bathroom-skincare-commercial) |
-| Landscape & FPV | [FPV eagle chase](#fpv-eagle-chase) · [Waterfall from an ink scroll](#waterfall-from-an-ink-scroll) · [Cliff and waves](#cliff-and-waves) · [Warehouse FPV](#warehouse-fpv) · [Storm surge against a seawall](#storm-surge-against-a-seawall) · [Gantry crane container tracking](#gantry-crane-container-tracking) · [Single-droplet macro physics](#single-droplet-macro-physics) · [Kling 4.0 in a four-model burning-street comparison](#kling-4-0-in-a-four-model-burning-street-comparison) · [Kling 4.0 vs 1.6: underwater camera descent](#kling-4-0-vs-1-6-underwater-camera-descent) · [A carriage through the golden city](#a-carriage-through-the-golden-city) · [A Japanese town from a 3D previsualization](#a-japanese-town-from-a-3d-previsualization) |
+| Product advertising | [AURORA Bottle Typography and Rotation](#aurora-bottle-typography-and-rotation) · [Sparkling birch water ad](#sparkling-birch-water-ad) · [The First Game Boy Commercial, 1989 — Kling 4.0 Comparison](#the-first-game-boy-commercial-1989-kling-4-0-comparison) · [Forest automotive commercial](#forest-automotive-commercial) · [Maison Doré French toast commercial](#maison-dor-french-toast-commercial) · [Condensation product shot](#condensation-product-shot) · [Background-only product whip pan](#background-only-product-whip-pan) · [Hand-carried product transition](#hand-carried-product-transition) · [From the fridge to the party](#from-the-fridge-to-the-party) · [Luxury skincare ASMR sequence](#luxury-skincare-asmr-sequence) · [Rocket-powered perfume bottle](#rocket-powered-perfume-bottle) · [A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison](#a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison) · [A Lamp Falls from Space into a Room](#a-lamp-falls-from-space-into-a-room) · [Pink-bathroom skincare commercial](#pink-bathroom-skincare-commercial) · [A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison](#a-serum-bottle-meets-a-wave-of-water-kling-4-0-comparison) |
+| Landscape & FPV | [A Detective Lights a Match](#a-detective-lights-a-match) · [One Brushstroke in a Sunlit Studio](#one-brushstroke-in-a-sunlit-studio) · [FPV eagle chase](#fpv-eagle-chase) · [Waterfall from an ink scroll](#waterfall-from-an-ink-scroll) · [Cliff and waves](#cliff-and-waves) · [Warehouse FPV](#warehouse-fpv) · [Storm surge against a seawall](#storm-surge-against-a-seawall) · [Gantry crane container tracking](#gantry-crane-container-tracking) · [Single-droplet macro physics](#single-droplet-macro-physics) · [Kling 4.0 in a four-model burning-street comparison](#kling-4-0-in-a-four-model-burning-street-comparison) · [Kling 4.0 vs 1.6: underwater camera descent](#kling-4-0-vs-1-6-underwater-camera-descent) · [A carriage through the golden city](#a-carriage-through-the-golden-city) · [A Japanese town from a 3D previsualization](#a-japanese-town-from-a-3d-previsualization) · [The Huntress and the Leaf-Eating Dinosaur](#the-huntress-and-the-leaf-eating-dinosaur) · [The Magical Hidden World](#the-magical-hidden-world) · [A Hidden World Beyond the Waterfall](#a-hidden-world-beyond-the-waterfall) · [A Journey into the Underwater Kingdom](#a-journey-into-the-underwater-kingdom) · [An FPV Flight through a Barrel Wave — Kling 4.0 Comparison](#an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison) |
 
 <a id="prompts-and-videos"></a>
 ## All prompts
@@ -1260,8 +1260,119 @@ The creator originally labeled this example Kling 4.0 Flash; this collection use
 
 ---
 
+<a id="aurora-bottle-typography-and-rotation"></a>
+### 5. AURORA Bottle Typography and Rotation
+
+AURORA Bottle Typography and Rotation — original prompt by @sebatheepan.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Studio product commercial macro shot. A sleek matte-black cosmetic bottle with crisp, embossed gold foil serif typography reading exactly "AURORA" centered on the front label. The bottle rotates smoothly 45 degrees on a dark rotating pedestal. Warm directional rim lighting catches the metallic foil texture and sharp glass bevels. Shallow depth of field, 4K product cinematography, perfectly legible unchanging text, zero jitter.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/sebatheepan/status/2104653409227829496" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2104651572806389760/img/BxlyNR2SeyZGjBGk.jpg" alt="AURORA Bottle Typography and Rotation" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-28 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/sebatheepan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sebatheepan</a>
+- Source: <a href="https://x.com/sebatheepan/status/2104653409227829496" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="a-detective-lights-a-match"></a>
+### 6. A Detective Lights a Match
+
+A Detective Lights a Match — original prompt by @sebatheepan.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Cinematic low-key film noir medium close-up of a detective standing beside a Venetian-blinded window in a dark office at night. Sharp, high-contrast slivers of neon blue and amber streetlight slice across his face and trench coat. Heavy rain streaks run down the glass. The detective slowly strikes a wooden match, creating a sudden warm amber glow that illuminates his eyes and casts crisp shifting shadows across the wall behind him. Soft drifting match smoke.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/sebatheepan/status/2104653412738666699" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2104652399608520704/img/VLGd5kt6EehzR2vc.jpg" alt="A Detective Lights a Match" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-28 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/sebatheepan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sebatheepan</a>
+- Source: <a href="https://x.com/sebatheepan/status/2104653412738666699" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="one-brushstroke-in-a-sunlit-studio"></a>
+### 7. One Brushstroke in a Sunlit Studio
+
+One Brushstroke in a Sunlit Studio — original prompt by @sebatheepan.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Continuous medium-tracking sequence in a sunlit art studio. First, an artist dips a wooden paintbrush into a glass jar of deep blue watercolor, causing ink plumes to bloom in the water. Next, without a cut, the artist lifts the wet brush and applies a single smooth stroke onto a clean canvas. Finally, the artist sets the brush down on a wooden easel ledge and steps back slightly. Consistent natural lighting, seamless chronological progression, rigid brush geometry throughout.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/sebatheepan/status/2104653416123551799" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2104652961645281280/img/VUZpR_d8xcmLEcdz.jpg" alt="One Brushstroke in a Sunlit Studio" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-28 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/sebatheepan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sebatheepan</a>
+- Source: <a href="https://x.com/sebatheepan/status/2104653416123551799" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
 <a id="last-ferry-love-scene"></a>
-### 5. Last ferry love scene
+### 8. Last ferry love scene
 
 Last ferry love scene — an original prompt shared by @minchoi.
 
@@ -1295,7 +1406,7 @@ Early October demonstration attributed to Kling 4.0 by the author; platform gene
 ---
 
 <a id="sparkling-birch-water-ad"></a>
-### 6. Sparkling birch water ad
+### 9. Sparkling birch water ad
 
 Sparkling birch water ad — an original prompt shared by @minchoi.
 
@@ -1329,7 +1440,7 @@ Early October demonstration attributed to Kling 4.0 by the author; platform gene
 ---
 
 <a id="walking-street-vlog"></a>
-### 7. Walking street vlog
+### 10. Walking street vlog
 
 Walking street vlog — an original prompt shared by @minchoi.
 
@@ -1362,7 +1473,7 @@ Early October demonstration attributed to Kling 4.0 by the author; platform gene
 ---
 
 <a id="fpv-eagle-chase"></a>
-### 8. FPV eagle chase
+### 11. FPV eagle chase
 
 FPV eagle chase — an original prompt shared by @minchoi.
 
@@ -1395,7 +1506,7 @@ Early October demonstration attributed to Kling 4.0 by the author; platform gene
 ---
 
 <a id="night-market-spy-chase"></a>
-### 9. Night-market spy chase
+### 12. Night-market spy chase
 
 Night-market spy chase — an original prompt shared by @minchoi.
 
@@ -1428,7 +1539,7 @@ Early October demonstration attributed to Kling 4.0 by the author; platform gene
 ---
 
 <a id="multi-shot-car-drifting"></a>
-### 10. Multi-shot car drifting
+### 13. Multi-shot car drifting
 
 Multi-shot car drifting — original prompt by @minchoi.
 
@@ -1458,8 +1569,178 @@ Click the cover to watch on X.
 
 ---
 
+<a id="vote-red-a-fictional-creator-vlog"></a>
+### 14. Vote Red: A Fictional Creator Vlog
+
+Vote Red: A Fictional Creator Vlog — original prompt by @bmx_ai13.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+20-SECOND VERTICAL VLOG (9:16) — "VOTE RED: WHY I'M SHOWING UP"
+
+FORMAT: 9:16, 30fps, handheld selfie-style smartphone footage, one continuous take with two jump cuts. Natural daylight, slightly imperfect UGC realism, front-camera wide lens, light auto-exposure shifts.
+
+CREATOR (fictional, no real person): Marcus, 28, Black American man, short fade, olive bomber jacket over a plain white tee, small silver chain. Warm, direct, conversational energy. Same wardrobe and face in every shot.
+
+WORLD: Small-town main street in the American Midwest, late afternoon golden light, brick storefronts, a hardware store, an American flag hanging from a porch, a few parked pickups. A neighborhood polling place with a plain hand-painted sign stands behind him in the last shot.
+
+SHOT 1 (0-6s): Selfie close-up, Marcus walking down the sidewalk, arm extended, breath visible in cool air. He smiles at camera and says: "Midterms are November third. I'm not sitting this one out, and neither should you." Passing cars and footsteps in the background.
+
+SHOT 2 (6-13s): Jump cut. He stops beside a diner window, leaning on the frame, gesturing with his free hand. He says: "Rent, groceries, gas, they all add up. I'm voting red because I want lower costs, safer streets, and a say in where this country goes." A waitress inside laughs at something off-camera.
+
+SHOT 3 (13-18s): Jump cut. Camera flips to the street, panning across neighbors chatting, a kid on a bike, a man opening the polling place door. Marcus narrates over his shoulder: "Whatever you believe, your vote is the loudest thing you own."
+
+SHOT 4 (18-20s): Camera flips back to selfie. Marcus stands in front of the polling place, holds up a paper "I Voted" sticker, grins, and says: "Check your registration. Show up. Vote red." He gives a firm nod.
+
+LAST FRAME: Marcus centered, smiling, holding the sticker toward camera, polling place softly blurred behind him. No on-screen text, no captions, no subtitles, no watermarks, no logos, no readable signage anywhere in frame.
+
+AUDIO (diegetic only): Marcus's natural voice with slight phone-mic compression, footsteps on pavement, distant traffic, wind, faint street chatter, a door opening. No music, no voiceover, no sound effects that aren't in the scene.
+
+CONSTRAINTS: No real public figures, no candidate names, no party logos, no campaign slogans on signs, no ballots or voter information shown. Faces stable, hands natural with five fingers, no morphing, no flicker.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/bmx_ai13/status/2105008973309268012" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105008520831881216/img/E4vSRl6lgVxq60IE.jpg" alt="Vote Red: A Fictional Creator Vlog" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-29 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- Sources: <a href="https://x.com/bmx_ai13/status/2105008976136126491" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/bmx_ai13/status/2105008973309268012" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="into-the-infinite-sky"></a>
+### 15. Into the Infinite Sky
+
+Into the Infinite Sky — original prompt by @bmx_ai13.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+CRITICAL: Perfect character continuity across every shot. One lone athletic man, bare-chested, simple dark charcoal athletic shorts, barefoot, short dark hair, lean defined build, same body and hair in every frame. No wings, no superhero suit, no costume, no visible technology. Anatomy stays correct at all times: two arms, two legs, no extra limbs, no warped or floating body parts, no sudden pose changes.
+
+SUBJECT LOCK: The man is 30s, athletic, natural muscle definition, tanned skin with visible pores and subtle sweat sheen. Dark charcoal shorts only. Hair and shorts react naturally to wind in every shot.
+
+WORLD PLATE: A tiny grassy cliff floats impossibly high above an endless ocean of dense volumetric silver-white clouds thousands of meters below. Gigantic pale twisted cable-like structures stretch across the cloudscape and vanish into infinity. A colossal luminous planetary ring system crosses the sky diagonally, filled with countless bright parallel streaks catching sunlight. Massive distant floating rock formations sit partially silhouetted in the sky. Clear blue upper atmosphere, brilliant sunlight, realistic aerial haze, strong atmospheric perspective. The structures feel physically present and real, never abstract or psychedelic.
+
+PALETTE: Cool blue sky, soft silver-white clouds, muted natural green grass, dark charcoal shorts, bright white ring highlights. Realistic sunlight with deep shadows and true highlights. Slight dreamy softness while textures stay sharp and photoreal.
+
+SHOT 1 (0-3s): Wide cinematic rear shot, low angle. The man stands at the edge of the grassy plateau facing the impossible cloud world, his long shadow stretching behind him. After a brief still moment he bursts into a run toward the cliff edge. The camera tracks smoothly behind and low to the grass, building speed with him. Accurate foot contact, real momentum and body weight, grass blades bending under each step. Giant celestial structures dominate the background.
+
+SHOT 2 (3-5s): He reaches the edge and launches forward into empty space. The camera follows the leap as the ground vanishes beneath him. It begins as a real human dive, arms extending naturally, then eases into a smooth horizontal glide. Reveal the enormous vertical depth of the clouds below him.
+
+SHOT 3 (5-9s): Cut to a dramatic fast side-profile tracking close shot. He flies rapidly just above the cloud tops. Wind pushes across his body and hair, muscles subtly reacting to the airflow. One colossal twisted structure passes overhead, emphasizing scale and speed. Clouds streak beneath him with strong parallax, sunlight flashing across his skin, realistic motion blur.
+
+SHOT 4 (9-15s): Epic rear pursuit shot, centered composition. The camera follows directly behind him as he flies deeper into the surreal world. Two gigantic twisted pathways stretch forward on either side of him. Far ahead the luminous rings rise across the entire sky while a huge dark floating rock formation hangs overhead. Slowly pull the camera wider as he becomes smaller against the vast scale. Final beat: he continues toward the brilliant horizon, arms slightly open, surrounded by clouds and celestial architecture.
+
+CAMERA: Smooth cinematic tracking only, no handheld shake. Grounded low-angle tracking, then wide aerial perspective, then fast side-profile tracking, then centered rear chase. Strong foreground-to-background parallax.
+
+MOTION: Flight is smooth and aerodynamic, controlled and human, never stiff or superhero-like. Hair, clouds and atmospheric particles react naturally to strong high-altitude wind.
+
+SOUND BED: Diegetic and atmospheric only, no dialogue. Quiet high-altitude wind and distant ambience at open. Footsteps accelerate across grass. A powerful wind rush hits at the leap. During flight build layered deep air movement, subtle cinematic bass and expansive melodic progressive-trance energy. Close on an uplifting atmospheric swell as he disappears into the infinite landscape.
+
+LAST FRAME: The man small in the center of the frame flying toward the bright horizon, arms slightly open, clouds and twisted structures on both sides, luminous rings above. No on-screen text, no subtitles, no logos, no watermarks, no UI elements, no branding of any kind.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/bmx_ai13/status/2105168764681453666" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105063462594543616/img/CadRYb4bW0DJ7mbc.jpg" alt="Into the Infinite Sky" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-30 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- Sources: <a href="https://x.com/bmx_ai13/status/2105168766334042530" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/bmx_ai13/status/2105168764681453666" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="counting-sheep-goes-wrong"></a>
+### 16. Counting Sheep Goes Wrong
+
+Counting Sheep Goes Wrong — original prompt by @bmx_ai13.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+MANY. 20s, 16:9, 24fps. Original soft 3D animation with a matte clay-like surface texture, rounded chunky shapes, warm saturated colors, shallow depth of field, cheerful look. Pure comedy, dialogue-driven. One continuous sunny hillside location, no scene changes.
+
+WORLD: bright green meadow with tiny flowers, rolling hill with round bushes, small wooden A-frame tent, calm blue sea on the horizon, blue sky with puffy white clouds. Golden midday light.
+
+CHARACTERS (identical in every shot):
+MOKO, prehistoric shepherd. Tall, shaggy curly brown hair, big brown beard, wide friendly eyes, brown furry tunic with a rope belt, leather sandals, long wooden staff. Deep gravelly voice, proud and slow, completely confident while wrong.
+FLOCK: forty fluffy cream and gray sheep with black faces.
+DOT, one sheep with a slightly darker face and one raised eyebrow. Dry, deadpan, tired voice, like an office worker.
+
+SHOT 1 (0-4s): Wide shot. Moko stands tall in front of the huddled flock, staff planted. He points at the sheep with one thick finger, lips moving as he counts. Moko: "One. Two. Many." He nods, deeply satisfied, chest puffed out.
+
+SHOT 2 (4-8s): Medium shot. Dot steps out of the flock and looks up at him. Dot: "Sir. There are forty-one of us." Moko: "Forty-one is many." Dot: "So is four." Moko freezes, stares at his own fingers, eyes slowly widening. Moko: "...Four is small many."
+
+SHOT 3 (8-14s): Over-the-shoulder shot, Moko in the foreground, flock behind him. He turns his back and starts counting again, facing away. Behind him the sheep tiptoe in a single line toward the tent, exaggerated cartoon sneaking, knees high. Every time Moko says a number, the sheep freeze mid-step in absurd poses, one hoof raised, one leaning sideways. Moko: "One. Two. Many." Sheep freeze. Moko: "One. Two. Many." Sheep freeze again, one sheep balancing on a single leg, trembling. Moko, pleased: "Many is still many. Good."
+
+SHOT 4 (14-20s): Close-up on Moko's proud face, then a slow turn. Camera swings to reveal the empty meadow and every sheep lounging in and around the tent. Two sheep share a wooden cup, one sheep lies on the tent bed, Dot leans casually on the tent pole. Moko blinks, staff drooping. Moko: "Many sheep... gone?" Dot, calm and flat: "Not gone, sir. Many is just very far away." Moko slowly nods, wise and solemn. Moko: "Many is far." He turns back to the empty meadow and salutes it with his staff.
+
+AUDIO (diegetic only): dialogue, soft sheep bleats, hooves on grass, gentle wind, distant waves, staff tapping the ground. No music, no narration.
+
+DIALOGUE LOCK: English only, exactly as written, with clear lip sync. Moko speaks slowly, Dot speaks flat and dry.
+
+LAST FRAME: Moko seen from behind, saluting the empty meadow, while the whole flock peeks out from the tent with tiny smug faces. Hold 1 second. No on-screen text, no captions, no subtitles, no logos, no watermarks, no title cards.
+
+AVOID: extra characters, changing wardrobe or style, realistic fur, dark or scary tone, text overlays, music.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/bmx_ai13/status/2105229917717745881" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2105065191381864448/img/AiRZHdez1cdurGfM.jpg" alt="Counting Sheep Goes Wrong" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-09-30 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/bmx_ai13" rel="nofollow noreferrer" referrerpolicy="no-referrer">@bmx_ai13</a>
+- Sources: <a href="https://x.com/bmx_ai13/status/2105229919001203058" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/bmx_ai13/status/2105229917717745881" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
 <a id="astra-sky-battle"></a>
-### 11. Astra Sky Battle
+### 17. Astra Sky Battle
 
 A painterly heroine dives through storm clouds and floating warships before a white-gold celestial strike.
 
@@ -1568,7 +1849,7 @@ weighty natural character animation, cloth and hair reacting to high-speed wind 
 ---
 
 <a id="sumo-pair-figure-skating"></a>
-### 12. Sumo Pair Figure Skating
+### 18. Sumo Pair Figure Skating
 
 Two sumo wrestlers perform a surprisingly graceful synchronized routine on an ice rink.
 
@@ -1607,7 +1888,7 @@ The creator originally labeled this example Kling 4.0 Flash; this collection use
 ---
 
 <a id="fox-owl-library"></a>
-### 13. Fox and Owl in the Library
+### 19. Fox and Owl in the Library
 
 A proud fox asks an owl about his intellect and receives a dry compliment about his clothes.
 
@@ -1645,8 +1926,169 @@ The creator originally labeled this example Kling 4.0 Flash; this collection use
 
 ---
 
+<a id="a-handheld-energy-drink-creator-ad"></a>
+### 20. A Handheld Energy Drink Creator Ad
+
+A Handheld Energy Drink Creator Ad — original prompt by @Diplomeme.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+20 seconds | 9:16 | authentic UGC advertisement | premium creator content | MULTISHOTCORE CONCEPTA young female creator casually shares her genuine Red Bull experience directly from her phone camera. The advertisement should feel like a real spontaneous social-media recommendation rather than a polished commercial.The creator speaks naturally to camera, demonstrates the product, takes a sip and explains when she likes drinking it. The performance should feel unscripted, confident and relatable while maintaining premium visual quality.Use the uploaded reference image as the EXACT visual identity reference for the creator. Preserve her facial identity, facial proportions, hairstyle, hair color, body proportions and recognizable appearance throughout the entire video.CREATORYoung adult female creator based directly on the uploaded reference image.Contemporary casual fashion.Natural hair.Realistic skin texture.Minimal makeup.Natural facial http://expressions.No exaggerated influencer behavior.She should feel like a genuine lifestyle creator recording content for Instagram Reels / TikTok.SETTINGModern apartment kitchen / living space during late afternoon.Natural window light.Casual lived-in environment.Countertop with everyday http://objects.Red Bull can placed naturally on the kitchen counter.The environment should feel real and slightly imperfect rather than like a professional advertising studio.STORY — UGC MULTISHOT VISUALS00:00–03.0 — HOOKFront-facing smartphone camera.Creator holds the phone naturally at arm's length.She looks directly into the camera and says:“Okay, I actually didn't expect this to become my go-to.”Natural conversational delivery.Small smile.Natural blinking.Subtle handheld phone movement.03.0–06.0 — PRODUCTCamera angle changes naturally to a slightly closer handheld shot.She reaches toward the Red Bull can sitting on the counter.Picks it up.Shows the can briefly toward the camera.Can remains physically accurate.She says:“This is the one I grab when I need to keep going.”06.0–09.0 — OPENClose handheld smartphone framing.She opens the can.Natural PSHHHT sound.She takes a sip.Brief genuine http://reaction.No exaggerated facial expression.09.0–13.0 — REAL-LIFE MOMENTCut to a casual wider phone-camera angle.Creator moves around the kitchen while continuing to talk.She gestures naturally with the can.She explains how she incorporates it into her busy day.Her movements remain spontaneous and imperfect.13.0–16.5 — LIFESTYLE CUTAWAYHandheld phone footage.Creator grabs her bag and keys from the http://counter.Red Bull remains in her hand.She walks toward the apartment door.Quick natural glance toward http://camera.No cinematic transition.16.5–20.0 — FINAL CTAFront-facing smartphone shot near the doorway.She looks directly into camera.Raises the Red Bull can slightly.Natural smile.She says:“If you haven't tried it yet, you should.”End on a casual handheld frame rather than a polished commercial hero shot.CAMERAAuthentic modern smartphone camera.Front-facing selfie camera for direct-to-camera sections.Rear camera for product and lifestyle cutaways.Natural handheld movement.Minor framing imperfections.Occasional autofocus adjustment.Realistic smartphone exposure adaptation.Natural perspective and slight smartphone lens http://distortion.No cinema-camera http://movement.No gimbal http://perfection.No artificial http://depth-of-field.No commercial beauty retouching.VISUAL / COLOR SETTINGPremium UGC × contemporary lifestyle creator content.Natural smartphone image quality with excellent exposure and realistic detail.Soft natural skin texture.Real fabric texture.Natural household materials.Subtle digital sharpening.Moderate smartphone dynamic range.The footage should feel like genuinely captured social content that happens to have excellent production quality.COLOR GRADENatural warm indoor daylight.Neutral skin tones.Realistic whites.Subtle http://contrast.Red Bull red remains naturally noticeable without becoming artificially http://saturated.No cinematic teal-orange http://grade.No excessive HDR.MOTIONNatural handheld smartphone movement.Small movements caused by the creator holding the phone.Natural walking motion.Realistic body movement.Natural hair and clothing http://movement.No artificial slow http://motion.No speed http://ramps.No cinematic camera choreography.LIGHTINGPrimarily natural window light.Soft daylight across the creator's face.Subtle practical kitchen lighting where appropriate.Realistic exposure changes when moving between http://rooms.No studio beauty http://lighting.No artificial rim lights.AUDIOAuthentic creator voice recorded close to the smartphone microphone.Natural room tone.Subtle refrigerator http://hum.Clothing movement.Footsteps.Can opening.Carbonation sound.Light background environmental noise.Voice remains clear but not artificially http://processed.Music may begin quietly underneath the final section but should never overpower the creator's voice.REALISMThe video must feel genuinely user-generated.Natural skin pores.Natural facial asymmetry.Real blinking.Natural pauses.Small speech imperfections.Authentic hand gestures.Realistic smartphone exposure.Natural autofocus http://behavior.No perfect influencer http://posing.No plastic http://skin.No beauty http://filter.No AI-generated facial http://expressions.No unnatural eye http://contact.No synchronized lip movement errors.BRAND CONTROLThe Red Bull can must remain accurate in shape, proportions, materials and http://branding.Do not invent additional Red Bull http://branding.Do not distort the http://logo.Do not create fake product http://variants.No http://watermarks.No random http://text.No fake UI overlays.EDITINGFast but natural UGC pacing.Cut whenever the creator changes activity.Use jump cuts http://sparingly.No cinematic http://transitions.No dramatic http://zooms.No glitch http://effects.No excessive B-roll.Maintain the feeling that the creator personally recorded the entire video for social media.CONTINUITYThe creator remains identical throughout all shots.Same face.Same hairstyle.Same clothing.Same accessories.The same Red Bull can remains physically consistent.Maintain the same apartment environment and time of http://day.FINAL QUALITY TARGETThe final result should look like a genuinely viral high-performing UGC advertisement recorded by a real lifestyle creator on a modern http://smartphone.It should NOT look like a traditional Red Bull commercial pretending to be UGC.The viewer should feel:“She actually uses this.”Authenticity first.Product visibility second.Commercial polish third.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Diplomeme/status/2106963076520329457" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2106962314478112768/img/PLyz6Pati_e9qxfk.jpg" alt="A Handheld Energy Drink Creator Ad" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- Source: <a href="https://x.com/Diplomeme/status/2106963076520329457" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="a-2004-style-arcade-vlog"></a>
+### 21. A 2004-Style Arcade Vlog
+
+A 2004-Style Arcade Vlog — original prompt by @Diplomeme.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+A Day Off in the Arcade"The entire video is a single continuous self-filmed vlog captured by the idol using a compact consumer camcorder. It should feel like genuine footage she'd upload privately rather than professionally produced content. The camera is always in her hand and never visible. Natural arm movement, occasional imperfect framing, realistic autofocus hunting, minor exposure adjustments, subtle walking bounce, and authentic human timing. No jump cuts or scene transitions.Visual StyleAuthentic early-2000s MiniDV look with soft detail, light digital noise, gentle highlight bloom, muted contrast, accurate skin tones, and slight tape compression. No cinematic color grading, no artificial blur, no beauty filters.CharacterJIWON, a Korean female idol in her twenties. Long black hair in a loose ponytail, natural makeup, warm smile, expressive eyes, casual oversized denim jacket over a simple T-shirt, relaxed jeans, sneakers, and a baseball cap.LocationA lively retro arcade during the evening. Bright neon signs, claw machines, racing games, basketball arcade, photo booth, capsule toy machines, colorful carpets, cheerful background music, and other visitors naturally enjoying themselves.The recording begins just outside the arcade entrance.JIWON pushes open the glass door and laughs."I promised myself I wouldn't work today... so this is today's mission."She slowly walks through the arcade, turning the camera to show rows of flashing machines and excited players.She stops in front of a claw machine filled with plush toys."I've never actually won one of these."Holding the camera in one hand, she awkwardly controls the joystick with the other.The claw almost grabs a plush before dropping it.She bursts into genuine laughter."That was definitely rigged."She wanders toward a rhythm game and watches someone playing.She quietly cheers for them before giving a thumbs-up when they http://finish.Next, she enters a small photo booth.The camera captures her fixing her hair while laughing at herself.A countdown begins.She quickly strikes a funny pose just as the photo is taken.Leaving the booth, she opens a capsule toy machine and twists the handle.The capsule drops.She excitedly opens it."Actually... this one's kind of cute."As she continues exploring, she notices the arcade staff announcing that the venue will close in a few minutes.She looks around dramatically."I think I lost track of time."Walking toward the exit, she turns the camera back to herself.The neon lights reflect softly behind her."Days like this help me recharge. Next time I'll definitely win that plush."She smiles, waves goodbye, pushes open the arcade door, and steps outside into the cool evening air. The city sounds replace the arcade music as the recording ends naturally, as though she simply stopped filming after leaving.Generation RequirementsOne continuous uninterrupted take. Stable identity throughout. Realistic hand-held camera movement, believable eye contact with the lens, accurate hand interactions, physically correct walking and body mechanics, consistent lighting, authentic ambient sound, no duplicated people, no warped anatomy, no AI artifacts, no scene changes, and no unnatural motion. The final result should be indistinguishable from a real idol's casual day-off vlog filmed on a personal camcordesr.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Diplomeme/status/2107695270129709378" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2107693763611213824/img/WUtGAHZ5-rBeJL0k.jpg" alt="A 2004-Style Arcade Vlog" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-07 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- Source: <a href="https://x.com/Diplomeme/status/2107695270129709378" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="clockwork-and-ashes"></a>
+### 22. Clockwork and Ashes
+
+Clockwork and Ashes — original prompt by @yourPlugAI.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+[ENGINE DIRECTIVE]
+Generate a continuous 20-second hyper-realistic live-action action sequence using Kling 4.0 Flash at 120fps ultra-realism in 2.39:1 anamorphic widescreen. Maintain 100% strict visual consistency with the provided asset sheets: "Professor Valentine" (Gaunt scholar with brass goggles, tailcoat, steam-injection rapier cane), "Lilith" (12-year-old girl in charcoal coat, steel wrist-chains, heavy pendulum blades), and "Steam-Boiler Gargoyles" (Iron gargoyles with glowing furnace chest cores). Setting strictly follows "Cathedral Clock Tower Bell Room in Snowstorm". Tone: Gothic horror, fast-paced momentum, mechanical clockwork precision, explosive chemical reactions. FX Rule: Alchemy ignition manifests as instant bright crimson flame bursts through white steam clouds; pendulum blades move with heavy centrifugal arc motion throwing off flying sparks. Rapid 2-to-3 second action beats.
+
+[AUDIO DIRECTIVE]
+• MUSIC: Fast-paced, urgent Gothic orchestral track featuring rapid harpsichord arpeggiators, heavy industrial pipe organ hits, aggressive cello ostinatos, and driving cinematic percussion.
+
+• SOUND DESIGN: Loud grinding iron gear clocks, glass shattering, screeching steam valves, whistling blizzard wind, heavy chain whipping WHOOSH, and explosive chemical detonations.
+
+[TIMELINE BREAKDOWN]
+00:00 - 00:03 | RHYTHMIC GEAR TENSION & GLASS SHATTER AMBUSH
+VISUAL: Fast push-in camera through giant spinning bronze gears coated in frost.
+
+ACTION: As Professor Valentine checks his pocket watch, a massive stained-glass clockface window violently explodes inward under a howling snowstorm. A swarm of steam-boiler gargoyles crashes into the bell room, furnace cores glowing angry orange against the blowing snow.
+
+SOUND: Loud clock ticking, violent GLASS SHATTER CRASH, howling blizzard wind, screeching iron gargoyle snarls.
+
+00:03 - 00:06 | CENTRIFUGAL PENDULUM SLICE & SPARK CYCLONE
+
+VISUAL: Fast orbital tracking camera spinning around Lilith’s crouched stance.
+ACTION: Lilith leaps off a grinding gear axle, unleashing her steel wrist-chains. She spins in a high-speed centrifugal acrobatic arc, hurling her heavy clockwork pendulum blades in a sweeping circle that slices clean through the legs of two leaping gargoyles in a cascade of blinding sparks.
+
+SOUND: Chain whipping WHOOSH, heavy metal slicing SHING, shower of metal sparks sizzle.
+
+00:06 - 00:09 | LIQUID ETHER SPLASH & RAPIER STEAM-INJECTION
+
+VISUAL: Tight close-quarters tracking shot following Valentine’s swift swordplay.
+
+ACTION: Valentine draws his hidden rapier blade from his cane, flinging a flask of glowing amber ether across the floorboards. As a gargoyle lunges, Valentine drives the rapier tip directly into its glowing furnace chest and clicks the pommel valve, injecting a blast of superheated steam.
+SOUND: Glass flask smash, liquid splash, sharp blade pierce, high-pressure pneumatic STEAM HISS.
+
+00:09 - 00:12 | CHAIN-WRAPPED GEAR SWING & HIGH-AIR DROP
+
+VISUAL: High-angle camera looking down into the grinding gear pit.
+
+ACTION: Lilith wraps her steel chain around a rotating vertical drive-shaft, using the mechanical momentum to sling-shot herself high up toward the cathedral bell. She catches a gargoyle mid-air with both pendulum blades, locking its jaws and dragging it down into the massive bronze bell.
+
+SOUND: Heavy chain clatter, centrifugal acceleration RISER, massive bronze bell BELL TOLL / GONG IMPACT.
+00:12 - 00:16 | CHEMICAL VOLT IGNITION & FLASH-BOIL DETONATION
+
+VISUAL: Dynamic tracking shot rushing parallel to the floorboards.
+
+ACTION: Valentine splashes a secondary vial of liquid mercury across the spilled ether under three converging gargoyles. He ignites it with his steam rapier sparker—a blinding wall of crimson alchemy fire instantly flash-boils the snowstorm, detonating the gargoyles' steam boilers in a chain explosion.
+
+SOUND: Loud chemical WHOOSH ignition, booming boiler EXPLOSION, rushing shockwave wind.
+
+00:16 - 00:20 | FROZEN STEAM LOCK & VICTORIAN HERO POSE
+VISUAL: Pull-back hero tracking shot through the clearing coal smoke and freezing fog.
+
+ACTION: The chemical explosion freezes instantly in the sub-zero blizzard air, leaving the destroyed gargoyles encased in cracked crystal ice and frost. Lilith lands deftly on a gear beam, retracting her chains with a click, while Valentine sheathes his steam-rapier into his rosewood cane under the giant swinging bell.
+
+SOUND: Instant sharp ICE FREEZING crackle, gear click, deep sub-bass fadeout, wind blowing through shattered glass.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/yourPlugAI/status/2107722836668244236" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2107722614235926528/img/aamuSbiCQv4zT29q.jpg" alt="Clockwork and Ashes" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-07 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/yourPlugAI" rel="nofollow noreferrer" referrerpolicy="no-referrer">@yourPlugAI</a>
+- Source: <a href="https://x.com/yourPlugAI/status/2107722836668244236" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
 <a id="tabby-cat-street-vlogger"></a>
-### 14. Tabby cat street vlogger
+### 23. Tabby cat street vlogger
 
 Tabby cat street vlogger — original prompt by @AIwithSarah_.
 
@@ -1682,7 +2124,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="crimson-afterburn-two-scene-action"></a>
-### 15. Crimson Afterburn two-scene action
+### 24. Crimson Afterburn two-scene action
 
 Crimson Afterburn two-scene action — an original prompt shared by @itxabdullaa.
 
@@ -1771,7 +2213,7 @@ Two consecutive scenes collected as one combined prompt, not two entries.
 ---
 
 <a id="hypnotic-underground-temple"></a>
-### 16. Hypnotic underground temple
+### 25. Hypnotic underground temple
 
 Hypnotic underground temple — an original prompt shared by @itxsarmadd.
 
@@ -1850,8 +2292,418 @@ Use the original prompt below and adapt the scene to your project.
 
 ---
 
+<a id="a-couture-gown-at-an-evening-party"></a>
+### 26. A Couture Gown at an Evening Party
+
+A Couture Gown at an Evening Party — original prompt by @Diplomeme.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+20 seconds | 9:16 | authentic UGC vlog | premium creator content | MULTISHOT
+
+CORE CONCEPT
+
+A young female creator casually documents her experience attending an exclusive evening party while wearing a spectacular artistic couture gown. The video should feel like a real spontaneous social-media vlog filmed by a friend rather than a polished commercial.
+
+The creator speaks naturally to the person filming, shows her beautiful dress, walks through the party and shares genuine moments from the evening. The performance should feel unscripted, confident and relatable while maintaining premium visual quality.
+
+Use the FIRST uploaded reference image as the EXACT visual identity reference for the creator. Preserve her facial identity, facial proportions, hairstyle, hair color, body proportions and recognizable appearance throughout the entire video.
+
+Use the SECOND uploaded reference image as the EXACT dress design reference. Preserve the sculptural yellow bodice, multicolored textured fabric, blue-green and yellow transitions, dramatic navy floral train and exceptionally long flowing sleeve drapes.
+
+CREATOR
+
+Young adult female creator based directly on the uploaded reference image.
+
+Long, naturally straight auburn-brown hair.
+
+Elegant artistic couture gown based on the second reference image.
+
+Natural hair.
+
+Realistic skin texture.
+
+Elegant evening makeup.
+
+Natural facial expressions.
+
+No exaggerated influencer behavior.
+
+She should feel like a genuine lifestyle creator enjoying an exclusive evening party while a friend records her.
+
+SETTING
+
+Luxurious dressing area and exclusive evening party venue during the late evening.
+
+Natural warm lighting.
+
+Elegant full-length mirror and sophisticated interior details.
+
+Beautifully illuminated party environment with chandeliers, fashionable guests and refined architectural surroundings.
+
+The environment should feel real and slightly imperfect rather than like a professional advertising studio.
+
+STORY — VLOG MULTISHOT VISUALS
+
+00:00–03.0 — HOOK
+
+A second person films the creator using a handheld camera.
+
+The creator stands naturally in her elegant couture gown.
+
+She looks toward the camera and says:
+
+“Okay, you have to see this dress.”
+
+Natural conversational delivery.
+
+Small smile.
+
+Natural blinking.
+
+Subtle handheld camera movement.
+
+No smartphone or filming device visible in the frame.
+
+03.0–06.0 — DRESS REVEAL
+
+Camera angle changes naturally to a slightly wider handheld shot.
+
+The creator steps back and turns slightly to reveal her gown.
+
+The camera captures the colorful sculptural bodice and flowing silhouette.
+
+She says:
+
+“Look at the details on this thing.”
+
+The long sleeve drapes move naturally as she adjusts her arms.
+
+The dramatic navy train remains visible.
+
+06.0–09.0 — DETAIL SHOT
+
+Close handheld camera framing.
+
+The creator gently raises one arm to show the long, flowing sleeve drapes.
+
+The camera moves closer to capture the intricate yellow, turquoise, green and blue fabric textures.
+
+She lightly touches the gown and smiles naturally.
+
+The fabric responds realistically to her movements.
+
+09.0–13.0 — REAL-LIFE MOMENT
+
+Cut to a casual wider handheld angle.
+
+The creator walks through the dressing area while the camera operator follows her.
+
+The dramatic train trails naturally across the floor.
+
+She gestures toward the gown and says:
+
+“I wanted something completely different for tonight.”
+
+Her movements remain spontaneous and imperfect.
+
+13.0–16.5 — PARTY CUTAWAY
+
+Handheld footage.
+
+The creator enters an elegant evening party venue.
+
+Guests mingle naturally in the background.
+
+The camera operator follows her, capturing the colorful gown, flowing sleeve drapes and navy floral train.
+
+She briefly turns toward the camera with a natural smile.
+
+No cinematic transition.
+
+16.5–20.0 — FINAL MOMENT
+
+The camera operator frames the creator in a natural medium-wide shot.
+
+She stands inside the beautifully illuminated party venue.
+
+She looks toward the camera and says:
+
+“Be honest, would you wear this?”
+
+She gently turns to reveal the gown’s silhouette.
+
+End on a casual handheld frame rather than a polished commercial hero shot.
+
+CAMERA
+
+Authentic handheld camera operated by another person.
+
+The camera operator remains off-screen.
+
+Natural handheld movement.
+
+Minor framing imperfections.
+
+Occasional autofocus adjustment.
+
+Realistic exposure adaptation.
+
+Natural perspective and realistic lens characteristics.
+
+No selfie shots.
+
+No visible smartphones or filming devices.
+
+No cinema-camera movement.
+
+No gimbal perfection.
+
+No artificial depth-of-field.
+
+No commercial beauty retouching.
+
+VISUAL / COLOR SETTING
+
+Premium UGC vlog × contemporary luxury fashion content.
+
+Natural camera image quality with excellent exposure and realistic detail.
+
+Soft natural skin texture.
+
+Real fabric texture.
+
+Accurate colors and construction of the reference gown.
+
+The multicolored couture dress remains the visual centerpiece.
+
+The footage should feel like genuinely captured social content filmed by a friend during an extraordinary evening.
+
+COLOR GRADE
+
+Natural warm indoor lighting.
+
+Neutral skin tones.
+
+Realistic whites and blacks.
+
+Accurate yellow, turquoise, green and navy fabric colors.
+
+Subtle contrast.
+
+No cinematic teal-orange grade.
+
+No excessive HDR.
+
+LIGHTING
+
+Primarily warm practical lighting.
+
+Soft ambient illumination across the creator’s face.
+
+Realistic highlights on the gown’s textured fabric.
+
+Natural shadows beneath the train.
+
+Realistic exposure changes when moving between rooms.
+
+No studio beauty lighting.
+
+No artificial rim lights.
+
+AUDIO
+
+Authentic creator voice recorded naturally in the environment.
+
+Natural room tone.
+
+Clothing movement.
+
+Footsteps.
+
+Distant conversations.
+
+Natural party ambience and background music.
+
+Voice remains clear but not artificially processed.
+
+REALISM
+
+The video must feel genuinely user-generated and filmed by another person.
+
+Natural skin pores.
+
+Natural facial asymmetry.
+
+Real blinking.
+
+Natural pauses.
+
+Small speech imperfections.
+
+Authentic hand gestures.
+
+Realistic handheld camera movement.
+
+Physically accurate fabric weight and movement.
+
+No perfect influencer posing.
+
+No plastic skin.
+
+No beauty filter.
+
+No AI-generated facial expressions.
+
+No unnatural eye contact.
+
+No floating fabric.
+
+No melting embroidery.
+
+No smartphone or filming device visible anywhere.
+
+BRAND CONTROL
+
+The gown must remain accurate to the second uploaded reference image.
+
+Preserve the original sculptural bodice, multicolored fabric, long sleeve drapes and dramatic navy floral train.
+
+Do not redesign the dress.
+
+Do not invent additional branding.
+
+No watermarks.
+
+No random text.
+
+No fake UI overlays.
+
+EDITING
+
+Fast but natural vlog pacing.
+
+Cut whenever the creator changes activity.
+
+Use jump cuts sparingly.
+
+No cinematic transitions.
+
+No dramatic zooms.
+
+No glitch effects.
+
+No excessive B-roll.
+
+Maintain the feeling that a friend personally recorded the entire evening.
+
+CONTINUITY
+
+The creator remains identical throughout all shots.
+
+Same face.
+
+Same hairstyle.
+
+Same hair color.
+
+Same clothing.
+
+Same accessories.
+
+Same makeup.
+
+The same gown remains physically consistent throughout the video.
+
+Maintain the same party environment and time of day.
+
+The camera operator remains off-screen throughout.
+
+No smartphones or filming equipment appear in reflections or backgrounds.
+
+FINAL QUALITY TARGET
+
+The final result should look like a genuinely captured fashion vlog filmed by a friend accompanying a creator wearing an extraordinary couture gown to an exclusive evening party.
+
+It should NOT look like a traditional fashion commercial or a selfie video.
+
+The viewer should feel:
+
+“Her friend is filming her night out, and that dress is incredible.”
+
+Authenticity first.
+
+Dress visibility second.
+
+Commercial polish third.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Diplomeme/status/2108590903946559787" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2108590587180167168/img/VjeE-skZ5QSdF9Xt.jpg" alt="A Couture Gown at an Evening Party" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-09 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Diplomeme" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Diplomeme</a>
+- Source: <a href="https://x.com/Diplomeme/status/2108590903946559787" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
+<a id="the-first-game-boy-commercial-1989-kling-4-0-comparison"></a>
+### 27. The First Game Boy Commercial, 1989 — Kling 4.0 Comparison
+
+The First Game Boy Commercial, 1989 — Kling 4.0 Comparison — original prompt by @Dheepanratnam.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+“The first Game Boy commercial 1989”
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Dheepanratnam/status/2108821487616512262" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2108821348596293632/img/kqqA_DzVymTflZOK.jpg" alt="The First Game Boy Commercial, 1989 — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-10 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Dheepanratnam" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Dheepanratnam</a>
+- Source: <a href="https://x.com/Dheepanratnam/status/2108821487616512262" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+<details><summary>Source note</summary>
+
+The creator originally labeled this example Kling 4.0 Flash; this collection uses Kling 4.0 as its display name.
+
+</details>
+
+
+---
+
 <a id="living-alien-transit-terminal"></a>
-### 17. Living alien transit terminal
+### 28. Living alien transit terminal
 
 Living alien transit terminal — original prompt by @Alin_Reaper05.
 
@@ -1884,7 +2736,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="blackwood-forest-run"></a>
-### 18. Blackwood forest run
+### 29. Blackwood forest run
 
 Blackwood forest run — an original prompt shared by @EndFolding79421.
 
@@ -1917,7 +2769,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="cabin-horror-sequence"></a>
-### 19. Cabin horror sequence
+### 30. Cabin horror sequence
 
 Cabin horror sequence — an original prompt shared by @EndFolding79421.
 
@@ -1950,7 +2802,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="subway-fight"></a>
-### 20. Subway fight
+### 31. Subway fight
 
 Subway fight — an original prompt shared by @EndFolding79421.
 
@@ -1983,7 +2835,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="sunset-rooftop-tap-dance"></a>
-### 21. Sunset rooftop tap dance
+### 32. Sunset rooftop tap dance
 
 Sunset rooftop tap dance — an original prompt shared by @EndFolding79421.
 
@@ -2016,7 +2868,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="spiral-staircase-duel"></a>
-### 22. Spiral staircase duel
+### 33. Spiral staircase duel
 
 Spiral staircase duel — an original prompt shared by @EndFolding79421.
 
@@ -2049,7 +2901,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="neon-market-parkour"></a>
-### 23. Neon-market parkour
+### 34. Neon-market parkour
 
 Neon-market parkour — an original prompt shared by @EndFolding79421.
 
@@ -2082,7 +2934,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="sorceress-and-ghostly-pharaohs"></a>
-### 24. Sorceress and ghostly pharaohs
+### 35. Sorceress and ghostly pharaohs
 
 Sorceress and ghostly pharaohs — an original prompt shared by @EndFolding79421.
 
@@ -2126,7 +2978,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="enchanted-forest-fairies"></a>
-### 25. Enchanted forest fairies
+### 36. Enchanted forest fairies
 
 Enchanted forest fairies — an original prompt shared by @EndFolding79421.
 
@@ -2168,7 +3020,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="a-cats-continuous-midnight-adventure"></a>
-### 26. A cat’s continuous midnight adventure
+### 37. A cat’s continuous midnight adventure
 
 A cat’s continuous midnight adventure — original prompt by @umesh_ai.
 
@@ -2199,7 +3051,7 @@ Click the cover to watch on X.
 ---
 
 <a id="lucy-leaves-the-diner"></a>
-### 27. Lucy leaves the diner
+### 38. Lucy leaves the diner
 
 Lucy leaves the diner — an original prompt shared by @EndFolding79421.
 
@@ -2232,7 +3084,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="robin-completes-an-update"></a>
-### 28. Robin completes an update
+### 39. Robin completes an update
 
 Robin completes an update — original prompt by @obi_ai6193.
 
@@ -2276,7 +3128,7 @@ Click the cover to watch on X.
 ---
 
 <a id="do-not-press-the-button-3d-kinetic-typography"></a>
-### 29. Do not press the button — 3D kinetic typography
+### 40. Do not press the button — 3D kinetic typography
 
 Do not press the button — 3D kinetic typography — original prompt by @su_nagomi.
 
@@ -2307,7 +3159,7 @@ Click the cover to watch on X.
 ---
 
 <a id="cafe-conversation-about-a-bakery"></a>
-### 30. Café conversation about a bakery
+### 41. Café conversation about a bakery
 
 Café conversation about a bakery — original prompt by @tanabe_fragm.
 
@@ -2350,7 +3202,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-winter-riverside-farewell"></a>
-### 31. A winter riverside farewell
+### 42. A winter riverside farewell
 
 A winter riverside farewell — original prompt by @tanabe_fragm.
 
@@ -2396,7 +3248,7 @@ Click the cover to watch on X.
 ---
 
 <a id="first-person-tactical-shooter"></a>
-### 32. First-person tactical shooter
+### 43. First-person tactical shooter
 
 First-person tactical shooter — original prompt by @higgsfield_ai.
 
@@ -2444,7 +3296,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="pubg-style-first-person-firefight-looting-and-healing"></a>
-### 33. PUBG-style first-person firefight, looting and healing
+### 44. PUBG-style first-person firefight, looting and healing
 
 PUBG-style first-person firefight, looting and healing — original prompt by @AI__TSUBAKI.
 
@@ -2508,7 +3360,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-quiet-summer-walk-together"></a>
-### 34. A quiet summer walk together
+### 45. A quiet summer walk together
 
 A quiet summer walk together — original prompt by @agi_aibusi.
 
@@ -2630,7 +3482,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-dwarven-forest-fight"></a>
-### 35. Kling 4.0 vs Seedance 2.5: dwarven forest fight
+### 46. Kling 4.0 vs Seedance 2.5: dwarven forest fight
 
 Kling 4.0 vs Seedance 2.5: dwarven forest fight — original prompt by @AibeginnerR8.
 
@@ -2709,7 +3561,7 @@ Click the cover to watch on X.
 ---
 
 <a id="competitive-harbor-tactical-shooter"></a>
-### 36. Competitive harbor tactical shooter
+### 47. Competitive harbor tactical shooter
 
 Competitive harbor tactical shooter — original prompt by @ImaStudio_ai.
 
@@ -2939,7 +3791,7 @@ Click the cover to watch on X.
 ---
 
 <a id="forest-automotive-commercial"></a>
-### 37. Forest automotive commercial
+### 48. Forest automotive commercial
 
 Forest automotive commercial — an original prompt shared by @Diplomeme.
 
@@ -2972,7 +3824,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="alien-giants-in-a-turquoise-lagoon"></a>
-### 38. Alien giants in a turquoise lagoon
+### 49. Alien giants in a turquoise lagoon
 
 Alien giants in a turquoise lagoon — original prompt by @Alin_Reaper05.
 
@@ -3005,7 +3857,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="mechanical-jungle-predator"></a>
-### 39. Mechanical jungle predator
+### 50. Mechanical jungle predator
 
 Mechanical jungle predator — original prompt by @Alin_Reaper05.
 
@@ -3038,7 +3890,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="alien-settlement-at-sunrise"></a>
-### 40. Alien settlement at sunrise
+### 51. Alien settlement at sunrise
 
 Alien settlement at sunrise — original prompt by @Alin_Reaper05.
 
@@ -3071,7 +3923,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="a-two-car-chase"></a>
-### 41. A two-car chase
+### 52. A two-car chase
 
 A two-car chase — original prompt by @PromptSin.
 
@@ -3124,7 +3976,7 @@ Click the cover to watch on X.
 ---
 
 <a id="rainy-horror-storyboard"></a>
-### 42. Rainy horror storyboard
+### 53. Rainy horror storyboard
 
 Rainy horror storyboard — an original prompt shared by @EndFolding79421.
 
@@ -3157,7 +4009,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="cyber-assassin-code-jump"></a>
-### 43. Cyber-assassin code jump
+### 54. Cyber-assassin code jump
 
 Cyber-assassin code jump — an original prompt shared by @EndFolding79421.
 
@@ -3190,7 +4042,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="submarine-creature-encounter"></a>
-### 44. Submarine creature encounter
+### 55. Submarine creature encounter
 
 Submarine creature encounter — an original prompt shared by @EndFolding79421.
 
@@ -3223,7 +4075,7 @@ Example 3 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="glowing-underwater-city"></a>
-### 45. Glowing underwater city
+### 56. Glowing underwater city
 
 Glowing underwater city — an original prompt shared by @EndFolding79421.
 
@@ -3256,7 +4108,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="fraternity-house-emotional-scene"></a>
-### 46. Fraternity-house emotional scene
+### 57. Fraternity-house emotional scene
 
 Fraternity-house emotional scene — an original prompt shared by @EndFolding79421.
 
@@ -3289,7 +4141,7 @@ Three-model comparison; original post labels video 1 as Kling 4.0. Requires stor
 ---
 
 <a id="alchemist-summons-a-tiny-fire-spirit"></a>
-### 47. Alchemist summons a tiny fire spirit
+### 58. Alchemist summons a tiny fire spirit
 
 Alchemist summons a tiny fire spirit — original prompt by @shikoba_86.
 
@@ -3329,7 +4181,7 @@ Click the cover to watch on X.
 ---
 
 <a id="margot-and-leo"></a>
-### 48. Margot and Leo
+### 59. Margot and Leo
 
 Margot and Leo — original prompt by @EricKerArt.
 
@@ -3371,7 +4223,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="the-floating-violin-melody"></a>
-### 49. The floating violin melody
+### 60. The floating violin melody
 
 The floating violin melody — original prompt by @NigelWatsonTFTC.
 
@@ -3404,7 +4256,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="the-nameless-edge-trailer"></a>
-### 50. The Nameless Edge trailer
+### 61. The Nameless Edge trailer
 
 The Nameless Edge trailer — original prompt by @NigelWatsonTFTC.
 
@@ -4330,7 +5182,7 @@ The author shared this complete English version and states the Kling run used a 
 ---
 
 <a id="army-scattered-by-a-sudden-blast"></a>
-### 51. Army scattered by a sudden blast
+### 62. Army scattered by a sudden blast
 
 Army scattered by a sudden blast — original prompt by @Alin_Reaper05.
 
@@ -4361,7 +5213,7 @@ Click the cover to watch on X.
 ---
 
 <a id="maison-dor-french-toast-commercial"></a>
-### 52. Maison Doré French toast commercial
+### 63. Maison Doré French toast commercial
 
 Maison Doré French toast commercial — original prompt by @ryosuke_journey.
 
@@ -4670,7 +5522,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="giant-lion-charges-toward-battle"></a>
-### 53. Giant lion charges toward battle
+### 64. Giant lion charges toward battle
 
 Giant lion charges toward battle — original prompt by @Alin_Reaper05.
 
@@ -4701,7 +5553,7 @@ Click the cover to watch on X.
 ---
 
 <a id="mirror-world-cinematic-journey"></a>
-### 54. Mirror-world cinematic journey
+### 65. Mirror-world cinematic journey
 
 Mirror-world cinematic journey — original prompt by @TheRogueA1.
 
@@ -4752,7 +5604,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="late-night-kitchen-confession"></a>
-### 55. Late-night kitchen confession
+### 66. Late-night kitchen confession
 
 Late-night kitchen confession — original prompt by @MayorKingAI.
 
@@ -4828,7 +5680,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="vagabond-samurai-trailer"></a>
-### 56. Vagabond samurai trailer
+### 67. Vagabond samurai trailer
 
 Vagabond samurai trailer — original prompt by @NigelWatsonTFTC.
 
@@ -4980,7 +5832,7 @@ Kling text-to-video result; the same thread also includes Seedance and reference
 ---
 
 <a id="japanese-romantic-goodbye"></a>
-### 57. Japanese romantic goodbye
+### 68. Japanese romantic goodbye
 
 Japanese romantic goodbye — original prompt by @agi_aibusi.
 
@@ -5048,7 +5900,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="brunch-selfie"></a>
-### 58. Brunch selfie
+### 69. Brunch selfie
 
 Brunch selfie — an original prompt shared by @minchoi.
 
@@ -5081,7 +5933,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="live-stadium-concert"></a>
-### 59. Live stadium concert
+### 70. Live stadium concert
 
 Live stadium concert — original prompt by @minchoi.
 
@@ -5117,7 +5969,7 @@ Two consecutive clip prompts for one concert sequence, counted as one work. The 
 ---
 
 <a id="seven-shot-ski-film"></a>
-### 60. Seven-shot ski film
+### 71. Seven-shot ski film
 
 Seven-shot ski film — an original prompt shared by @minchoi.
 
@@ -5150,7 +6002,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="airport-vlog"></a>
-### 61. Airport vlog
+### 72. Airport vlog
 
 Airport vlog — an original prompt shared by @minchoi.
 
@@ -5183,7 +6035,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="continuous-skateboard-tracking"></a>
-### 62. Continuous skateboard tracking
+### 73. Continuous skateboard tracking
 
 Continuous skateboard tracking — an original prompt shared by @minchoi.
 
@@ -5216,7 +6068,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="parked-car-confession"></a>
-### 63. Parked-car confession
+### 74. Parked-car confession
 
 Parked-car confession — an original prompt shared by @minchoi.
 
@@ -5249,7 +6101,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="beach-vlog"></a>
-### 64. Beach vlog
+### 75. Beach vlog
 
 Beach vlog — an original prompt shared by @minchoi.
 
@@ -5282,7 +6134,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="dancing-to-a-music-reference"></a>
-### 65. Dancing to a music reference
+### 76. Dancing to a music reference
 
 Dancing to a music reference — original prompt by @EndFolding79421.
 
@@ -5315,7 +6167,7 @@ Requires the character image and the author-described MP4 music reference. The i
 ---
 
 <a id="3-2-1-supernatural-thriller-trailer"></a>
-### 66. 3 2 1 supernatural thriller trailer
+### 77. 3 2 1 supernatural thriller trailer
 
 3 2 1 supernatural thriller trailer — an original prompt shared by @EndFolding79421.
 
@@ -5349,7 +6201,7 @@ Comparison post includes Seedance; use original video labels. The preceding LLM 
 ---
 
 <a id="warehouse-stunt-fight"></a>
-### 67. Warehouse stunt fight
+### 78. Warehouse stunt fight
 
 Warehouse stunt fight — original prompt by @SilentNightX97.
 
@@ -5400,7 +6252,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="waterfall-from-an-ink-scroll"></a>
-### 68. Waterfall from an ink scroll
+### 79. Waterfall from an ink scroll
 
 Waterfall from an ink scroll — original prompt by @opener_ai.
 
@@ -5433,7 +6285,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="park-bench-base-clip"></a>
-### 69. Park bench base clip
+### 80. Park bench base clip
 
 Park bench base clip — an original prompt shared by @shikoba_86.
 
@@ -5477,7 +6329,7 @@ Use the original prompt below and adapt the scene to your project.
 ---
 
 <a id="dog-to-dinosaur-edit"></a>
-### 70. Dog to dinosaur edit
+### 81. Dog to dinosaur edit
 
 Dog to dinosaur edit — an original prompt shared by @shikoba_86.
 
@@ -5510,7 +6362,7 @@ Video editing prompt; requires the base clip in the same author thread, and a re
 ---
 
 <a id="autumn-season-edit"></a>
-### 71. Autumn season edit
+### 82. Autumn season edit
 
 Autumn season edit — an original prompt shared by @shikoba_86.
 
@@ -5543,7 +6395,7 @@ Video editing prompt; requires the base clip in the same author thread, and a re
 ---
 
 <a id="fox-autumn-and-flannel-edit"></a>
-### 72. Fox, autumn and flannel edit
+### 83. Fox, autumn and flannel edit
 
 Fox, autumn and flannel edit — an original prompt shared by @shikoba_86.
 
@@ -5576,7 +6428,7 @@ Video editing prompt; requires the base clip in the same author thread, and a re
 ---
 
 <a id="add-a-third-friend"></a>
-### 73. Add a third friend
+### 84. Add a third friend
 
 Add a third friend — an original prompt shared by @shikoba_86.
 
@@ -5609,7 +6461,7 @@ Video editing prompt; requires the base clip in the same author thread, and a re
 ---
 
 <a id="2010-boutique-mobile-livestream"></a>
-### 74. 2010 boutique mobile livestream
+### 85. 2010 boutique mobile livestream
 
 2010 boutique mobile livestream — original prompt by @bmx_ai13.
 
@@ -5672,8 +6524,41 @@ Click the cover to watch on X.
 
 ---
 
+<a id="a-casual-brunch-phone-vlog"></a>
+### 86. A Casual Brunch Phone Vlog
+
+A Casual Brunch Phone Vlog — original prompt by @sixugc.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Raw vertical 9:16 video recorded on a phone's front camera (not on screen), one continuous 30-second take with no cuts. It looks like an ordinary unedited phone clip, not a film: slightly soft image, a little digital noise and compression, deep focus with the café behind her as sharp as her face, auto-exposure brightening and dimming as people pass the sunny window behind her, no colour grading.
+The phone sits close and a little low, looking slightly up at her; around 9 s a waiter's arm bumps the table, the phone slides and tilts, and she catches it and props it back up. Sadie, a young woman in her early 20s with long honey-blonde waves, light natural makeup, small gold hoop earrings and a cropped cream knit top, sits at a small marble table by a big sunny window in a busy brunch café. Her sister sits across from her, out of frame except for her arm and a hand with a silver ring. Behind Sadie: other tables of people talking, a counter with a glass pastry case, plants, staff moving about, chalkboards too far away to read. Around 9 s a waiter sets down two plates, a lemon ricotta pancakes and a plate of eggs on toast, plus two iced coffees in plain glasses. Around 15 s she turns the pancake plate toward the camera; around 20 s she cuts a bite, eats it and closes her eyes; around 26 s her sister's hand reaches in with a fork and steals a piece of pancake, and Sadie swats at it, laughing. [Sadie: casual young woman's voice, warm and a bit giggly, recorded on the phone's built-in mic from half a metre away]: "Okay, I promised I'd show you what we get.... We get the same thing every single time... Oh, here it is! Thank you! ... Look at this. Lemon ricotta pancakes. ... Mmm. Okay.
+Yeah. Still the best... Hey! Get your own!" [Her sister, off camera: a young woman's voice, dry and amused]: "That's the tax." [Sadie, laughing]: "She does this every time." Audio as captured by the phone mic in a busy café, not studio clean: her voice close but with the room around it, the hiss and grind of an espresso machine, cups and cutlery clinking, overlapping chatter and laughter from other tables, a door bell jingling, a chair scraping, faint music in the background. No subtitles, no captions, no onscreen text.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2111843243587682304/img/BydZM8KSU7YFPi1n.jpg" alt="A Casual Brunch Phone Vlog" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-18 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/sixugc" rel="nofollow noreferrer" referrerpolicy="no-referrer">@sixugc</a>
+- Source: <a href="https://x.com/sixugc/status/2111843371090378765" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
 <a id="cantina-crime-drama"></a>
-### 75. Cantina crime drama
+### 87. Cantina crime drama
 
 Cantina crime drama — original prompt by @MayorKingAI.
 
@@ -5767,7 +6652,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="accidental-michelin"></a>
-### 76. Accidental Michelin
+### 88. Accidental Michelin
 
 Accidental Michelin — original prompt by @yourPlugAI.
 
@@ -5867,7 +6752,7 @@ Click the cover to watch on X.
 ---
 
 <a id="urban-rooftop-parkour"></a>
-### 77. Urban rooftop parkour
+### 89. Urban rooftop parkour
 
 Urban rooftop parkour — original prompt by @Ayu_AI_0912.
 
@@ -5952,7 +6837,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="a-god-hurls-a-mountain-boulder"></a>
-### 78. A god hurls a mountain boulder
+### 90. A god hurls a mountain boulder
 
 A god hurls a mountain boulder — original prompt by @Alin_Reaper05.
 
@@ -5983,7 +6868,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-tomb-of-pale-flame"></a>
-### 79. The Tomb of Pale Flame
+### 91. The Tomb of Pale Flame
 
 The Tomb of Pale Flame — an original prompt shared by @itsPixieVerse.
 
@@ -6026,7 +6911,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="anime-street-encounter"></a>
-### 80. Anime street encounter
+### 92. Anime street encounter
 
 Anime street encounter — original prompt by @ShamiWeb3.
 
@@ -6136,7 +7021,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="cinematic-pageant-walk"></a>
-### 81. Cinematic pageant walk
+### 93. Cinematic pageant walk
 
 Cinematic pageant walk — original prompt by @EndFolding79421.
 
@@ -6169,7 +7054,7 @@ Example 1 in the source post. X automatically converted four adjacent word pairs
 ---
 
 <a id="desert-market-starship"></a>
-### 82. Desert market starship
+### 94. Desert market starship
 
 Desert market starship — an original prompt shared by @EndFolding79421.
 
@@ -6202,7 +7087,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="victorian-harbor-ghost"></a>
-### 83. Victorian harbor ghost
+### 95. Victorian harbor ghost
 
 Victorian harbor ghost — an original prompt shared by @EndFolding79421.
 
@@ -6235,7 +7120,7 @@ Example 3 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="snake-coffee-break"></a>
-### 84. Snake coffee break
+### 96. Snake coffee break
 
 Snake coffee break — an original prompt shared by @EndFolding79421.
 
@@ -6268,7 +7153,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="octopus-bartender"></a>
-### 85. Octopus bartender
+### 97. Octopus bartender
 
 Octopus bartender — an original prompt shared by @EndFolding79421.
 
@@ -6301,7 +7186,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="waiting-with-a-rose"></a>
-### 86. Waiting with a rose
+### 98. Waiting with a rose
 
 Waiting with a rose — an original prompt shared by @EndFolding79421.
 
@@ -6334,7 +7219,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="warehouse-fight"></a>
-### 87. Warehouse fight
+### 99. Warehouse fight
 
 Warehouse fight — an original prompt shared by @EndFolding79421.
 
@@ -6367,7 +7252,7 @@ Example 1 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="western-saloon-fistfight"></a>
-### 88. Western saloon fistfight
+### 100. Western saloon fistfight
 
 Western saloon fistfight — an original prompt shared by @EndFolding79421.
 
@@ -6400,7 +7285,7 @@ Example 2 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="basement-suspense"></a>
-### 89. Basement suspense
+### 101. Basement suspense
 
 Basement suspense — an original prompt shared by @EndFolding79421.
 
@@ -6433,7 +7318,7 @@ Example 3 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="surreal-rooftop"></a>
-### 90. Surreal rooftop
+### 102. Surreal rooftop
 
 Surreal rooftop — an original prompt shared by @EndFolding79421.
 
@@ -6467,7 +7352,7 @@ Example 4 in the original post. Independent example in a multi-example post. The
 ---
 
 <a id="android-laboratory-awakening"></a>
-### 91. Android laboratory awakening
+### 103. Android laboratory awakening
 
 Android laboratory awakening — original prompt by @Alin_Reaper05.
 
@@ -6500,7 +7385,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="phantom-thief-and-the-clumsy-officer"></a>
-### 92. Phantom thief and the clumsy officer
+### 104. Phantom thief and the clumsy officer
 
 Phantom thief and the clumsy officer — original prompt by @Ayu_AI_0912.
 
@@ -6673,7 +7558,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="girl-and-dragon-cooking"></a>
-### 93. Girl and dragon cooking
+### 105. Girl and dragon cooking
 
 Girl and dragon cooking — original prompt by @Ukiyo_il.
 
@@ -6837,7 +7722,7 @@ The first 16-second and final 14-second prompts form one 30-second story. Both s
 ---
 
 <a id="world-war-i-aerial-pursuit"></a>
-### 94. World War I aerial pursuit
+### 106. World War I aerial pursuit
 
 World War I aerial pursuit — original prompt by @PromptSin.
 
@@ -6894,7 +7779,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="thunder-emperor-awakens"></a>
-### 95. Thunder Emperor awakens
+### 107. Thunder Emperor awakens
 
 Thunder Emperor awakens — original prompt by @RizwanAly07.
 
@@ -6965,7 +7850,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="torstein-the-gatebreaker"></a>
-### 96. Torstein the Gatebreaker
+### 108. Torstein the Gatebreaker
 
 Torstein the Gatebreaker — an original prompt shared by @itsPixieVerse.
 
@@ -7017,7 +7902,7 @@ Prepare the references described in the original prompt.
 ---
 
 <a id="cafe-conversation"></a>
-### 97. Cafe conversation
+### 109. Cafe conversation
 
 Cafe conversation — an original prompt shared by @HBCoop_.
 
@@ -7050,7 +7935,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="2d-train-animation"></a>
-### 98. 2D train animation
+### 110. 2D train animation
 
 2D train animation — an original prompt shared by @HBCoop_.
 
@@ -7083,7 +7968,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="3d-fox-sneeze"></a>
-### 99. 3D fox sneeze
+### 111. 3D fox sneeze
 
 3D fox sneeze — an original prompt shared by @HBCoop_.
 
@@ -7116,7 +8001,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="condensation-product-shot"></a>
-### 100. Condensation product shot
+### 112. Condensation product shot
 
 Condensation product shot — an original prompt shared by @HBCoop_.
 
@@ -7149,7 +8034,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="boxer-action"></a>
-### 101. Boxer action
+### 113. Boxer action
 
 Boxer action — an original prompt shared by @HBCoop_.
 
@@ -7182,7 +8067,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="cliff-and-waves"></a>
-### 102. Cliff and waves
+### 114. Cliff and waves
 
 Cliff and waves — an original prompt shared by @HBCoop_.
 
@@ -7215,7 +8100,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="pottery-multi-shot"></a>
-### 103. Pottery multi-shot
+### 115. Pottery multi-shot
 
 Pottery multi-shot — an original prompt shared by @HBCoop_.
 
@@ -7248,7 +8133,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="warehouse-fpv"></a>
-### 104. Warehouse FPV
+### 116. Warehouse FPV
 
 Warehouse FPV — an original prompt shared by @HBCoop_.
 
@@ -7281,7 +8166,7 @@ Comparison media includes Kling 3.0 and Kling 4.0. Read source post for playback
 ---
 
 <a id="a-cat-on-a-robot-vacuum-two-camera-views"></a>
-### 105. A cat on a robot vacuum — two camera views
+### 117. A cat on a robot vacuum — two camera views
 
 A cat on a robot vacuum — two camera views — original prompt by @yarakashiyama_.
 
@@ -7316,7 +8201,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-fight-through-three-apartment-spaces"></a>
-### 106. A fight through three apartment spaces
+### 118. A fight through three apartment spaces
 
 A fight through three apartment spaces — original prompt by @boke_ai.
 
@@ -7361,7 +8246,7 @@ Click the cover to watch on X.
 ---
 
 <a id="knight-defending-the-fortress"></a>
-### 107. Knight defending the fortress
+### 119. Knight defending the fortress
 
 Knight defending the fortress — original prompt by @AiwithBloodline.
 
@@ -7403,7 +8288,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="two-character-anime-parkour"></a>
-### 108. Two-character anime parkour
+### 120. Two-character anime parkour
 
 Two-character anime parkour — original prompt by @Ayu_AI_0912.
 
@@ -7467,7 +8352,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="futuristic-talk-show"></a>
-### 109. Futuristic talk show
+### 121. Futuristic talk show
 
 Futuristic talk show — original prompt by @Alin_Reaper05.
 
@@ -7500,7 +8385,7 @@ Read the original prompt below and watch the creator’s result.
 ---
 
 <a id="background-only-product-whip-pan"></a>
-### 110. Background-only product whip pan
+### 122. Background-only product whip pan
 
 Background-only product whip pan — original prompt by @shikoba_86.
 
@@ -7533,7 +8418,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="hand-carried-product-transition"></a>
-### 111. Hand-carried product transition
+### 123. Hand-carried product transition
 
 Hand-carried product transition — original prompt by @shikoba_86.
 
@@ -7566,7 +8451,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="anime-noodle-scene"></a>
-### 112. Anime noodle scene
+### 124. Anime noodle scene
 
 Anime noodle scene — original prompt by @minuitIA.
 
@@ -7603,7 +8488,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="desert-warrior-combat"></a>
-### 113. Desert warrior combat
+### 125. Desert warrior combat
 
 Desert warrior combat — original prompt by @fromjtown.
 
@@ -7674,7 +8559,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="flying-car-desert-pursuit"></a>
-### 114. Flying-car desert pursuit
+### 126. Flying-car desert pursuit
 
 Flying-car desert pursuit — original prompt by @openclipsai.
 
@@ -7718,7 +8603,7 @@ Comparison post includes Kling 4.0 and Seedance 2.5; retain the original model l
 ---
 
 <a id="madara-battlefield-sequence"></a>
-### 115. Madara battlefield sequence
+### 127. Madara battlefield sequence
 
 Madara battlefield sequence — original prompt by @0kncn.
 
@@ -7784,7 +8669,7 @@ Comparison with Wan 3 Prime; model labels remain in the source post. Prepare the
 ---
 
 <a id="storm-surge-against-a-seawall"></a>
-### 116. Storm surge against a seawall
+### 128. Storm surge against a seawall
 
 Storm surge against a seawall — original prompt by @sebatheepan.
 
@@ -7825,7 +8710,7 @@ Example 1 in the source post.
 ---
 
 <a id="gantry-crane-container-tracking"></a>
-### 117. Gantry crane container tracking
+### 129. Gantry crane container tracking
 
 Gantry crane container tracking — original prompt by @sebatheepan.
 
@@ -7866,7 +8751,7 @@ Example 2 in the source post.
 ---
 
 <a id="single-droplet-macro-physics"></a>
-### 118. Single-droplet macro physics
+### 130. Single-droplet macro physics
 
 Single-droplet macro physics — original prompt by @sebatheepan.
 
@@ -7901,7 +8786,7 @@ Example 3 in the source post.
 ---
 
 <a id="from-the-fridge-to-the-party"></a>
-### 119. From the fridge to the party
+### 131. From the fridge to the party
 
 From the fridge to the party — original prompt by @shikoba_86.
 
@@ -7936,7 +8821,7 @@ Prepare the input references described by the creator; this entry does not bundl
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-delayed-rocket-launch-sound"></a>
-### 120. Kling 4.0 vs Seedance 2.5: delayed rocket launch sound
+### 132. Kling 4.0 vs Seedance 2.5: delayed rocket launch sound
 
 Kling 4.0 vs Seedance 2.5: delayed rocket launch sound — original prompt by @sebatheepan.
 
@@ -7989,7 +8874,7 @@ Click the cover to watch on X.
 ---
 
 <a id="film-noir-police-interception"></a>
-### 121. Film-noir police interception
+### 133. Film-noir police interception
 
 Film-noir police interception — original prompt by @PromptSin.
 
@@ -8034,7 +8919,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-closing-the-chandlery"></a>
-### 122. Kling 4.0 vs Seedance 2.5: closing the chandlery
+### 134. Kling 4.0 vs Seedance 2.5: closing the chandlery
 
 Kling 4.0 vs Seedance 2.5: closing the chandlery — original prompt by @sebatheepan.
 
@@ -8139,7 +9024,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-still-figure-in-a-rushing-city"></a>
-### 123. A still figure in a rushing city
+### 135. A still figure in a rushing city
 
 A still figure in a rushing city — original prompt by @AIwithSynthia.
 
@@ -8186,7 +9071,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-kling-3-0-a-calf-and-a-butterfly"></a>
-### 124. Kling 4.0 vs Kling 3.0: a calf and a butterfly
+### 136. Kling 4.0 vs Kling 3.0: a calf and a butterfly
 
 Kling 4.0 vs Kling 3.0: a calf and a butterfly — original prompt by @openclipsai.
 
@@ -8227,7 +9112,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-and-minimax-h3-last-second-train-boarding"></a>
-### 125. Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding
+### 137. Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding
 
 Kling 4.0, Seedance 2.5 and MiniMax H3: last-second train boarding — original prompt by @nukegala83.
 
@@ -8258,7 +9143,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-flying-roadster-delivers-one-coffee"></a>
-### 126. A flying roadster delivers one coffee
+### 138. A flying roadster delivers one coffee
 
 A flying roadster delivers one coffee — original prompt by @AIwithSynthia.
 
@@ -8369,7 +9254,7 @@ Click the cover to watch on X.
 ---
 
 <a id="monsoon-velocity"></a>
-### 127. Monsoon velocity
+### 139. Monsoon velocity
 
 Monsoon velocity — original prompt by @bmx_ai13.
 
@@ -8425,7 +9310,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-spoken-line-comparison"></a>
-### 128. Kling 4.0 in a four-model spoken-line comparison
+### 140. Kling 4.0 in a four-model spoken-line comparison
 
 Kling 4.0 in a four-model spoken-line comparison — original prompt by @HBCoop_.
 
@@ -8456,7 +9341,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-laughing-group-comparison"></a>
-### 129. Kling 4.0 in a four-model laughing-group comparison
+### 141. Kling 4.0 in a four-model laughing-group comparison
 
 Kling 4.0 in a four-model laughing-group comparison — original prompt by @HBCoop_.
 
@@ -8487,7 +9372,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-poker-chip-comparison"></a>
-### 130. Kling 4.0 in a four-model poker-chip comparison
+### 142. Kling 4.0 in a four-model poker-chip comparison
 
 Kling 4.0 in a four-model poker-chip comparison — original prompt by @HBCoop_.
 
@@ -8518,7 +9403,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-in-a-four-model-burning-street-comparison"></a>
-### 131. Kling 4.0 in a four-model burning-street comparison
+### 143. Kling 4.0 in a four-model burning-street comparison
 
 Kling 4.0 in a four-model burning-street comparison — original prompt by @HBCoop_.
 
@@ -8549,7 +9434,7 @@ Click the cover to watch on X.
 ---
 
 <a id="last-delivery-before-the-shutter"></a>
-### 132. Last delivery before the shutter
+### 144. Last delivery before the shutter
 
 Last delivery before the shutter — original prompt by @bmx_ai13.
 
@@ -8606,7 +9491,7 @@ Click the cover to watch on X.
 ---
 
 <a id="snap-zoom-into-a-pink-collar"></a>
-### 133. Snap zoom into a pink collar
+### 145. Snap zoom into a pink collar
 
 Snap zoom into a pink collar — original prompt by @ai_artworkgen.
 
@@ -8637,7 +9522,7 @@ Click the cover to watch on X.
 ---
 
 <a id="bat-swarm-over-a-gothic-belfry"></a>
-### 134. Bat swarm over a gothic belfry
+### 146. Bat swarm over a gothic belfry
 
 Bat swarm over a gothic belfry — original prompt by @Shinebynous.
 
@@ -8668,7 +9553,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-hailuo-h3-the-evenings-first-star"></a>
-### 135. Kling 4.0 vs Hailuo H3: the evening’s first star
+### 147. Kling 4.0 vs Hailuo H3: the evening’s first star
 
 Kling 4.0 vs Hailuo H3: the evening’s first star — original prompt by @Iancu_ai.
 
@@ -8713,7 +9598,7 @@ Click the cover to watch on X.
 ---
 
 <a id="camcorder-footage-of-a-city-monster"></a>
-### 136. Camcorder footage of a city monster
+### 148. Camcorder footage of a city monster
 
 Camcorder footage of a city monster — original prompt by @CaptainHaHaa.
 
@@ -8775,7 +9660,7 @@ Click the cover to watch on X.
 ---
 
 <a id="first-contact-ambush-beneath-twin-suns"></a>
-### 137. First-contact ambush beneath twin suns
+### 149. First-contact ambush beneath twin suns
 
 First-contact ambush beneath twin suns — original prompt by @Alin_Reaper05.
 
@@ -8806,7 +9691,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-wan-3-0-the-couriers-missing-television-head"></a>
-### 138. Kling 4.0 vs Wan 3.0: the courier’s missing television head
+### 150. Kling 4.0 vs Wan 3.0: the courier’s missing television head
 
 Kling 4.0 vs Wan 3.0: the courier’s missing television head — original prompt by @baskojpeg.
 
@@ -8914,7 +9799,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-night-city-selfie-walk"></a>
-### 139. A night-city selfie walk
+### 151. A night-city selfie walk
 
 A night-city selfie walk — original prompt by @msjiaozhu.
 
@@ -8945,7 +9830,7 @@ Click the cover to watch on X.
 ---
 
 <a id="lightning-and-fire-rooftop-duel"></a>
-### 140. Lightning and fire rooftop duel
+### 152. Lightning and fire rooftop duel
 
 Lightning and fire rooftop duel — original prompt by @tirtaVEX.
 
@@ -8990,7 +9875,7 @@ Click the cover to watch on X.
 ---
 
 <a id="battle-beneath-an-alien-ring"></a>
-### 141. Battle beneath an alien ring
+### 153. Battle beneath an alien ring
 
 Battle beneath an alien ring — original prompt by @Alin_Reaper05.
 
@@ -9021,7 +9906,7 @@ Click the cover to watch on X.
 ---
 
 <a id="luxury-skincare-asmr-sequence"></a>
-### 142. Luxury skincare ASMR sequence
+### 154. Luxury skincare ASMR sequence
 
 Luxury skincare ASMR sequence — original prompt by @yourPlugAI.
 
@@ -9094,7 +9979,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-tiny-cloud-creature"></a>
-### 143. The tiny cloud creature
+### 155. The tiny cloud creature
 
 The tiny cloud creature — original prompt by @Strength04_X.
 
@@ -9137,7 +10022,7 @@ Click the cover to watch on X.
 ---
 
 <a id="cat-rides-the-robot-vacuum"></a>
-### 144. Cat rides the robot vacuum
+### 156. Cat rides the robot vacuum
 
 Cat rides the robot vacuum — original prompt by @aiIgnatius.
 
@@ -9168,7 +10053,7 @@ Click the cover to watch on X.
 ---
 
 <a id="skateboarder-in-the-moonlit-forest"></a>
-### 145. Skateboarder in the moonlit forest
+### 157. Skateboarder in the moonlit forest
 
 Skateboarder in the moonlit forest — original prompt by @MahiraEhan.
 
@@ -9199,7 +10084,7 @@ Click the cover to watch on X.
 ---
 
 <a id="rocket-powered-perfume-bottle"></a>
-### 146. Rocket-powered perfume bottle
+### 158. Rocket-powered perfume bottle
 
 Rocket-powered perfume bottle — original prompt by @AIWithRay.
 
@@ -9229,8 +10114,54 @@ Click the cover to watch on X.
 
 ---
 
+<a id="a-camera-shatters-and-rebuilds-tokyo-kling-4-0-comparison"></a>
+### 159. A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison
+
+A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Product: Futuristic compact camera
+Duration: 15 seconds 
+Style: Surreal Hollywood blockbuster, hyper-realistic 4K, fast-paced, spectacular VFX. 
+
+Scene 1 (0-3s): The Glitch A crowded Tokyo intersection suddenly freezes in time. People, cars, and falling raindrops stop mid-motion. The camera rapidly flies between the frozen objects. 
+
+Scene 2 (3-6s): Reality Shatters A bright orange futuristic camera spins through the air in slow motion. As its shutter clicks, the entire street fractures into thousands of floating glass-like pieces.
+
+Scene 3 (6-9s): Another Dimension The camera flies through the shattered reality into a breathtaking world of enormous floating islands, inverted waterfalls, and vibrant purple skies. A high-speed aerial tracking shot follows it.  
+
+Scene 4 (9-12s): The Collapse Gravity suddenly reverses. Buildings, water, and clouds spiral upward into a gigantic glowing vortex. The orange camera flies directly toward the center.
+
+Scene 5 (12-15s): The Reveal Everything collapses into a single flash of white light. Smash cut to the orange camera landing perfectly upright on a pristine white pedestal. The camera rapidly orbits the product as the background fades to black.
+
+Audio: Glitch effects, explosive impacts, rushing wind, powerful bass drops, sudden silence at the final reveal.  
+Visual direction: Seamless match cuts, extreme camera movement, realistic physics, extraordinary environmental scale, consistent orange camera design, no logos or text.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2114710174007185779" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2114710058936221696/img/qNfhzj5e38w6OdxX.jpg" alt="A Camera Shatters and Rebuilds Tokyo — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-26 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2114725113736081634" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2114710174007185779" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
 <a id="janes-wasteland-freerunning"></a>
-### 147. Jane’s wasteland freerunning
+### 160. Jane’s wasteland freerunning
 
 Jane’s wasteland freerunning — original prompt by @DjajaYerry75.
 
@@ -9320,7 +10251,7 @@ Click the cover to watch on X.
 ---
 
 <a id="exploration-ship-in-a-charged-storm"></a>
-### 148. Exploration ship in a charged storm
+### 161. Exploration ship in a charged storm
 
 Exploration ship in a charged storm — original prompt by @Alin_Reaper05.
 
@@ -9351,7 +10282,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-autumn-lookbook"></a>
-### 149. Kling 4.0 vs Seedance 2.5: autumn lookbook
+### 162. Kling 4.0 vs Seedance 2.5: autumn lookbook
 
 Kling 4.0 vs Seedance 2.5: autumn lookbook — original prompt by @YUNTJP.
 
@@ -9404,7 +10335,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-runaway-jazz-note-crosses-the-city"></a>
-### 150. Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city
+### 163. Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city
 
 Kling 4.0 vs Seedance 2.5: A runaway jazz note crosses the city — original prompt by @SocialSight.
 
@@ -9441,7 +10372,7 @@ Click the cover to watch on X.
 ---
 
 <a id="an-armored-hunter-cooks-dinner"></a>
-### 151. An armored hunter cooks dinner
+### 164. An armored hunter cooks dinner
 
 An armored hunter cooks dinner — original prompt by @tokyo_Valentine.
 
@@ -9540,7 +10471,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-birthday-cake-made-with-love"></a>
-### 152. A birthday cake made with love
+### 165. A birthday cake made with love
 
 A birthday cake made with love — original prompt by @aiwithaly.
 
@@ -9579,7 +10510,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-the-longship-in-the-storm"></a>
-### 153. Kling 4.0 vs Seedance 2.5: the longship in the storm
+### 166. Kling 4.0 vs Seedance 2.5: the longship in the storm
 
 Kling 4.0 vs Seedance 2.5: the longship in the storm — original prompt by @PixVerse.
 
@@ -9742,7 +10673,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-new-york-vlog-enters-a-film-set"></a>
-### 154. Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set
+### 167. Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set
 
 Kling 4.0 vs Seedance 2.5: a New York vlog enters a film set — original prompt by @PixVerse.
 
@@ -9829,7 +10760,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-core-day-gym-vlog"></a>
-### 155. Kling 4.0 vs Seedance 2.5: core-day gym vlog
+### 168. Kling 4.0 vs Seedance 2.5: core-day gym vlog
 
 Kling 4.0 vs Seedance 2.5: core-day gym vlog — original prompt by @YourAlphaMom.
 
@@ -9891,7 +10822,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-spark-across-the-dark"></a>
-### 156. A spark across the dark
+### 169. A spark across the dark
 
 A spark across the dark — original prompt by @art_muse.
 
@@ -9936,7 +10867,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-lantern-warms-the-gothic-forest"></a>
-### 157. Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest
+### 170. Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest
 
 Kling 4.0 vs Seedance 2.5: A lantern warms the gothic forest — original prompt by @SocialSight.
 
@@ -9973,7 +10904,7 @@ Click the cover to watch on X.
 ---
 
 <a id="ghost-horses-and-the-pumpkin-carriage-roller-coaster"></a>
-### 158. Ghost horses and the pumpkin-carriage roller coaster
+### 171. Ghost horses and the pumpkin-carriage roller coaster
 
 Ghost horses and the pumpkin-carriage roller coaster — original prompt by @PixVerse.
 
@@ -10092,7 +11023,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-2-6-underwater-profile"></a>
-### 159. Kling 4.0 vs 2.6: underwater profile
+### 172. Kling 4.0 vs 2.6: underwater profile
 
 Kling 4.0 vs 2.6: underwater profile — original prompt by @HBCoop_.
 
@@ -10123,7 +11054,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-omni-vs-1-6-hallway-to-sun-porch"></a>
-### 160. Kling 4.0 Omni vs 1.6: hallway to sun porch
+### 173. Kling 4.0 Omni vs 1.6: hallway to sun porch
 
 Kling 4.0 Omni vs 1.6: hallway to sun porch — original prompt by @HBCoop_.
 
@@ -10154,7 +11085,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-1-6-underwater-camera-descent"></a>
-### 161. Kling 4.0 vs 1.6: underwater camera descent
+### 174. Kling 4.0 vs 1.6: underwater camera descent
 
 Kling 4.0 vs 1.6: underwater camera descent — original prompt by @HBCoop_.
 
@@ -10187,7 +11118,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-omni-vs-3-0-omni-corridor-glance"></a>
-### 162. Kling 4.0 Omni vs 3.0 Omni: corridor glance
+### 175. Kling 4.0 Omni vs 3.0 Omni: corridor glance
 
 Kling 4.0 Omni vs 3.0 Omni: corridor glance — original prompt by @HBCoop_.
 
@@ -10218,7 +11149,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-generous-nobleman-and-the-publicity-bill"></a>
-### 163. A generous nobleman and the publicity bill
+### 176. A generous nobleman and the publicity bill
 
 A generous nobleman and the publicity bill — original prompt by @airina_xyz.
 
@@ -10308,7 +11239,7 @@ Click the cover to watch on X.
 ---
 
 <a id="hamster-rock-star-storyboard"></a>
-### 164. Hamster rock-star storyboard
+### 177. Hamster rock-star storyboard
 
 Hamster rock-star storyboard — original prompt by @EndFolding79421.
 
@@ -10339,7 +11270,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-christmas-dress-code-mix-up"></a>
-### 165. A Christmas dress-code mix-up
+### 178. A Christmas dress-code mix-up
 
 A Christmas dress-code mix-up — original prompt by @bmx_ai13.
 
@@ -10445,7 +11376,7 @@ Click the cover to watch on X.
 ---
 
 <a id="three-mischievous-witches"></a>
-### 166. Three mischievous witches
+### 179. Three mischievous witches
 
 Three mischievous witches — original prompt by @ShamiWeb3.
 
@@ -10520,7 +11451,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-pumpkin-monster-goes-trick-or-treating"></a>
-### 167. A pumpkin monster goes trick-or-treating
+### 180. A pumpkin monster goes trick-or-treating
 
 A pumpkin monster goes trick-or-treating — original prompt by @RizwanAly07.
 
@@ -10567,7 +11498,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-broomstick-comedy-on-halloween"></a>
-### 168. A broomstick comedy on Halloween
+### 181. A broomstick comedy on Halloween
 
 A broomstick comedy on Halloween — original prompt by @MissDelulu9.
 
@@ -10616,7 +11547,7 @@ Click the cover to watch on X.
 ---
 
 <a id="explorers-beside-a-six-legged-herd"></a>
-### 169. Explorers beside a six-legged herd
+### 182. Explorers beside a six-legged herd
 
 Explorers beside a six-legged herd — original prompt by @Alin_Reaper05.
 
@@ -10647,7 +11578,7 @@ Click the cover to watch on X.
 ---
 
 <a id="jaguar-chase-through-the-rainforest"></a>
-### 170. Jaguar chase through the rainforest
+### 183. Jaguar chase through the rainforest
 
 Jaguar chase through the rainforest — original prompt by @PixVerse.
 
@@ -10701,7 +11632,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-felt-ghost-learns-to-say-boo"></a>
-### 171. Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo
+### 184. Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo
 
 Kling 4.0 vs Seedance 2.5: A felt ghost learns to say boo — original prompt by @SocialSight.
 
@@ -10739,7 +11670,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-clay-ghost-learns-to-say-boo"></a>
-### 172. A clay ghost learns to say boo
+### 185. A clay ghost learns to say boo
 
 A clay ghost learns to say boo — original prompt by @JasonHeatony7.
 
@@ -10778,7 +11709,7 @@ Click the cover to watch on X.
 ---
 
 <a id="final-round-in-an-underground-boxing-club"></a>
-### 173. Final round in an underground boxing club
+### 186. Final round in an underground boxing club
 
 Final round in an underground boxing club — original prompt by @PixVerse.
 
@@ -10905,8 +11836,57 @@ Click the cover to watch on X.
 
 ---
 
+<a id="a-lamp-falls-from-space-into-a-room"></a>
+### 187. A Lamp Falls from Space into a Room
+
+A Lamp Falls from Space into a Room — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Cinematic one-shot, 15 seconds, 16:9, photorealistic. One continuous FPV camera dive, no cuts.
+
+CAMERA: a single unbroken FPV flight from space down into a shop, always moving forward and down, smoothly accelerating, then slowing to a gentle stop for the final moment.
+
+0-3s SPACE: start in orbit above Earth at night, city lights glowing below like gold dust. The camera tilts down and dives toward one European city.
+
+3-6s CLOUDS: the camera plunges through a thick layer of soft clouds lit pink and orange by sunset, wisps rushing past the lens, then breaks out above the city rooftops at dusk.
+
+6-9s CITY: the camera swoops low over terracotta rooftops and down into a narrow cobblestone street, gliding past warm windows toward a small design shop with a big glass shop window. The shop door is wide open; the camera flies straight through the open doorway.
+
+9-11s THE SHOP: inside, a minimalist showroom with an olive green plaster wall. On a long walnut display table stand five mid-century table lamps in a row, all switched off. In the center: a contemporary mushroom lamp with a smooth opal white glass dome, a slim brushed brass stem and a round walnut base. The camera slows down and glides toward it.
+
+11-13s THE CLICK: the mushroom lamp turns on with a soft click and a warm amber glow fills the room. The power surge runs along the cable on the table, and the four other lamps flicker violently. Their bulbs overload and burst one by one, left to right, glass shades shattering in small bright sparks and showers of glittering glass.
+
+13-15s END STATE: the camera settles in a slow push-in on the glowing mushroom lamp, the only light left in the room, broken glass sparkling on the walnut table around it, a few sparks still falling. Hold.
+
+Light: cold blue space, warm pink sunset clouds, golden dusk street, then one warm amber lamp in a dark shop.
+
+Sound: deep space hum, rushing wind through the clouds, distant city ambience, then a soft click, a rising electric buzz, four sharp glass pops with tinkling shards, and a final warm low hum. No music, no dialogue.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2115835192887611416" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2115834962205102080/img/dJObzhUorDoGDrLq.jpg" alt="A Lamp Falls from Space into a Room" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-29 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2115835395451543689" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2115835192887611416" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
 <a id="halloween-costume-gym-vlog"></a>
-### 174. Halloween costume gym vlog
+### 188. Halloween costume gym vlog
 
 Halloween costume gym vlog — original prompt by @voyzai.
 
@@ -10966,7 +11946,7 @@ Click the cover to watch on X.
 ---
 
 <a id="coastal-moonfall-english-prompt"></a>
-### 175. Coastal moonfall — English prompt
+### 189. Coastal moonfall — English prompt
 
 Coastal moonfall — English prompt — original prompt by @FlyAIgh.
 
@@ -11011,7 +11991,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-elevator-floor-illusion"></a>
-### 176. The elevator-floor illusion
+### 190. The elevator-floor illusion
 
 The elevator-floor illusion — original prompt by @Zyvex_0x.
 
@@ -11134,7 +12114,7 @@ Click the cover to watch on X.
 ---
 
 <a id="alien-marketplace-walk"></a>
-### 177. Alien marketplace walk
+### 191. Alien marketplace walk
 
 Alien marketplace walk — original prompt by @Alin_Reaper05.
 
@@ -11165,7 +12145,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-continuous-rooftop-parkour-run"></a>
-### 178. A continuous rooftop parkour run
+### 192. A continuous rooftop parkour run
 
 A continuous rooftop parkour run — original prompt by @PixVerse.
 
@@ -11298,7 +12278,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-knight-and-the-haunted-castle"></a>
-### 179. The knight and the haunted castle
+### 193. The knight and the haunted castle
 
 The knight and the haunted castle — original prompt by @amynys.
 
@@ -11351,7 +12331,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-minimax-h3-and-wan-3-0-cocktail-sprint"></a>
-### 180. Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint
+### 194. Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint
 
 Kling 4.0, Seedance 2.5, MiniMax H3 and Wan 3.0: cocktail sprint — original prompt by @openclipsai.
 
@@ -11397,7 +12377,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-carriage-through-the-golden-city"></a>
-### 181. A carriage through the golden city
+### 195. A carriage through the golden city
 
 A carriage through the golden city — original prompt by @churvikv.
 
@@ -11428,7 +12408,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-and-seedance-versions-rainy-rooftop-ballet"></a>
-### 182. Kling and Seedance versions: rainy rooftop ballet
+### 196. Kling and Seedance versions: rainy rooftop ballet
 
 Kling and Seedance versions: rainy rooftop ballet — original prompt by @openclipsai.
 
@@ -11475,7 +12455,7 @@ Click the cover to watch on X.
 ---
 
 <a id="foggy-forest-pursuit"></a>
-### 183. Foggy forest pursuit
+### 197. Foggy forest pursuit
 
 Foggy forest pursuit — original prompt by @EndFolding79421.
 
@@ -11506,7 +12486,7 @@ Click the cover to watch on X.
 ---
 
 <a id="water-powered-bathroom-battle"></a>
-### 184. Water-powered bathroom battle
+### 198. Water-powered bathroom battle
 
 Water-powered bathroom battle — original prompt by @itxabdullaa.
 
@@ -11567,7 +12547,7 @@ Click the cover to watch on X.
 ---
 
 <a id="voxel-monsters-go-trick-or-treating"></a>
-### 185. Voxel monsters go trick-or-treating
+### 199. Voxel monsters go trick-or-treating
 
 Voxel monsters go trick-or-treating — original prompt by @SocialSight.
 
@@ -11605,7 +12585,7 @@ Click the cover to watch on X.
 ---
 
 <a id="golden-hour-pickup-truck-lookbook"></a>
-### 186. Golden-hour pickup-truck lookbook
+### 200. Golden-hour pickup-truck lookbook
 
 Golden-hour pickup-truck lookbook — original prompt by @jhosephebtc.
 
@@ -11806,7 +12786,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-lemon-filled-sicilian-village-stroll"></a>
-### 187. A lemon-filled Sicilian village stroll
+### 201. A lemon-filled Sicilian village stroll
 
 A lemon-filled Sicilian village stroll — original prompt by @jhosephebtc.
 
@@ -12006,8 +12986,51 @@ Click the cover to watch on X.
 
 ---
 
+<a id="a-cyberpunk-chase-in-the-rain-kling-4-0-comparison"></a>
+### 202. A Cyberpunk Chase in the Rain — Kling 4.0 Comparison
+
+A Cyberpunk Chase in the Rain — Kling 4.0 Comparison — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Cinematic cyberpunk action sequence, 16:9, four shots, night, heavy rain, neon city.
+
+Shot 1 (0-2s): Low-angle tracking shot. A young woman in a glossy black techwear jacket with glowing cyan seams, short silver bob hair, sprints straight toward the camera across a wet rooftop, splashing through puddles that reflect pink and cyan neon signs, the camera dollying backward fast in front of her.
+
+Shot 2 (2-5s): Side tracking shot, camera running alongside her. She leaps off the roof edge across a wide gap between two skyscrapers, body fully stretched mid-air, giant holographic billboards glowing behind her, a flying car with red taillights streaking past far below.
+
+Shot 3 (5-7s): Close-up from the front as she lands on a metal walkway, rolls over her shoulder and springs back up in one fluid motion, rain droplets flying off her jacket, her eyes flashing with a thin cyan glow.
+
+Shot 4 (7-10s): The camera rises fast into a sweeping drone shot, pulling up and away as she runs and slides under a low glowing pipe, revealing an endless vertical megacity of neon towers, holograms and fog.
+
+Fast, dynamic camera movement, motion blur, realistic physics, volumetric neon light, Blade Runner color grade, highly detailed.
+
+Sound: heavy rain, splashing footsteps, distant sirens, deep pulsing synth bass.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2116544975207108798" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2116523589109207041/img/soGonc6tT_OtjK9Z.jpg" alt="A Cyberpunk Chase in the Rain — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-10-31 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2116544976331145464" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2116544975207108798" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
 <a id="a-girl-reveals-her-halloween-secret"></a>
-### 188. A girl reveals her Halloween secret
+### 203. A girl reveals her Halloween secret
 
 A girl reveals her Halloween secret — original prompt by @toku8ai.
 
@@ -12038,7 +13061,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-scarecrows-chase-a-crow"></a>
-### 189. Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow
+### 204. Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow
 
 Kling 4.0 vs Seedance 2.5: Scarecrows chase a crow — original prompt by @SocialSight.
 
@@ -12076,7 +13099,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-code-prompt-visual-experiment"></a>
-### 190. A code-prompt visual experiment
+### 205. A code-prompt visual experiment
 
 A code-prompt visual experiment — original prompt by @0thernes_ai.
 
@@ -12107,7 +13130,7 @@ Click the cover to watch on X.
 ---
 
 <a id="painted-door-opening-in-a-five-style-kling-4-0-film"></a>
-### 191. Painted door opening in a five-style Kling 4.0 film
+### 206. Painted door opening in a five-style Kling 4.0 film
 
 Painted door opening in a five-style Kling 4.0 film — original prompt by @HBCoop_.
 
@@ -12146,7 +13169,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-dumbbell-gym-vlog"></a>
-### 192. Kling 4.0 vs Seedance 2.5: dumbbell gym vlog
+### 207. Kling 4.0 vs Seedance 2.5: dumbbell gym vlog
 
 Kling 4.0 vs Seedance 2.5: dumbbell gym vlog — original prompt by @YourAlphaMom.
 
@@ -12208,7 +13231,7 @@ Click the cover to watch on X.
 ---
 
 <a id="pink-bathroom-skincare-commercial"></a>
-### 193. Pink-bathroom skincare commercial
+### 208. Pink-bathroom skincare commercial
 
 Pink-bathroom skincare commercial — original prompt by @Diplomeme.
 
@@ -12263,7 +13286,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-seedance-2-5-a-town-that-bakes-the-moon"></a>
-### 194. Kling 4.0 vs Seedance 2.5: A town that bakes the moon
+### 209. Kling 4.0 vs Seedance 2.5: A town that bakes the moon
 
 Kling 4.0 vs Seedance 2.5: A town that bakes the moon — original prompt by @SocialSight.
 
@@ -12301,7 +13324,7 @@ Click the cover to watch on X.
 ---
 
 <a id="alien-shooter-at-a-neon-spaceport"></a>
-### 195. Alien shooter at a neon spaceport
+### 210. Alien shooter at a neon spaceport
 
 Alien shooter at a neon spaceport — original prompt by @aymducking.
 
@@ -12347,7 +13370,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-vs-veo-3-1-blazer-try-on-and-spin"></a>
-### 196. Kling 4.0 vs Veo 3.1: blazer try-on and spin
+### 211. Kling 4.0 vs Veo 3.1: blazer try-on and spin
 
 Kling 4.0 vs Veo 3.1: blazer try-on and spin — original prompt by @kodavid.
 
@@ -12378,7 +13401,7 @@ Click the cover to watch on X.
 ---
 
 <a id="a-japanese-town-from-a-3d-previsualization"></a>
-### 197. A Japanese town from a 3D previsualization
+### 212. A Japanese town from a 3D previsualization
 
 A Japanese town from a 3D previsualization — original prompt by @boke_ai.
 
@@ -12409,7 +13432,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-deadpan-action-comedy"></a>
-### 198. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy
+### 213. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy
 
 Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: deadpan action comedy — original prompt by @openclipsai.
 
@@ -12448,7 +13471,7 @@ Click the cover to watch on X.
 ---
 
 <a id="kling-4-0-seedance-2-5-wan-3-0-and-minimax-h3-champagne-tower-english-prompt"></a>
-### 199. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt
+### 214. Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt
 
 Kling 4.0, Seedance 2.5, Wan 3.0 and MiniMax H3: champagne tower — English prompt — original prompt by @FlyAIgh.
 
@@ -12489,7 +13512,7 @@ Click the cover to watch on X.
 ---
 
 <a id="the-prince-and-baba-cloantas-bell"></a>
-### 200. The prince and Baba Cloanța’s bell
+### 215. The prince and Baba Cloanța’s bell
 
 The prince and Baba Cloanța’s bell — original prompt by @airina_xyz.
 
@@ -12546,6 +13569,1697 @@ Click the cover to watch on X.
 
 ---
 
+<a id="the-cat-pushes-a-mug-off-the-counter-kling-4-0-comparison"></a>
+### 216. The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison
+
+The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Realistic 16:9 home video, 10 seconds, a bright modern kitchen in daylight, static camera at counter height. A fluffy orange tabby cat sits on the wooden floor, staring up at the white kitchen counter, its tail swishing. It wiggles its back legs and jumps, landing smoothly on top of the counter on all four paws. It walks slowly along the counter to a white coffee mug standing near the edge. It looks straight at the camera, then pushes the mug with one paw until it tips over the edge and falls out of frame. A loud crash of the mug breaking on the floor. The cat sits down calmly on the counter, unbothered. Sounds: soft paws on wood, a light thud as it lands, gentle footsteps on the counter, the crash of the mug, a quiet meow.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2117613029625847970" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117612927121248256/img/yLXfoXKWybxLvpO7.jpg" alt="The Cat Pushes a Mug off the Counter — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-03 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2117613705156338099" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2117613029625847970" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-paper-pop-up-city-unfolds-from-a-book"></a>
+### 217. A Paper Pop-Up City Unfolds from a Book
+
+A Paper Pop-Up City Unfolds from a Book — original prompt by @kodavid.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+A thick hardcover book lies open on a wooden desk in a cozy lamp-lit study. A whole paper pop-up city unfolds out of the pages: buildings fold up floor by floor, a paper bridge snaps into place over a blue paper river, a tiny paper tram starts rolling along its track, and paper birds flap off the rooftops. The camera dives down from above the desk to street level between the paper buildings while tiny paper people walk and wave. Warm cozy 3D animated style, soft lamp light, rich detail. No text.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/kodavid/status/2117686137267401117" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2117686105721933825/pu/img/X5uwQpU3vRQIkQs1.jpg" alt="A Paper Pop-Up City Unfolds from a Book" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-03 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/kodavid" rel="nofollow noreferrer" referrerpolicy="no-referrer">@kodavid</a>
+- Sources: <a href="https://x.com/kodavid/status/2117724837020127736" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/kodavid/status/2117686137267401117" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="seven-travel-moments-and-a-surprise-catch"></a>
+### 218. Seven Travel Moments and a Surprise Catch
+
+Seven Travel Moments and a Surprise Catch — original prompt by @itxsarmadd.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30-second vertical 9:16 photorealistic live-action travel video with natural lighting, realistic physics and spontaneous smartphone footage.
+
+IDENTITY LOCK
+
+- @Image1: ACEL. Preserve her exact face, hairstyle, skin tone and body proportions.
+- @Image2: Male lead. Preserve his exact identity and appearance.
+  Never change either face.
+
+REPEATED ACTION
+In every scene, the man is busy with his own activity and does not notice ACEL. She enters from the RIGHT, approaches playfully, makes the same small turn, then suddenly falls backward toward him. Only then does he react, step back, bend his knees and firmly catch her upper back and waist with his free arm. Show her actual weight being supported. They exchange natural smiles. Keep props in the correct hands.
+
+7 SCENES & OUTFITS
+
+1. 00–04 | Wooden courtyard: Man: brown shirt, white trousers, light-brown shoes, opening a blue umbrella. ACEL: dark-brown jacket, long grey skirt, dark hat, crossbody bag. He catches her while holding the umbrella.
+
+2. 04–08 | Turquoise river: Man: pale-pink shirt, blue jeans, sneakers, filming with phone. ACEL: layered pale-pink dress, light head covering, dark platform shoes.
+
+3. 08–12 | Sand dunes: Man: red shirt, white trousers, sandals, talking on phone. ACEL: flowing bright-red dress. He lowers the phone and catches her.
+
+4. 12–16 | Yellow flower valley: Man: dark-green outdoor jacket, dark trousers, brown hiking boots, backpack, searching inside it. ACEL: grey-green jacket, white short skirt, brown boots.
+
+5. 16–20 | Blue alpine lake: Man: bright-blue jacket, white shirt, brown trousers, blue cap, filming. ACEL: flowing blue dress, light wide-brim hat, dark shoes.
+
+6. 20–24 | Lakeside path: Man: cream outfit, crossbody bag, dark shoes, drinking from a cup with straw. ACEL: dark-purple plaid dress, light scarf, black ankle boots.
+
+7. 24–30 | Potala Palace: Man: red-and-cream jacket, cream trousers, crossbody bag, filming the palace. ACEL: short white dress, red hat, thick scarf, light boots. He catches her and holds the final smiling pose from 00:28–00:30, with the palace clearly visible.
+
+CAMERA & NEGATIVE RULES
+Use stable medium-wide/full-body smartphone framing. Keep characters and scenery visible. Simple match cuts between locations; outfit changes only between scenes. Realistic balance, body weight, hand contact and fabric movement.
+
+No face changes, wrong outfits, premature catching, floating, fake embraces, extra limbs/fingers, disappearing props, distorted hands, exaggerated acting, excessive slow motion, subtitles, UI or watermarks.
+
+GOAL: Seven playful spontaneous travel moments, consistent identities, accurate outfits and locations, and believable physical interactions. Pure photorealistic live action.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxsarmadd/status/2117848225176793451" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117848160576110593/img/DMgd8v3RZKGp2flq.jpg" alt="Seven Travel Moments and a Surprise Catch" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-04 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxsarmadd" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxsarmadd</a>
+- Source: <a href="https://x.com/itxsarmadd/status/2117848225176793451" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-huntress-and-the-leaf-eating-dinosaur"></a>
+### 219. The Huntress and the Leaf-Eating Dinosaur
+
+The Huntress and the Leaf-Eating Dinosaur — original prompt by @TaliaAariz.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Cinematic vertical video, 9:16, photorealistic. A tribal huntress with long dark braids, a beaded headband, feather earrings and a turquoise necklace stands knee-deep in a calm, shallow river. She wears a cream beaded top, a feathered and fringed leather skirt with a round metal belt buckle, and leather arm cuffs. She holds a long wooden spear with a metal tip, thrusts it into the water so droplets splash up, then lifts it and turns to look toward the trees. Behind her, a giant long-necked brachiosaurus-type dinosaur with textured olive-brown skin walks along the riverbank among green trees. In the middle of the clip, cut to a close-up of the dinosaur's head. It chews a green leaf, blinks a warm amber eye, and its neck sways gently. Golden-hour sunset, sun low behind misty mountains, warm rim light, sparkling reflections and ripples on the water, lush jungle foliage, shallow depth of field, soft bokeh. Smooth handheld camera with a slow push-in, epic prehistoric fantasy mood, natural water and ambient jungle sounds, 24fps, 4K detail.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/TaliaAariz/status/2117896072622146004" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117895958918770688/img/IcJLBurdqFzQ0Nez.jpg" alt="The Huntress and the Leaf-Eating Dinosaur" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-04 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/TaliaAariz" rel="nofollow noreferrer" referrerpolicy="no-referrer">@TaliaAariz</a>
+- Source: <a href="https://x.com/TaliaAariz/status/2117896072622146004" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="two-fighters-on-the-grassland"></a>
+### 220. Two Fighters on the Grassland
+
+Two Fighters on the Grassland — original prompt by @itxabdullaa.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Use @image1 as Eddy and @image2 as Jack. Preserve exact faces, hairstyles, clothing, proportions and identities.
+
+LOCATION: Vast green grassland with uneven terrain, exposed soil and distant mountains. No buildings or structures.
+
+ACTION: Create a brutally fast, fluid superpower fight with The Raid intensity. Both fighters have explosive strength, supernatural speed, aerial mobility and instant teleportation. They charge simultaneously and collide.
+
+FIGHT SEQUENCE:
+
+00–05s: Close-up of Eddy's eyes. He charges with a roundhouse kick. Jack dodges, sweeps his leg and launches him airborne with a rising kick.
+
+05–10s: They exchange aerial kicks. Eddy crashes into the grass, teleports behind Jack and attacks with an axe kick. Jack blocks, blasting soil outward, then counters.
+
+10–15s: Eddy sends Jack flying with a side kick. Jack teleports behind him with a jumping knee. Eddy twists and counters with a spinning kick, throwing Jack across the field.
+
+15–20s: Jack attacks with an aerial heel kick. Eddy blocks and counters with a rising knee. They exchange midair strikes, collide shoulder-first and Eddy throws Jack overhead.
+
+20–25s: Jack launches a spinning kick. Eddy teleports away, sweeps his legs and dodges a descending heel kick. Eddy counters with a flying roundhouse.
+
+25–30s: Jack teleports above Eddy and dives with a flying knee. Both unleash rapid punches, knees and spinning kicks. At 29.6s, simultaneous full-power strikes collide, creating a massive shockwave that flattens the grass and blasts soil outward. Both fly apart, conscious and ready to continue. No winner.
+
+MOVEMENT & CAMERA: Relentless motion, realistic weight transfer and powerful reactions. Use rapid cuts, close-ups, low angles, POVs and wide tracking shots. Every impact moves the opponent. Show realistic grass damage, dust and shockwaves. Keep mountains visible in wide shots.
+
+AUDIO: Natural impacts, footwork, grunts, breathing and shockwaves. No music.
+
+STYLE: Photorealistic live-action action cinema, gritty realism, believable anatomy and relentless momentum.
+
+NEGATIVE: No identity or outfit changes, extra limbs, duplicated characters, weightless movement, repetitive attacks, stationary poses, cartoon CGI or environment changes.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxabdullaa/status/2117966196683456710" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2117966133643169792/img/BMSW-XM1U2Hyl2Jz.jpg" alt="Two Fighters on the Grassland" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-04 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxabdullaa" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxabdullaa</a>
+- Source: <a href="https://x.com/itxabdullaa/status/2117966196683456710" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-frost-empress-and-the-last-hunter"></a>
+### 221. The Frost Empress and the Last Hunter
+
+The Frost Empress and the Last Hunter — original prompt by @itxabdullaa.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+30-SECOND PHOTOREALISTIC KOREAN SUPERNATURAL ACTION FILM
+
+IDENTITY LOCK: Same Korean heroine from <<<image_1>>>, identical face, pink hair, physique and outfit. Same tiny white puppy from <<<image_3>>>. Preserve character consistency throughout.
+
+LOCATION: Dark underground Seoul parking garage at midnight, flickering lights, wet concrete, parked cars and drifting smoke.
+
+0:00–0:05 — THE AMBUSH
+
+The heroine carries her puppy through the garage. Lights suddenly go out. An explosion erupts behind her. She instantly creates an enormous ice shield, protecting herself and the puppy. Four masked attackers emerge. Their mysterious leader says, "Give me the creature."
+
+0:05–0:11 — COUNTERATTACK
+
+She places the puppy inside a protective ice sphere. Two attackers charge. She freezes one attacker's weapon, delivers a spinning back kick, then slides beneath the second attacker and launches him into a concrete pillar with a powerful ice wave.
+
+0:11–0:17 — AWAKENING
+
+Her eyes ignite pink. Crystalline armor forms across her arms. She stomps the ground, releasing a massive freezing shockwave. Ice pillars erupt beneath three attackers, throwing them into the air. She follows with a spectacular spinning aerial kick surrounded by cyan energy.
+
+0:17–0:24 — FINAL HUNTER
+
+The elite hunter attacks with a glowing mechanical blade. She blocks his strikes, catches the weapon and freezes it completely. With one powerful twist, she shatters it. A gigantic supernatural ice dragon erupts from the floor, spirals around him and traps him inside a towering crystalline prison.
+
+0:24–0:30 — THE SECRET
+
+Silence. She retrieves her unharmed puppy. Suddenly, its eyes glow pink. A mysterious magical symbol appears beneath them. Behind her, the frozen hunter whispers:
+
+"She's not the source of the power..."
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY: Hyper-realistic Korean action cinema, aggressive tracking shots, dynamic whip-pans, realistic martial arts, 120fps impact slow motion, cinematic lighting, realistic ice physics, cyan-pink supernatural effects and powerful orchestral sound design.
+
+NEGATIVE PROMPT: No cartoon, anime, inconsistent faces, outfit changes, extra limbs, unrealistic physics, duplicate puppy, puppy injuries, gore, subtitles or logos. Puppy must remain unharmed throughout.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxabdullaa/status/2118202412058198119" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118202360740917248/img/AgnqF66K3vlAd4Ej.jpg" alt="The Frost Empress and the Last Hunter" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxabdullaa" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxabdullaa</a>
+- Source: <a href="https://x.com/itxabdullaa/status/2118202412058198119" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="rica-and-the-fall-of-the-gods"></a>
+### 222. Rica and the Fall of the Gods
+
+Rica and the Fall of the Gods — original prompt by @itxsarmadd.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+CHARACTER & WEAPON LOCK: Use @image1 as Rica’s exact identity, face, hairstyle and appearance. Use @image2 as her exact sword. Maintain perfect consistency throughout.
+
+ENVIRONMENT: A vast elevated green grassland surrounded by rolling hills and distant mountain ranges. Thousands of terrifying humanoid monsters crawl across the battlefield. A colossal evil deity towers over everything, with a muscular body, enormous arms, long black hair, horns and elaborate Chinese divine armor. A gigantic red Chinese dragon with crimson scales, horns, whiskers and claws enters the battle.
+
+0–10 SEC — THE BATTLE BEGINS: Rica relentlessly fights the monster army using supernatural speed and precise sword techniques. The colossal deity attacks with enormous sweeping hands. Rica dodges, vanishes through sheer speed and reappears, running across his fingers, wrists and arms while attacking continuously. The red dragon descends and wraps its massive body around the deity, biting and clawing him. Above the mountains, a burning meteor larger than the mountain range appears and continuously descends.
+
+10–20 SEC — RICA'S ULTIMATE POWERS: Rica performs rapid hand gestures and shouts in Mandarin:
+
+- 「天剑降临！」 Thousands of glowing pink swords materialize in the sky and rain down on the battlefield.
+- 「万枪齐落！」 Hundreds of enormous pink energy spears launch toward the deity.
+- 「天裂！」 Giant pink dimensional slashes tear across the deity’s body.
+
+All attacks overlap while Rica keeps moving, the dragon constricts and attacks, the deity fights back, and the meteor grows closer.
+
+20–25 SEC — FINAL JUDGMENT: Rica shouts 「终焉审判！」 All swords, spears and dimensional cuts converge simultaneously. The dragon bites and tightens its coils around the deity as Rica delivers a devastating final sword slash. At the same moment, the colossal meteor crashes into the battlefield. The deity begins to fracture as a massive explosion engulfs everything.
+
+25–30 SEC — THE HELL DIMENSION: Without a visible portal or pause, the grassland transforms into a dark volcanic hellscape with a black sky, crimson storms, lava rivers and glowing fissures. The deity, dragon and surviving monsters remain visible. A colossal tsunami of molten lava rises and sweeps across the battlefield, engulfing them all. Rica flies vertically upward as the camera pulls far back, revealing her above the endless burning hellscape and the enormous advancing lava wave.
+
+CAMERA & ACTION: Aggressive cinematic tracking, rapid orbiting shots, low-angle combat, aerial perspectives and dramatic wide reveals. Constant movement and escalating destruction. All characters, attacks, dragon movements and meteor descent must remain active simultaneously. No static casting or pauses.
+
+AUDIO: Mandarin dialogue for all four ultimate attacks, with powerful sword clashes, monster roars, dragon sounds, meteor impact and volcanic destruction. No subtitles.
+
+STRICT NEGATIVES: No identity, face, outfit or sword changes. No duplicate Rica, extra limbs, cartoon/anime appearance, game-like CGI, portals, pauses, disconnected action or peaceful ending. Maintain photorealistic live-action cinematic quality throughout.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxsarmadd/status/2118222132597657636" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118222074233909248/img/V6JIT4KkE5vfI4OL.jpg" alt="Rica and the Fall of the Gods" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxsarmadd" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxsarmadd</a>
+- Source: <a href="https://x.com/itxsarmadd/status/2118222132597657636" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="twin-clones-at-a-coastal-overlook"></a>
+### 223. Twin Clones at a Coastal Overlook
+
+Twin Clones at a Coastal Overlook — original prompt by @dreamydigiarts.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+A 10-second ultra-realistic optical illusion video of twin clones taking a selfie.
+
+Framing & Camera:Fixed wide full shot matching reference @ Image 1 1:1. Full body of both women, thigh-high boots, motorcycle, and background remain completely visible without pan, zoom, or camera movement.
+Scene & Environment:Coastal highway overlook at sunset with golden sky, calm sea, and mountains.A vintage matte black motorcycle is parked on asphalt.Warm sunset light creates glossy highlights on leather. No sunlight glare or reflections on sunglasses.Both characters cast realistic ground shadows matching sunset light.
+
+Characters & Outfit:Two identical female clones with straight dark hair, black sunglasses, black cropped leather jackets, leather shorts, and thigh-high black high-heel boots.
+
+Action Sequence:
+
+1.[0-2s Initial Pose]:The original woman leans aloofly against the motorcycle with a cold expression, casting a natural ground shadow.The character’s pose must strictly match the reference image. @ Image 1
+2.[2-5s Solid Walking Entrance]:NO ghosting, transparency,fade-in, or digital effects. An identical, fully solid clone physically walks step-by-step into the frame from the left edge, casting a continuous, realistic ground shadow as she walks.She approaches raising a black smartphone at a 45-degree selfie angle. The original woman breaks her cold pose, leaning in close toward the clone.
+3.[5-8s Selfie Interaction]:Both women head-tilt together, synchronously pouting and posing facing the elevated phone, casting distinct ground shadows. @ Image 2
+
+4.[8-10s Exit & Return]:The clone lowers the phone and physically walks straight out of frame to the right, her ground shadow moving naturally off-screen. The original woman seamlessly repositions back into her initial aloof leaning pose by the bike with her shadow intact. @ Image 1
+
+The character’s walking pace should not be too slow; her steps should have a clear rhythm. The sound of high heels must be heard while she is walking. Absolutely no high-heel clicking sounds should occur when she is not walking. The background music should be sexy and relaxing.
+Style:Cinematic photography, photorealistic leather, matte non-reflective sunglasses, warm golden hour light, clear ground shadows, fixed full shot, realistic physical motion.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/dreamydigiarts/status/2118282177268113905" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118268203004772352/img/IHJ_8RvQcfbuTX6w.jpg" alt="Twin Clones at a Coastal Overlook" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/dreamydigiarts" rel="nofollow noreferrer" referrerpolicy="no-referrer">@dreamydigiarts</a>
+- Source: <a href="https://x.com/dreamydigiarts/status/2118282177268113905" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="lala-faces-cerberus"></a>
+### 224. Lala Faces Cerberus
+
+Lala Faces Cerberus — original prompt by @chatgptpaglu.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+CHARACTER LOCK: @image1 = Lala. Preserve exact face, identity, hairstyle, body, outfit and accessories. Her magical doll remains present and subtly responds to her gestures. @image2 = Cerberus. Preserve its exact three-headed anatomy, horns, proportions and appearance. Each head moves independently.
+
+ENVIRONMENT & SCALE: An enormous ancient volcanic caldera with black obsidian rocks, magma fissures, ash, steam and distant mountains. Lala stands on an elevated plateau; Cerberus occupies a lower basin 100 meters away. Lala is 1.7m tall and Cerberus 5.1m. Maintain their scale, distance and positions. Lala never leaves the plateau.
+
+00–04 | CONFRONTATION: Aerial camera reveals the caldera, Lala on the plateau and aggressive Cerberus in the lower basin. Its three heads roar independently as its paws crush volcanic rocks. Lala remains calm.
+
+04–07 | DOUBLECAST: Camera orbits Lala as she activates Doublecast through controlled hand gestures. Her doll responds subtly. No spoken announcement.
+
+07–13 | BLIZZAGA: Lala performs elegant, flowing gestures and shouts 「ブリザガ！」 (Burizaga). A powerful frost wave travels across the battlefield, freezing the basin, rocks and Cerberus. Ice progressively covers its entire body and all three heads, immobilizing it completely. Camera tracks the advancing frost and reveals the frozen beast.
+
+13–18 | FIRAGA: Lala immediately changes to firm, commanding gestures and shouts 「ファイガ！」 (Faiga). Magma erupts through ground fractures, lava flows across the basin, and existing ice melts into thick steam. The massive ice prison around Cerberus remains intact. Do not free or thaw it.
+
+18–22 | ELEMENTAL CONVERGENCE: A violent vortex forms around Cerberus. Sharp ice shards and heavy flowing magma converge from multiple directions, violently shattering its ice prison and striking the creature. Keep Cerberus recognizable at the center. No additional spell announcement.
+
+22–30 | ULTIMA: Lala performs a distinct authoritative gesture and shouts 「アルテマ！」 (Arutema). A colossal black-violet gravitational sphere forms above the basin, distorting space and pulling in ash, ice and debris. It descends and detonates directly over Cerberus. A devastating radial shockwave destroys the basin, displacing magma, ice and massive debris. The explosion remains confined to the lower basin, leaving Lala's elevated plateau outside the main blast. The sphere dissolves into fading particles. End on a wide shot of Lala calmly overlooking the destruction.
+
+CAMERA & STYLE: Premium live-action fantasy cinema, realistic elemental physics, cinematic lighting and sophisticated VFX. Use aerial wides, medium-full casting shots and dynamic ground-level tracking. Preserve clear geography and cause-and-effect.
+
+STRICT RULES: Exact identities and anatomy, consistent scale and distance, persistent environmental damage, distinct spell gestures. Cerberus stays frozen until convergence. No teleportation, duplicate characters, extra creatures, disappearing effects, resets, cartoon CGI, random cuts or unrelated dialogue.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/chatgptpaglu/status/2118313794384593389" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118313756413624320/img/KWSCjIFfeAhUua_L.jpg" alt="Lala Faces Cerberus" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/chatgptpaglu" rel="nofollow noreferrer" referrerpolicy="no-referrer">@chatgptpaglu</a>
+- Source: <a href="https://x.com/chatgptpaglu/status/2118313794384593389" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="two-sisters-escape-the-infected-city"></a>
+### 225. Two Sisters Escape the Infected City
+
+Two Sisters Escape the Infected City — original prompt by @itxsarmadd.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+IDENTITY LOCK
+@image1 = ACEL, older sister. Preserve exact face, short brown bob, colorful hair clip and blue-orange sweater, olive trim, denim overall shorts, white socks and black-white sneakers.
+
+@image2 = younger sister. Preserve exact child face, two short low braids, cream shirt, blue denim overalls and white sneakers. Maintain child proportions. Never swap identities or change outfits.
+
+ENVIRONMENT & ZOMBIES
+Luxury seaside hotel at golden sunset, gravel rooftops, central pool and vast ocean. A huge white inflatable cushion floats in the pool. 1,500–3,000 pale, wet-haired zombies in light hospital clothes swarm the pool, courtyard and rooftops like a living ant colony. Continuous independent crawling, swimming, climbing, grabbing and piling. Realistic water, gravity and collisions.
+
+14-SHOT TIMELINE
+
+01 | 00:00–01.5: Acel sprints across a rooftop as zombie hands reach for her.
+
+02 | 01.5–03.5: Aerial shot. She jumps onto the white pool cushion, revealing the massive swarm.
+
+03 | 03.5–05: Cushion compresses and rebounds as zombies crash into the water.
+
+04 | 05–06.5: Little sister loses balance and falls toward a lower rooftop.
+
+05 | 06.5–08.5: She catches the edge briefly, then rolls onto the gravel.
+
+06 | 08.5–10: Acel runs across the unstable cushion, searching for her sister.
+
+07 | 10–11.5: Sister reaches toward Acel, crying 「언니! 살려줘!」
+
+08 | 11.5–14.5: Acel falls and crawls across the cushion, pushing away a zombie's grabbing arm.
+
+09 | 14.5–16: Extreme aerial view of the enormous ant-like zombie swarm consuming the entire pool and courtyard.
+
+10 | 16–18: Zombies tilt the cushion violently. Acel desperately grips its edge.
+
+11 | 18–21: She loses grip and falls toward a lower rooftop, maintaining realistic gravity.
+
+12 | 21–22: Acel rolls across gravel and struggles to stand.
+
+13 | 22–26: Sisters reunite and embrace. Sister cries 「언니!」 Acel replies 「괜찮아… 언니 여기 있어.」 Zombies emerge behind them. Acel grabs her sister's hand.
+
+14 | 26–30: Both sisters run and jump from the ocean-facing rooftop, holding hands. Camera pulls back to reveal their airborne silhouettes against the golden ocean. Zombies leap after them. End before water impact.
+
+STYLE & AUDIO
+Premium Korean zombie cinema, golden backlight, dynamic aerial and tracking shots, realistic physical effects. Natural footsteps, breathing, screams, zombie growls, splashes and cinematic impact. No narration or subtitles.
+
+STRICT RULES
+Exact identities, outfits and 14-shot order. Exactly 30 seconds. No duplicated zombies, synchronized crowds, teleportation, impossible physics, disappearing props or changing locations. Final frame: both sisters holding hands midair above the ocean.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxsarmadd/status/2118322799039402152" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118322599189155840/img/1DiBZ2FB6zJuv9iQ.jpg" alt="Two Sisters Escape the Infected City" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxsarmadd" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxsarmadd</a>
+- Source: <a href="https://x.com/itxsarmadd/status/2118322799039402152" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="until-we-meet-again-in-black-and-white"></a>
+### 226. Until We Meet Again in Black and White
+
+Until We Meet Again in Black and White — original prompt by @itxabdullaa.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30-second cinematic 2D anime sequence continuing the emotional story of Until We Meet Again. Maintain the same monochromatic black-and-white manga aesthetic, rough ink sketches, dramatic cross-hatching, textured paper grain, expressive characters and consistent character designs.
+
+Scene 1 (0–5s — The Empty Rooftop):
+The same young adult anime boy stands alone on the rooftop at night. Rain falls heavily. He notices a small black feather resting where the girl once stood. He slowly picks it up, recognizing it.
+
+Scene 2 (5–10s — The Memory):
+Close-up of the feather in his hand. The surroundings dissolve into a flashback: the girl smiling at him beneath a streetlight, gently holding his hand. The memory begins breaking apart like fading ink on wet paper.
+
+Scene 3 (10–15s — The Message):
+Back in the present, he discovers a folded handwritten letter beneath the feather. His trembling fingers open it. As he reads, a tear falls onto the paper. The ink begins spreading across the page.
+
+Scene 4 (15–20s — The Return):
+A black swallow suddenly lands on the rooftop railing. The boy freezes. The bird looks directly at him, then transforms briefly into the girl's silhouette, her familiar faint smile appearing for just a moment.
+
+Scene 5 (20–25s — One Last Moment):
+He reaches toward her, but she turns back into the swallow. Instead of chasing her, he gently lowers his hand. The bird brushes past his fingers before taking flight.
+
+Scene 6 (25–30s — Until We Meet Again):
+The boy watches the swallow disappear into the cloudy night sky. He holds the letter against his chest and finally smiles through his tears. A flock of black swallows crosses the moonless sky. Camera slowly pulls away, leaving him standing beneath the rain. Fade to black.
+
+Visual style: Hand-drawn 2D manga animation, monochromatic black-and-white palette, rough expressive ink outlines, dramatic cross-hatching, emotional close-ups, cinematic camera movement, fluid character animation, surreal ink transformations, atmospheric rain, consistent character designs.
+
+Negative prompt: Color, photorealism, 3D CGI, inconsistent character faces, distorted anatomy, extra limbs, flickering, jitter, warped backgrounds, unreadable text, subtitles, watermark.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxabdullaa/status/2118357957901684816" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118357683627610112/img/IajiZKLnYeOEE1ya.jpg" alt="Until We Meet Again in Black and White" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-05 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxabdullaa" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxabdullaa</a>
+- Source: <a href="https://x.com/itxabdullaa/status/2118357957901684816" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-fluffy-cat-s-flower-garden"></a>
+### 227. The Fluffy Cat's Flower Garden
+
+The Fluffy Cat's Flower Garden — original prompt by @itxsarmadd.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a heartwarming, visually beautiful 30-second cinematic video featuring a large, fluffy white-and-gray Ragdoll cat with bright blue eyes, a pink nose and a soft, thick coat. A young Korean woman with long dark hair, wearing a pastel-pink sweater and blue jeans, spends a peaceful afternoon with the cat in her beautiful flower garden.
+
+Scene 1 (0–5s): A Sunny Afternoon
+The giant fluffy cat sits peacefully on a soft garden cushion surrounded by colorful flowers. The woman approaches with a warm smile and gently pets its head. Sunlight illuminates its beautiful fur.
+
+Scene 2 (5–10s): A Little Grooming
+The woman gently brushes the cat's thick fur using a soft pet grooming brush. Show detailed fur movement and the cat relaxing with half-closed eyes.
+
+Scene 3 (10–16s): Flower Crown
+She places a lightweight floral arrangement beside the cat and gently adjusts a few loose flowers near its cushion. The cat curiously watches a butterfly flying past.
+
+Scene 4 (16–23s): Playful Moments
+A soft feather toy moves gently across the garden. The cat follows it with its eyes and makes a playful paw movement. The woman laughs as the cat stretches comfortably on its cushion.
+
+Scene 5 (23–30s): The Perfect Nap
+The cat settles beside the woman beneath a flowering tree. She gently strokes its fluffy head while the cat closes its blue eyes and begins purring. Flower petals drift through the golden sunlight. Camera slowly pulls back to reveal the peaceful garden.
+
+Visual Style: High-quality cinematic 3D animation, detailed fluffy fur, expressive feline eyes, natural animal behavior, realistic lighting, beautiful garden scenery, smooth camera movements and warm golden-hour atmosphere.
+
+Audio: Birds singing, gentle breeze, soft purring, footsteps and natural garden ambience. No dialogue, narration, background music, subtitles or text.
+
+Character Consistency: Maintain identical cat fur patterns, eye color, facial features, size and the woman's appearance and outfit throughout.
+
+Negative Prompt: No aggressive behavior, forced handling, unsafe grooming, uncomfortable animals, distorted anatomy, extra limbs, unnatural movements, changing character appearance, flickering, jitter, text, logos or watermark.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itxsarmadd/status/2118572883878527376" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118572771966062592/img/gXFLwqEcDEBwpo5O.jpg" alt="The Fluffy Cat&#x27;s Flower Garden" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itxsarmadd" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itxsarmadd</a>
+- Source: <a href="https://x.com/itxsarmadd/status/2118572883878527376" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-magical-hidden-world"></a>
+### 228. The Magical Hidden World
+
+The Magical Hidden World — original prompt by @CaliraVal.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+The Magical Hidden World – 30 Seconds Create a breathtaking, ultra-realistic cinematic fantasy film, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–5 sec): A young woman walks alone through a mysterious ancient forest at sunrise. Golden sunlight passes through giant trees, soft fog covers the ground, cinematic wide shot. Scene 2 (5–10 sec): She discovers a glowing magical doorway hidden behind a giant waterfall. Tiny glowing particles float through the air. Scene 3 (10–15 sec): She slowly walks through the magical doorway and discovers a breathtaking floating world with waterfalls, crystal mountains, and glowing flowers. Scene 4 (15–22 sec): A giant beautiful white dragon flies gracefully across the sky above floating islands. The camera follows its movement with a sweeping cinematic aerial shot. Scene 5 (22–30 sec): The woman stands on a cliff overlooking the magical kingdom as the sky transforms into beautiful golden and purple colors. The camera slowly pulls back, revealing the enormous fantasy world. Visual Style: Photorealistic, cinematic fantasy, 4K, Unreal Engine quality, realistic environments, atmospheric lighting, smooth camera movements, stunning details, natural physics. Negative Prompt: No products, no logos, no text, no watermark, no distorted faces, no extra limbs, no flickering, no cartoon appearance.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/CaliraVal/status/2118575122462466442" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118574648699088896/img/PeNhg4EIF2NP2gEe.jpg" alt="The Magical Hidden World" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/CaliraVal" rel="nofollow noreferrer" referrerpolicy="no-referrer">@CaliraVal</a>
+- Source: <a href="https://x.com/CaliraVal/status/2118575122462466442" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-hidden-world-beyond-the-waterfall"></a>
+### 229. A Hidden World Beyond the Waterfall
+
+A Hidden World Beyond the Waterfall — original prompt by @alixbuilds.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create an ultra-realistic cinematic adventure video, exactly 30 seconds long, in vertical 9:16 format. Scene 1 (0–6 seconds): A beautiful young woman wearing an elegant flowing white dress walks through a mysterious tropical jungle. Sunlight shines through giant trees while soft mist floats in the air. Scene 2 (6–12 seconds): She discovers an enormous waterfall hidden behind ancient mountains. Thousands of birds fly across the sky as water crashes dramatically into a crystal-clear lake. Scene 3 (12–18 seconds): She approaches the edge of the lake and touches the water. Magical glowing flowers begin blooming around her feet. Scene 4 (18–24 seconds): The camera rises above the jungle, revealing breathtaking floating islands, multiple waterfalls, colorful birds, and magnificent mountains covered in clouds. Scene 5 (24–30 seconds): A giant rainbow appears above the waterfall. The woman stands peacefully looking at the magical landscape as the camera slowly pulls back into an epic aerial wide shot. Visual Quality: Ultra-photorealistic, cinematic filmmaking, 4K HDR, realistic water simulation, natural human movements, beautiful lighting, detailed environments, smooth camera transitions, professional color grading. Negative Prompt: No cartoon style, no distorted faces, no extra fingers, no unnatural movements, no flickering, no text, no subtitles, no logos, no watermark
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/alixbuilds/status/2118580185176187124" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118579665241886720/img/MtTFzMJBJM6phpt3.jpg" alt="A Hidden World Beyond the Waterfall" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/alixbuilds" rel="nofollow noreferrer" referrerpolicy="no-referrer">@alixbuilds</a>
+- Source: <a href="https://x.com/alixbuilds/status/2118580185176187124" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="an-afternoon-at-a-korean-nail-salon-kling-4-0-comparison"></a>
+### 230. An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison
+
+An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison — original prompt by @doctorwasif.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create an ultra-realistic early-2000s Korean MiniDV vlog featuring a Korean woman in her early 20s visiting a tiny neighborhood nail salon in 2004. She has shoulder-length dark brown hair, natural makeup, a pastel cardigan, and a knee-length skirt.
+
+Shot 1 (0–3s): Handheld footage follows her entering the small salon, sitting at a manicure table, browsing vintage nail polish bottles, and choosing a soft-pink shade.
+
+Shot 2 (3–5s): Close-up of her selecting the polish bottle while the technician prepares the manicure. She casually flips through an old fashion magazine.
+
+Shot 3 (5–8s): Extreme close-up of the technician carefully filing and shaping her natural, unpainted fingernails.
+
+Shot 4 (8–12s): Macro shots of glossy soft-pink polish being applied evenly to each nail. She watches with curiosity and slightly wiggles her fingers.
+
+Shot 5 (12–15s): She raises both hands toward the camcorder, shows off her finished glossy nails, turns her wrists to catch the light, and smiles cheerfully.
+
+Visual & Audio Style: Authentic 2004 South Korean neighborhood salon, consumer MiniDV footage with 4:3 source-video characteristics inside a 16:9 frame. Handheld shake, imperfect autofocus, soft tape detail, faded colors, warm fluorescent lighting, and natural exposure fluctuations. Include realistic filing sounds, polish bottle clicks, magazine pages, quiet conversation, and faint street ambience. Avoid polished commercial-style cinematography.
+
+Continuity: Maintain identical character appearance, clothing, salon, technician, and nail polish shade throughout. Show natural progression from unpainted to filed to freshly painted nails. Only two anatomically correct hands with five fingers each.
+
+Overall Feeling: An ordinary, charming afternoon in South Korea in 2004, captured as a nostalgic personal home-video memory.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/doctorwasif/status/2118582705550192878" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118582594799534080/img/kVQnByyBNnN5LxWe.jpg" alt="An Afternoon at a Korean Nail Salon — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/doctorwasif" rel="nofollow noreferrer" referrerpolicy="no-referrer">@doctorwasif</a>
+- Source: <a href="https://x.com/doctorwasif/status/2118582705550192878" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-restaurant-kitchen-fight"></a>
+### 231. A Restaurant Kitchen Fight
+
+A Restaurant Kitchen Fight — original prompt by @Just_sharon7.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create an EXTREMELY INTENSE, ultra-realistic, high-budget 30-second Korean action movie sequence featuring brutal, lightning-fast hand-to-hand combat inside a traditional Korean restaurant and its industrial kitchen.
+
+ 60 FPS, realistic motion physics, high-speed combat, occasional 120 FPS slow-motion impact shots, seamless camera tracking, explosive sound design, authentic Korean dialogue.
+
+ACTION INTENSITY: 10/10 — MAXIMUM.
+The sequence must feel like a combination of elite Korean martial-arts choreography, gritty street fighting, and an explosive blockbuster action climax. Every second must contain suspense, danger, movement, or a powerful cinematic moment.
+
+MAIN FEMALE CHARACTER — IDENTITY LOCK @[Image 1](image_1)
+A beautiful, athletic, 24-year-old Korean woman with a short, chin-length pastel-pink bob haircut, soft feathered layers, expressive dark eyes, natural Korean facial features, and a lean, powerful physique.
+
+Her pastel-pink hair must remain clearly visible throughout the action, even under dramatic lighting.
+Personality: Initially quiet, gentle, and respectful. When threatened, her expression transforms into an intimidating, ice-cold stare. Her fighting style is explosive, precise, aggressive, and extraordinarily fast.
+Maintain identical facial features, pastel-pink hair, costume, proportions, and hairstyle across every shot.
+
+ENVIRONMENT
+A busy traditional Korean restaurant at night, transitioning into a cramped industrial kitchen.
+Warm amber restaurant lighting contrasts with cold fluorescent kitchen lights. Stainless-steel counters, steaming pots, metal shelves, swinging kitchen doors, hanging utensils, stacks of plates, wet tiled floors, and narrow cooking aisles create a dangerous, highly interactive combat environment.
+
+Steam bursts from boiling pots. Metallic objects crash to the floor. Glass shatters. Overturned furniture and scattered ingredients intensify the chaos.
+
+SECOND-BY-SECOND ACTION SEQUENCE
+
+00:00–00:03 — THE THREAT
+Extreme cinematic close-up of a ruthless Korean crime boss slamming his palm against a restaurant table.
+BANG.
+An elderly restaurant owner flinches in terror.
+Three muscular bodyguards in black suits stand behind the boss.
+The crime boss grabs the elderly man's collar and threatens him in Korean.
+Camera whip-pans toward a young pastel-pink-haired waitress standing motionless beside the kitchen entrance.
+She slowly places her serving tray on the counter.
+Her eyes narrow.
+The restaurant becomes terrifyingly silent.
+00:03–00:06 — THE FIRST EXPLOSION
+One bodyguard aggressively approaches the waitress and reaches for her collar.
+WITHOUT WARNING—
+She explodes into motion.
+A lightning-fast wrist deflection.
+A vicious elbow strike into his padded upper torso.
+She grabs his jacket, pivots, and slams him backward onto an empty restaurant table.
+CRAAAAASH.
+Plates bounce, chopsticks scatter, and the table collapses.
+The camera rushes forward in a violent handheld tracking shot.
+A second bodyguard charges.
+She ducks beneath his punch and drives a powerful spinning kick into his chest.
+He stumbles through the swinging kitchen doors.
+00:06–00:10 — KITCHEN WARFARE
+The camera follows the waitress directly into the industrial kitchen in one seamless tracking movement.
+Two attackers rush her from opposite directions.
+She slides beneath the first man's swinging arm, plants one hand on a stainless-steel counter, and delivers a powerful sideways kick that sends him stumbling into stacked metal trays.
+CLANG! CLANG! CLANG!
+The second attacker lunges from behind.
+She turns sharply, catches his forearm, and uses his momentum to throw him across a preparation counter.
+Metal bowls scatter across the floor.
+Steam erupts from a nearby cooking station.
+The camera circles rapidly around her as she moves through the chaos.
+00:10–00:14 — THE STEAM ATTACK
+A massive cloud of white steam fills the narrow kitchen aisle.
+Visibility drops.
+A muscular attacker suddenly emerges from the steam, swinging a heavy metal serving tray toward her.
+She ducks at the final instant.
+WHOOSH.
+The tray smashes into a hanging rack behind her.
+She immediately counters with three lightning-fast movements:
+A palm strike.
+A spinning elbow.
+A powerful jumping knee into the attacker's guarded torso.
+He crashes backward against a stainless-steel refrigerator.
+BOOOOM.
+The camera briefly enters dramatic slow motion, capturing her pastel-pink hair whipping through the steam.
+Then instantly SNAP BACK TO REAL TIME.
+00:14–00:18 — THE RELENTLESS COMBO
+Two remaining attackers charge simultaneously.
+The waitress leaps onto a low kitchen platform, launches herself forward, and performs a spectacular cinematic flying kick against the first attacker.
+She lands, immediately pivots, and blocks the second man's punch.
+A rapid-fire exchange follows:
+BLOCK — ELBOW — DUCK — SPIN — KICK.
+Five perfectly choreographed movements in two seconds.
+The camera follows every strike with aggressive whip-pans and realistic impact shake.
+One attacker crashes into stacked plastic crates.
+The other tumbles across a stainless-steel counter, scattering vegetables and utensils.
+The entire kitchen erupts in metallic noise.
+00:18–00:22 — THE BIGGEST IMPACT
+The largest bodyguard emerges through the steam.
+He is nearly twice her size.
+He charges with enormous force.
+She dodges his first punch.
+The second punch narrowly misses her face.
+EXTREME CLOSE-UP: Her pastel-pink hair moves across her eyes.
+She grips the edge of the counter, swings her legs upward, and executes a devastating cinematic double-leg push kick against his upper body.
+120 FPS SLOW MOTION.
+The attacker flies backward a short, physically believable distance and crashes through the swinging kitchen doors.
+CRAAAAASH.
+The doors slam against the walls.
+A shower of loose utensils falls from a nearby shelf.
+Cut instantly to real-time speed.
+00:22–00:26 — THE FINAL BOSS
+The crime boss stands in the restaurant doorway, stunned.
+All his bodyguards are defeated.
+He angrily removes his suit jacket and charges toward her.
+The waitress remains completely motionless.
+At the last second, she steps sideways, redirects his arm, and delivers a stunning spinning back kick.
+BOOOOM.
+He crashes backward into an empty dining chair, which collapses beneath him.
+The camera pushes into an extreme close-up of her cold, emotionless face.
+Her breathing remains controlled.
+00:26–00:30 — THE SHOCKING REVEAL
+The kitchen falls silent.
+Steam drifts slowly through the air.
+The crime boss looks up at her in disbelief.
+He recognizes her.
+His expression changes from anger to absolute terror.
+He whispers in Korean:
+"설마... 너였어?"
+("No way... it was you?")
+The waitress slowly removes her burgundy apron and drops it onto the floor.
+CLOSE-UP: Her fearless eyes beneath her pastel-pink hair.
+She replies in a quiet, intimidating Korean voice:
+"이제 끝이야."
+("It's over now.")
+FINAL SHOT: A dramatic low-angle hero shot as she walks toward the camera through the steam-filled kitchen.
+Massive cinematic bass drop.
+HARD CUT TO BLACK.
+CINEMATOGRAPHY
+Extremely fast, aggressive Korean action cinematography.
+Continuous handheld tracking during combat.
+Rapid whip-pans synchronized with strikes.
+Extreme close-ups of eyes, fists, feet, and facial reactions.
+Dynamic low-angle shots emphasizing powerful kicks.
+120 FPS slow motion ONLY for the most spectacular impacts.
+Immediate speed ramp back into real-time combat.
+Realistic body momentum, grounded stunts, and believable collisions.
+Seamless camera movement through swinging doors and tight kitchen aisles.
+Natural motion blur and dramatic depth of field.
+SOUND DESIGN
+Explosive Korean cinematic percussion, aggressive bass pulses, rapid heartbeat-like rhythms, deep impact booms, sharp whooshes, metal tray crashes, shattering dishes, steam hissing, footsteps scraping wet tiles, heavy breathing, and realistic combat grunts.
+Music intensifies throughout the fight, then cuts into complete silence before the final dialogue.
+NEGATIVE PROMPT
+No cartoon physics, no exaggerated superhero powers, no floating characters, no unnatural body movements, no disconnected punches, no random teleportation, no distorted faces, no extra limbs, no changing hairstyles, no costume inconsistencies, no excessive blood, no gore, no blurry action, no unrealistic object interactions, no slow or weak choreography, no unnecessary pauses.
+FINAL DIRECTIVE: Every fight movement must feel powerful, dangerous, fast, and cinematic. Prioritize extraordinary choreography, realistic collisions, explosive kitchen destruction, perfect character consistency, and maximum Korean action-movie intensity.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Just_sharon7/status/2118728208640291057" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118727503024136192/img/HP_LmnLowrpp2cEo.jpg" alt="A Restaurant Kitchen Fight" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Just_sharon7" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Just_sharon7</a>
+- Source: <a href="https://x.com/Just_sharon7/status/2118728208640291057" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-falling-champagne-tower-kling-4-0-comparison"></a>
+### 232. The Falling Champagne Tower — Kling 4.0 Comparison
+
+The Falling Champagne Tower — Kling 4.0 Comparison — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Cinematic 10-second shot in an elegant Art Deco cocktail bar at night, warm golden light, dark green velvet and brass. A tall champagne tower of crystal coupe glasses, six levels, stands on a marble bar. A young waitress in a black satin dress stands beside it holding a gold-foil champagne bottle and slowly pours into the top glass; champagne overflows and cascades down the levels, sparkling in the light. Camera slowly pushes in at eye level. Halfway through, one glass on the bottom row slips out of place and the whole tower wobbles, leans and topples over in dramatic slow motion: the glasses tumble and roll across the marble bar, champagne splashes everywhere in a golden spray, bubbles and droplets catch the light. She freezes with the bottle still raised, eyes wide in surprise, then bursts into laughter and covers her mouth with her free hand. Playful, glamorous, realistic physics of glass and liquid, photorealistic, shallow depth of field.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2118758171929870566" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118758089528692736/img/pDzCG-kWXs9lpvP7.jpg" alt="The Falling Champagne Tower — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2118758388649574819" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2118758171929870566" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-monaco-coastal-car-chase-kling-4-0-comparison"></a>
+### 233. A Monaco Coastal Car Chase — Kling 4.0 Comparison
+
+A Monaco Coastal Car Chase — Kling 4.0 Comparison — original prompt by @Dheepanratnam.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Visuals:
+00:00.000: The scene opens with a dynamic, low-angle tracking shot along a sunlit coastal road in Monaco. A sleek, dark metallic green Aston Martin Valhalla speeds forward, leading two Monaco police cars with flashing blue and red lights close behind. In the background, steep limestone cliffs rise on the left, while a harbor filled with luxury yachts and the blue Mediterranean Sea are visible on the right under a clear sky. The camera tracks rapidly alongside the vehicles as they navigate a gentle curve. Inside the Aston Martin, Character A (Alex, a man in his late 20s with short dark hair, wearing a dark leather jacket) is visible through the windshield, focused on driving.
+00:01.500: The camera cuts to an interior medium close-up shot inside the Aston Martin Valhalla, framed from the passenger side looking toward Character A (Alex). Character A's hands in driving gloves firmly grip the steering wheel as he turns it with precision. He glances briefly toward the passenger seat while speaking. To his right, Character B (Emma, a woman in her late 20s with dark hair tied back in a neat ponytail, wearing a dark tactical jacket) is partially visible in profile, looking down at a glowing digital tablet in her hands. Sunlight filters through the car windows, casting moving shadows across their faces.
+00:03.000: The camera cuts to a medium close-up inside the car, now focused on Character B (Emma) from a slightly lower angle. She holds a high-tech digital tablet displaying a glowing red signal map with a pulsing dot. Character B looks up from the screen toward Character A off-screen, her expression urgent and focused as she speaks. Her face is illuminated by the blue and red ambient light from the tablet screen and sunlight from the window. In the background, the blurred interior of the car and the fast-moving scenery outside the window are visible.
+00:04.500: The camera cuts to an exterior, low-angle tracking shot on a sharp street corner in Monaco. The Aston Martin Valhalla and police escort vehicles swerve around a bend. Suddenly, a large, dark, armored enemy SUV bursts into the frame from a side street, smashing violently through a metal street barrier and a row of concrete planters. Sparks fly, debris and metal fragments scatter across the asphalt, and a cloud of dust and smoke erupts. The camera pans rapidly to follow the enemy SUV as it aggressively accelerates after the Aston Martin. In the background, coastal buildings, palm trees, and the harbor with yachts are visible under the bright daylight.
+00:06.000: The camera cuts back to an interior close-up shot of Character A (Alex) inside the Aston Martin. He rapidly turns the steering wheel to the left, his face tense with concentration as he reacts to the collision outside. He glances sharply toward the side mirror and then back to the road ahead, speaking firmly. Outside his window, the blurred scenery of Monaco's streets and buildings speeds past. The camera slightly shakes to reflect the high-speed motion of the vehicle.
+00:07.500: The camera cuts to an interior close-up shot of Character B (Emma) looking down at her glowing tablet. Her fingers quickly tap on the screen, which shows a red signal trajectory converging on a map of Monaco's streets. She looks up toward Character A off-screen, speaking with urgency while pointing a finger toward the windshield. The tablet's interface reflects on her face, and the fast-moving exterior environment is visible through the side window.
+00:09.000: The camera cuts to a high-angle, dynamic tracking shot looking down at a narrow, winding Monaco street. The Aston Martin Valhalla drifts smoothly around a tight hairpin turn, its tires smoking against the dark asphalt. The two police cars follow closely, while the dark enemy SUV swerves aggressively behind them, clipping a stone wall and sending sparks into the air. In the background, the sunlit city of Monaco, steep cliffs, and the harbor filled with yachts are visible. The camera smoothly tracks the high-speed pursuit down the descending road.
+00:10.500: The camera cuts back to an interior close-up of Character A (Alex) driving. He shifts gears rapidly, his eyes fixed on the road ahead. He glances briefly toward the rearview mirror and then back forward, speaking with a focused expression. The camera is positioned near the dashboard, looking up at him. Outside the windshield, the sunlit streets and buildings of Monaco flash by rapidly.
+00:12.000: The camera cuts to an interior close-up of Character B (Emma) looking at her tablet. The screen displays a bright green lock-on icon over a map coordinate. She looks up toward Character A off-screen, her expression relieved yet urgent as she speaks. She points forward toward the windshield. The camera slowly dollies in slightly on her face. Outside the window, the blurred coastal scenery and buildings continue to speed past.
+00:13.500: The camera cuts to a low-angle, wide tracking shot from the front of the vehicles. The Aston Martin Valhalla accelerates rapidly toward the camera down a wide, sunlit Monaco avenue, followed closely by the flashing police cars and the damaged enemy SUV trailing smoke. The Aston Martin swerves slightly to avoid a final obstacle before speeding past the camera toward a dark tunnel entrance ahead. In the background, the grand architecture of Monaco, palm trees, and the distant sea are visible under the bright sky. The camera pans rapidly to follow the cars as they disappear into the tunnel, leaving a trail of tire smoke and dust.
+Audio:
+00:00.000: The soundscape is filled with the loud, high-performance roar of a sports car engine, accompanied by the high-pitched wail of police sirens, screeching tires on asphalt, and the rushing sound of wind.
+00:01.500: A diegetic male voice (Character A) speaks in a calm, focused tone with an en-gb-General British accent. The background features the continuous, deep hum of the car's engine, distant police sirens, and the subtle rustle of movement inside the vehicle.
+00:03.000: A diegetic female voice (Character B) speaks in an urgent, precise tone with an en-gb-General British accent. The background includes the steady engine hum, faint digital beeping from the tablet, and the distant sound of sirens.
+00:04.500: A loud, violent crash sound dominates the audio as metal crunches, concrete shatters, and debris clatters onto the road. This is accompanied by the screech of tires, roaring engines, and continuous police sirens.
+00:06.000: A diegetic male voice (Character A) speaks in a sharp, determined tone with an en-gb-General British accent. The background features the loud, continuous roar of the car engine, tire squeals, and the distant sound of sirens and ambient street noise.
+00:07.500: A diegetic female voice (Character B) speaks in an urgent, directive tone with an en-gb-General British accent. The background includes the steady engine hum, rapid digital beeping from the tablet, and the sound of wind and distant sirens.
+00:09.000: The soundscape is filled with the intense, high-pitched screeching of tires on asphalt, the loud roar of multiple car engines, the metallic scraping of a vehicle against a wall, and continuous police sirens.
+00:10.500: A diegetic male voice (Character A) speaks in a quick, confident tone with an en-gb-General British accent. The background features the loud, steady roar of the engine, the sound of gear shifting, and distant sirens.
+00:12.000: A diegetic female voice (Character B) speaks in an excited, clear tone with an en-gb-General British accent. The background includes the continuous engine hum, a steady digital tone from the tablet, and the sound of wind and distant sirens.
+00:13.500: The soundscape reaches a crescendo with the loud, echoing roar of the Aston Martin's engine as it accelerates, accompanied by the screech of tires, the wail of police sirens, and the rushing sound of wind as the vehicles speed into the distance.
+Transcript:
+00:01.500: Character A: Emma, where's that signal?
+00:03.000: Character B: It's moving fast towards the port.
+00:06.000: Character A: I'm on it, hold on.
+00:07.500: Character B: Two blocks away, turn right now.
+00:10.500: Character A: Lost them at the turn.
+00:12.000: Character B: Signal locked, straight ahead.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Dheepanratnam/status/2118786119810580862" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118785368241623040/img/u7cQB-4tDVNXaY9k.jpg" alt="A Monaco Coastal Car Chase — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Dheepanratnam" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Dheepanratnam</a>
+- Source: <a href="https://x.com/Dheepanratnam/status/2118786119810580862" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-journey-into-the-underwater-kingdom"></a>
+### 234. A Journey into the Underwater Kingdom
+
+A Journey into the Underwater Kingdom — original prompt by @SadiaMalik182.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30-second ultra-realistic cinematic video of a breathtaking underwater kingdom. A beautiful woman wearing an elegant shimmering blue gown walks through a crystal palace beneath the ocean. Giant whales glide past glowing glass towers, colorful fish swim around her, and magical jellyfish illuminate the water. She touches a glowing pearl, awakening an enormous ancient sea dragon that rises majestically behind the palace. End with a spectacular wide-angle shot of the underwater kingdom glowing beneath the sunlit ocean. Photorealistic details, cinematic camera movement, realistic water physics, stunning VFX, smooth motion, consistent character appearance, dramatic lighting, professional Hollywood quality, vertical 9:16, 30 seconds.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/SadiaMalik182/status/2118788480792928401" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118788028076544000/img/MmGoKqG7FcMN8d-u.jpg" alt="A Journey into the Underwater Kingdom" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-06 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/SadiaMalik182" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SadiaMalik182</a>
+- Source: <a href="https://x.com/SadiaMalik182/status/2118788480792928401" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-snowy-cinematic-love-story"></a>
+### 235. A Snowy Cinematic Love Story
+
+A Snowy Cinematic Love Story — original prompt by @MahiraEhan.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 30-second photorealistic cinematic live-action video, 16:9. Use the exact woman from  image1 and man from image2. Preserve their faces, hairstyles, skin tones, ages, and body proportions.
+
+OUTFITS: Woman wears an oversized beige knitted sweater, dark blue jeans, and cream socks. Man wears a charcoal-gray knitted sweater, dark blue jeans, and neutral socks. They share ONE large cream blanket with dark geometric patterns and burgundy accents.
+
+SETTING: Cozy home on a snowy winter day. They sit close together on a wooden floor beside a large glass door. Outside: wooden bench, trees, red brick house, and light snow. Inside: green sofa, patterned cushions, mustard-yellow pillow, and warm table-lamp lighting.
+
+00–06 SEC: Static wide shot from behind. Man on left, woman on right, looking outside. Woman hugs her knees; man sits cross-legged with hands in his lap. Subtle breathing. No dialogue.
+
+06–14 SEC: Wide exterior shot looking through the glass. Wooden bench in left foreground. Woman on left, man on right. Woman turns slightly and softly asks: "Aren't you cold?" Man smiles and replies: "I'm fine. Because I'm with you."
+
+14–23 SEC: Front-facing medium two-shot. Woman looks at him affectionately and asks: "Will we still be together like this tomorrow?" Man pauses, smiles warmly, and answers: "Yes. Tomorrow, and the day after that."
+
+23–30 SEC: Same medium shot with a very slow camera push-in. Woman looks toward the sky outside, smiles brightly, and gives a soft natural giggle. Man watches her with a warm smile. Hold the peaceful moment until the end.
+
+AUDIO: All dialogue must be spoken in natural, gentle English with accurate lip-sync and correct speaker turns. No music, narration, or subtitles. Only natural winter wind, distant neighborhood ambience, rustling branches, breathing, fabric movement, and gentle laughter.
+
+CONTINUITY: Maintain identical faces, outfits, body positions, and ONE shared blanket across all shots. Smooth cuts, realistic skin, natural expressions, cinematic lighting. No face swapping, extra limbs, distorted hands, sudden repositioning, logos, image1,  image2 , or watermarks.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/MahiraEhan/status/2118935687575593272" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2118933715388624896/img/5IWw1EknwiS3eKE1.jpg" alt="A Snowy Cinematic Love Story" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-07 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/MahiraEhan" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MahiraEhan</a>
+- Source: <a href="https://x.com/MahiraEhan/status/2118935687575593272" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-stop-motion-thanksgiving-surprise"></a>
+### 236. A Stop-Motion Thanksgiving Surprise
+
+A Stop-Motion Thanksgiving Surprise — original prompt by @heathergreen.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Using @img1 as the exact visual reference, create a short cinematic stop-motion animation.
+
+The camera performs a very slow, smooth forward push toward the terrified turkey outside the window. Keep the original composition, characters, lighting, colors, and handcrafted puppet aesthetic consistent.
+
+The turkey looks nervously toward the happy family enjoying Thanksgiving dinner, then turns its enormous frightened eyes toward the viewer.
+
+The turkey slowly raises a small, crooked handmade cardboard sign attached to a thin wooden stick. The sign reads "SEND HELP!" in large, clearly legible handwritten black uppercase letters.
+
+The turkey holds the sign up toward the camera with a desperately frightened expression.
+
+Keep the family relatively still, happily enjoying their dinner. Subtle natural movement only.
+
+Maintain the original warm indoor lighting, cool blue exterior, rainy window, cinematic depth of field, and charming handcrafted stop-motion appearance.
+
+One continuous shot. No cuts, no scene changes, no additional characters, no distorted faces, and no unnecessary movement.
+
+Comedic Thanksgiving horror atmosphere.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/heathergreen/status/2119067188640268410" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2119066067230154752/img/5dIEXyq1-NC4PWLd.jpg" alt="A Stop-Motion Thanksgiving Surprise" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-07 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/heathergreen" rel="nofollow noreferrer" referrerpolicy="no-referrer">@heathergreen</a>
+- Source: <a href="https://x.com/heathergreen/status/2119067188640268410" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="an-fpv-flight-through-a-barrel-wave-kling-4-0-comparison"></a>
+### 237. An FPV Flight through a Barrel Wave — Kling 4.0 Comparison
+
+An FPV Flight through a Barrel Wave — Kling 4.0 Comparison — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+[Point of view] THE CAMERA IS THE DRONE. This is a pure first-person FPV view: the viewer sees exactly what the drone's lens sees, and nothing of the drone itself ever appears. The frame holds only the ocean, the wave, the surfer, spray and sky. No propellers, arms, drone body, gimbal, landing gear, drone shadow on the water or any other aircraft are ever in view.
+
+[Scene] Golden late-afternoon sun over a deep blue tropical ocean. Photorealistic water with real foam, spray, reflections and light.
+
+[Action] The camera skims fast and low, half a metre above the glassy sea, racing toward a huge turquoise wave that rises and curls from frame-right to frame-left. A surfer in black board shorts on a white surfboard drops down the steep face just ahead of the camera, crouched low, his left hand trailing along the wall of water. The lip of the wave pitches over and closes into a hollow tube, and the camera follows the surfer inside the tunnel, sunlight glowing green through the curved water above. Inside the tube, fine spray speckles the lens and the round opening of bright sky grows ahead. The wave exhales a thick curtain of white spray across the exit, and the camera punches through it right behind the surfer. They burst out into blinding sunshine, and the surfer straightens up on the board and raises his right arm high. The camera banks up and to the right, rising above him, and the shot ends wide on the surfer riding the shoulder of the wave with his arm in the air, the sun low on the horizon.
+
+[Sound] Roaring wave, hissing spray, rushing wind, water droplets tapping the lens, a joyful shout from the surfer as he exits the tube.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2119091001944113501" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2119005418059866112/img/Nxi1pz4lSF7PGA-h.jpg" alt="An FPV Flight through a Barrel Wave — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-07 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2119092031192498613" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2119091001944113501" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-gnome-heist-in-a-game-like-neighborhood-kling-4-0-comparison"></a>
+### 238. A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison
+
+A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison — original prompt by @SocialSight.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Style: open-world action video game graphics. Glossy, realistic 3D game rendering, sunny suburban neighborhood with neat lawns and white picket fences, saturated colors. Third-person camera. On-screen game HUD: a round minimap in the corner and a small row of stars showing how much trouble she's in.
+0-3s (HOOK): A tiny grandma in a pink cardigan stares through binoculars at the neighbor's yard. Her stolen garden gnome sits on his porch. Mission text pops up: "GET THE GNOME."
+3-6s: Stealth mode. She sneaks across the lawn, rolls behind a hedge, and dodges a sprinkler with surprising skill.
+6-10s: She grabs the gnome. A dog barks. Porch lights flick on. The trouble stars on screen light up one by one as neighbors in bathrobes run out.
+10-13s: She leaps onto her mobility scooter and speeds off, launching off a garden ramp in slow motion, gnome held high.
+13-15s (BUTTON): She lands safely in her own yard, sets the gnome down, dusts off her cardigan, and sips her tea. Mission text: "MISSION COMPLETE."
+Camera: over-the-shoulder for the sneaking, chase camera behind the scooter, slow-motion on the jump.
+Music: sneaky, plucky bass during the stealth, exploding into a dramatic action theme for the escape.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/SocialSight/status/2119430396894974197" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2119430374488944640/pu/img/MiKwqjCp-jOTx4Nh.jpg" alt="A Gnome Heist in a Game-Like Neighborhood — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-08 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/SocialSight" rel="nofollow noreferrer" referrerpolicy="no-referrer">@SocialSight</a>
+- Sources: <a href="https://x.com/SocialSight/status/2119430398178415032" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/SocialSight/status/2119430396894974197" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-coffee-spill-becomes-a-kitchen-comedy"></a>
+### 239. A Coffee Spill Becomes a Kitchen Comedy
+
+A Coffee Spill Becomes a Kitchen Comedy — original prompt by @Sharjeelai_786.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a realistic 17-second vertical 9:16 cinematic lifestyle video set in a warm, modern home kitchen.
+
+A young woman with long curly brown hair, wearing a cozy beige sweater and dark pants, stands at a kitchen counter preparing coffee. A young man in a dark navy sweater works casually in the background.
+
+The woman places a red ceramic coffee mug on the countertop and prepares to make coffee. She uses a spoon to scoop instant coffee powder from a jar and accidentally spills a small pile of coffee powder onto the countertop. She looks down at the mess with a surprised but amused expression.
+
+She then continues preparing the coffee while the man notices what happened and reacts with a confused, slightly amused expression. Near the end, milk suddenly spills dramatically across the countertop, spreading outward in an exaggerated but physically realistic splash. Both characters react naturally with surprise.
+
+Use photorealistic human characters, natural facial expressions, realistic hand movements, accurate coffee and milk physics, detailed kitchen environment, warm indoor lighting, shallow depth of field, subtle handheld camera movement, realistic textures, natural body motion, and cinematic composition.
+
+Keep the coffee jar, mug, characters, clothing, kitchen layout, and object positions visually consistent throughout the entire video. No text, subtitles, logos, or unnatural morphing.
+
+Style: ultra-realistic cinematic lifestyle commercial, authentic home-video feel, high detail, natural lighting, smooth motion, 4K quality.
+Aspect ratio: 9:16
+Duration: 17 seconds
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Sharjeelai_786/status/2120333668518633659" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2120333595181199360/img/3G7ad8MZgwf2sswW.jpg" alt="A Coffee Spill Becomes a Kitchen Comedy" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-11 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Sharjeelai_786" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Sharjeelai_786</a>
+- Source: <a href="https://x.com/Sharjeelai_786/status/2120333668518633659" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-playful-cinematic-fashion-walk"></a>
+### 240. A Playful Cinematic Fashion Walk
+
+A Playful Cinematic Fashion Walk — original prompt by @Sharjeelai_786.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 13-second vertical 9:16 ultra-realistic cinematic fashion/lifestyle video featuring a beautiful young blonde woman with long, voluminous wavy hair, wearing a fitted beige short-sleeve top and high-waisted light-blue denim shorts, standing in a luxurious modern bathroom with dark marble walls and warm ambient lighting.
+
+She looks confidently into the camera and performs a smooth, playful sequence of fashion-model poses and subtle dance movements. Start with a medium full-body shot as she raises one hand and poses naturally. She then turns slightly to the side, showing her outfit from a flattering side angle, before facing the camera again and moving her arms rhythmically.
+
+Continue with elegant hair-touching and confident poses, maintaining natural body movement and realistic facial expressions. Near the end, smoothly push the camera closer as she leans slightly toward the camera, gives a playful kiss gesture, and finishes with a charming smile.
+
+Use realistic skin texture, detailed blonde hair strands, natural body proportions, accurate hand anatomy, smooth motion, subtle handheld camera movement, shallow depth of field, warm bathroom lighting, realistic reflections, cinematic color grading, high detail, photorealistic quality, consistent character identity throughout, no flickering, no distorted hands, no sudden scene changes.
+
+Style: luxury fashion reel, photorealistic, cinematic, elegant, playful, visually polished.
+Duration: 13 seconds
+Aspect ratio: 9:16
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Sharjeelai_786/status/2120383381049336285" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2120383301709869056/img/yqWztWBbea-Jla_J.jpg" alt="A Playful Cinematic Fashion Walk" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-11 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Sharjeelai_786" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Sharjeelai_786</a>
+- Source: <a href="https://x.com/Sharjeelai_786/status/2120383381049336285" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-handheld-gym-diary-kling-4-0-comparison"></a>
+### 241. A Handheld Gym Diary — Kling 4.0 Comparison
+
+A Handheld Gym Diary — Kling 4.0 Comparison — original prompt by @RDV1113.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+CAMERA & STYLE: Handheld DV 16mm camcorder aesthetic, imperfect framing, natural camera shake, soft focus, tape noise, flickering exposure, and authentic gym-vlog energy.
+
+CHARACTER: MILA, a 20-year-old American brunette fitness creator with a high ponytail, natural skin texture, and an athletic figure. Wearing a cobalt-blue sports bra, matching gym shorts, and white ankle socks.
+
+SETTING: A gym dumbbell area in the evening, with weight racks, benches, mirrors, and a few people exercising in the background.
+
+15-second storyboard
+
+0–2.5s: Walking selfie. “Arm day. This should be quick.”
+2.5–5s: Alternating dumbbell curls. “These felt lighter yesterday.”
+5–7.5s: Lateral raises. “I picked the light ones!”
+7.5–9.5s: Close-up of her hand gripping a dumbbell. Natural movement and gym sounds.
+9.5–12s: She walks toward the rack, laughing. “Yep — my arms just quit.”
+12–15s: Final selfie after the workout. “Same time tomorrow? No promises.”
+
+The goal: Make it feel like a real, spontaneous gym vlog — not a polished AI commercial.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/RDV1113/status/2120439367537745972" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2120439285782388736/img/VY5v07Tg8rYJ7cga.jpg" alt="A Handheld Gym Diary — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-11 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/RDV1113" rel="nofollow noreferrer" referrerpolicy="no-referrer">@RDV1113</a>
+- Source: <a href="https://x.com/RDV1113/status/2120439367537745972" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="the-giant-cat-and-the-model-railway-kling-4-0-comparison"></a>
+### 242. The Giant Cat and the Model Railway — Kling 4.0 Comparison
+
+The Giant Cat and the Model Railway — Kling 4.0 Comparison — original prompt by @Sleaper_.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 15-second photorealistic live-action video, horizontal 16:9, in one continuous shot. A real ginger house cat is watching a model railway on a wooden table. For the first half, the camera is so low inside the miniature street that the scene looks like a full-sized city with a gigantic cat behind it. The change in camera position reveals the true scale.
+
+CAMERA AND LOOK
+
+DV 16mm tape camcorder handheld feel. Begin at rail height, looking along a gently curving track. Blue-hour light, warm apartment windows, a bright red two-car Japanese commuter train with lit headlights. A little handheld drift, subtle tape grain, believable motion blur. Keep the train, the cat’s eye and the paw large enough to read on a phone.
+
+0–4 seconds. Open with the red train already rounding the bend toward us. In the gap between two buildings, a huge green cat’s eye is watching it. The eye tracks the train as it passes the lens from left to right. A ginger ear twitches above the roofline.
+
+4–8 seconds. The camera pans right with the train. As the last carriage clears the bend, one broad ginger paw comes down into the newly empty space just behind it. A soft tap. The paw misses. The train carries straight on along the same track.
+
+8–12 seconds. In one physical movement, lift the camera above the rooftops and pull back past the front edge of the wooden table. Now we see the entire model railway in a lived-in apartment and the ordinary-sized ginger cat sitting on a chair behind it. The same red train is still moving around the loop.
+
+12–15 seconds. Hold the wider view. The cat draws back the paw it just used and gives it two slow, casual licks. The red train rolls past again in the foreground. Cut on the second lick.
+
+AUDIO
+
+A steady wheel-on-rail rhythm, the soft tap of the paw and quiet room tone. As the camera pulls back, the little electric motor becomes audible. No dialogue, music, captions or logos.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Sleaper_/status/2121150374539059502" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2121150232570322944/img/jyY6848tRjGhhqwm.jpg" alt="The Giant Cat and the Model Railway — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-13 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Sleaper_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Sleaper_</a>
+- Source: <a href="https://x.com/Sleaper_/status/2121150374539059502" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-serum-bottle-meets-a-wave-of-water-kling-4-0-comparison"></a>
+### 243. A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison
+
+A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison — original prompt by @alexbuildsads.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+a serum bottle, a wave of water, slow motion.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/alexbuildsads/status/2121188207635087369" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2121188072536621056/img/Ulold_pWomEnSo_8.jpg" alt="A Serum Bottle Meets a Wave of Water — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-13 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/alexbuildsads" rel="nofollow noreferrer" referrerpolicy="no-referrer">@alexbuildsads</a>
+- Source: <a href="https://x.com/alexbuildsads/status/2121188207635087369" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-gymnast-s-continuous-backflip"></a>
+### 244. A Gymnast's Continuous Backflip
+
+A Gymnast's Continuous Backflip — original prompt by @openclipsai.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+One continuous 10-second shot. Photorealistic, 16:9, a sunny outdoor athletics track in the afternoon. The camera stays still at a side view with her whole body in frame. A female gymnast in a red leotard, hair in a tight bun, stands on a blue landing mat facing frame-right, arms at her sides.
+
+0-3s: She swings both arms back and bends her knees.
+
+3-6s: She jumps straight up and does one full backflip in the air, knees tucked to her chest.
+
+6-8s: She lands on both feet on the mat, knees bending to absorb the impact.
+
+8-10s: She straightens up and raises both arms above her head with a big smile. End state: she stands still on the mat, arms raised.
+
+Audio: birds, a sharp exhale, the whoosh of the flip, a soft thud on the mat, then distant applause. Only natural sound effects, nobody speaks.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/openclipsai/status/2121516483511791901" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2120871364357697537/img/p8TrBfXzRRyoEyQy.jpg" alt="A Gymnast&#x27;s Continuous Backflip" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-14 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/openclipsai" rel="nofollow noreferrer" referrerpolicy="no-referrer">@openclipsai</a>
+- Sources: <a href="https://x.com/openclipsai/status/2121516484354842969" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/openclipsai/status/2121516483511791901" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-minidv-gym-vlog-comparison-kling-4-0-comparison"></a>
+### 245. A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison
+
+A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison — original prompt by @Galupus.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+CAMERA:
+DV 16mm tape camcorder handheld feel. MILA films the opening and closing selfies herself; her gym friend films the dumbbell exercises handheld. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder and camera operator never appear on screen.
+
+LOOK:
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+STYLE:
+Playful, self-deprecating gym-vlog tone — genuine effort mixed with humor. Quick, casual cuts between excerpts from an ongoing workout. Exercise shots begin and end mid-set, with continuous rhythmic repetitions at normal speed. She talks while moving, without stopping to pose. Time passes between clips; equipment setup and camera handoffs happen off-screen.
+
+Character
+
+MILA — a beautiful American Instagram-style brunette model and performer, 20. Long dark-brown hair in a high ponytail, natural skin texture with a light sweat sheen, glossy lips, expressive eyes, soft glam makeup and delicate sparkly stud earrings. Slim athletic figure with a very large, full bust, very full rounded buttocks, a narrow waist, flat stomach, lean arms and slender legs.
+
+She wears a cobalt-blue supportive sports bra with thin straps and a deep scoop neckline showing cleavage, paired with matching ultra-short fitted athletic shorts. Bare shoulders, arms and midriff. White ankle socks, sneakers off. She speaks with an American accent.
+
+Setting
+
+A gym dumbbell area in the evening — weight racks, benches, soft overhead lighting. Two other gym-goers exercise casually in the background, away from MILA. An angled mirror naturally reflects her back, blue shorts and legs in wider shots. She uses the same matching pair of small black hex dumbbells throughout.
+
+Storyboard (15s, 6 shots)
+
+(0–2.5s, moving arm’s-length selfie) Already walking past the weight rack, MILA smiles toward the lens and briefly glances at the equipment. Her face and blue sports bra are visible; the framing bobs with her footsteps. MILA: “Arm day. This should be quick.”
+(2.5–5s, handheld medium shot) Cut into an ongoing set of standing alternating dumbbell curls. One arm rises as the other lowers; she keeps the rhythm while speaking. The camera drifts slightly with the operator’s movement. MILA: “These felt lighter yesterday.”
+(5–7.5s, handheld wider three-quarter shot) Another excerpt: MILA is already doing lateral raises, repeatedly lifting and lowering both dumbbells without holding a pose. Her rear view is visible in the mirror. MILA (breathless): “I picked the light ones!”
+(7.5–9.5s, handheld close-up insert) Her hand and forearm grip a dumbbell through the continuing repetitions. The camera briefly loses focus as the weight moves, then catches it again. No dialogue — breathing and distant gym sounds.
+(9.5–12s, handheld medium-wide shot) MILA walks briskly past the camera toward the rack, carrying both dumbbells beside her thighs. The operator turns to follow her as she laughs. MILA: “Yep — my arms just quit.”
+(12–15s, arm’s-length selfie after the set) A clear jump cut: the dumbbells have been returned, and MILA is already holding the camera herself. Walking out of the weights area, she shakes out her free hand and grins. MILA: “Same time tomorrow? No promises.”
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Galupus/status/2121902564585152869" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2121902508964524032/img/ovyTPzBSMWRHIrae.jpg" alt="A MiniDV Gym Vlog Comparison — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-15 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Galupus" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Galupus</a>
+- Source: <a href="https://x.com/Galupus/status/2121902564585152869" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-lightning-arrow-against-the-iron-colossus"></a>
+### 246. A Lightning Arrow against the Iron Colossus
+
+A Lightning Arrow against the Iron Colossus — original prompt by @itsPixieVerse.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+[Shot 1 - 3.5s] Low tracking shot pulling backward fast. Foreground: tumbling stone masonry and jagged bridge chains slicing the frame. Subject: The knight sprints at full speed toward the lens, leaping over a gaping chasm in the flagstones as their cape whips in high winds. Background: crumbling bridge parapets dissolving into storm clouds. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera runs backward ahead of the knight with heavy, kinetic handheld shake. Cut on the knight planting both boots to slide.
+
+[Shot 2 - 3.0s] Low worm's-eye upward angle. Foreground: shattered balustrades exploding outward. Subject: The titanic front leg of the iron colossus crashes down into the bridge deck, obliterating a stone watchtower into flying shrapnel. Background: the colossal underbelly of the machine spewing embers into the sky. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera whips upward violently, tracking the impact shockwave. Cut on falling granite blocks.
+
+[Shot 3 - 2.5s] Extreme close-up. Foreground: the heavy iron string of the Greatbow vibrating under extreme tension. Subject: The knight draws a massive jagged metal arrow to their ear; black lightning coils around the arrow tip, illuminating the knight's visor slits in blinding white light. Background: blurred storm clouds rushing past. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera pushes in fast on the drawing gauntlet. Cut on the string releasing.
+
+[Shot 4 - 4.0s] Profile tracking shot. Foreground: masonry ripping up from the floor. Subject: The colossal Great-arrow streaks across the bridge wrapped in a cone of displaced air and black electrical discharge, heading straight for the titan's glowing chest vent. Background: the looming silhouette of the colossus. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera tracks laterally alongside the projectile at high speed. Cut on explosive contact.
+
+[Shot 5 - 8.0s] Wide low-angle reaction shot. Foreground: the knight sliding to one knee, bracing the unstrung bow. Subject: The arrow pierces the colossus’s molten exhaust core; an internal secondary explosion erupts in blinding silver sparks, forcing the titanic beast to stumble backward onto its hind legs with a deafening metallic screech. Background: shattered fortress spires in the distance. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera cranes rapidly upward and tilts down, capturing the massive machine rocking off-balance. Cut on severed cables snapping.
+
+[Shot 6 - 9.0s] Ultra-wide hero shot (The Withheld Reveal). Foreground: the knight stands at the edge of a massive new fault line in the bridge. Subject: The mortally damaged colossus drops its concealed dragon-horn battering ram directly through the bridge deck; the entire central span of the viaduct snaps in two, tipping multi-ton stone slabs and the falling colossus into the bottomless abyss below. Background: an endless tempest vortex illuminated by lightning. Violent arcs of black lightning flash across the stormy sky on the upper right, casting rapid, high-contrast strobing chiaroscuro shadows across wet granite and pitted iron. The camera cranes backward and upward through falling debris, holding the cataclysmic collapse.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/itsPixieVerse/status/2121975659484586290" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2121973568808591360/img/jFpF9xvbFR_o-NAz.jpg" alt="A Lightning Arrow against the Iron Colossus" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-15 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/itsPixieVerse" rel="nofollow noreferrer" referrerpolicy="no-referrer">@itsPixieVerse</a>
+- Sources: <a href="https://x.com/itsPixieVerse/status/2121975663926325267" rel="nofollow noreferrer" referrerpolicy="no-referrer">Prompt post</a> · <a href="https://x.com/itsPixieVerse/status/2121975659484586290" rel="nofollow noreferrer" referrerpolicy="no-referrer">Video post</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="not-today-bullets-stop-at-the-crosswalk"></a>
+### 247. Not Today: Bullets Stop at the Crosswalk
+
+Not Today: Bullets Stop at the Crosswalk — original prompt by @Sleaper_.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 15-second vertical 9:16 photorealistic action scene on a busy city street at dusk. The lead is a beautiful European woman in her late twenties with a slim waist and a full bust. Her fitted red dress follows the curve of her hips, and its knee-length hem moves with each step. She wears black 12 cm stiletto heels. Her pace is unhurried. Her composure makes the final line land.
+
+0–3 seconds — Front view. Open on a full-length shot of the woman already walking toward the lens. The camera tracks backward at her exact pace, keeping her face and heels in frame. Pedestrians flow past on either side. Each heel clicks against the pavement above the murmur of traffic. Ahead of her, just beyond the camera, a pedestrian signal turns red.
+
+3–6 seconds — The camera circles behind her. In one smooth move, the camera arcs around her right side, briefly catching her profile before settling into a full-length rear view. She keeps walking straight throughout the move. From behind, we see the silhouette of the red dress and the red pedestrian signal together. She reaches the curb and stops. The heel clicks stop with her.
+
+6–9 seconds — The truck. Hold the rear view. A dark box truck pulls up on the street just beyond the crosswalk. Its side door slides open. Three masked men step out carrying automatic rifles. All three are visible as they open fire in a short burst. On the first flash, the woman raises one hand toward them, palm out.
+
+9–12.5 seconds — Time slows. Cut to a side view with the men on the left and the woman on the right, her palm between them. In extreme slow motion, several copper-colored bullets travel left to right toward her. Show them moving across open air, slowing visibly, then coming to a complete stop a hand’s breadth from her palm. They hang at slightly different distances. Behind them, a loose newspaper turns almost imperceptibly in the air. The gunfire stretches into a low rumble and falls silent.
+
+12.5–15 seconds — “Not today.” Cut to a tight front three-quarter close-up from the street side. Suspended bullets catch the red signal light in the foreground. Shift focus past them to her eyes. Keeping her palm raised, she turns her head the last few degrees and looks directly into the lens. In a calm, dry voice, at normal speed, she says, “Not today.” Hold eye contact for half a beat. Cut to black with the bullets still hanging in place.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Sleaper_/status/2122285682164936896" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2122285627311869952/img/RDHEVRyBII9YSWfR.jpg" alt="Not Today: Bullets Stop at the Crosswalk" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-16 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Sleaper_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Sleaper_</a>
+- Source: <a href="https://x.com/Sleaper_/status/2122285682164936896" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="a-hoverbike-courier-in-a-rainy-neon-city-kling-4-0-comparison"></a>
+### 248. A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison
+
+A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison — original prompt by @nicravesh.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+a hoverbike courier racing through a rainy neon city.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/nicravesh/status/2122400427404898413" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2122400083815583744/img/1ynqsaI7ZE_OA7x8.jpg" alt="A Hoverbike Courier in a Rainy Neon City — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-16 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/nicravesh" rel="nofollow noreferrer" referrerpolicy="no-referrer">@nicravesh</a>
+- Source: <a href="https://x.com/nicravesh/status/2122400427404898413" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="jungle-chase-and-cliff-dive-kling-4-0-comparison"></a>
+### 249. Jungle Chase and Cliff Dive — Kling 4.0 Comparison
+
+Jungle Chase and Cliff Dive — Kling 4.0 Comparison — original prompt by @Sleaper_.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Create a 15-second vertical 9:16 cinematic jungle chase. Photorealistic live action, natural daylight, fast handheld tracking shots. The runner is a tall, heavily muscular man with close-cropped hair, a soaked olive tank top, dark cargo pants and a worn machete in his right hand. Keep him recognizable in every shot.
+
+0–3 seconds — Through the undergrowth. Open at full sprint. The camera races backward just ahead of the man as he bursts through dense foliage. He slashes a low branch and shoulders through a curtain of broad leaves. The severed branch is still falling as he passes it. Cut low beside his boots for two strides as mud kicks up, then swing up alongside him without losing speed.
+
+3–5.5 seconds — The pursuit. Cut to a wide side view across a gap in the trees. The runner crosses the foreground from left to right. Far behind him, roughly 50–100 meters back along the same trail, several armed pursuers run in the same direction, firing short bursts from automatic rifles. Brief muzzle flashes flicker between distant trunks. The runner stays clearly ahead of them.
+
+5.5–8 seconds — The cliff edge. Follow tight behind his shoulder as the jungle suddenly opens into bright daylight. He skids to a stop at the lip of a cliff. The camera tips forward just enough to reveal a turbulent river roughly 50 meters below. He glances back. Over his shoulder, the armed men are still approaching through the trees. He drops the machete onto the ledge, turns toward the river and leaps.
+
+8–11.5 seconds — The entire dive in one wide shot. Cut on takeoff to a distant camera across the gorge. Frame the cliff lip in the upper left and the river in the lower right. Keep the man’s entire body visible throughout the fall, his olive shirt silhouetted against pale rock. He travels outward in a short arc, then descends headfirst in a clean swan dive, arms extended ahead of his head and legs trailing together. Hold this angle all the way from the ledge to the instant his hands break the surface. A narrow white splash rises where he disappears.
+
+11.5–15 seconds — Downstream. Cut to water level facing downstream. The splash collapses in the foreground. A beat later, the same man surfaces several meters downstream, draws a sharp breath and starts swimming with the current. Track beside him for two strong strokes as the cliff recedes behind him. Cut while he is still moving.
+
+Sound. Fast, low percussion under pounding footsteps, snapping branches and distant gunfire. Drop the score at takeoff so the rush of air gives way to the growing roar of the river. End on his first breath and the sound of his strokes cutting through the current.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/Sleaper_/status/2122614457712984403" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2122614367761952768/img/5cZz0GDMHiCfsPOD.jpg" alt="Jungle Chase and Cliff Dive — Kling 4.0 Comparison" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-17 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/Sleaper_" rel="nofollow noreferrer" referrerpolicy="no-referrer">@Sleaper_</a>
+- Source: <a href="https://x.com/Sleaper_/status/2122614457712984403" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
+<a id="an-unfazed-walk-away-from-an-explosion"></a>
+### 250. An Unfazed Walk away from an Explosion
+
+An Unfazed Walk away from an Explosion — original prompt by @MeenakshiYACS.
+
+<details>
+<summary>Prompt</summary>
+
+```text
+Character Reference: Image 1
+Motion, Camera & Story Reference: Video 1
+
+Create a 14-second, 16:9 cinematic 4K photorealistic video.
+
+Strictly follow the reference video's shot sequence, timing, camera framing, character gestures, walking direction and explosion progression.
+
+Maintain ONE continuous eye-level frontal tracking shot. No cuts.
+
+00–02.5s: Character looks down, cups both hands near the mouth and lights a cigarette. Lowers both hands and looks forward.
+
+02.5–03.5s: Character starts walking calmly toward the camera. Camera tracks backward smoothly, keeping the character centered.
+
+03.5–07s: A massive explosion erupts behind the character. Show a bright flash, expanding fireball, rolling orange flames and debris-filled smoke. The character keeps walking at exactly the same pace, completely unfazed. Background figures duck for cover.
+
+07–11.5s: Dense dark smoke gradually obscures the flames. Character calmly raises the right hand, takes a drag from the cigarette and maintains a confident forward gaze.
+
+11.5–14s: Character lowers the hand and continues walking naturally as thick smoke rolls behind.
+
+Camera: Continuous frontal tracking, consistent medium-to-medium-close framing, smooth backward movement and realistic physics.
+
+Ensure natural coat movement, realistic fire and smoke diffusion, and continuous cigarette smoke.
+
+Negative Constraints: No cuts, camera shake, looking back, panic, running, sudden pose changes, teleportation, character displacement, fire clipping through the body or unnatural hand-cigarette interaction.
+```
+
+</details>
+
+#### Video
+
+<a href="https://x.com/MeenakshiYACS/status/2122662803949625675" rel="nofollow noreferrer" referrerpolicy="no-referrer"><img src="https://pbs.twimg.com/amplify_video_thumb/2122662477574144000/img/OYperA1b9qIz2Fan.jpg" alt="An Unfazed Walk away from an Explosion" width="700" /></a>
+
+Click the cover to watch on X.
+
+#### Details
+
+- Published: 2026-11-17 (UTC)
+- Prompt language: English
+- Author: <a href="https://x.com/MeenakshiYACS" rel="nofollow noreferrer" referrerpolicy="no-referrer">@MeenakshiYACS</a>
+- Source: <a href="https://x.com/MeenakshiYACS/status/2122662803949625675" rel="nofollow noreferrer" referrerpolicy="no-referrer">X</a>
+- Model: Kling 4.0
+
+
+---
+
 <a id="more-collections"></a>
 
 ## More collections
@@ -12571,4 +15285,4 @@ For attribution corrections or removal requests, <a href="https://github.com/Bra
 
 <a href="https://reeldance.ai/kling-4-0-flash-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Online gallery</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts/issues/new?template=submit-prompt.yml" rel="nofollow noreferrer" referrerpolicy="no-referrer">Submit a prompt</a> · <a href="https://github.com/BravoNeo/awesome-kling-4-0-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">Star this repo</a>
 
-Generated from repository data. Updated: 2026-11-03.
+Generated from repository data. Updated: 2026-11-18.

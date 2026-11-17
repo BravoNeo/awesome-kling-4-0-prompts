@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2117966196683456710",
+  "slug": "two-fighters-on-the-grassland",
+  "title": {
+    "en": "Two Fighters on the Grassland",
+    "zh": "草原上的超能力对决"
+  },
+  "description": {
+    "en": "Two Fighters on the Grassland — original prompt by @itxabdullaa.",
+    "zh": "草原上的超能力对决，来自 @itxabdullaa 的原始提示词。"
+  },
+  "author": {
+    "handle": "itxabdullaa",
+    "url": "https://x.com/itxabdullaa"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/itxabdullaa/status/2117966196683456710",
+    "sourceTextOriginal": "Two superpowered fighters. One explosive battlefield. Zero time to breathe!🔥\n\nCreated with Kling 4.0 on @PixVerse @PixVerseCreator\n\nKling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generate at zero credit cost using text, images, references, or Transition mode (first and last frames).#PixVerseCPP\n\nPrompt:\nUse @image1 as Eddy and @image2 as Jack. Preserve exact faces, hairstyles, clothing, proportions and identities.\n\nLOCATION: Vast green grassland with uneven terrain, exposed soil and distant mountains. No buildings or structures.\n\nACTION: Create a brutally fast, fluid superpower fight with The Raid intensity. Both fighters have explosive strength, supernatural speed, aerial mobility and instant teleportation. They charge simultaneously and collide.\n\nFIGHT SEQUENCE:\n\n00–05s: Close-up of Eddy's eyes. He charges with a roundhouse kick. Jack dodges, sweeps his leg and launches him airborne with a rising kick.\n\n05–10s: They exchange aerial kicks. Eddy crashes into the grass, teleports behind Jack and attacks with an axe kick. Jack blocks, blasting soil outward, then counters.\n\n10–15s: Eddy sends Jack flying with a side kick. Jack teleports behind him with a jumping knee. Eddy twists and counters with a spinning kick, throwing Jack across the field.\n\n15–20s: Jack attacks with an aerial heel kick. Eddy blocks and counters with a rising knee. They exchange midair strikes, collide shoulder-first and Eddy throws Jack overhead.\n\n20–25s: Jack launches a spinning kick. Eddy teleports away, sweeps his legs and dodges a descending heel kick. Eddy counters with a flying roundhouse.\n\n25–30s: Jack teleports above Eddy and dives with a flying knee. Both unleash rapid punches, knees and spinning kicks. At 29.6s, simultaneous full-power strikes collide, creating a massive shockwave that flattens the grass and blasts soil outward. Both fly apart, conscious and ready to continue. No winner.\n\nMOVEMENT & CAMERA: Relentless motion, realistic weight transfer and powerful reactions. Use rapid cuts, close-ups, low angles, POVs and wide tracking shots. Every impact moves the opponent. Show realistic grass damage, dust and shockwaves. Keep mountains visible in wide shots.\n\nAUDIO: Natural impacts, footwork, grunts, breathing and shockwaves. No music.\n\nSTYLE: Photorealistic live-action action cinema, gritty realism, believable anatomy and relentless momentum.\n\nNEGATIVE: No identity or outfit changes, extra limbs, duplicated characters, weightless movement, repetitive attacks, stationary poses, cartoon CGI or environment changes."
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/itxabdullaa/status/2117966196683456710",
+  "videoSourceUrl": "https://x.com/itxabdullaa/status/2117966196683456710",
+  "conversationId": "2117966196683456710",
+  "originalLanguage": "en",
+  "originalPrompt": "Use @image1 as Eddy and @image2 as Jack. Preserve exact faces, hairstyles, clothing, proportions and identities.\n\nLOCATION: Vast green grassland with uneven terrain, exposed soil and distant mountains. No buildings or structures.\n\nACTION: Create a brutally fast, fluid superpower fight with The Raid intensity. Both fighters have explosive strength, supernatural speed, aerial mobility and instant teleportation. They charge simultaneously and collide.\n\nFIGHT SEQUENCE:\n\n00–05s: Close-up of Eddy's eyes. He charges with a roundhouse kick. Jack dodges, sweeps his leg and launches him airborne with a rising kick.\n\n05–10s: They exchange aerial kicks. Eddy crashes into the grass, teleports behind Jack and attacks with an axe kick. Jack blocks, blasting soil outward, then counters.\n\n10–15s: Eddy sends Jack flying with a side kick. Jack teleports behind him with a jumping knee. Eddy twists and counters with a spinning kick, throwing Jack across the field.\n\n15–20s: Jack attacks with an aerial heel kick. Eddy blocks and counters with a rising knee. They exchange midair strikes, collide shoulder-first and Eddy throws Jack overhead.\n\n20–25s: Jack launches a spinning kick. Eddy teleports away, sweeps his legs and dodges a descending heel kick. Eddy counters with a flying roundhouse.\n\n25–30s: Jack teleports above Eddy and dives with a flying knee. Both unleash rapid punches, knees and spinning kicks. At 29.6s, simultaneous full-power strikes collide, creating a massive shockwave that flattens the grass and blasts soil outward. Both fly apart, conscious and ready to continue. No winner.\n\nMOVEMENT & CAMERA: Relentless motion, realistic weight transfer and powerful reactions. Use rapid cuts, close-ups, low angles, POVs and wide tracking shots. Every impact moves the opponent. Show realistic grass damage, dust and shockwaves. Keep mountains visible in wide shots.\n\nAUDIO: Natural impacts, footwork, grunts, breathing and shockwaves. No music.\n\nSTYLE: Photorealistic live-action action cinema, gritty realism, believable anatomy and relentless momentum.\n\nNEGATIVE: No identity or outfit changes, extra limbs, duplicated characters, weightless movement, repetitive attacks, stationary poses, cartoon CGI or environment changes.",
+  "originalPromptSha256": "354779a7e8172a305ff7864ca3ec4619ef21b57cdd9520194cca010573400e3e",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "action"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Two Fighters on the Grassland",
+    "Kling 4.0",
+    "action"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "reference-images",
+  "video": {
+    "role": "output",
+    "mediaId": "2117966133643169792",
+    "url": "https://video.twimg.com/amplify_video/2117966133643169792/vid/avc1/1280x720/AV4xjhDw45r8-x4U.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2117966133643169792/vid/avc1/1280x720/AV4xjhDw45r8-x4U.mp4?tag=29",
+    "sourceUrl": "https://x.com/itxabdullaa/status/2117966196683456710",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2117966133643169792/img/BMSW-XM1U2Hyl2Jz.jpg",
+    "durationSecondsReported": 30.066,
+    "aspectRatioReported": [
+      1280,
+      720
+    ],
+    "playbackVerified": true,
+    "widthObserved": 1280,
+    "heightObserved": 720,
+    "durationSecondsObserved": 30.116281,
+    "publishedAt": "2026-11-04T13:04:25Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}

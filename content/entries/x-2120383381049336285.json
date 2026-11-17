@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "x-2120383381049336285",
+  "slug": "a-playful-cinematic-fashion-walk",
+  "title": {
+    "en": "A Playful Cinematic Fashion Walk",
+    "zh": "俏皮的电影感时装步行"
+  },
+  "description": {
+    "en": "A Playful Cinematic Fashion Walk — original prompt by @Sharjeelai_786.",
+    "zh": "俏皮的电影感时装步行，来自 @Sharjeelai_786 的原始提示词。"
+  },
+  "author": {
+    "handle": "Sharjeelai_786",
+    "url": "https://x.com/Sharjeelai_786"
+  },
+  "modelClaim": {
+    "name": "Kling 4.0",
+    "variant": "full",
+    "basis": "author-statement",
+    "independentlyVerified": false,
+    "sourceUrl": "https://x.com/Sharjeelai_786/status/2120383381049336285",
+    "sourceTextOriginal": "Confidence. Style. Attitude. ✨\n\nA cinematic AI fashion moment brought to life with photorealistic visuals, smooth motion, and a playful finish. 🎬\n\n✨ Turning imagination into cinematic beauty.\n\nRecreated with Kling 4.0 on @WizstarAI 🎬\n\nCreate stunning, beautiful videos like this and bring your ideas to life. ✨ \n\nGet started through my exclusive link!\nhttps://wizstar.pxf.io/c/7716719/3962423/55236\n\nPrompt : \n\nCreate a 13-second vertical 9:16 ultra-realistic cinematic fashion/lifestyle video featuring a beautiful young blonde woman with long, voluminous wavy hair, wearing a fitted beige short-sleeve top and high-waisted light-blue denim shorts, standing in a luxurious modern bathroom with dark marble walls and warm ambient lighting.\n\nShe looks confidently into the camera and performs a smooth, playful sequence of fashion-model poses and subtle dance movements. Start with a medium full-body shot as she raises one hand and poses naturally. She then turns slightly to the side, showing her outfit from a flattering side angle, before facing the camera again and moving her arms rhythmically.\n\nContinue with elegant hair-touching and confident poses, maintaining natural body movement and realistic facial expressions. Near the end, smoothly push the camera closer as she leans slightly toward the camera, gives a playful kiss gesture, and finishes with a charming smile.\n\nUse realistic skin texture, detailed blonde hair strands, natural body proportions, accurate hand anatomy, smooth motion, subtle handheld camera movement, shallow depth of field, warm bathroom lighting, realistic reflections, cinematic color grading, high detail, photorealistic quality, consistent character identity throughout, no flickering, no distorted hands, no sudden scene changes.\n\nStyle: luxury fashion reel, photorealistic, cinematic, elegant, playful, visually polished.\nDuration: 13 seconds\nAspect ratio: 9:16\n\n#WizstarPartner #Wizstar \n#Kling40 #WizstarAi #AIVideo #AIArt #AICreator \n#AIFashion  #AICreator"
+  },
+  "pairing": "same_post",
+  "promptSourceUrl": "https://x.com/Sharjeelai_786/status/2120383381049336285",
+  "videoSourceUrl": "https://x.com/Sharjeelai_786/status/2120383381049336285",
+  "conversationId": "2120383381049336285",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a 13-second vertical 9:16 ultra-realistic cinematic fashion/lifestyle video featuring a beautiful young blonde woman with long, voluminous wavy hair, wearing a fitted beige short-sleeve top and high-waisted light-blue denim shorts, standing in a luxurious modern bathroom with dark marble walls and warm ambient lighting.\n\nShe looks confidently into the camera and performs a smooth, playful sequence of fashion-model poses and subtle dance movements. Start with a medium full-body shot as she raises one hand and poses naturally. She then turns slightly to the side, showing her outfit from a flattering side angle, before facing the camera again and moving her arms rhythmically.\n\nContinue with elegant hair-touching and confident poses, maintaining natural body movement and realistic facial expressions. Near the end, smoothly push the camera closer as she leans slightly toward the camera, gives a playful kiss gesture, and finishes with a charming smile.\n\nUse realistic skin texture, detailed blonde hair strands, natural body proportions, accurate hand anatomy, smooth motion, subtle handheld camera movement, shallow depth of field, warm bathroom lighting, realistic reflections, cinematic color grading, high detail, photorealistic quality, consistent character identity throughout, no flickering, no distorted hands, no sudden scene changes.\n\nStyle: luxury fashion reel, photorealistic, cinematic, elegant, playful, visually polished.\nDuration: 13 seconds\nAspect ratio: 9:16",
+  "originalPromptSha256": "dff1fc76bf97a4108a5f67e44dff8fd774da3de3de68af56a4a51c1a3deca479",
+  "editorialCopies": {},
+  "categories": {
+    "use": [
+      "ugc"
+    ],
+    "style": [
+      "cinematic-realism"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "A Playful Cinematic Fashion Walk",
+    "Kling 4.0",
+    "ugc"
+  ],
+  "guidance": {
+    "en": "Read the original prompt and watch the creator’s result.",
+    "zh": "阅读原始提示词，查看作者作品。"
+  },
+  "inputRequirement": "text-only",
+  "video": {
+    "role": "output",
+    "mediaId": "2120383301709869056",
+    "url": "https://video.twimg.com/amplify_video/2120383301709869056/vid/avc1/720x1280/oh1rpu_oxo6Hdjdt.mp4?tag=29",
+    "originalUrl": "https://video.twimg.com/amplify_video/2120383301709869056/vid/avc1/720x1280/oh1rpu_oxo6Hdjdt.mp4?tag=29",
+    "sourceUrl": "https://x.com/Sharjeelai_786/status/2120383381049336285",
+    "posterUrl": "https://pbs.twimg.com/amplify_video_thumb/2120383301709869056/img/yqWztWBbea-Jla_J.jpg",
+    "durationSecondsReported": 13.003,
+    "aspectRatioReported": [
+      720,
+      1280
+    ],
+    "playbackVerified": true,
+    "widthObserved": 720,
+    "heightObserved": 1280,
+    "durationSecondsObserved": 13.049615,
+    "publishedAt": "2026-11-11T05:09:27Z"
+  },
+  "referenceAssets": [],
+  "rights": {
+    "status": "third-party-rights-reserved",
+    "note": "Prompts and media remain the property of their original authors."
+  },
+  "showGuidance": false
+}
